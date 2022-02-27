@@ -28,7 +28,7 @@
 
 **DNS (Domain Name System)** - это децентрализованная система именования интернет-ресурсов, которая позволяет создавать удобные для человека буквеные наименования соответствующие числовым IP-адрессам, которые используются компьютерами.
 
-![DNS](./assets/dns.png)
+<center><img src="./assets/dns.png" alt="DNS"/></center>
 
 [Система доменных имен DNS | Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)
 
