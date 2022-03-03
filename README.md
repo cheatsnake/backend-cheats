@@ -38,9 +38,9 @@
 
 **Интернет** - это всемирная система объединяющая компьютерные сети со всего мира в единую сеть для хранения/передачи информации. Изначально Интернет разрабатывался для нужд военных. Но вскоре он стал внедряться в учреждения образования (университеты), а затем его смогли использовать частные компании, которые начали организовывать сети провайдеров, предоставляющие услуги доступа в Интернет обычным гражданам. К началу 2020 года количество пользователей в сети Интернет перевалило за 4.5 млрд человек.
 
-[Интернет — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82)
+[Интернет — Википедия](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82)
 
-[История Интернета — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0)
+[История Интернета — Википедия](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0)
 
 -   ### Как устроен Интернет
 
@@ -62,7 +62,7 @@
 
 [Хост — что это такое и как он работает](https://anisim.org/articles/host/)
 
-[Сервер — Википедия (wikipedia.org)](<https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80_(%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)>)
+[Сервер — Википедия](<https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80_(%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)>)
 
 [Что такое сервер и как он работает](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
 
@@ -78,7 +78,7 @@
 
 [Как работают браузеры — MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
 
-[Браузер — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)
+[Браузер — Википедия](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -92,13 +92,13 @@
 
 `IP-адрес` - уникальный идентификатор устройства находящегося в какой-либо сети.
 
-[Система доменных имен DNS | Курс "Компьютерные сети" — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)
+[Система доменных имен DNS — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)
 
-[DNS — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/DNS)
+[DNS — Википедия)](https://ru.wikipedia.org/wiki/DNS)
 
 [IP адрес — HackWare.ru](https://hackware.ru/?p=11589)
 
-[IP-адрес — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81)
+[IP-адрес — Википедия](https://ru.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -180,11 +180,11 @@
 
 IPv4 и IPv6 соответственно 4 и 6 версии IP-адреса. IPv4 разработана в 1981 году и ограничивает адресное пространство около 4.3 млрд (2^32) возможными уникальными адресами. Но со временем распределение адресного пространства стало происходить значительно более быстрыми темпами, что вынудило создание новой версии IP-адреса для хранения большего количества адресов. IPv6 способен обеспечить более 300 млн IP-адресов на каждого жителя Земли.
 
-[IPv4 — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/IPv4)
+[IPv4 — Википедия](https://ru.wikipedia.org/wiki/IPv4)
 
-[IPv6 — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/IPv6)
+[IPv6 — Википедия](https://ru.wikipedia.org/wiki/IPv6)
 
-[Протоколы IPv4 и IPv6. В чем разница и что лучше?](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)
+[Протоколы IPv4 и IPv6. В чем разница и что лучше? – bezopasnik.info](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -196,9 +196,9 @@ IPv4 и IPv6 соответственно 4 и 6 версии IP-адреса. I
 
 **Трассировка маршрута** - процедура, позволяющая отследить по каким узлам, с какими IP адресами, передаётся отправленный вами пакет прежде чем он достигнет точки назначения. Трассировка может применяться для выявления связанных с работой компьютерной сети проблем, а также для исследования/анализа сети.
 
-[Трассировка сетевого маршрута — HackWare.ru](https://hackware.ru/?p=9210#12)
+[Трассировка сетевого маршрута — hackware.ru](https://hackware.ru/?p=9210#12)
 
-[Traceroute — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Traceroute)
+[Traceroute — Википедия](https://ru.wikipedia.org/wiki/Traceroute)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -206,9 +206,15 @@ IPv4 и IPv6 соответственно 4 и 6 версии IP-адреса. I
 
 -   ### Как работают ОС
 
+[Что такое операционная система и как она работает – YouTube](https://www.youtube.com/watch?v=hb9CTGSJm88&t)
+
+[Что такое операционная система и как она работает? - GitHub](https://github.com/Steindvart/My_study/blob/master/docs/source/OS/articles/what_is_os.rst)
+
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Управление процессами
+
+[Процесс (Операционные Системы) – bmstu.wiki](<https://ru.bmstu.wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_(%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)>)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -275,8 +281,10 @@ man <название_команды> # Позволяет посмотреть 
 sudo <команда> # выполняет команду с правами суперпользователя
 ```
 
-[Основные linux-команды для новичка – Хабр (habr.com)](https://habr.com/ru/post/501442/)
+[Основные linux-команды для новичка – habr.com](https://habr.com/ru/post/501442/)
+
 [44 команды Linux которые вы должны знать – losst.ru](https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat)
+
 [Ubuntu cheatsheet – GitHub](https://github.com/JREAM/ubuntu-cheatsheet/blob/master/README.md)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
