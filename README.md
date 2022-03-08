@@ -32,7 +32,6 @@
     -   [Межпроцессорное взаимодействие](#межпроцессорное-взаимодействие)
     -   [Ввод и вывод (I/O)](#ввод-и-вывод-io)
     -   [Основы POSIX](#основы-posix)
-    -   [Концепции построения сети](#концепции-построения-сети)
 
 ## Сеть и интернет
 
@@ -94,7 +93,7 @@
 
 [Система доменных имен DNS — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)
 
-[DNS — Википедия)](https://ru.wikipedia.org/wiki/DNS)
+[DNS — Википедия](https://ru.wikipedia.org/wiki/DNS)
 
 [IP адрес — HackWare.ru](https://hackware.ru/?p=11589)
 
@@ -126,7 +125,7 @@
 
 [Хостинг: варианты, сравнения, пользовательская статистика — habr.com](https://habr.com/ru/company/ruvds/blog/443522/)
 
-[Хостинг: что это, зачем и как выбрать](https://vc.ru/services/74241-hosting-chto-eto-zachem-i-kak-vybrat)
+[Хостинг: что это, зачем и как выбрать – vc.ru](https://vc.ru/services/74241-hosting-chto-eto-zachem-i-kak-vybrat)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -162,7 +161,7 @@
 
 [Протокол UDP — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin)
 
-[TCP/IP — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/TCP/IP)
+[TCP/IP — Википедия](https://ru.wikipedia.org/wiki/TCP/IP)
 
 [Всё, что вы хотели знать о МАС адресе — habr.com](https://habr.com/ru/post/483670/)
 
@@ -184,7 +183,7 @@ IPv4 и IPv6 соответственно 4 и 6 версии IP-адреса. I
 
 [IPv6 — Википедия](https://ru.wikipedia.org/wiki/IPv6)
 
-[Протоколы IPv4 и IPv6. В чем разница и что лучше? – bezopasnik.info](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)
+[Протоколы IPv4 и IPv6. В чем разница и что лучше?](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -204,6 +203,10 @@ IPv4 и IPv6 соответственно 4 и 6 версии IP-адреса. I
 
 ## Операционные системы
 
+Операционная система (ОС) – это комплексная программная система, которая предназначена для управления ресурсами компьютера.
+
+На данном этапе нет необходимости в детальном изучении устройства и принципов работы ОС. Достаточно лишь общего понимания, как в целом функционирует вся эта система, чтобы для вас это не было каким-то черным ящиком.
+
 -   ### Как работают ОС
 
 [Что такое операционная система и как она работает – YouTube](https://www.youtube.com/watch?v=hb9CTGSJm88&t)
@@ -214,31 +217,47 @@ IPv4 и IPv6 соответственно 4 и 6 версии IP-адреса. I
 
 -   ### Управление процессами
 
-[Процесс (Операционные Системы) – bmstu.wiki](<https://ru.bmstu.wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_(%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)>)
+[Процесс – Википедия](<https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)>)
+
+[Процессы и потоки](https://learnc.info/c/processes_and_threads.html)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Потоки и параллелизм
 
+[Поток выполнения – Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)
+
+[Параллелизм против многопоточности против асинхронного программирования: разъяснение – habr.com](https://habr.com/ru/post/337528/)
+
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Управление памятью
+
+[Управление памятью в ОС](https://bestprogrammer.ru/izuchenie/upravlenie-pamyatyu-v-operatsionnoj-sisteme)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Межпроцессорное взаимодействие
 
+[Межпроцессное взаимодействие – Википедия](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5)
+
+[IPC: основы межпроцессного взаимодействия](https://www.rsdn.org/article/baseserv/ipc.xml)
+
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Ввод и вывод (I/O)
+
+[Ввод и вывод – Википедия](https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%BE%D0%B4-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4)
+
+[Основные методы ввода-вывода (I/O) – tproger.ru](https://tproger.ru/translations/diversity-of-input-output-io/)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Основы POSIX
 
-<div align="right"><a href="#top">Содержание ⬆️</a></div>
+[POSIX – Википедия](https://ru.wikipedia.org/wiki/POSIX)
 
--   ### Концепции построения сети
+[Что такое POSIX](http://citforum.ru/operating_systems/articles/posix.shtml)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -260,18 +279,18 @@ IPv4 и IPv6 соответственно 4 и 6 версии IP-адреса. I
 ### РАБОТА С ФАЙЛОВОЙ СИСТЕМОЙ
 
 ls # просмотр содержимого директории
-cd <path> # переход в указанный каталог
+cd <путь> # переход в указанный каталог
 cd .. # переход на уровень выше (в родительский каталог)
-touch <file> # создание файла
-cat > <file> # ввод текста в файл из консоли (перезапись)
-cat >> <file> # ввод текста в конец файла (добавление)
-cat/more/less <file> # просмотр содержимого файла
-head/tail <file> # просмотр первых/последних строк файла
+touch <файл> # создание файла
+cat > <файл> # ввод текста в файл из консоли (перезапись)
+cat >> <файл> # ввод текста в конец файла (добавление)
+cat/more/less <файл> # просмотр содержимого файла
+head/tail <файл> # просмотр первых/последних строк файла
 pwd # путь к текущей директории
-mkdir <name> # создать директорию
-cp # копировать файл или директорию
+mkdir <имя> # создать директорию
+cp <файл> <путь> # копировать файл или директорию
 mv # перемещение или переименование
-rm <file> # удаление файла или директории
+rm <файл> # удаление файла или директории
 chmod # изменения прав доступа к файлу
 find # поиск в файловой системе
 du # рамзер файла или каталога
@@ -299,15 +318,15 @@ sudo <команда> # выполняет команду с правами су
 Встроенный менеджер пакетов APT позволяет устанавливать новые программы из сети с помощью терминала.
 
 ```bash
-apt install <пакет> # установить пакет
-apt remove <пакет> # удалить пакет, но оставить конфигурацию
-apt purge <пакет> # удалить пакет вместе с конфигурацией
+apt install <имя_пакета> # установить пакет
+apt remove <имя_пакета> # удалить пакет, но оставить конфигурацию
+apt purge <имя_пакета> # удалить пакет вместе с конфигурацией
 apt update # обновление информации о новых версиях пакетов
 apt upgrade # обновление пакетов, установленных в системе
 apt list --installed # список установленных в системе пакетов
 apt list --upgradable # список пакетов, которые требуют обновления
 apt search <имя> # поиск пакетов по имени в сети
-apt show <пакет> # информация о пакете
+apt show <имя_пакета> # информация о пакете
 ```
 
 [Как пользоваться apt – losst.ru](https://losst.ru/kak-polzovatsya-apt)
@@ -352,6 +371,20 @@ killall <программа> # завершить все процессы свя
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Работа с SSH
+
+Служба SSH позволяет получить удаленный доступ к терминалу другого компьютера. В случае с персональным компьютером, это может понадобиться для срочного решения какой-либо проблемы, а в случае с сервером это вообще очень распространенная практика.
+
+```bash
+# ОСНОВНЫЕ КОМАНДЫ
+apt install openssh-server # установка SSH (хотя он почти везде идёт из коробки)
+service ssh start # запуск SSH
+service ssh stop # выключение SSH
+ssh -p <Порт> user@remotehost # подключенние к удаленному ПК через SSH
+ssh-keygen -t rsa # генерация RSA-ключа для беспарольного входа
+ssh-copy-id -i ~/.ssh/id_rsa user@remotehost # копирования ключа на удаленную машину
+```
+
+[Как пользоваться SSH – losst.ru](https://losst.ru/kak-polzovatsya-ssh)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
