@@ -196,47 +196,37 @@
 
 -   ### Управление процессами
 
-[Процесс – Википедия](<https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)>)
-
-[Процессы и потоки](https://learnc.info/c/processes_and_threads.html)
+> **[Процесс – Википедия](<https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)>) <br> [Процессы и потоки](https://learnc.info/c/processes_and_threads.html)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Потоки и параллелизм
 
-[Поток выполнения – Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)
-
-[Параллелизм против многопоточности против асинхронного программирования: разъяснение – habr.com](https://habr.com/ru/post/337528/)
+> **[Поток выполнения – Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F) <br> [Параллелизм против многопоточности против асинхронного программирования: разъяснение – habr.com](https://habr.com/ru/post/337528/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Управление памятью
 
-[Управление памятью в ОС](https://bestprogrammer.ru/izuchenie/upravlenie-pamyatyu-v-operatsionnoj-sisteme)
+> **[Управление памятью в ОС](https://bestprogrammer.ru/izuchenie/upravlenie-pamyatyu-v-operatsionnoj-sisteme)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Межпроцессорное взаимодействие
 
-[Межпроцессное взаимодействие – Википедия](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5)
-
-[IPC: основы межпроцессного взаимодействия](https://www.rsdn.org/article/baseserv/ipc.xml)
+> **[Межпроцессное взаимодействие – Википедия](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5) <br> [IPC: основы межпроцессного взаимодействия](https://www.rsdn.org/article/baseserv/ipc.xml)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Ввод и вывод (I/O)
 
-[Ввод и вывод – Википедия](https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%BE%D0%B4-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4)
-
-[Основные методы ввода-вывода (I/O) – tproger.ru](https://tproger.ru/translations/diversity-of-input-output-io/)
+> **[Ввод и вывод – Википедия](https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%BE%D0%B4-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4) <br> [Основные методы ввода-вывода (I/O) – tproger.ru](https://tproger.ru/translations/diversity-of-input-output-io/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Основы POSIX
 
-[POSIX – Википедия](https://ru.wikipedia.org/wiki/POSIX)
-
-[Что такое POSIX](http://citforum.ru/operating_systems/articles/posix.shtml)
+> **[POSIX – Википедия](https://ru.wikipedia.org/wiki/POSIX) <br> [Что такое POSIX](http://citforum.ru/operating_systems/articles/posix.shtml)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -283,11 +273,7 @@ whatis <название_команды> # краткое описание ко�
 sudo <команда> # выполняет команду с правами суперпользователя
 ```
 
-[Основные linux-команды для новичка – habr.com](https://habr.com/ru/post/501442/)
-
-[44 команды Linux которые вы должны знать – losst.ru](https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat)
-
-[Ubuntu cheatsheet – GitHub](https://github.com/JREAM/ubuntu-cheatsheet/blob/master/README.md)
+> **[Основные linux-команды для новичка – habr.com](https://habr.com/ru/post/501442/) <br> [44 команды Linux которые вы должны знать – losst.ru](https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat) <br> [Ubuntu cheatsheet – GitHub](https://github.com/JREAM/ubuntu-cheatsheet/blob/master/README.md)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -308,9 +294,7 @@ apt search <имя> # поиск пакетов по имени в сети
 apt show <имя_пакета> # информация о пакете
 ```
 
-[Как пользоваться apt – losst.ru](https://losst.ru/kak-polzovatsya-apt)
-
-[Использование APT. Команды apt и apt-get – pingvinus.ru](https://pingvinus.ru/note/apt)
+> **[Как пользоваться apt – losst.ru](https://losst.ru/kak-polzovatsya-apt) <br> [Использование APT. Команды apt и apt-get – pingvinus.ru](https://pingvinus.ru/note/apt)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -318,9 +302,7 @@ apt show <имя_пакета> # информация о пакете
 
 С помощью скриптов (сценариев) можно автоматизировать последовательный ввод любого количества команд. В [Bash](https://ru.wikipedia.org/wiki/Bash#%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B) можно создавать различные условия (разветвления), циклы, таймеры и т.д. для выполнения всевозможных действий связанных с вводом в консоль.
 
-[Шпаргалка оп Bash – quickref.me](https://quickref.me/bash)
-
-[Шпаргалка оп Bash – learnxinyminutes.com](https://learnxinyminutes.com/docs/ru-ru/bash-ru/)
+> **[Шпаргалка оп Bash – quickref.me](https://quickref.me/bash) <br> [Шпаргалка оп Bash – learnxinyminutes.com](https://learnxinyminutes.com/docs/ru-ru/bash-ru/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -351,9 +333,7 @@ gpasswd --delete <пользователь> <группы(через запят�
 /etc/gshadow # файл теневых групп, содержащий шифрованные пароли групп
 ```
 
-[Пользователи в Linux – добавление, изменение, удаление](https://host-consult.ru/polzovateli-v-linux/)
-
-[Группы и пользователи в Linux](https://sysadminium.ru/groups_and_users_in_linux/)
+> **[Пользователи в Linux – добавление, изменение, удаление](https://host-consult.ru/polzovateli-v-linux/) <br> [Группы и пользователи в Linux](https://sysadminium.ru/groups_and_users_in_linux/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -365,11 +345,7 @@ gpasswd --delete <пользователь> <группы(через запят�
 
 Так как под одной ОС могут работать несколько разных пользователи, то соответственно у каждого такого пользователя будет своё личное файловое пространство. Отсюда вытекает, что у любого файла в Linux должны быть специальные атрибуты – права на доступ. Эти атрибуты должны сообщать, кто имеет право работать c тем или иным файлом.
 
-[Права доступа в Linux – younglinux.info](https://younglinux.info/bash/rwx)
-
-[Управление доступом в Linux](https://zinvapel.github.io/it/tools/2018/01/10/linux-users/)
-
-[Команда chmod – изменение прав доступа – younglinux.info](https://younglinux.info/bash/chmod)
+> **[Права доступа в Linux – younglinux.info](https://younglinux.info/bash/rwx) <br> [Управление доступом в Linux](https://zinvapel.github.io/it/tools/2018/01/10/linux-users/) <br> [Команда chmod – изменение прав доступа – younglinux.info](https://younglinux.info/bash/chmod)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -389,9 +365,7 @@ kill <id процесса> # завершить процесс по id
 killall <программа> # завершить все процессы связанные с одной программой
 ```
 
-[Работа с процессами в Linux – YouTube](https://www.youtube.com/watch?v=Y4W_rJStNSA)
-
-[Шпаргалка по работе процессами в Lunux – dmosk.ru](https://www.dmosk.ru/miniinstruktions.php?mini=processes-linux)
+> **[Работа с процессами в Linux – YouTube](https://www.youtube.com/watch?v=Y4W_rJStNSA) <br> [Шпаргалка по работе процессами в Lunux – dmosk.ru](https://www.dmosk.ru/miniinstruktions.php?mini=processes-linux)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -409,7 +383,7 @@ ssh-keygen -t rsa # генерация RSA-ключа для беспароль�
 ssh-copy-id -i ~/.ssh/id_rsa user@remotehost # копирования ключа на удаленную машину
 ```
 
-[Как пользоваться SSH – losst.ru](https://losst.ru/kak-polzovatsya-ssh)
+> **[Как пользоваться SSH – losst.ru](https://losst.ru/kak-polzovatsya-ssh)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -417,15 +391,13 @@ ssh-copy-id -i ~/.ssh/id_rsa user@remotehost # копирования ключа
 
 Благодаря планировщикам можно гибко управлять отложенным запуском команд и скриптов. В Linux есть встроенный планировщик [cron](https://ru.wikipedia.org/wiki/Cron), с помощью которого можно легко выполнять необходимые действия через определенные интервалы времени.
 
-[Использование Cron для автоматизации задач – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-ru)
+> **[Использование Cron для автоматизации задач – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-ru)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Системные логи
 
-[Лог файлы Linux по порядку – habr.com](https://habr.com/ru/post/332502/)
-
-[Как посмотреть логи в Linux – losst.ru](https://losst.ru/kak-posmotret-logi-v-linux)
+> **[Лог файлы Linux по порядку – habr.com](https://habr.com/ru/post/332502/) <br> [Как посмотреть логи в Linux – losst.ru](https://losst.ru/kak-posmotret-logi-v-linux)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
