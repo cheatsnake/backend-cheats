@@ -68,7 +68,7 @@
 
 [Сервер](<https://ru.wikipedia.org/wiki/Сервер_(аппаратное_обеспечение)>) _(serve - обслуживать)_ - специальный компьютер в сети, который обслуживает запросы поступающие от других компьютеров.
 
-> **[Как работает Интернет - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work) <br> > [Основы программирования. Как работают сети? - YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton) <br> > [Хост — что это такое и как он работает](https://anisim.org/articles/host/) <br> > [Что такое сервер и как он работает](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)**
+> **[Как работает Интернет - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work) <br> [Основы программирования. Как работают сети? - YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton) <br> [Хост — что это такое и как он работает](https://anisim.org/articles/host/) <br> [Что такое сервер и как он работает](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -94,7 +94,7 @@
 
 [IP-адрес](https://ru.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81) - уникальный идентификатор устройства находящегося в какой-либо сети.
 
-> **[Система доменных имен DNS — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin) <br> > [IP адрес — HackWare.ru](https://hackware.ru/?p=11589)**
+> **[Система доменных имен DNS — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin) <br> [IP адрес — HackWare.ru](https://hackware.ru/?p=11589)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -106,7 +106,7 @@
 
 [Доменные имена](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F) представляют собой человеко-читаемые адреса веб-серверов, доступных в Интернете. Они состоят из частей (уровней) разделенных между собой точкой. Каждая из этих частей предоставляет специфическую информацию о доменном имени. Например страну, название сервиса, локализацию и т.д.
 
-> **[Что такое доменные имена - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_is_a_domain_name) <br> > [Как работают домены](https://temoto.github.io/a/kak-rabotayut-domeny.html)**
+> **[Что такое доменные имена - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_is_a_domain_name) <br> [Как работают домены](https://temoto.github.io/a/kak-rabotayut-domeny.html)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
