@@ -397,7 +397,7 @@ ssh-copy-id -i ~/.ssh/id_rsa user@remotehost # копирования ключа
 
 -   ### Системные логи
 
-> **[Лог файлы Linux по порядку – habr.com](https://habr.com/ru/post/332502/) <br> [Как посмотреть логи в Linux – losst.ru](https://losst.ru/kak-posmotret-logi-v-linux)**
+> **[Как посмотреть логи в Linux – losst.ru](https://losst.ru/kak-posmotret-logi-v-linux) <br> [Лог файлы Linux по порядку – habr.com](https://habr.com/ru/post/332502/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
