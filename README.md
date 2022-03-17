@@ -389,9 +389,13 @@ ssh-copy-id -i ~/.ssh/id_rsa user@remotehost # копирования ключа
 
 -   ### Планировщик задач
 
+<p align="center">
+    <img src="./files/linux/cron.png" alt="cron"/>
+</p>
+
 Благодаря планировщикам можно гибко управлять отложенным запуском команд и скриптов. В Linux есть встроенный планировщик [cron](https://ru.wikipedia.org/wiki/Cron), с помощью которого можно легко выполнять необходимые действия через определенные интервалы времени.
 
-> **[Использование Cron для автоматизации задач – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-ru)**
+> **[Использование Cron для автоматизации задач – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-ru) <br> [Crontab: запуск задач по расписанию – YouTube](https://youtu.be/52-eyCp56ew) <br> [Удобный онлайн-редактор для crontab](https://crontab.guru/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
