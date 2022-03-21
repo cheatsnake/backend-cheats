@@ -54,137 +54,114 @@
 
 > **[История Интернета — Википедия](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0)**
 
--   ### Как устроен Интернет
+-   ### Как устроен Интернет 
+    <p align="center"><img src="./files/network-internet/Internet.png" alt="Internet"/></p>
+    Ваш компьютер никогда не был связан с Интернетом напрямую. Он видит только свою локальную сеть, в которую проводным (Ethernet) или беспроводным (Wi-Fi, Bluetooth) путем подключены другие устройства. 
+    
+    Для связи с Интернетом в вашей локальной сети находиться специальный мини-компьютер - [маршрутизатор](https://ru.wikipedia.org/wiki/Маршрутизатор). Далее этот маршрутизатор связывает вас с интернет-провайдером, который в свою очередь связан с другими провайдерами более высокого уровня. Таким образом, ваше сообщение, пройдя транзитом через сеть нескольких провайдеров, достигнет сеть назначения.
 
-<p align="center">
-    <img src="./files/network-internet/Internet.png" alt="Internet"/>
-</p>
+    - [Хост](https://ru.wikipedia.org/wiki/Хост) _(host - принимающий)_ - любое устройство, которое находится в какой-либо сети.
 
-Ваш компьютер никогда не был связан с Интернетом напрямую. Он видит только свою локальную сеть, в которую проводным (Ethernet) или беспроводным (Wi-Fi, Bluetooth) путем подключены другие устройства.
+    - [Сервер](<https://ru.wikipedia.org/wiki/Сервер_(аппаратное_обеспечение)>) _(serve - обслуживать)_ - специальный компьютер в сети, который обслуживает запросы поступающие от других компьютеров.
 
-Для связи с Интернетом в вашей локальной сети находиться специальный мини-компьютер - [маршрутизатор](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80). Далее этот маршрутизатор связывает вас с интернет-провайдером, который в свою очередь связан с другими провайдерами более высокого уровня. Таким образом, ваше сообщение, пройдя транзитом через сеть нескольких провайдеров, достигнет сеть назначения.
-
-[Хост](https://ru.wikipedia.org/wiki/Хост) _(host - принимающий)_ - любое устройство, которое находится в какой-либо сети.
-
-[Сервер](<https://ru.wikipedia.org/wiki/Сервер_(аппаратное_обеспечение)>) _(serve - обслуживать)_ - специальный компьютер в сети, который обслуживает запросы поступающие от других компьютеров.
-
-> **[Как работает Интернет - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work) <br> [Основы программирования. Как работают сети? - YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton) <br> [Хост — что это такое и как он работает](https://anisim.org/articles/host/) <br> [Что такое сервер и как он работает](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)**
+    > - **[Как работает Интернет - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)** 
+    > - **[Основы программирования. Как работают сети? - YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton)** 
+    > - **[Хост — что это такое и как он работает](https://anisim.org/articles/host/)**
+    > - **[Что такое сервер и как он работает](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Браузеры и как они работают
-
-<p align="center">
-    <img src="./files/network-internet/Browser.png" alt="Browser"/>
-</p>
-
-[Браузер](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80) - это клиент, с помощью которого можно отправлять запросы на сервер для получения файлов, которые впоследствии используются для отрисовки web-страниц. Большинство пользователей используют именно браузеры для работы в сети Интернет.
-
-> **[Как работают браузеры — MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)**
+    <p align="center"><img src="./files/network-internet/Browser.png" alt="Browser"/></p>
+    
+    - [Браузер](https://ru.wikipedia.org/wiki/Браузер) - это клиент, с помощью которого можно отправлять запросы на сервер для получения файлов, которые впоследствии используются для отрисовки web-страниц. Большинство пользователей используют именно браузеры для работы в сети Интернет.<br><br>
+    
+    > - **[Как работают браузеры — MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Что такое DNS
+    <p align="center"><img src="./files/network-internet/dns.png" alt="DNS"/></p>
 
-<p align="center">
-    <img src="./files/network-internet/dns.png" alt="DNS"/>
-</p>
+    - [DNS (Domain Name System)](https://ru.wikipedia.org/wiki/DNS) - это децентрализованная система именования адресов в Интернете, которая позволяет создавать удобные для человека буквеные наименования (доменные имена) соответствующие числовым IP-адресам, которые используются компьютерами.
 
-[DNS (Domain Name System)](https://ru.wikipedia.org/wiki/DNS) - это децентрализованная система именования адресов в Интернете, которая позволяет создавать удобные для человека буквеные наименования (доменные имена) соответствующие числовым IP-адресам, которые используются компьютерами.
+    - [IP-адрес](https://ru.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81) - уникальный идентификатор устройства находящегося в какой-либо сети.
 
-[IP-адрес](https://ru.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81) - уникальный идентификатор устройства находящегося в какой-либо сети.
-
-> **[Система доменных имен DNS — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin) <br> [IP адрес — HackWare.ru](https://hackware.ru/?p=11589)**
+    > - **[Система доменных имен DNS — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)**
+    > - **[IP адрес — HackWare.ru](https://hackware.ru/?p=11589)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Что такое доменное имя
-
-<p align="center">
-    <img src="./files/network-internet/Domain.png" alt="Domain"/>
-</p>
-
-[Доменные имена](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F) представляют собой человеко-читаемые адреса веб-серверов, доступных в Интернете. Они состоят из частей (уровней) разделенных между собой точкой. Каждая из этих частей предоставляет специфическую информацию о доменном имени. Например страну, название сервиса, локализацию и т.д.
-
-> **[Что такое доменные имена - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_is_a_domain_name) <br> [Как работают домены](https://temoto.github.io/a/kak-rabotayut-domeny.html)**
+    <p align="center"><img src="./files/network-internet/Domain.png" alt="Domain"/></p>
+    
+    - [Доменные имена](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F) представляют собой человеко-читаемые адреса веб-серверов, доступных в Интернете. Они состоят из частей (уровней) разделенных между собой точкой. Каждая из этих частей предоставляет специфическую информацию о доменном имени. Например страну, название сервиса, локализацию и т.д.<br><br>
+    
+    > - **[Что такое доменные имена - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_is_a_domain_name)**
+    > - **[Как работают домены](https://temoto.github.io/a/kak-rabotayut-domeny.html)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Хостинг
-
-<p align="center">
-    <img src="./files/network-internet/Hosting.png" alt="Hosting"/>
-</p>
-
-[Хостинг (hosting)](https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3) - специальная услуга, предоставляемая хостинг-провайдерами, которая позволяет арендовать пространство на сервере (который круглосуточно подключён к сети Интернет), где могут храниться ваши данные и файлы. Существуют различные варианты хостинга, где вы можете использовать не только дисковое пространство сервера, но и так же процессорную мощность для работы ваших сетевых приложений.
-
-> **[Хостинг: варианты, сравнения, пользовательская статистика — habr.com](https://habr.com/ru/company/ruvds/blog/443522/) <br> [Хостинг: что это, зачем и как выбрать – vc.ru](https://vc.ru/services/74241-hosting-chto-eto-zachem-i-kak-vybrat)**
+    <p align="center"><img src="./files/network-internet/Hosting.png" alt="Hosting"/></p>
+    
+    - [Хостинг (hosting)](https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3) - специальная услуга, предоставляемая хостинг-провайдерами, которая позволяет арендовать пространство на сервере (который круглосуточно подключён к сети Интернет), где могут храниться ваши данные и файлы. Существуют различные варианты хостинга, где вы можете использовать не только дисковое пространство сервера, но и так же процессорную мощность для работы ваших сетевых приложений.<br><br>
+    
+    > - **[Хостинг: варианты, сравнения, пользовательская статистика — habr.com](https://habr.com/ru/company/ruvds/blog/443522/)** 
+    > - **[Хостинг: что это, зачем и как выбрать – vc.ru](https://vc.ru/services/74241-hosting-chto-eto-zachem-i-kak-vybrat)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Cтек протоколов TCP/IP
+    <p align="center"><img src="./files/network-internet/tcp-ip.png" alt="TCP/IP"/></p>
+    
+    - [Стек TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP) - это модель (набор правил), которая описывает способ передачи данных от источника информации к получателю.
+        > На начальном этапе не стоит сильно погружаться в эту тему, но иметь общее представление, как ваши данные проходят через все уровни протоколов, будет полезно.
+    
+    <p align="center"><img src="./files/network-internet/tcp.png" alt="TCP"/></p>
 
-<p align="center">
-    <img src="./files/network-internet/tcp-ip.png" alt="TCP/IP"/>
-</p>
+    - [TCP](https://ru.wikipedia.org/wiki/Transmission_Control_Protocol) - это протокол обеспечивающий надежную передачу данных. TCP гарантирует доставку данных и сохранение порядка следования сообщений. Но это сказывается на скорости передачи. Данный протокол используется там, где потеря информации недопустима, например для отправки почты.
 
-[Стек TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP) - это модель (набор правил), которая описывает способ передачи данных от источника информации к получателю.
+    <p align="center"><img src="./files/network-internet/udp.png" alt="UDP"/></p>
 
-[Протокол](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) - это всего лишь набор правил (соглашений), документ, фиксирующий договорённость. В частности в стеке TCP/IP протоколы описывают правила взаимодействия между уровнями / в пределах одного уровня.
+    - [UDP](https://ru.wikipedia.org/wiki/UDP) - это простой протокол с быстрой передачей данных. Он не использует механизмов для гарантирования доставки и порядка следования данных. Используется, например в онлайн-играх, где частичная потеря пакетов не критична, но скорость передачи данных имеет гораздо более важное значение. Так же, запросы к DNS-серверам происходят через UDP протокол.
 
-> На начальном этапе не стоит сильно погружаться в эту тему, но иметь общее представление, как ваши данные проходят через все уровни протоколов, будет полезно.
+    - [MAC-адрес](https://ru.wikipedia.org/wiki/MAC-%D0%B0%D0%B4%D1%80%D0%B5%D1%81) - уникальный идентификатор, назначенный сетевому адаптеру какого-либо устройства.
 
-<p align="center">
-    <img src="./files/network-internet/tcp.png" alt="TCP"/>
-</p>
-
-[TCP](https://ru.wikipedia.org/wiki/Transmission_Control_Protocol) - это протокол обеспечивающий надежную передачу данных. TCP гарантирует доставку данных и сохранение порядка следования сообщений. Но это сказывается на скорости передачи. Данный протокол используется там, где потеря информации недопустима, например для отправки почты.
-
-<p align="center">
-    <img src="./files/network-internet/udp.png" alt="UDP"/>
-</p>
-
-[UDP](https://ru.wikipedia.org/wiki/UDP) - это простой протокол с быстрой передачей данных. Он не использует механизмов для гарантирования доставки и порядка следования данных. Используется, например в онлайн-играх, где частичная потеря пакетов не критична, но скорость передачи данных имеет гораздо более важное значение. Так же, запросы к DNS-серверам происходят через UDP протокол.
-
-[MAC-адрес](https://ru.wikipedia.org/wiki/MAC-%D0%B0%D0%B4%D1%80%D0%B5%D1%81) - уникальный идентификатор, назначенный сетевому адаптеру какого-либо устройства.
-
-> **[Модель и стек протоколов TCP/IP — YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=8&ab_channel=AndreySozykin) <br> [Протокол TCP — YouTube](https://www.youtube.com/watch?v=CKUOb4htnB4&ab_channel=AndreySozykin) <br> [Протокол UDP — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin) <br> [Всё, что вы хотели знать о МАС адресе — habr.com](https://habr.com/ru/post/483670/)**
+    > - **[Модель и стек протоколов TCP/IP — YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=8&ab_channel=AndreySozykin)** 
+    > - **[Протокол TCP — YouTube](https://www.youtube.com/watch?v=CKUOb4htnB4&ab_channel=AndreySozykin)** 
+    > - **[Протокол UDP — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin)** 
+    > - **[Всё, что вы хотели знать о МАС адресе — habr.com](https://habr.com/ru/post/483670/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Проблемы сети
+    <p align="center"><img src="./files/network-internet/Problems.gif" alt="Problems"/></p>
 
-<p align="center">
-    <img src="./files/network-internet/Problems.gif" alt="Problems"/>
-</p>
+    Качество работы сетей, и тем более интернета, далеко от идеала. Это обусловлено сложной и рассредоточенной, по разным устройствам, структурой сети. Поэтому на функционирование сети влияет огромное количеств факторов. Например: стабильность соединения между устройством клиента и его роутером, качество услуг провайдера, мощность и производительность сервера, физическое расстояние между клиентом и сервером и т.д.
 
-Качество работы сетей, и тем более интернета, далеко от идеала. Это обусловлено сложной и рассредоточенной, по разным устройствам, структурой сети. Поэтому на функционирование сети влияет огромное количеств факторов. Например: стабильность соединения между устройством клиента и его роутером, качество услуг провайдера, мощность и производительность сервера, физическое расстояние между клиентом и сервером и т.д.
-
-> **[Лаги, джиттер и потеря пакетов: откуда берутся проблемы с неткодом и как их решать – habr.com](https://habr.com/ru/company/pixonic/blog/559780/) <br> [Время ожидания (latency) – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/Understanding_latency) <br> [Как находить проблемы с интернетом и кто виноват ч.1 – habr.com](https://habr.com/ru/post/530324/) <br> [Как находить проблемы с интернетом и кто виноват ч.2 – habr.com](https://habr.com/ru/post/531082/)**
+    > - **[Лаги, джиттер и потеря пакетов: откуда берутся проблемы с неткодом и как их решать – habr.com](https://habr.com/ru/company/pixonic/blog/559780/)** 
+    > - **[Время ожидания (latency) – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/Understanding_latency)** 
+    > - **[Как находить проблемы с интернетом и кто виноват ч.1 – habr.com](https://habr.com/ru/post/530324/)** 
+    > - **[Как находить проблемы с интернетом и кто виноват ч.2 – habr.com](https://habr.com/ru/post/531082/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### IPv4 и IPv6
+    <p align="center"><img src="./files/network-internet/IPv4-IPv6.png" alt="IPv4-IPv6"/></p>
 
-<p align="center">
-    <img src="./files/network-internet/IPv4-IPv6.png" alt="IPv4-IPv6"/>
-</p>
+    [IPv4](https://ru.wikipedia.org/wiki/IPv4) и [IPv6](https://ru.wikipedia.org/wiki/IPv6) соответственно 4 и 6 версии IP-адреса. IPv4 разработана в 1981 году и ограничивает адресное пространство около 4.3 млрд (2^32) возможными уникальными адресами. Но со временем распределение адресного пространства стало происходить значительно более быстрыми темпами, что вынудило создание новой версии IP-адреса для хранения большего количества адресов. IPv6 способен обеспечить более 300 млн IP-адресов на каждого жителя Земли.
 
-[IPv4](https://ru.wikipedia.org/wiki/IPv4) и [IPv6](https://ru.wikipedia.org/wiki/IPv6) соответственно 4 и 6 версии IP-адреса. IPv4 разработана в 1981 году и ограничивает адресное пространство около 4.3 млрд (2^32) возможными уникальными адресами. Но со временем распределение адресного пространства стало происходить значительно более быстрыми темпами, что вынудило создание новой версии IP-адреса для хранения большего количества адресов. IPv6 способен обеспечить более 300 млн IP-адресов на каждого жителя Земли.
-
-> **[Протоколы IPv4 и IPv6. В чем разница и что лучше?](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)**
+    > - **[Протоколы IPv4 и IPv6. В чем разница и что лучше?](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Трассировка маршрутов
+    <p align="center"><img src="./files/network-internet/Traceroute.png" alt="Traceroute"/></p>
 
-<p align="center">
-    <img src="./files/network-internet/Traceroute.png" alt="Traceroute"/>
-</p>
-
-**Трассировка маршрута** - процедура, позволяющая отследить по каким узлам, с какими IP адресами, передаётся отправленный вами пакет прежде чем он достигнет точки назначения. Трассировка может применяться для выявления связанных с работой компьютерной сети проблем, а также для исследования/анализа сети.
-
-> **[Трассировка сетевого маршрута — hackware.ru](https://hackware.ru/?p=9210#12) <br> [Traceroute — Википедия](https://ru.wikipedia.org/wiki/Traceroute)**
+    **Трассировка маршрута** - процедура, позволяющая отследить по каким узлам, с какими IP адресами, передаётся отправленный вами пакет прежде чем он достигнет точки назначения. Трассировка может применяться для выявления связанных с работой компьютерной сети проблем, а также для исследования/анализа сети.
+    > - **[Трассировка сетевого маршрута — hackware.ru](https://hackware.ru/?p=9210#12)** 
+    > - **[Traceroute — Википедия](https://ru.wikipedia.org/wiki/Traceroute)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -469,11 +446,11 @@ ssh-copy-id -i ~/.ssh/id_rsa user@remotehost # копирования ключа
 
 Тем не менее, ниже приведен список конкретных языков, которые [лично по моему мнению](https://github.com/cheatsnake) хорошо подходят для backend-разработки.
 
--   [Python](https://github.com/vinta/awesome-python) - очень популярный и широко используемый. Лёгкий в изучении, благодаря простому синтаксису.
+-   [Python](https://ru.wikipedia.org/wiki/Python) - очень популярный и широко используемый. Лёгкий в изучении, благодаря простому синтаксису.
 
--   [JavaScript (Node.js)](https://github.com/sindresorhus/awesome-nodejs) - не менее популярный и практический единственный язык для полноценной Web-разработки. Благодаря платформе [Node.js](https://nodejs.org) последнее несколько лет набирает популярность и в области backend-разработки.
+-   [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) - не менее популярный и практический единственный язык для полноценной Web-разработки. Благодаря платформе [Node.js](https://nodejs.org) последнее несколько лет набирает популярность и в области backend-разработки.
 
--   [Go](https://github.com/avelino/awesome-go) - язык созданный внутри компании Google. Создавался специально для серверной разработки. Минималистичный, но в то же время обладающий очень богатой стандартной библиотекой. 
+-   [Go](https://ru.wikipedia.org/wiki/Go) - язык созданный внутри компании Google. Создавался специально для серверной разработки. Минималистичный, но в то же время обладающий очень богатой стандартной библиотекой. 
 
 
 *   ### Базовые знания
