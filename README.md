@@ -86,10 +86,10 @@
 -   ### Что такое DNS
     <p align="center"><img src="./files/network-internet/dns.png" alt="DNS"/></p>
 
-    - [DNS (Domain Name System)](https://ru.wikipedia.org/wiki/DNS) 
+    - [DNS (Domain Name System)](https://ru.wikipedia.org/wiki/DNS)
         > Децентрализованная система именования адресов в Интернете, которая позволяет создавать удобные для человека буквеные наименования (доменные имена) соответствующие числовым IP-адресам, которые используются компьютерами.
 
-    - [IP-адрес](https://ru.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81) 
+    - [IP-адрес](https://ru.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81)
         > Уникальный идентификатор устройства находящегося в какой-либо сети.
 
     > - **[Система доменных имен DNS — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)**
@@ -305,7 +305,7 @@
 
     С помощью скриптов (сценариев) можно автоматизировать последовательный ввод любого количества команд. В [Bash](https://ru.wikipedia.org/wiki/Bash#%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B) можно создавать различные условия (разветвления), циклы, таймеры и т.д. для выполнения всевозможных действий связанных с вводом в консоль.
 
-    > **[Bash-скрипты: начало – habr.com](https://habr.com/ru/company/ruvds/blog/325522/) 
+    > **[Bash-скрипты: начало – habr.com](https://habr.com/ru/company/ruvds/blog/325522/)** 
     > **[Шпаргалка оп Bash – quickref.me](https://quickref.me/bash)**
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
