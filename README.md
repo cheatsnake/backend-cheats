@@ -137,13 +137,11 @@
     <p align="center"><img src="./files/network-internet/tcp-ip.png" alt="TCP/IP"/></p>
 
     -   [Стек TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP)
-
         > Модель (набор правил), которая описывает способ передачи данных от источника информации к получателю. Будет полезно иметь общее представление, как ваши данные проходят через все уровни протоколов.
 
         <p align="center"><img src="./files/network-internet/tcp.png" alt="TCP"/></p>
 
     -   [TCP](https://ru.wikipedia.org/wiki/Transmission_Control_Protocol)
-
         > Протокол обеспечивающий надежную передачу данных. TCP гарантирует доставку данных и сохранение порядка следования сообщений. Но это сказывается на скорости передачи. Данный протокол используется там, где потеря информации недопустима, например для отправки почты.
 
         <p align="center"><img src="./files/network-internet/udp.png" alt="UDP"/></p>
