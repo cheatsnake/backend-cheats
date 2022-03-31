@@ -53,7 +53,7 @@
 -   [6. Базовое ПО](#базовое-ПО)
     -   [Система контроля версий Git](#система-контроля-версий-git)
     -   [Docker](#docker)
-    -   [Postman/Insomnia](#postman--insomnia)
+    -   [Postman/Insomnia](#postmaninsomnia)
 
 ## Сеть и интернет
 
@@ -145,10 +145,9 @@
     -   [Заголовки](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8_HTTP)
         > Дополнительная служебная информация которая отправляется вместе с запросом/ответом.
     -   [Методы запросов](https://ru.wikipedia.org/wiki/HTTP#%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B)
-        > `GET` - запрос на получение данных <br> > `POST` - запрос с передачей данных для создания новой записи <br> > `PUT` - запрос с передачей данных для изменения записи <br> > `DELETE` - запрос на удаление записи <br>
+        > `GET` - запрос на получение данных <br> `POST` - запрос с передачей данных для создания новой записи <br> `PUT` - запрос с передачей данных для изменения записи <br> `DELETE` - запрос на удаление записи <br>
     -   [Коды состояния](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_HTTP)
         > Каждый ответ от сервера имеет специальный числовой код, который характеризует состояние отправленного запроса. Эти коды делятся на 5 основных классов:
-        >
         > -   1хх - служебная информация <br>
         > -   2хх - успешный запрос <br>
         > -   3хх - перенаправление на другой адресс <br>
@@ -312,7 +311,7 @@
 
 Существует огромное количество дистрибутивов (сборок с набором предустановленного ПО) Linux на любой вкус и цвет. Одним из самых популярных является [Ubuntu](https://ru.wikipedia.org/wiki/Ubuntu). Именно с него можно начать своё погружение в серверную разработку.
 
-[Установить Ubuntu](https://ubuntu.com/download/desktop) можно на отдельный ПК или ноутбук. Если такой возможности нет, можно воспользоваться специальной программой [Virtual Box](https://www.virtualbox.org/wiki/Downloads), в которой можно [запускать другие ОС](https://lumpics.ru/how-install-ubuntu-on-virtualbox-virtual-machine/) поверх основной. Так же можно запустить [Docker](https://www.docker.com/products/docker-desktop) [контейнер с образом Ubuntu](https://losst.ru/zapusk-kontejnera-docker) (Docker - это отдельная тема, которая рассматривается в этом репозитории).
+[Установить Ubuntu](https://ubuntu.com/download/desktop) можно на отдельный ПК или ноутбук. Если такой возможности нет, можно воспользоваться специальной программой [Virtual Box](https://www.virtualbox.org/wiki/Downloads), в которой можно [запускать другие ОС](https://lumpics.ru/how-install-ubuntu-on-virtualbox-virtual-machine/) поверх основной. Так же можно запустить [Docker](https://www.docker.com/products/docker-desktop) [контейнер с образом Ubuntu](https://losst.ru/zapusk-kontejnera-docker) (Docker - это [отдельная тема](#docker), которая рассматривается в этом репозитории).
 
 После этого можно быстро пройти [вводный курс по Linux и Bash](https://younglinux.info/bash/linux).
 
