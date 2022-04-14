@@ -850,7 +850,74 @@
 
 ## Базы данных
 
+[Базы данных (БД)](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) являются неотъемленной частью любого современного приложения.
+
 -   ### Реляционные базы данных
+    
+    [Реляционные](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) (relation – отношение, связь ) БД представляют из себя хранилища, где данные организованны в виде набора таблиц (со строками и столбцами). В таких БД взаимодействия между данными строятся благодаря установлению связей между таблицами. 
+
+    > Наиболее популярные реляционные БД: [MySQL](https://ru.wikipedia.org/wiki/MySQL), [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL), [MariaDB](https://ru.wikipedia.org/wiki/MariaDB), [Oracle](https://ru.wikipedia.org/wiki/Oracle_Database).
+
+    [SQL (Structured Query Language)](https://ru.wikipedia.org/wiki/SQL) – специальный язык для работы с реляционными базами данных. Он довольно простой и интуитивно понятный.
+
+    > Удобная документация по SQL на русском языке [здесь](https://postgrespro.ru/docs/postgresql/14/sql).
+
+    -   Базовые команды SQL
+        > Не забывайте про точку с запятой в конце :)
+        - Создание таблиц и добавление данных
+        ```sql
+        CREATE DATABASE db_name; # Создать новую базу с именем db_name
+        
+        # Пример создания таблицы с именем users
+        CREATE TABLE users ( 
+            id SERIAL PRIMARY KEY, # Уникальный ключ (задается автоматически)
+            firstName VARCHAR(100), # Строка
+            lastName VARCHAR(100),
+            age INT, # Число
+            gender VARCHAR(10),
+            isMarried BOOLEAN # true/false
+        );
+
+        # Добавление данных в таблицу
+        INSERT INTO users(
+            firstName, lastName, age, gender, isMarried
+        ) VALUES (
+            'Alex', 'Manson' 25, 'male', false
+        );
+
+        ```
+        - Выборка определенных данных
+        ```sql
+        # SELECT
+        # Получить всю таблицу users
+        SELECT * FROM users; 
+        # Получить все столбы firstName и age
+        SELECT firstName, age FROM users; 
+
+        # LIMIT
+        # Получить первых 20 записей
+        SELECT * FROM table_name LIMIT 20;
+
+        # DISTINCT
+        # Получить только уникальные значения
+        SELECT DISTINCT(firstName) FROM users;
+
+        # WHERE
+        # Записи, где gender = 'male'
+        SELECT * FROM users WHERE gender = 'male'; 
+
+        # BETWEEN
+        # Записи, где age в промежутке от 20 до 30
+        SELECT * FROM users WHERE age BETWEEN 20 AND 30;
+
+        # IN, LIKE, NOT LIKE
+        # Записи, где firsName равен 'John', 'Mike' или 'Kane'
+        SELECT * FROM users WHERE firstName IN ('John', 'Mike', 'Kane');
+        # Записи, где firsName начинается c буквы 'A'
+        SELECT * FROM users WHERE firstName LIKE 'A%';
+        # Записи, где вторая буква в firsName равна 'o'
+        SELECT * FROM users WHERE city NOT LIKE '_o%';
+        ```
 
 -   ### Документоориентированные базы данных
 
