@@ -854,7 +854,7 @@
 
 -   ### Реляционные базы данных
     
-    [Реляционные](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) (relation – отношение, связь ) БД представляют из себя хранилища, где данные организованны в виде набора таблиц (со строками и столбцами). В таких БД взаимодействия между данными строятся благодаря установлению связей между таблицами. 
+    [Реляционные](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) (relation – отношение, связь) БД представляют из себя хранилища, где данные организованны в виде набора таблиц (со строками и столбцами). В таких БД взаимодействия между данными строятся благодаря установлению связей между таблицами. 
 
     > Наиболее популярные реляционные БД: [MySQL](https://ru.wikipedia.org/wiki/MySQL), [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL), [MariaDB](https://ru.wikipedia.org/wiki/MariaDB), [Oracle](https://ru.wikipedia.org/wiki/Oracle_Database).
 
@@ -863,7 +863,7 @@
     > Удобная документация по SQL на русском языке [здесь](https://postgrespro.ru/docs/postgresql/14/sql).
 
     -   Базовые команды SQL
-        > Не забывайте про точку с запятой в конце :)
+        > Не забывайте про точку с запятой в конце каждой команды.
         - Создание таблиц и добавление данных
         ```sql
         CREATE DATABASE db_name; # Создать новую базу с именем db_name
@@ -915,15 +915,66 @@
         SELECT * FROM users WHERE firstName IN ('John', 'Mike', 'Kane');
         # Записи, где firsName начинается c буквы 'A'
         SELECT * FROM users WHERE firstName LIKE 'A%';
-        # Записи, где вторая буква в firsName равна 'o'
-        SELECT * FROM users WHERE city NOT LIKE '_o%';
+        # Записи, где первая буква в firstName равна 'A', 'B' или 'C'
+        SELECT * FROM users WHERE firstName LIKE '[ABC]%';
+        # Записи, где вторая буква в firsName не равна 'o'
+        SELECT * FROM users WHERE firstName NOT LIKE '_o%';
         ```
+        - Сортировка данных таблиц
+        ```sql
+        # ORDER BY
+        SELECT * FROM users ORDER BY firstName;
+        # ASC - по возрастанию (default)
+        # DESC - по убыванию
+        SELECT * FROM users ORDER BY age DESC;
+        ```
+        - Изменение таблиц
+        ```sql
+        # ALTER TABLE
+        # Добавить новую колонку city к таблицe users
+        ALTER TABLE users ADD COLUMN city VARCHAR(50); 
+        # Удалить колонку isMarried из тиблицы users
+        ALTER TABLE users DROP COLUMN isMarried;
+        # Переименовать колокнку firstName в fName в таблицe users
+        ALTER TABLE users RENAME COLUMN firstName TO fName;
+        # Переименовать таблицу users в consumers
+        ALTER TABLE users RENAME TO consumers;
+        ```
+        - Изменение данных в таблице
+        ```sql
+        # UPDATE
+        # Изменить в таблицe users записть с id = 1
+        UPDATE users SET firstName = 'Kale', age = 33 WHERE id = 1;
+        # Изменить записи, где gender = 'female'
+        UPDATE users SET city = 'Paris' WHERE gender = 'famale';
+        ```
+        - Удаление данных из таблицы
+        ```sql
+        # DELETE
+        # Удалить запись, где id = 2 в таблице users
+        DELETE FROM users WHERE id = 2;
+        # Удалить все записи в таблице users, где gender = 'male'
+        DELETE FROM users WHERE gender = 'male';
+        ```
+    -   Агрегатные функции
+    -   Объединение таблиц в запросе
+    -   Подзапросы 
+    -   Транзакции 
+    -   Индексы
+
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 -   ### Документоориентированные базы данных
 
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
+
 -   ### Redis
 
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
+
 -   ### Проблемы баз данных
+
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
 
 ## Безопасность
 
