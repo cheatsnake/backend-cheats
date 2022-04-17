@@ -862,105 +862,150 @@
 
     > Удобная документация по SQL на русском языке [здесь](https://postgrespro.ru/docs/postgresql/14/sql).
 
-    -   Базовые команды SQL
+    -   Основные команды SQL
         > Не забывайте про точку с запятой в конце каждой команды.
-        - Создание таблиц и добавление данных
+        - Создание новой БД
         ```sql
-        CREATE DATABASE db_name; # Создать новую базу с именем db_name
-        
-        # Пример создания таблицы с именем users
+        CREATE DATABASE db_name;
+        ```
+        - Создание новой таблицы
+        ```sql
         CREATE TABLE users ( 
-            id SERIAL PRIMARY KEY, # Уникальный ключ (задается автоматически)
+            id SERIAL PRIMARY KEY, # Уникальный id
             firstName VARCHAR(100), # Строка
-            lastName VARCHAR(100),
+            lastName VARCHAR(100), # Строка
             age INT, # Число
-            gender VARCHAR(10),
+            gender VARCHAR(10), # Строка 
             isMarried BOOLEAN # true/false
-        );
-
-        # Добавление данных в таблицу
+        );        
+        ```
+        - Добавление данных в таблицу
+        ```sql
         INSERT INTO users(
             firstName, lastName, age, gender, isMarried
         ) VALUES (
             'Alex', 'Manson' 25, 'male', false
         );
-
         ```
-        - Выборка определенных данных
+        - Выборка данных из таблицы
         ```sql
         # SELECT
-        # Получить всю таблицу users
+        ## Получить всю таблицу users
         SELECT * FROM users; 
-        # Получить все столбы firstName и age
+        ## Получить только столбцы firstName и age из таблицы users
         SELECT firstName, age FROM users; 
 
         # LIMIT
-        # Получить первых 20 записей
-        SELECT * FROM table_name LIMIT 20;
+        ## Получить первых 20 записей таблицы users
+        SELECT * FROM users LIMIT 20;
 
         # DISTINCT
-        # Получить только уникальные значения
+        ## Получить только уникальные значения из столбца firstName
         SELECT DISTINCT(firstName) FROM users;
 
         # WHERE
-        # Записи, где gender = 'male'
+        ## Записи, где столбец gender = 'male'
         SELECT * FROM users WHERE gender = 'male'; 
+        ## AND, OR 
+        SELECT * FROM users WHERE age = 25 AND isMarried = falsel
+        SELECT * FROM users WHERE age = 20 OR age = 50;
 
         # BETWEEN
-        # Записи, где age в промежутке от 20 до 30
+        ## Записи, где значения столбца age находятся в промежутке от 20 до 30
         SELECT * FROM users WHERE age BETWEEN 20 AND 30;
 
+        #NULL
+        ## Записи, где столбец lastName не пуст
+        SELECT * FROM users WHERE lastName IS NOT NULL;
+        ```
+        - Поиск данных по шаблону
+        ```sql
         # IN, LIKE, NOT LIKE
-        # Записи, где firsName равен 'John', 'Mike' или 'Kane'
+        ## % - подстановочный знак, который указывает на любое кол-во символов
+        ## _ - подстановочный знак, который указывает на один символ
+
+        ## Записи, где firsName равен 'John', 'Mike' или 'Kane'
         SELECT * FROM users WHERE firstName IN ('John', 'Mike', 'Kane');
-        # Записи, где firsName начинается c буквы 'A'
+        ## Записи, где firsName начинается c буквы 'A'
         SELECT * FROM users WHERE firstName LIKE 'A%';
-        # Записи, где первая буква в firstName равна 'A', 'B' или 'C'
+        ## Записи, где первая буква в firstName равна 'A', 'B' или 'C'
         SELECT * FROM users WHERE firstName LIKE '[ABC]%';
-        # Записи, где вторая буква в firsName не равна 'o'
+        ## Записи, где вторая буква в firsName не равна 'o'
         SELECT * FROM users WHERE firstName NOT LIKE '_o%';
         ```
         - Сортировка данных таблиц
         ```sql
         # ORDER BY
-        SELECT * FROM users ORDER BY firstName;
-        # ASC - по возрастанию (default)
-        # DESC - по убыванию
+        ## ASC - по возрастанию (по умолчанию)
+        ## DESC - по убыванию
+        SELECT * FROM users ORDER BY firstName ASC;
         SELECT * FROM users ORDER BY age DESC;
+        SELECT * FROM users ORDER BY lastName DESC, isMarried ASC;
+        ```
+        - Использование псевдонимов
+        ```sql
+        # AS
+        SELECT firstName AS name FROM users WHERE name = "Alex";
         ```
         - Изменение таблиц
         ```sql
         # ALTER TABLE
-        # Добавить новую колонку city к таблицe users
+        ## Добавить новую колонку city к таблицe users
         ALTER TABLE users ADD COLUMN city VARCHAR(50); 
-        # Удалить колонку isMarried из тиблицы users
+        ## Удалить колонку isMarried из тиблицы users
         ALTER TABLE users DROP COLUMN isMarried;
-        # Переименовать колокнку firstName в fName в таблицe users
+        ## Переименовать колокнку firstName в fName в таблицe users
         ALTER TABLE users RENAME COLUMN firstName TO fName;
-        # Переименовать таблицу users в consumers
+        ## Переименовать таблицу users в consumers
         ALTER TABLE users RENAME TO consumers;
         ```
         - Изменение данных в таблице
         ```sql
         # UPDATE
-        # Изменить в таблицe users записть с id = 1
+        ## Изменить в таблицe users записть с id = 1
         UPDATE users SET firstName = 'Kale', age = 33 WHERE id = 1;
-        # Изменить записи, где gender = 'female'
+        ## Изменить записи, где gender = 'female'
         UPDATE users SET city = 'Paris' WHERE gender = 'famale';
         ```
         - Удаление данных из таблицы
         ```sql
         # DELETE
-        # Удалить запись, где id = 2 в таблице users
+        # Удалить запись в таблице users, где id = 2
         DELETE FROM users WHERE id = 2;
         # Удалить все записи в таблице users, где gender = 'male'
         DELETE FROM users WHERE gender = 'male';
         ```
     -   Агрегатные функции
+        ```sql
+        # COUNT
+        ## Возвращает количество элементов в таблице users
+        SELECT COUNT(*) FROM users;
+        ## Возвращает количество не повторяющихся значений столбца firstName
+        SELECT COUNT(DISTINCT(firstName)) FROM users;
+
+        # MAX, MIN
+        SELECT MAX(age) FROM users;
+        SELECT MIN(age) FROM users;
+        
+        # SUM
+        # Сумма всех значений столбца age
+        SELECT SUM(age) FROM users;
+
+        # AVG
+        ## Среднее значение столбца age
+        SELECT AVG(age) FROM users;
+        ```
     -   Объединение таблиц в запросе
     -   Подзапросы 
     -   Транзакции 
     -   Индексы
+
+    <br>
+
+    | Источники                                                                                                                            |
+    | ------------------------------------------------------------------------------------------------------------------------------------ |
+    | **[Основы SQL (плейлист) – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)**                          |
+    | **[Практика SQL (плейлист) – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)**                    |
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
