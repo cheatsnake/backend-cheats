@@ -677,7 +677,8 @@
         -   [ProtoBuf (Protocol Buffers)](https://ru.wikipedia.org/wiki/Protocol_Buffers)
             > Бинарная альтернатива текстовому формату XML. Проще, компактнее и быстрее. 
 
-
+    <br>
+    
     1. [Форматы сериализации данных – habr.com](https://habr.com/ru/company/infowatch/blog/312320/)
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -885,7 +886,7 @@
             > - CHAR / VARCHAR / TEXT (строки)
             > - DATA / DATETIME / TIME (дата и время)
             > - ENUM (перечисления - списки допустимых значений)
-            > [Подробнее](https://sql-language.ru/osnova-sql/tipy-dannykh-sql.html)
+            > - [И другие](https://sql-language.ru/osnova-sql/tipy-dannykh-sql.html)
 
         - Добавление данных в таблицу
         ```sql
@@ -1031,10 +1032,42 @@
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
--   ### Документоориентированные базы данных
+-   ### MongoDB
+    
+    [MongoDB](https://ru.wikipedia.org/wiki/MongoDB) – документоориентированная БД (является классическим примером [NoSQL](https://ru.wikipedia.org/wiki/NoSQL) баз данных), не требующая описания схемы таблиц. Использует JSON-подобные документы и схему БД.
 
-    Наиболее популярная разновидность [NoSQL](https://ru.wikipedia.org/wiki/NoSQL) баз данных. Данные в таких базах хранятся в виде иерархических структур данных (документов).
-    > Наиболее популярные БД такого типа: [MongoDB](https://ru.wikipedia.org/wiki/MongoDB), [CouchDB](https://ru.wikipedia.org/wiki/CouchDB)
+    -   Основные команды
+        - Подготовка
+        ```js
+        show dbs // показать список всех БД
+        use db_name // подкючится/создать БД с именем db_name
+        db // вывести имя текущей базы данных
+        db.createCollection("users") // создать коллекцию "notes"
+        show collections // показать список коллекций в текущей БД
+        db.dropDatabase() // удалить текущую БД
+        ```
+        - Добавление элементов
+        ```js
+        // Добавить один элемент
+        db.users.insertOne({
+            name: "Alex",
+            age: 27,
+            isMarried: false,
+            city: "NewYork"
+        })
+
+        // Добавить несколько элементов
+        db.users.insertMany([{...}, {...}])
+        ```
+        - Получение элементов
+        ```js
+        // Получить все элементы из коллекции
+        db.users.find() 
+        // Получить элементы по указанному критерию
+        db.user.find({name: "Alex"})
+        // Поиск по условию
+        ```
+
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
