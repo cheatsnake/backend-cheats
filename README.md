@@ -1021,12 +1021,12 @@
     - Работа с языком программирования
         > Для этого необходимо установить библиотеку под ваш ЯП. Для более удобной работы существуют ORM-библиотеки, которые позволяют выполнять SQL-запросы, как если бы вы просто вызывали методы у объекта.
 
-    <br>
+<details>
+    <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-    | Источники                                                                                                                            |
-    | ------------------------------------------------------------------------------------------------------------------------------------ |
-    | **[Основы SQL (плейлист) – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)**                          |
-    | **[Практика SQL (плейлист) – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)**                    |
+1. [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
+1. [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
+</details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -1097,13 +1097,13 @@
     - Работа с языком программирования
         > Для этого необходимо установить драйвер MongoDB под ваш ЯП.
 
-    <details>
-        <summary>🔗 <b>Ссылки на материалы</b></summary>
+<details>
+    <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-    1. [**Руководство по MongoDB** – metanit.com](https://metanit.com/nosql/mongodb/)
-    1. [**Большой курс по MongoDB: Агрегация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-mongodb-cab518a8f2fe)
-    1. [**Большой курс по MongoDB: Индексация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c0ab21a16d71)
-    </details>
+1. [**Руководство по MongoDB** – metanit.com](https://metanit.com/nosql/mongodb/)
+1. [**Большой курс по MongoDB: Агрегация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-mongodb-cab518a8f2fe)
+1. [**Большой курс по MongoDB: Индексация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c0ab21a16d71)
+</details>
 
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
