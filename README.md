@@ -1570,13 +1570,14 @@
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
-## Дополнительные материалы
+## Дополнительные ресурсы
 
 -   [Backend Developer Roadmap: Learn to become a modern backend developer](https://roadmap.sh/backend)
 -   [Профессия: бэкенд-разработчик](https://habr.com/ru/company/ruvds/blog/488340/)
 -   [Backend Roadmap (from Junior to Senior)](https://github.com/bzick/oh-my-backend)
 -   [A curated and opinionated list of resources (English & Russian) for Backend developers](https://github.com/zhashkevych/awesome-backend)
 -   [Курс по компьютерным сетям начального уровня.](https://www.asozykin.ru/courses/networks_online)
+-   [Как освоить бэкенд-разработку в 2022 году: дорожная карта](https://tproger.ru/articles/backend-roadmap-2021/)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022</div>
