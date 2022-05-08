@@ -103,10 +103,10 @@
     <summary><a href="#разработка-api">8. Разработка API</a></summary>
     
 -   [REST API](#rest-api)
--   [Аунтификация и авторизация](#аунтификация-и-авторизация)
 -   [GraphQL](#graphql)
 -   [WebSockets](#websockets)
--   [gRPC](#grpc)
+-   [RPC и gRPC](#rpc-и-grpc)
+-   [WebRTC](#webrtc)
 </details>
 
 
@@ -123,6 +123,7 @@
     <summary><a href="#безопасность">10. Безопасность</a></summary>
     
 -   [Криптография](#криптография)
+-   [Аунтификация и авторизация](#аунтификация-и-авторизация)
 -   [Content Security Policy](#content-security-policy)
 -   [SSL/TLS](#ssltls)
 </details>
@@ -1488,14 +1489,6 @@
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
--   ### Аунтификация и авторизация
-
-    - Cookie авторизация
-    - JWT (Json Web Token)
-    - OAuth
-
-<div align="right"><a href="#top">Содержание ⬆️</a></div>
-
 -   ### GraphQL
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1504,7 +1497,11 @@
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
--   ### gRPC
+-   ### RPC и gRPC
+
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
+
+-   ### WebRTC
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -1535,6 +1532,14 @@
     - Соль для подписей
 
     - Коллизия хэшей
+
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
+
+-   ### Аунтификация и авторизация
+
+    - Cookie авторизация
+    - JWT (Json Web Token)
+    - OAuth
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
