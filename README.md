@@ -1617,8 +1617,14 @@
 
 -   ### WebRTC
 
+    [WebRTC](https://ru.wikipedia.org/wiki/WebRTC) – open-source проект для организации передачи потоковых данных (видео, звука) в браузере. Работа WebRTC основана на [peer to peer соединении](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C), однако существуют реализации позволяющие организовывать сложные групповые сеансы. Например, сервис видео-звонков Google Meet широко использует WebRTC.
+
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
+
+1. [**WebRTC для всех и каждого** – habr.com](https://habr.com/ru/company/timeweb/blog/656947)
+1. [**WebRTC API** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/API/WebRTC_API)
+1. [**Оффициальный GitHub-репозиторий WebRTC** – GitHub](https://github.com/webrtc)
 
 </details>
 
