@@ -1032,6 +1032,22 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. [**Форматы сериализации данных** – habr.com](https://habr.com/ru/company/infowatch/blog/312320/)
+1. [**Введение в JSON** – medium.org](https://medium.com/@stasonmars/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-json-c798d2723107)
+1. [**Работа с JSON** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON)
+1. [**Краткое руководство по XML**](https://xml.readthedocs.io/xml-intro.html)
+1. [**YAML за 5 минут: синтаксис и основные возможности** – tproger.ru](https://tproger.ru/translations/yaml-za-5-minut-sintaksis-i-osnovnye-vozmozhnosti/)
+1. [**Universal Binary JSON — ещё один бинарный JSON** – habr.com](https://habr.com/ru/post/130112/)
+</details>
+
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
+
+-   ### Кодировки текста
+
+<details>
+    <summary>🔗 <b>Ссылки на материалы</b></summary>
+
+1. [**Что такое кодировки**](https://guides.hexlet.io/ru/encoding/)
+1. [**Как работают кодировки текста. Откуда появляются «кракозябры»**](https://habr.com/ru/post/478636)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1289,6 +1305,7 @@
 
 1. [**Уроки по тестированию в Postman (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLZqgWWF4O-zhpYUPLjpe2yfg93s1olElm)
 1. [**Insomnia. Инструмент для API тестирования** – YouTube](https://youtu.be/aXa_nQtDjUI)
+1. [**Insomnia docs на русском**](https://insomnia.w3ref.ru/insomnia/get-started/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
