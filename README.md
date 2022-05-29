@@ -166,8 +166,9 @@
 
 1. [**Как работает Интернет** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
 1. [**Основы программирования. Как работают сети?** – YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton)
-1. [**Хост — что это такое и как он работает**](https://anisim.org/articles/host/)**  
+1. [**Кому принадлежит сеть Интернет?**](https://setphone.ru/stati/komu-prinadlezhit-set-internet/)
 1. [**Что такое сервер и как он работает**](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
+1. [**Хост — что это такое и как он работает**](https://anisim.org/articles/host/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -233,7 +234,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. [**Как работают веб-приложения** – habr.com](https://habr.com/ru/post/450282)
-1. [**Фронтенд и бэкенд** – Википедия](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4_%D0%B8_%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4)
+1. [**Как устроены веб-приложения? (Frontend/Backend)** – YouTube](https://youtu.be/nQBNH0x4YmI)
 1. [**Базовый курс по фронтенду** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer)
 1. [**Frontend Developer roadmap**](https://roadmap.sh/frontend)
 1. [**Нативные, гибридные и web-приложения в сравнении** – medium.com](https://medium.com/nuances-of-programming/%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B8-web-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8-b1360258df2d)
@@ -283,7 +284,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. []()
+1. [****]()
 1. []()
 1. []()
 1. []()
@@ -349,6 +350,7 @@
 1. [**HTTP** - MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP)
 1. [**Простым языком об HTTP** – habr.com](https://habr.com/ru/post/215117)
 1. [**Что такое протокол HTTPS, и как он защищает вас в интернете**](https://guides.hexlet.io/ru/https-yandex-guide/)
+1. [**Как работает HTTPS?** – YouTube](https://youtu.be/B3j4SS5P8tM)
 1. [**Путь к HTTP/2** – habr.com](https://habr.com/ru/post/308846/)
 </details>
 
@@ -810,6 +812,7 @@
 
 1. [**Что такое протокол SSH**](https://guides.hexlet.io/ru/ssh/)
 1. [**Как пользоваться SSH** – losst.ru](https://losst.ru/kak-polzovatsya-ssh)
+1. [**Настраиваем аутентификацию SSH по ключу в Linux** – YouTube](https://youtu.be/IVHv3eVQa14)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -955,7 +958,9 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. [**8 структур данных, которые должен знать каждый программист**](https://blog.askmentor.io/8-data-structure-everybody-should-know/)
+1. [**Структуры данных для самых маленьких** – habr.com](https://habr.com/ru/post/310794/)
 1. [**Как работает стек** – YouTube](https://www.youtube.com/watch?v=MXoMuymbfo8)
+1. [**Хэш-таблицы за 10 минут** – YouTube](https://youtu.be/0UX4MIfOMEs)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -980,7 +985,12 @@
 
     <br>
 
-    > Если вам интересно узнать больше, то рекомендую заглянуть в [этот репозиторий](https://github.com/trekhleb/javascript-algorithms), где собрана огромная коллекция алгоритмов.
+<details>
+    <summary>🔗 <b>Ссылки на материалы</b></summary>
+
+1. [**Алгоритмы и структуры данных. Подготовительный курс (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
+1. [**Большая коллекция алгоритмов** – GitHub](https://github.com/trekhleb/javascript-algorithms)
+</details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
 
@@ -1179,8 +1189,6 @@
         - [Принцип подстановки Барбары Лисков (**L**iskov Substitution)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D0%BA%D0%BE%D0%B2)
         - [Принцип разделения интерфейса (**I**nterface Segregation)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
         - [Принцип инверсии зависимостей (**D**ependency Inversion)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8_%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B5%D0%B9)
-    - [DDD (Domain-Driven Design)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-    - [GRASP (General Responsibility Assignment Software Patterns)](https://ru.wikipedia.org/wiki/GRASP)
 
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
@@ -1188,8 +1196,6 @@
 1. [**Принципы для разработки: KISS, DRY, YAGNI...** – habr.com](https://habr.com/ru/company/itelma/blog/546372/)
 1. [**Простое объяснение принципов SOLID** – habr.com](https://habr.com/ru/company/vk/blog/412699/)
 1. [**Принципы SOLID, о которых должен знать каждый разработчик** – medium.com](https://medium.com/webbdev/solid-4ffc018077da)
-1. [**Что можно узнать о Domain Driven Design за 10 минут?** – habr.com](https://habr.com/ru/company/dododev/blog/489352/)
-1. [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1368,6 +1374,8 @@
 1. [**Зачем нужны базы данных**](https://thecode.media/db/)
 1. [**Выбираем базу данных** – medium.com](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D0%B1%D0%B0%D0%B7%D1%83-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-62b0747f7f47)
 1. [**Базы данных: большой обзор типов и подходов** – habr.com](https://habr.com/ru/company/yandex/blog/522164/?)
+1. [**Курс: Использование баз данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9reQb3ZXLWVaEu2CM3R54ho)
+1. [**Курс: Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb)
 1. [**Базы данных для программиста** – YouTube](https://www.youtube.com/playlist?list=PLmqFxxywkatS8Hfj6-aYgXfrpvV6OoKSc)
 </details>
 
@@ -1857,8 +1865,10 @@
 1. [**Безопасность веб-приложений: от уязвимостей до мониторинга** – habr.com](https://habr.com/ru/company/pentestit/blog/526878/)
 1. [**Безопасность: уязвимости вашего приложения** – YouTube](https://youtu.be/2gthjl2Lks4)
 1. [**Как защитить веб-приложение: основные советы, инструменты, полезные ссылки** – tproger.ru](https://tproger.ru/translations/webapp-security/)
+1. [**Что такое XSS-уязвимость и как тестировщику не пропустить ее** – habr.com](https://habr.com/ru/post/511318/)
 1. [**DDoS-атаки: нападение и защита** – habr.com](https://habr.com/ru/company/ruvds/blog/321992/)
 1. [**Безопасность Web-приложений (плейлист)** – YouTube](https://youtube.com/playlist?list=PLp2kHCN7pLe1azEbJa5ucnLpD0nGex0tg)
+1. [**Безопасность интернет-приложений (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon)
 1. [**Аналитика уязвимостей и угроз веб-приложений за 2019 год**](https://www.ptsecurity.com/ru-ru/research/analytics/web-vulnerabilities-2020/)
 </details>
 
@@ -1911,7 +1921,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [****]()
+1. [**Как получить и настроить LetsEncrypt SSL сертификат для сайта?** – YouTube](https://youtu.be/1wnOw1vwPEo)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1964,12 +1974,17 @@
     - [MVC (Model-View-Controller)](https://ru.wikipedia.org/wiki/Model-View-Controller)
     - [MVP (Modev-View-Presenter)](https://ru.wikipedia.org/wiki/Model-View-Presenter)
     - [MVVM (Model-View-ViewModel)](https://ru.wikipedia.org/wiki/Model-View-ViewModel)
+    - [DDD (Domain-Driven Design)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
     - [Event-Driven Architecture](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)
+    - [GRASP (General Responsibility Assignment Software Patterns)](https://ru.wikipedia.org/wiki/GRASP)
 
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [****]()
+1. [**Чистая архитектура** – habr.com](https://habr.com/ru/post/269589/)
+1. [**Что можно узнать о Domain Driven Design за 10 минут?** – habr.com](https://habr.com/ru/company/dododev/blog/489352/)
+1. [**Доклад про Domain Driven Design** – YouTube](https://youtu.be/_CK5Kag7enw)
+1. [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
