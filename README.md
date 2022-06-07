@@ -340,6 +340,7 @@
     -   [CORS (Cross origin resource sharing)](https://ru.wikipedia.org/wiki/Cross-origin_resource_sharing)
         > Технология, которая позволяет одному домену получать данные от другого.
     -   [CSP (Content Security Policy)](https://developer.mozilla.org/ru/docs/Web/HTTP/CSP)
+        > Специальный заголовок позволяющий распознавать и устранять определённые типы уязвимостей веб-приложения.
     -   [HTTP/1.0 vs HTTP/1.1 vs HTTP/2](https://ru.wikipedia.org/wiki/HTTP#%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F)
         > Главным нововведением в вeрсии 1.1 является режим "постоянного соединения", который позволяет посылать несколько запросов за одно подключение. Во второй версии протокол стал бинарным, появилась возможность передачи данных нескольких потоков по одному каналу.
 
@@ -351,6 +352,10 @@
 1. [**Простым языком об HTTP** – habr.com](https://habr.com/ru/post/215117)
 1. [**Что такое протокол HTTPS, и как он защищает вас в интернете**](https://guides.hexlet.io/ru/https-yandex-guide/)
 1. [**Как работает HTTPS?** – YouTube](https://youtu.be/B3j4SS5P8tM)
+1. [**Что такое cookies браузера** – YouTube](https://youtu.be/Ri3IAb6tdlE)
+1. [**Что такое cookie в браузере и почему на многих сайтах предупреждают об их использовании?**](https://club.dns-shop.ru/blog/t-326-internet/47805-chto-takoe-cookie-v-brauzere-i-pochemu-na-mnogih-saitah-preduprejd)
+1. [**CORS для чайников: история возникновения, как устроен и оптимальные методы работы** – habr.com](https://habr.com/ru/company/macloud/blog/553826/)
+1. [**Улучшение сетевой безопасности с помощью Content Security Policy** – habr.com](https://habr.com/ru/company/nix/blog/271575/?)
 1. [**Путь к HTTP/2** – habr.com](https://habr.com/ru/post/308846/)
 1. [**Evolution of HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 </details>
