@@ -897,7 +897,8 @@
 
     -   Основные лог файлы
         ```bash
-        /var/log/syslog или /var/log/messages # информация о ядре, различных службах, обнаруженных устройствах, сетевых интерфейсах и т.д. 
+        /var/log/syslog или /var/log/messages # информация о ядре, различных службах, обнаруженных
+        # устройствах, сетевых интерфейсах и т.д. 
         /var/log/auth.log или /var/log/secure # информация об авторизации пользователей
         /var/log/faillog # неудачные попытки входа в систему
         /var/log/dmesg # информация о драйверах устройств
@@ -2289,36 +2290,36 @@
 -   ### Паттерны проектирования
     Без лишних слов, вот [превосходный сайт](https://refactoring.guru/ru/design-patterns), где подробно описаны все паттерны, а также приведены примеры на различных ЯП.
     - [Пораждающие паттерны](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-        - Factory
-        - Abstract factory
-        - Builder
-        - Prototype
-        - Singleton
+        -   [Factory (Фабрика)](https://refactoring.guru/ru/design-patterns/factory-method)
+        -   [Abstract factory (Абстрактная фабрика)](https://refactoring.guru/ru/design-patterns/abstract-factory)
+        -   [Builder (Строитель)](https://refactoring.guru/ru/design-patterns/builder)
+        -   [Prototype (Прототип)](https://refactoring.guru/ru/design-patterns/prototype)
+        -   [Singleton (Одиночка)](https://refactoring.guru/ru/design-patterns/singleton)
     - [Структурные паттерны](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-        - Adapter
-        - Bridge
-        - Composite
-        - Decorator
-        - Facade
-        - Flyweight
-        - Proxy
+        -   [Adapter (Адаптер)](https://refactoring.guru/ru/design-patterns/adapter)
+        -   [Bridge (Мост)](https://refactoring.guru/ru/design-patterns/bridge)
+        -   [Composite (Компоновщик)](https://refactoring.guru/ru/design-patterns/composite)
+        -   [Decorator (Декоратор)](https://refactoring.guru/ru/design-patterns/decorator)
+        -   [Facade (Фасад)](https://refactoring.guru/ru/design-patterns/facade)
+        -   [Flyweight (Легковес)](https://refactoring.guru/ru/design-patterns/flyweight)
+        -   [Proxy (Заместитель)](https://refactoring.guru/ru/design-patterns/proxy)
     - [Поведенческие паттерны](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-        - Chain of Responsibility
-        - Command
-        - Iterator
-        - Mediator
-        - Memento
-        - Observer
-        - State
-        - Strategy
-        - Template
-        - Visitor
-
+        -   [Chain of Responsibility (Цепочка обязонностей)](https://refactoring.guru/ru/design-patterns/chain-of-responsibility)
+        -   [Command (Команда)](https://refactoring.guru/ru/design-patterns/command)
+        -   [Iterator (Итератор)](https://refactoring.guru/ru/design-patterns/iterator)
+        -   [Mediator (Посредник)](https://refactoring.guru/ru/design-patterns/mediator)
+        -   [Memento (Снимок)](https://refactoring.guru/ru/design-patterns/memento)
+        -   [Observer (Наблюдатель)](https://refactoring.guru/ru/design-patterns/observer)
+        -   [State (Состояние)](https://refactoring.guru/ru/design-patterns/state)
+        -   [Strategy (Стратегия)](https://refactoring.guru/ru/design-patterns/strategy)
+        -   [Template (Шаблон)](https://refactoring.guru/ru/design-patterns/template-method)
+        -   [Visitor (Посетитель)](https://refactoring.guru/ru/design-patterns/visitor)
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. [**Паттерны ООП в метафорах** – habr.com](https://habr.com/ru/post/136766/)
-2. [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
+1. [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
+1. [**Паттерны проектирования** – metanit.com](https://metanit.com/sharp/patterns/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
