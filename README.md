@@ -1750,6 +1750,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. [**Что такое веб-сокеты за 4 минуты** – YouTube](https://youtu.be/WtF-wMzPtuM)
 1. [**Что такое Websocket? Websockets простыми словами** – YouTube](https://www.youtube.com/watch?v=SxMvxIHBahU)
 1. [**Web сокеты | Компьютерные сети. Продвинутые темы** – YouTube](https://www.youtube.com/watch?v=TxVriqBkqbM&t)
 1. [**Использование WebSockets в браузере** – learn.javascript.ru](https://learn.javascript.ru/websockets)
