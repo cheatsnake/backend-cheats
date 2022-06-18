@@ -1682,12 +1682,12 @@
 
     Основные правила написания хорошего REST API:
     -   Каждый URL-эндпоинт должен быть существительным
-        > Для выполнения разных операций (создание/получение/изменение/удаление) этот эндпоинт должен реализовывать обработчики на соответствующие HTTP-методы (GET/POST/PUT/DELETE).
+        > Для выполнения разных операций (получение/создание/изменение/удаление) этот эндпоинт должен реализовывать обработчики на соответствующие HTTP-методы (GET/POST/PUT/DELETE).
     -   Использование множественных названий
-        > Например эндпоинт на получение записи по id выглядит так: `/task/:id`, а для получения нескольких записей так: `/tasks`
+        > Например эндпоинт на получение одной записи по id выглядит так: `/task/42`, а на получение всех записей так: `/tasks`
     -   Использование версионности 
         > Подробная инструкция описана [здесь](https://github.com/DoctorLines/translate_build_api/blob/master/13.api_versioning.md).
-    -   Использование соответствующих HTTP-кодов ответа
+    -   Отправка соответствующих HTTP-кодов ответа
         > Самые часто используемые: [200](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/200), [201](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/201), [204](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/204), [304](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/304), [400](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/400), [401](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/401), [403](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/403), [404](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/404), [405](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/405), [410](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/410), [415](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/415), [422](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/422), [429](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/429).
 
 <details>
