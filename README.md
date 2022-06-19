@@ -417,11 +417,13 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [Модель и стек протоколов TCP/IP — YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=8&ab_channel=AndreySozykin)
-1. [What is TCP/IP? (ENG) – YouTube](https://youtu.be/PpsEaqJV_A0)
-1. [Протокол TCP — YouTube](https://www.youtube.com/watch?v=CKUOb4htnB4&ab_channel=AndreySozykin)
-1. [Протокол UDP — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin)
-1. [Всё, что вы хотели знать о МАС адресе — habr.com](https://habr.com/ru/post/483670/)
+1. [****]()
+1. [**Модель и стек протоколов TCP/IP** — YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=8&ab_channel=AndreySozykin)
+1. [**What is TCP/IP? (ENG)** – YouTube](https://youtu.be/PpsEaqJV_A0)
+1. [**Что такое TCP/IP: Объясняем на пальцах** – YouTube](https://youtu.be/2I1HnSN1H9o)
+1. [**Протокол TCP** — YouTube](https://www.youtube.com/watch?v=CKUOb4htnB4&ab_channel=AndreySozykin)
+1. [**Протокол UDP** — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin)
+1. [**Всё, что вы хотели знать о МАС адресе** — habr.com](https://habr.com/ru/post/483670/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
