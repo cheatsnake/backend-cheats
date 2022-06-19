@@ -1699,6 +1699,7 @@
 1. [**Что такое API**](https://guides.hexlet.io/ru/http-api/)
 1. [**Что такое REST API**](https://guides.hexlet.io/ru/rest-api/)
 1. [**Что такое REST API** – YouTube](https://www.youtube.com/watch?v=J4Fy6lmLBr0)
+1. [**Что такое CRUD за 6 минут** – YouTube](https://youtu.be/vD0X5Zm9Gjo)
 1. [**Основы REST: теория и практика** – tproger.ru](https://tproger.ru/articles/osnovy-rest-teorija-i-praktika/)
 1. [**REST API Best Practices** – habr.com](https://habr.com/ru/post/351890/)
 1. [**Версионирование API или единая кодовая база для всех версий** – habr.com](https://habr.com/ru/company/superjob/blog/577650/)
