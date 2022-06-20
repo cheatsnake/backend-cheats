@@ -1676,7 +1676,7 @@
 
 -   ### Требования ACID
 
-    [ACID](https://ru.wikipedia.org/wiki/ACID) – это абриевиатура состоящая из названий четрыёх основных свойств, которые гарантируют надежность транзакций в БД.
+    [ACID](https://ru.wikipedia.org/wiki/ACID) – это аббревиатура состоящая из названий четырёх основных свойств, которые гарантируют надежность транзакций в БД.
 
     -   [Atomicity (атомарность)](https://ru.wikipedia.org/wiki/ACID#Atomicity_%E2%80%94_%D0%90%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
     -   [Consistency (согласованность)](https://ru.wikipedia.org/wiki/ACID#Consistency_%E2%80%94_%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
@@ -1688,7 +1688,8 @@
 
 1. [**Что такое ACID за 9 минут** – YouTube](https://youtu.be/vFmajCQ7Wuc)
 1. [**Как бы я сейчас объяснил молодому себе… зачем существуют требования ACID для баз данных?** – habr.com](https://habr.com/ru/post/535616/)
-1. [**Что такое ACID? | Самый частый вопрос бэкендеру**](https://youtu.be/gOB3hpAVIIQ)
+1. [**Что такое ACID? | Самый частый вопрос бэкендеру** – YouTube](https://youtu.be/gOB3hpAVIIQ)
+1. [**Использование баз данных. ACID. | Технострим** – YouTube](https://youtu.be/zGwYCPE-TRQ)
 </details>
 
 
