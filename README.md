@@ -92,6 +92,7 @@
 -   [Классификация баз данных](#классификация-баз-данных)
 -   [Реляционная база данных](#реляционная-база-данных)
 -   [MongoDB](#mongodb)
+-   [Требования ACID](#требования-acid)
 </details>
 
 <details>
@@ -1668,6 +1669,26 @@
 1. [**Руководство по MongoDB** – metanit.com](https://metanit.com/nosql/mongodb/)
 1. [**Большой курс по MongoDB: Агрегация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-mongodb-cab518a8f2fe)
 1. [**Большой курс по MongoDB: Индексация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c0ab21a16d71)
+</details>
+
+
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
+
+-   ### Требования ACID
+
+    [ACID](https://ru.wikipedia.org/wiki/ACID) – это абриевиатура состоящая из названий четрыёх основных свойств, которые гарантируют надежность транзакций в БД.
+
+    -   [Atomicity (атомарность)](https://ru.wikipedia.org/wiki/ACID#Atomicity_%E2%80%94_%D0%90%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    -   [Consistency (согласованность)](https://ru.wikipedia.org/wiki/ACID#Consistency_%E2%80%94_%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    -   [Isolation (изолированность)](https://ru.wikipedia.org/wiki/ACID#Isolation_%E2%80%94_%D0%98%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    -   [Durability (стойкость)](https://ru.wikipedia.org/wiki/ACID#Durability_%E2%80%94_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+
+<details>
+    <summary>🔗 <b>Ссылки на материалы</b></summary>
+
+1. [**Что такое ACID за 9 минут** – YouTube](https://youtu.be/vFmajCQ7Wuc)
+1. [**Как бы я сейчас объяснил молодому себе… зачем существуют требования ACID для баз данных?** – habr.com](https://habr.com/ru/post/535616/)
+1. [**Что такое ACID? | Самый частый вопрос бэкендеру**](https://youtu.be/gOB3hpAVIIQ)
 </details>
 
 
