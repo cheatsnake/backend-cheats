@@ -172,11 +172,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Как работает Интернет** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
-1. [**Основы программирования. Как работают сети?** – YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton)
-1. [**Кому принадлежит сеть Интернет?**](https://setphone.ru/stati/komu-prinadlezhit-set-internet/)
-1. [**Что такое сервер и как он работает**](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
-1. [**Хост — что это такое и как он работает**](https://anisim.org/articles/host/)
+1. 📄 [**Как работает Интернет** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
+1. 📺 [**Основы программирования. Как работают сети?** – YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton)
+1. 📄 [**Кому принадлежит сеть Интернет?**](https://setphone.ru/stati/komu-prinadlezhit-set-internet/)
+1. 📄 [**Что такое сервер и как он работает**](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
+1. 📄 [**Хост — что это такое и как он работает**](https://anisim.org/articles/host/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -195,9 +195,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое доменные имена** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_is_a_domain_name)
-1. [**Как работают домены**](https://temoto.github.io/a/kak-rabotayut-domeny.html)
-1. [**Доменное имя в призме закона** – habr.com](https://habr.com/ru/post/557786/)
+1. 📄 [**Что такое доменные имена** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_is_a_domain_name)
+1. 📄 [**Как работают домены**](https://temoto.github.io/a/kak-rabotayut-domeny.html)
+1. 📄 [**Доменное имя в призме закона** – habr.com](https://habr.com/ru/post/557786/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -216,13 +216,13 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое DNS-сервер простыми словами**](https://guides.hexlet.io/ru/dns/)
-1. [**Система доменных имен DNS** — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)
-1. [**Как это работает: Пара слов о DNS** – habr.com](https://habr.com/ru/company/1cloud/blog/309018/)
-1. [**IP адрес**](https://hackware.ru/?p=11589)
-1. [**Всё об IP адресах и о том, как с ними работать** – habr.com](https://habr.com/ru/post/350878/)
-1. [**Порты и перенаправление\открытие портов. Инструкция и объяснения на пальцах** – YouTube](https://www.youtube.com/watch?v=SGmBv_klQ9I)
-1. [**Список зарезервированных портов TCP и UDP** – Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_TCP_%D0%B8_UDP)
+1. 📄 [**Что такое DNS-сервер простыми словами**](https://guides.hexlet.io/ru/dns/)
+1. 📺 [**Система доменных имен DNS** — YouTube](https://www.youtube.com/watch?v=B0J0c0KLtbQ&ab_channel=AndreySozykin)
+1. 📄 [**Как это работает: Пара слов о DNS** – habr.com](https://habr.com/ru/company/1cloud/blog/309018/)
+1. 📄 [**IP адрес**](https://hackware.ru/?p=11589)
+1. 📄 [**Всё об IP адресах и о том, как с ними работать** – habr.com](https://habr.com/ru/post/350878/)
+1. 📺 [**Порты и перенаправление\открытие портов. Инструкция и объяснения на пальцах** – YouTube](https://www.youtube.com/watch?v=SGmBv_klQ9I)
+1. 📄 [**Список зарезервированных портов TCP и UDP** – Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_TCP_%D0%B8_UDP)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -251,11 +251,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Как работают веб-приложения** – habr.com](https://habr.com/ru/post/450282)
-1. [**Как устроены веб-приложения? (Frontend/Backend)** – YouTube](https://youtu.be/nQBNH0x4YmI)
-1. [**Базовый курс по фронтенду** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer)
-1. [**Frontend Developer roadmap**](https://roadmap.sh/frontend)
-1. [**Нативные, гибридные и web-приложения в сравнении** – medium.com](https://medium.com/nuances-of-programming/%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B8-web-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8-b1360258df2d)
+1. 📄 [**Как работают веб-приложения** – habr.com](https://habr.com/ru/post/450282)
+1. 📺 [**Как устроены веб-приложения? (Frontend/Backend)** – YouTube](https://youtu.be/nQBNH0x4YmI)
+1. 📄 [**Базовый курс по фронтенду** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer)
+1. 📄 [**Frontend Developer roadmap**](https://roadmap.sh/frontend)
+1. 📄 [**Нативные, гибридные и web-приложения в сравнении** – medium.com](https://medium.com/nuances-of-programming/%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B8-web-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8-b1360258df2d)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -269,12 +269,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Как работают браузеры** — MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
-1. [**Как работают браузеры — введение в безопасность веб-приложений** – habr.com](https://habr.com/ru/company/edison/blog/432870/)
-1. [**Важные аспекты работы браузера для разработчиков** – habr.com](https://habr.com/ru/company/dataart/blog/304138/)
-1. [**Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com** – habr.com](https://habr.com/ru/company/htmlacademy/blog/254825/)
-1. [**Принципы работы современных веб-браузеров**](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
-1. [**Подробное объяснение того, как работает браузер (под капотом)**](https://russianblogs.com/article/7580365317/)
+1. 📄 [**Как работают браузеры** — MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
+1. 📄 [**Как работают браузеры — введение в безопасность веб-приложений** – habr.com](https://habr.com/ru/company/edison/blog/432870/)
+1. 📄 [**Важные аспекты работы браузера для разработчиков** – habr.com](https://habr.com/ru/company/dataart/blog/304138/)
+1. 📄 [**Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com** – habr.com](https://habr.com/ru/company/htmlacademy/blog/254825/)
+1. 📄 [**Принципы работы современных веб-браузеров**](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
+1. 📄 [**Подробное объяснение того, как работает браузер (под капотом)**](https://russianblogs.com/article/7580365317/)
 </details>
 
 
@@ -304,10 +304,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Чем отличается VPN от прокси и что выбрать?**](https://hidemy.name/ru/articles/chem-otlichaetsja-proksi-i-vpn-chto-vybrat-proksi-server-ili-vpn/)
-1. [**Что такое прокси-сервер за 7 минут** – YouTube](https://youtu.be/oeOuaqyYzSY)
-1. [**Какая разница между Прокси и VPN** – YouTube](https://youtu.be/2QNKtyVwUDo)
-1. [**Защищённые прокси — практичная альтернатива VPN** –habr.com ](https://habr.com/ru/post/506356/)
+1. 📄 [**Чем отличается VPN от прокси и что выбрать?**](https://hidemy.name/ru/articles/chem-otlichaetsja-proksi-i-vpn-chto-vybrat-proksi-server-ili-vpn/)
+1. 📺 [**Что такое прокси-сервер за 7 минут** – YouTube](https://youtu.be/oeOuaqyYzSY)
+1. 📺 [**Какая разница между Прокси и VPN** – YouTube](https://youtu.be/2QNKtyVwUDo)
+1. 📄 [**Защищённые прокси — практичная альтернатива VPN** – habr.com](https://habr.com/ru/post/506356/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -333,12 +333,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое хостинг, домен и как устроен интернет на понятном языке** – YouTube](https://youtu.be/v80A1i-82CE)
-1. [**Что такое хостинг и домен сайта простыми словами**](https://guides.hexlet.io/ru/hosting/)
-1. [**Хостинг: что это, зачем и как выбрать**](https://vc.ru/services/74241-hosting-chto-eto-zachem-i-kak-vybrat)
-1. [**Хостинг: варианты, сравнения, пользовательская статистика** — habr.com](https://habr.com/ru/company/ruvds/blog/443522/)
-1. [**VPS-хостинг и облачный хостинг: что выбрать и в чем разница?** – habr.com](https://habr.com/ru/company/ruvds/blog/320880/)
-1. [**Колокейшн: как, зачем и почему** – habr.com](https://habr.com/ru/company/ruvds/blog/325136/)
+1. 📺 [**Что такое хостинг, домен и как устроен интернет на понятном языке** – YouTube](https://youtu.be/v80A1i-82CE)
+1. 📄 [**Что такое хостинг и домен сайта простыми словами**](https://guides.hexlet.io/ru/hosting/)
+1. 📄 [**Хостинг: что это, зачем и как выбрать**](https://vc.ru/services/74241-hosting-chto-eto-zachem-i-kak-vybrat)
+1. 📄 [**Хостинг: варианты, сравнения, пользовательская статистика** — habr.com](https://habr.com/ru/company/ruvds/blog/443522/)
+1. 📄 [**VPS-хостинг и облачный хостинг: что выбрать и в чем разница?** – habr.com](https://habr.com/ru/company/ruvds/blog/320880/)
+1. 📄 [**Колокейшн: как, зачем и почему** – habr.com](https://habr.com/ru/company/ruvds/blog/325136/)
 </details>
 
 
@@ -379,17 +379,17 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Протокол HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP)
-1. [**Протокол HTTP | Курс компьютерные сети** – YouTube](https://youtu.be/RlccXUx4LVw)
-1. [**Простым языком об HTTP** – habr.com](https://habr.com/ru/post/215117)
-1. [**Что такое протокол HTTPS, и как он защищает вас в интернете**](https://guides.hexlet.io/ru/https-yandex-guide/)
-1. [**Как работает HTTPS?** – YouTube](https://youtu.be/B3j4SS5P8tM)
-1. [**Что такое cookies браузера** – YouTube](https://youtu.be/Ri3IAb6tdlE)
-1. [**Что такое cookie в браузере и почему на многих сайтах предупреждают об их использовании?**](https://club.dns-shop.ru/blog/t-326-internet/47805-chto-takoe-cookie-v-brauzere-i-pochemu-na-mnogih-saitah-preduprejd)
-1. [**CORS для чайников: история возникновения, как устроен и оптимальные методы работы** – habr.com](https://habr.com/ru/company/macloud/blog/553826/)
-1. [**Улучшение сетевой безопасности с помощью Content Security Policy** – habr.com](https://habr.com/ru/company/nix/blog/271575/?)
-1. [**Путь к HTTP/2** – habr.com](https://habr.com/ru/post/308846/)
-1. [**Evolution of HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+1. 📄 [**Протокол HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP)
+1. 📺 [**Протокол HTTP | Курс компьютерные сети** – YouTube](https://youtu.be/RlccXUx4LVw)
+1. 📄 [**Простым языком об HTTP** – habr.com](https://habr.com/ru/post/215117)
+1. 📄 [**Что такое протокол HTTPS, и как он защищает вас в интернете**](https://guides.hexlet.io/ru/https-yandex-guide/)
+1. 📺 [**Как работает HTTPS?** – YouTube](https://youtu.be/B3j4SS5P8tM)
+1. 📺 [**Что такое cookies браузера** – YouTube](https://youtu.be/Ri3IAb6tdlE)
+1. 📄 [**Что такое cookie в браузере и почему на многих сайтах предупреждают об их использовании?**](https://club.dns-shop.ru/blog/t-326-internet/47805-chto-takoe-cookie-v-brauzere-i-pochemu-na-mnogih-saitah-preduprejd)
+1. 📄 [**CORS для чайников: история возникновения, как устроен и оптимальные методы работы** – habr.com](https://habr.com/ru/company/macloud/blog/553826/)
+1. 📄 [**Улучшение сетевой безопасности с помощью Content Security Policy** – habr.com](https://habr.com/ru/company/nix/blog/271575/?)
+1. 📄 [**Путь к HTTP/2** – habr.com](https://habr.com/ru/post/308846/)
+1. 📄 [**Evolution of HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -418,12 +418,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Модель и стек протоколов TCP/IP** — YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=8&ab_channel=AndreySozykin)
-1. [**What is TCP/IP? (ENG)** – YouTube](https://youtu.be/PpsEaqJV_A0)
-1. [**Что такое TCP/IP: Объясняем на пальцах** – YouTube](https://youtu.be/2I1HnSN1H9o)
-1. [**Протокол TCP** — YouTube](https://www.youtube.com/watch?v=CKUOb4htnB4&ab_channel=AndreySozykin)
-1. [**Протокол UDP** — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin)
-1. [**Всё, что вы хотели знать о МАС адресе** — habr.com](https://habr.com/ru/post/483670/)
+1. 📺 [**Модель и стек протоколов TCP/IP** — YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=8&ab_channel=AndreySozykin)
+1. 📺 [**What is TCP/IP? (ENG)** – YouTube](https://youtu.be/PpsEaqJV_A0)
+1. 📺 [**Что такое TCP/IP: Объясняем на пальцах** – YouTube](https://youtu.be/2I1HnSN1H9o)
+1. 📺 [**Протокол TCP** — YouTube](https://www.youtube.com/watch?v=CKUOb4htnB4&ab_channel=AndreySozykin)
+1. 📺 [**Протокол UDP** — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin)
+1. 📄 [**Всё, что вы хотели знать о МАС адресе** — habr.com](https://habr.com/ru/post/483670/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -437,10 +437,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Протоколы IPv4 и IPv6. В чем разница и что лучше?**](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)
-1. [**Адреса IPv6 | Компьютерные сети. Продвинутые темы** – YouTube](https://youtu.be/KRAKAAJTxTg)
-1. [**IPv6: как организовать миграцию и в чем преимущества перехода**](https://itglobal.com/ru-ru/company/blog/ipv6-migration/)
-1. [**IPv6 - от слов к делу** – YouTube](https://youtu.be/xYQP0iXr3A0)
+1. 📄 [**Протоколы IPv4 и IPv6. В чем разница и что лучше?**](https://bezopasnik.info/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B-ipv4-%D0%B8-ipv6-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%B8-%D1%87%D1%82%D0%BE-%D0%BB%D1%83%D1%87%D1%88%D0%B5/)
+1. 📺 [**Адреса IPv6 | Компьютерные сети. Продвинутые темы** – YouTube](https://youtu.be/KRAKAAJTxTg)
+1. 📄 [**IPv6: как организовать миграцию и в чем преимущества перехода**](https://itglobal.com/ru-ru/company/blog/ipv6-migration/)
+1. 📺 [**IPv6 - от слов к делу** – YouTube](https://youtu.be/xYQP0iXr3A0)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -465,9 +465,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Лаги, джиттер и потеря пакетов: откуда берутся проблемы с неткодом и как их решать** – habr.com](https://habr.com/ru/company/pixonic/blog/559780/)
-1. [**Внутренние механизмы ТСР, влияющие на скорость загрузки: часть 1** – habr.com](https://habr.com/ru/company/webo/blog/326258/)
-1. [**Внутренние механизмы ТСР, влияющие на скорость загрузки: часть 2** – habr.com](https://habr.com/ru/company/webo/blog/327050/)
+1. 📄 [**Лаги, джиттер и потеря пакетов: откуда берутся проблемы с неткодом и как их решать** – habr.com](https://habr.com/ru/company/pixonic/blog/559780/)
+1. 📄 [**Внутренние механизмы ТСР, влияющие на скорость загрузки: часть 1** – habr.com](https://habr.com/ru/company/webo/blog/326258/)
+1. 📄 [**Внутренние механизмы ТСР, влияющие на скорость загрузки: часть 2** – habr.com](https://habr.com/ru/company/webo/blog/327050/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -487,13 +487,13 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Как находить проблемы с интернетом и кто виноват: часть 1** – habr.com](https://habr.com/ru/post/530324/)
-1. [**Как находить проблемы с интернетом и кто виноват: часть 2** – habr.com](https://habr.com/ru/post/531082/)
-1. [**Прочитай и сделай: проводим сканирование сети самостоятельно** – habr.com](https://habr.com/ru/company/pt/blog/513776/)
-1. [**Основы компьютерных сетей. Диагностика и устранение основных проблем** – YouTube](https://youtu.be/duBeaGZzW7U)
-1. [**Трассировка сетевого маршрута** — hackware.ru](https://hackware.ru/?p=9210#12)
-1. [**Wireshark — приручение акулы** – habr.com](https://habr.com/ru/post/204274/)
-1. [**Протокол HTTPS в WireShark** – YouTube](https://youtu.be/1r1iWq67v3c)
+1. 📄 [**Как находить проблемы с интернетом и кто виноват: часть 1** – habr.com](https://habr.com/ru/post/530324/)
+1. 📄 [**Как находить проблемы с интернетом и кто виноват: часть 2** – habr.com](https://habr.com/ru/post/531082/)
+1. 📄 [**Прочитай и сделай: проводим сканирование сети самостоятельно** – habr.com](https://habr.com/ru/company/pt/blog/513776/)
+1. 📺 [**Основы компьютерных сетей. Диагностика и устранение основных проблем** – YouTube](https://youtu.be/duBeaGZzW7U)
+1. 📄 [**Трассировка сетевого маршрута** — hackware.ru](https://hackware.ru/?p=9210#12)
+1. 📄 [**Wireshark — приручение акулы** – habr.com](https://habr.com/ru/post/204274/)
+1. 📺 [**Протокол HTTPS в WireShark** – YouTube](https://youtu.be/1r1iWq67v3c)
 </details>
 
 
