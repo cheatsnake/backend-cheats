@@ -544,13 +544,13 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое операционная система и как она работает** – YouTube](https://www.youtube.com/watch?v=hb9CTGSJm88&t)
-1. [**Плейлист по операционным системам** – YouTube](https://www.youtube.com/playlist?list=PLo6puixMwuSPrKOCsJhrtr-m79mFthit9)
-1. [**Что такое операционная система и как она работает?** – GitHub](https://github.com/Steindvart/My_study/blob/master/docs/source/OS/articles/what_is_os.rst)
-1. [**Что такое ядро операционной системы? Назначение и виды ядер** – YouTube](https://youtu.be/Bdh88Fd--54)
-1. [**Устройство компьютерных программ: Как работает программа? Как компилируется код?** – YouTube](https://youtu.be/ZIHkLkCQ-B8)
-1. [**Как работает память компьютера** – YouTube](https://youtu.be/Wh22_O8jXVQ)
-1. [**Как работает процессор** – YouTube](https://youtu.be/k9wK2FThEsk)
+1. 📺 [**Что такое операционная система и как она работает** – YouTube](https://www.youtube.com/watch?v=hb9CTGSJm88&t)
+1. 📺 [**Плейлист по операционным системам** – YouTube](https://www.youtube.com/playlist?list=PLo6puixMwuSPrKOCsJhrtr-m79mFthit9)
+1. 📄 [**Что такое операционная система и как она работает?** – GitHub](https://github.com/Steindvart/My_study/blob/master/docs/source/OS/articles/what_is_os.rst)
+1. 📺 [**Что такое ядро операционной системы? Назначение и виды ядер** – YouTube](https://youtu.be/Bdh88Fd--54)
+1. 📺 [**Устройство компьютерных программ: Как работает программа? Как компилируется код?** – YouTube](https://youtu.be/ZIHkLkCQ-B8)
+1. 📺 [**Как работает память компьютера** – YouTube](https://youtu.be/Wh22_O8jXVQ)
+1. 📺 [**Как работает процессор** – YouTube](https://youtu.be/k9wK2FThEsk)
 </details>
 
 
@@ -576,9 +576,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Процессы и потоки в операционной системе** – YouTube](https://youtu.be/Xwm_88dDdBQ)
-1. [**Процессы и потоки**](https://learnc.info/c/processes_and_threads.html)
-1. [**Что такое поток?** – YouTube](https://youtu.be/t1JpAC1LOKg)
+1. 📺 [**Процессы и потоки в операционной системе** – YouTube](https://youtu.be/Xwm_88dDdBQ)
+1. 📄 [**Процессы и потоки**](https://learnc.info/c/processes_and_threads.html)
+1. 📺 [**Что такое поток?** – YouTube](https://youtu.be/t1JpAC1LOKg)
 </details>
 
 
@@ -596,10 +596,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Чем отличаются Concurrency и Parallelism** – YouTube](https://youtu.be/4PNneed92lM)
-1. [**Отличие между конкурентностью, параллелизмом и многопоточностью** – GitHub](https://github.com/gm-soft/knowledge-base/blob/master/dot-net/2019-11-06-asynchronous-programming-epm-theory.md)
-1. [**Parallelism vs Concurrency: правильно подбираем инструменты** – habr.com](https://habr.com/ru/company/piter/blog/274569/)
-1. [**Параллелизм против многопоточности против асинхронного программирования: разъяснение** – habr.com](https://habr.com/ru/post/337528/)
+1. 📺 [**Чем отличаются Concurrency и Parallelism** – YouTube](https://youtu.be/4PNneed92lM)
+1. 📄 [**Отличие между конкурентностью, параллелизмом и многопоточностью** – GitHub](https://github.com/gm-soft/knowledge-base/blob/master/dot-net/2019-11-06-asynchronous-programming-epm-theory.md)
+1. 📄 [**Parallelism vs Concurrency: правильно подбираем инструменты** – habr.com](https://habr.com/ru/company/piter/blog/274569/)
+1. 📄 [**Параллелизм против многопоточности против асинхронного программирования: разъяснение** – habr.com](https://habr.com/ru/post/337528/)
 </details>
 
 
@@ -618,10 +618,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Менеджер памяти** – YouTube](https://youtu.be/_mDAMquAwPY)
-1. [**Управление памятью в ОС**](https://bestprogrammer.ru/izuchenie/upravlenie-pamyatyu-v-operatsionnoj-sisteme)
-1. [**Как Linux работает с памятью** – YouTube](https://youtu.be/bhdkFPGhxfI)
-1. [**MMU в картинках** – harb.com](https://habr.com/ru/post/211150/)
+1. 📺 [**Менеджер памяти** – YouTube](https://youtu.be/_mDAMquAwPY)
+1. 📄 [**Управление памятью в ОС**](https://bestprogrammer.ru/izuchenie/upravlenie-pamyatyu-v-operatsionnoj-sisteme)
+1. 📺 [**Как Linux работает с памятью** – YouTube](https://youtu.be/bhdkFPGhxfI)
+1. 📄 [**MMU в картинках** – harb.com](https://habr.com/ru/post/211150/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -645,12 +645,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Архитектура ЭВМ. Межпроцессное взаимодействие** – YouTube](https://youtu.be/XAODLLrV3uk)
-1. [**Основы программирования. Межпроцессное взаимодействие** – YouTube](https://youtu.be/Mz7UEdqbEpw)
-1. [**IPC: основы межпроцессного взаимодействия**](https://www.rsdn.org/article/baseserv/ipc.xml)
-1. [**Интерфейс сокетов | Курс "Компьютерные сети"** – YouTube](https://youtu.be/_vAjHdh92YU)
-1. [**Порты, сокеты, статика (для самых маленьких программистов)** – YouTube](https://youtu.be/-bLRj0U-xhc)
-1. [**Разделяемая память. Семафоры** – YouTube](https://youtu.be/g_qco-EJqDM)
+1. 📺 [**Архитектура ЭВМ. Межпроцессное взаимодействие** – YouTube](https://youtu.be/XAODLLrV3uk)
+1. 📺 [**Основы программирования. Межпроцессное взаимодействие** – YouTube](https://youtu.be/Mz7UEdqbEpw)
+1. 📄 [**IPC: основы межпроцессного взаимодействия**](https://www.rsdn.org/article/baseserv/ipc.xml)
+1. 📺 [**Интерфейс сокетов | Курс "Компьютерные сети"** – YouTube](https://youtu.be/_vAjHdh92YU)
+1. 📺 [**Порты, сокеты, статика (для самых маленьких программистов)** – YouTube](https://youtu.be/-bLRj0U-xhc)
+1. 📺 [**Разделяемая память. Семафоры** – YouTube](https://youtu.be/g_qco-EJqDM)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -667,9 +667,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Ввод-вывод внутри компьютера** – YouTube](https://youtu.be/JkOB_eOgNXQ)
-1. [**Операционные системы: ввод и вывод** – YouTube](https://www.youtube.com/watch?v=hKbCuu5DGT0)
-1. [**Основные методы ввода-вывода (I/O)** – tproger.ru](https://tproger.ru/translations/diversity-of-input-output-io/)
+1. 📺 [**Ввод-вывод внутри компьютера** – YouTube](https://youtu.be/JkOB_eOgNXQ)
+1. 📺 [**Операционные системы: ввод и вывод** – YouTube](https://www.youtube.com/watch?v=hKbCuu5DGT0)
+1. 📄 [**Основные методы ввода-вывода (I/O)** – tproger.ru](https://tproger.ru/translations/diversity-of-input-output-io/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -723,8 +723,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Основные linux-команды для новичка** – habr.com](https://habr.com/ru/post/501442/)
-1. [**44 команды Linux которые вы должны знать** – losst.ru](https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat)
+1. 📄 [**Основные linux-команды для новичка** – habr.com](https://habr.com/ru/post/501442/)
+1. 📄 [**44 команды Linux которые вы должны знать** – losst.ru](https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -749,8 +749,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Как пользоваться apt** – losst.ru](https://losst.ru/kak-polzovatsya-apt)
-1. [**Использование APT. Команды apt и apt-get** – pingvinus.ru](https://pingvinus.ru/note/apt)
+1. 📄 [**Как пользоваться apt** – losst.ru](https://losst.ru/kak-polzovatsya-apt)
+1. 📄 [**Использование APT. Команды apt и apt-get** – pingvinus.ru](https://pingvinus.ru/note/apt)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -781,8 +781,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Основы работы с Bash** – YouTube](https://youtube.com/playlist?list=PLR-hhxrErPAXqI1b4paqCKhWPoXMRLj_G)
-1. [**Шпаргалка оп Bash** – quickref.me](https://quickref.me/bash)
+1. 📺 [**Основы работы с Bash** – YouTube](https://youtube.com/playlist?list=PLR-hhxrErPAXqI1b4paqCKhWPoXMRLj_G)
+1. 📄 [**Шпаргалка оп Bash** – quickref.me](https://quickref.me/bash)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -834,9 +834,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [Права доступа в Linux – younglinux.info](https://younglinux.info/bash/rwx)
-1. [Управление доступом в Linux](https://zinvapel.github.io/it/tools/2018/01/10/linux-users/)
-1. [Команда chmod – изменение прав доступа – younglinux.info](https://younglinux.info/bash/chmod)
+1. 📄 [Права доступа в Linux – younglinux.info](https://younglinux.info/bash/rwx)
+1. 📄 [Управление доступом в Linux](https://zinvapel.github.io/it/tools/2018/01/10/linux-users/)
+1. 📄 [Команда chmod – изменение прав доступа – younglinux.info](https://younglinux.info/bash/chmod)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -860,7 +860,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Работа с процессами в Linux** – YouTube](https://www.youtube.com/watch?v=Y4W_rJStNSA)
+1. 📺 [**Работа с процессами в Linux** – YouTube](https://www.youtube.com/watch?v=Y4W_rJStNSA)
 1. [**Шпаргалка по работе процессами в Linux**](https://www.dmosk.ru/miniinstruktions.php?mini=processes-linux)
 </details>
 
@@ -883,9 +883,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое протокол SSH**](https://guides.hexlet.io/ru/ssh/)
-1. [**Как пользоваться SSH** – losst.ru](https://losst.ru/kak-polzovatsya-ssh)
-1. [**Настраиваем аутентификацию SSH по ключу в Linux** – YouTube](https://youtu.be/IVHv3eVQa14)
+1. 📄 [**Что такое протокол SSH**](https://guides.hexlet.io/ru/ssh/)
+1. 📄 [**Как пользоваться SSH** – losst.ru](https://losst.ru/kak-polzovatsya-ssh)
+1. 📺 [**Настраиваем аутентификацию SSH по ключу в Linux** – YouTube](https://youtu.be/IVHv3eVQa14)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -899,9 +899,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Использование Cron для автоматизации задач** – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-ru)
-1. [**Crontab: запуск задач по расписанию** – YouTube](https://youtu.be/52-eyCp56ew)
-1. [**Удобный онлайн-редактор для crontab**](https://crontab.guru/)
+1. 📄 [**Использование Cron для автоматизации задач** – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-ru)
+1. 📺 [**Crontab: запуск задач по расписанию** – YouTube](https://youtu.be/52-eyCp56ew)
+1. 📄 [**Удобный онлайн-редактор для crontab**](https://crontab.guru/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -930,15 +930,15 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое логирование**](https://guides.hexlet.io/ru/logging/)
-1. [**Как посмотреть логи в Linux** – losst.ru](https://losst.ru/kak-posmotret-logi-v-linux)
-1. [**Лог файлы Linux по порядку** – habr.com](https://habr.com/ru/post/332502/)
-1. [**Что такое «управление конфигурацией»**](https://guides.hexlet.io/ru/configuration-management/)
-1. [**Туториал по системным логам Linux**](https://proglib.io/p/pomedlennee-ya-zapisyvayu-tutorial-po-sistemnym-logam-linux-2020-07-09)
-1. [**Логи Linux. Всё о логах и журналировании**](https://hacker-basement.ru/2021/04/24/logi-linux-jurnalirovanie/)
-1. [**Документация по lnav на русском**](https://akawah.ru/linux/lnav.html)
-1. [**Ротация логов в Linux с помощью logrotate**](https://www.dmosk.ru/miniinstruktions.php?mini=logrotate-linux)
-1. [**Использование journalctl для просмотра и анализа логов: подробный гайд** – habr.com](https://habr.com/ru/company/ruvds/blog/533918/)
+1. 📄 [**Что такое логирование**](https://guides.hexlet.io/ru/logging/)
+1. 📄 [**Как посмотреть логи в Linux** – losst.ru](https://losst.ru/kak-posmotret-logi-v-linux)
+1. 📄 [**Лог файлы Linux по порядку** – habr.com](https://habr.com/ru/post/332502/)
+1. 📄 [**Что такое «управление конфигурацией»**](https://guides.hexlet.io/ru/configuration-management/)
+1. 📄 [**Туториал по системным логам Linux**](https://proglib.io/p/pomedlennee-ya-zapisyvayu-tutorial-po-sistemnym-logam-linux-2020-07-09)
+1. 📄 [**Логи Linux. Всё о логах и журналировании**](https://hacker-basement.ru/2021/04/24/logi-linux-jurnalirovanie/)
+1. 📄 [**Документация по lnav на русском**](https://akawah.ru/linux/lnav.html)
+1. 📄 [**Ротация логов в Linux с помощью logrotate**](https://www.dmosk.ru/miniinstruktions.php?mini=logrotate-linux)
+1. 📄 [**Использование journalctl для просмотра и анализа логов: подробный гайд** – habr.com](https://habr.com/ru/company/ruvds/blog/533918/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -958,8 +958,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Исправление ошибок в Linux** – losst.ru](https://losst.ru/ispravlenie-oshibok-linux)
-1. [**Segmentation Fault (распределение памяти компьютера)** – habr.com](https://habr.com/ru/company/nix/blog/277759/)
+1. 📄 [**Исправление ошибок в Linux** – losst.ru](https://losst.ru/ispravlenie-oshibok-linux)
+1. 📄 [**Segmentation Fault (распределение памяти компьютера)** – habr.com](https://habr.com/ru/company/nix/blog/277759/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -995,10 +995,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Системы счисления: полный гайд**](https://guides.hexlet.io/ru/numeral-systems/)
-1. [**Двоичная система счисления. Самое простое объяснение** – YouTube](https://youtu.be/RcxvcLl1nAs)
-1. [**Системы счисления с нуля | Основы программирования** – YouTube](https://youtu.be/kG_ipMygRUc)
-1. [**Перевод чисел между системами счисления** – YouTube](https://youtu.be/fAmuiQxqWZs)
+1. 📄 [**Системы счисления: полный гайд**](https://guides.hexlet.io/ru/numeral-systems/)
+1. 📺 [**Двоичная система счисления. Самое простое объяснение** – YouTube](https://youtu.be/RcxvcLl1nAs)
+1. 📺 [**Системы счисления с нуля | Основы программирования** – YouTube](https://youtu.be/kG_ipMygRUc)
+1. 📺 [**Перевод чисел между системами счисления** – YouTube](https://youtu.be/fAmuiQxqWZs)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1021,8 +1021,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Конъюнкция, дизъюнкция, импликация, эквиваленция, отрицание. На примерах из жизни** – YouTube](https://youtu.be/IF7Blq2TT6s)
-1. [**Логические основы алгоритмизации** – GitHub](https://github.com/kolei/OAP/blob/master/articles/t1l3.md)
+1. 📺 [**Конъюнкция, дизъюнкция, импликация, эквиваленция, отрицание. На примерах из жизни** – YouTube](https://youtu.be/IF7Blq2TT6s)
+1. 📄 [**Логические основы алгоритмизации** – GitHub](https://github.com/kolei/OAP/blob/master/articles/t1l3.md)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1067,11 +1067,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**8 структур данных, которые должен знать каждый программист**](https://blog.askmentor.io/8-data-structure-everybody-should-know/)
-1. [**Структуры данных для самых маленьких** – habr.com](https://habr.com/ru/post/310794/)
-1. [**Обзор наиболее часто используемых структур данных** – habr.com](https://habr.com/ru/post/128457/)
-1. [**Как работает стек** – YouTube](https://www.youtube.com/watch?v=MXoMuymbfo8)
-1. [**Хэш-таблицы за 10 минут** – YouTube](https://youtu.be/0UX4MIfOMEs)
+1. 📄 [**8 структур данных, которые должен знать каждый программист**](https://blog.askmentor.io/8-data-structure-everybody-should-know/)
+1. 📄 [**Структуры данных для самых маленьких** – habr.com](https://habr.com/ru/post/310794/)
+1. 📄 [**Обзор наиболее часто используемых структур данных** – habr.com](https://habr.com/ru/post/128457/)
+1. 📺 [**Как работает стек** – YouTube](https://www.youtube.com/watch?v=MXoMuymbfo8)
+1. 📺 [**Хэш-таблицы за 10 минут** – YouTube](https://youtu.be/0UX4MIfOMEs)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1099,14 +1099,14 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Алгоритмы и структуры данных. Подготовительный курс (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
-1. [**Сортировки выбором** – habr.com](https://habr.com/ru/post/422085/)
-1. [**Рекурсия. Занимательные задачки** – habr.com](https://habr.com/ru/post/275813/)
-1. [**Пузырьковая сортировка и все-все-все** – habr.com](https://habr.com/ru/post/204600/)
-1. [**Алгоритм Дейкстры** – habr.com](https://habr.com/ru/post/111361/)
-1. [**Жадные алгоритмы** – habr.com](https://habr.com/ru/post/120343/)
-1. [**Сайт с алгоритмами и структурами данных**](https://ru.algorithmica.org/)
-1. [**Большая коллекция алгоритмов** – GitHub](https://github.com/trekhleb/javascript-algorithms)
+1. 📺 [**Алгоритмы и структуры данных. Подготовительный курс (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
+1. 📄 [**Сортировки выбором** – habr.com](https://habr.com/ru/post/422085/)
+1. 📄 [**Рекурсия. Занимательные задачки** – habr.com](https://habr.com/ru/post/275813/)
+1. 📄 [**Пузырьковая сортировка и все-все-все** – habr.com](https://habr.com/ru/post/204600/)
+1. 📄 [**Алгоритм Дейкстры** – habr.com](https://habr.com/ru/post/111361/)
+1. 📄 [**Жадные алгоритмы** – habr.com](https://habr.com/ru/post/120343/)
+1. 📄 [**Сайт с алгоритмами и структурами данных**](https://ru.algorithmica.org/)
+1. 📄 [**Большая коллекция алгоритмов** – GitHub](https://github.com/trekhleb/javascript-algorithms)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1129,8 +1129,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Сложность алгоритмов. Big O. Основы**](https://bimlibik.github.io/posts/complexity-of-algorithms/)
-1. [**Шпаргалка по Big O**](https://www.bigocheatsheet.com/)
+1. 📄 [**Сложность алгоритмов. Big O. Основы**](https://bimlibik.github.io/posts/complexity-of-algorithms/)
+1. 📄 [**Шпаргалка по Big O**](https://www.bigocheatsheet.com/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1158,12 +1158,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Форматы сериализации данных** – habr.com](https://habr.com/ru/company/infowatch/blog/312320/)
-1. [**Введение в JSON** – medium.org](https://medium.com/@stasonmars/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-json-c798d2723107)
-1. [**Работа с JSON** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON)
-1. [**Краткое руководство по XML**](https://xml.readthedocs.io/xml-intro.html)
-1. [**YAML за 5 минут: синтаксис и основные возможности** – tproger.ru](https://tproger.ru/translations/yaml-za-5-minut-sintaksis-i-osnovnye-vozmozhnosti/)
-1. [**Universal Binary JSON — ещё один бинарный JSON** – habr.com](https://habr.com/ru/post/130112/)
+1. 📄 [**Форматы сериализации данных** – habr.com](https://habr.com/ru/company/infowatch/blog/312320/)
+1. 📄 [**Введение в JSON** – medium.org](https://medium.com/@stasonmars/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-json-c798d2723107)
+1. 📄 [**Работа с JSON** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON)
+1. 📄 [**Краткое руководство по XML**](https://xml.readthedocs.io/xml-intro.html)
+1. 📄 [**YAML за 5 минут: синтаксис и основные возможности** – tproger.ru](https://tproger.ru/translations/yaml-za-5-minut-sintaksis-i-osnovnye-vozmozhnosti/)
+1. 📄 [**Universal Binary JSON — ещё один бинарный JSON** – habr.com](https://habr.com/ru/post/130112/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
