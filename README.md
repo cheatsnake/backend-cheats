@@ -1184,10 +1184,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое кодировки**](https://guides.hexlet.io/ru/encoding/)
-1. [**Как работают кодировки текста. Откуда появляются «кракозябры»** – habr.com](https://habr.com/ru/post/478636)
-1. [**Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом** – habr.com](https://habr.com/ru/post/158639/)
-1. [**Символы Unicode: о чём должен знать каждый разработчик** – habr.com](https://habr.com/ru/company/vk/blog/547084/)
+1. 📄 [**Что такое кодировки**](https://guides.hexlet.io/ru/encoding/)
+1. 📄 [**Как работают кодировки текста. Откуда появляются «кракозябры»** – habr.com](https://habr.com/ru/post/478636)
+1. 📄 [**Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом** – habr.com](https://habr.com/ru/post/158639/)
+1. 📄 [**Символы Unicode: о чём должен знать каждый разработчик** – habr.com](https://habr.com/ru/company/vk/blog/547084/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1235,9 +1235,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Языки программирования: критерии выбора** – YouTube](https://youtu.be/T70qJndjYi0)
-1. [**Что такое компилятор**](https://guides.hexlet.io/ru/compiler/)
-1. [**Что такое интерпретатор**](https://guides.hexlet.io/ru/interpreter/)
+1. 📺 [**Языки программирования: критерии выбора** – YouTube](https://youtu.be/T70qJndjYi0)
+1. 📄 [**Что такое компилятор**](https://guides.hexlet.io/ru/compiler/)
+1. 📄 [**Что такое интерпретатор**](https://guides.hexlet.io/ru/interpreter/)
 </details>
 
 -   ### Методы программирования
@@ -1281,7 +1281,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [METANIT – лучший русскоязычный ресурс по основам почти любого ЯП](https://metanit.com/)
+1. 📄 [METANIT – лучший русскоязычный ресурс по основам почти любого ЯП](https://metanit.com/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1329,10 +1329,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Race condition в веб-приложениях** – habr.com](https://habr.com/ru/post/460339/)
-1. [**Знакомство с уровнями распараллеливания** – ](https://habr.com/ru/company/intel/blog/80342/)
-1. [**Атомарные и неатомарные операции** – habr.com](https://habr.com/ru/post/244881/)
-1. [**Многопоточность, общие данные и мьютексы** – habr.com](https://habr.com/ru/post/72929/)
+1. 📄 [**Race condition в веб-приложениях** – habr.com](https://habr.com/ru/post/460339/)
+1. 📄 [**Знакомство с уровнями распараллеливания** – ](https://habr.com/ru/company/intel/blog/80342/)
+1. 📄 [**Атомарные и неатомарные операции** – habr.com](https://habr.com/ru/post/244881/)
+1. 📄 [**Многопоточность, общие данные и мьютексы** – habr.com](https://habr.com/ru/post/72929/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1371,11 +1371,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Практика хорошего кода** – habr.com](https://habr.com/ru/post/206868/)
-1. [**Принципы для разработки: KISS, DRY, YAGNI...** – habr.com](https://habr.com/ru/company/itelma/blog/546372/)
-1. [**Простое объяснение принципов SOLID** – habr.com](https://habr.com/ru/company/vk/blog/412699/)
-1. [**Принципы SOLID, о которых должен знать каждый разработчик** – medium.com](https://medium.com/webbdev/solid-4ffc018077da)
-1. [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
+1. 📄 [**Практика хорошего кода** – habr.com](https://habr.com/ru/post/206868/)
+1. 📄 [**Принципы для разработки: KISS, DRY, YAGNI...** – habr.com](https://habr.com/ru/company/itelma/blog/546372/)
+1. 📄 [**Простое объяснение принципов SOLID** – habr.com](https://habr.com/ru/company/vk/blog/412699/)
+1. 📄 [**Принципы SOLID, о которых должен знать каждый разработчик** – medium.com](https://medium.com/webbdev/solid-4ffc018077da)
+1. 📄 [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1406,12 +1406,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Зачем нужны базы данных**](https://thecode.media/db/)
-1. [**Выбираем базу данных** – medium.com](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D0%B1%D0%B0%D0%B7%D1%83-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-62b0747f7f47)
-1. [**Базы данных: большой обзор типов и подходов** – habr.com](https://habr.com/ru/company/yandex/blog/522164/?)
-1. [**Курс: Использование баз данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9reQb3ZXLWVaEu2CM3R54ho)
-1. [**Курс: Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb)
-1. [**Базы данных для программиста** – YouTube](https://www.youtube.com/playlist?list=PLmqFxxywkatS8Hfj6-aYgXfrpvV6OoKSc)
+1. 📄 [**Зачем нужны базы данных**](https://thecode.media/db/)
+1. 📄 [**Выбираем базу данных** – medium.com](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D0%B1%D0%B0%D0%B7%D1%83-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-62b0747f7f47)
+1. 📄 [**Базы данных: большой обзор типов и подходов** – habr.com](https://habr.com/ru/company/yandex/blog/522164/?)
+1. 📺 [**Курс: Использование баз данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9reQb3ZXLWVaEu2CM3R54ho)
+1. 📺 [**Курс: Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb)
+1. 📺 [**Базы данных для программиста** – YouTube](https://www.youtube.com/playlist?list=PLmqFxxywkatS8Hfj6-aYgXfrpvV6OoKSc)
 </details>
 
 
@@ -1587,10 +1587,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое SQL и реляционные базы данных** – YouTube](https://youtu.be/GQfC0nYrto8)
-1. [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
-1. [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
-1. [**Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
+1. 📺 [**Что такое SQL и реляционные базы данных** – YouTube](https://youtu.be/GQfC0nYrto8)
+1. 📺 [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
+1. 📺 [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
+1. 📺 [**Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1665,10 +1665,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое NoSQL за 6 минут** – YouTube](https://youtu.be/Xu4S2OX8Gb4)
-1. [**Руководство по MongoDB** – metanit.com](https://metanit.com/nosql/mongodb/)
-1. [**Большой курс по MongoDB: Агрегация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-mongodb-cab518a8f2fe)
-1. [**Большой курс по MongoDB: Индексация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c0ab21a16d71)
+1. 📺 [**Что такое NoSQL за 6 минут** – YouTube](https://youtu.be/Xu4S2OX8Gb4)
+1. 📄 [**Руководство по MongoDB** – metanit.com](https://metanit.com/nosql/mongodb/)
+1. 📄 [**Большой курс по MongoDB: Агрегация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-mongodb-cab518a8f2fe)
+1. 📄 [**Большой курс по MongoDB: Индексация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c0ab21a16d71)
 </details>
 
 
@@ -1690,10 +1690,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое ACID за 9 минут** – YouTube](https://youtu.be/vFmajCQ7Wuc)
-1. [**Как бы я сейчас объяснил молодому себе… зачем существуют требования ACID для баз данных?** – habr.com](https://habr.com/ru/post/535616/)
-1. [**Что такое ACID? | Самый частый вопрос бэкендеру** – YouTube](https://youtu.be/gOB3hpAVIIQ)
-1. [**Использование баз данных. ACID. | Технострим** – YouTube](https://youtu.be/zGwYCPE-TRQ)
+1. 📺 [**Что такое ACID за 9 минут** – YouTube](https://youtu.be/vFmajCQ7Wuc)
+1. 📄 [**Как бы я сейчас объяснил молодому себе… зачем существуют требования ACID для баз данных?** – habr.com](https://habr.com/ru/post/535616/)
+1. 📺 [**Что такое ACID? | Самый частый вопрос бэкендеру** – YouTube](https://youtu.be/gOB3hpAVIIQ)
+1. 📺 [**Использование баз данных. ACID. | Технострим** – YouTube](https://youtu.be/zGwYCPE-TRQ)
 </details>
 
 
@@ -1722,14 +1722,14 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое API**](https://guides.hexlet.io/ru/http-api/)
-1. [**Что такое REST API**](https://guides.hexlet.io/ru/rest-api/)
-1. [**Что такое REST API** – YouTube](https://www.youtube.com/watch?v=J4Fy6lmLBr0)
-1. [**Что такое CRUD за 6 минут** – YouTube](https://youtu.be/vD0X5Zm9Gjo)
-1. [**Основы REST: теория и практика** – tproger.ru](https://tproger.ru/articles/osnovy-rest-teorija-i-praktika/)
-1. [**REST API Best Practices** – habr.com](https://habr.com/ru/post/351890/)
-1. [**Версионирование API или единая кодовая база для всех версий** – habr.com](https://habr.com/ru/company/superjob/blog/577650/)
-1. [**JSON API – работаем по спецификации** – habr.com](https://habr.com/ru/company/oleg-bunin/blog/433322/)
+1. 📄 [**Что такое API**](https://guides.hexlet.io/ru/http-api/)
+1. 📄 [**Что такое REST API**](https://guides.hexlet.io/ru/rest-api/)
+1. 📺 [**Что такое REST API** – YouTube](https://www.youtube.com/watch?v=J4Fy6lmLBr0)
+1. 📺 [**Что такое CRUD за 6 минут** – YouTube](https://youtu.be/vD0X5Zm9Gjo)
+1. 📄 [**Основы REST: теория и практика** – tproger.ru](https://tproger.ru/articles/osnovy-rest-teorija-i-praktika/)
+1. 📄 [**REST API Best Practices** – habr.com](https://habr.com/ru/post/351890/)
+1. 📄 [**Версионирование API или единая кодовая база для всех версий** – habr.com](https://habr.com/ru/company/superjob/blog/577650/)
+1. 📄 [**JSON API – работаем по спецификации** – habr.com](https://habr.com/ru/company/oleg-bunin/blog/433322/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1754,9 +1754,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что же такое этот GraphQL?** – habr.com](https://habr.com/ru/post/326986/)
-1. [**Что такое GraphQL: с основ до первых запросов**](https://ru.hexlet.io/blog/posts/chto-takoe-graphql-s-osnov-do-pervyh-zaprosov)
-1. [**GraphQL vs REST - кто круче?** – YouTube](https://youtu.be/7fPcRouBVqo)
+1. 📄 [**Что же такое этот GraphQL?** – habr.com](https://habr.com/ru/post/326986/)
+1. 📄 [**Что такое GraphQL: с основ до первых запросов**](https://ru.hexlet.io/blog/posts/chto-takoe-graphql-s-osnov-do-pervyh-zaprosov)
+1. 📺 [**GraphQL vs REST - кто круче?** – YouTube](https://youtu.be/7fPcRouBVqo)
 </details>
 
 
@@ -1780,11 +1780,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое веб-сокеты за 4 минуты** – YouTube](https://youtu.be/WtF-wMzPtuM)
-1. [**Что такое Websocket? Websockets простыми словами** – YouTube](https://www.youtube.com/watch?v=SxMvxIHBahU)
-1. [**Web сокеты | Компьютерные сети. Продвинутые темы** – YouTube](https://www.youtube.com/watch?v=TxVriqBkqbM&t)
-1. [**Использование WebSockets в браузере** – learn.javascript.ru](https://learn.javascript.ru/websockets)
-1. [**WebSocket и HTTP/2+SSE. Что выбрать?** – habr.com](https://habr.com/ru/company/ruvds/blog/342346/)
+1. 📺 [**Что такое веб-сокеты за 4 минуты** – YouTube](https://youtu.be/WtF-wMzPtuM)
+1. 📺 [**Что такое Websocket? Websockets простыми словами** – YouTube](https://www.youtube.com/watch?v=SxMvxIHBahU)
+1. 📺 [**Web сокеты | Компьютерные сети. Продвинутые темы** – YouTube](https://www.youtube.com/watch?v=TxVriqBkqbM&t)
+1. 📄 [**Использование WebSockets в браузере** – learn.javascript.ru](https://learn.javascript.ru/websockets)
+1. 📄 [**WebSocket и HTTP/2+SSE. Что выбрать?** – habr.com](https://habr.com/ru/company/ruvds/blog/342346/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1804,10 +1804,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое gRPC за 10 минут** – YouTube](https://youtu.be/bfdF4AJELDc)
-1. [**RPC и REST — в чём разница? Часть 1: RPC** – habr.com](https://youtu.be/vmGdIkn0CK8)
-1. [**Введение в основы RPC: принципы и простые примеры**](https://russianblogs.com/article/9856396913/)
-1. [**Сравнение архитектурных стилей API: SOAP vs REST vs GraphQL vs RPC** – medium.com](https://medium.com/nuances-of-programming/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85-%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9-api-soap-vs-rest-vs-graphql-vs-rpc-68855deb3f4)
+1. 📺 [**Что такое gRPC за 10 минут** – YouTube](https://youtu.be/bfdF4AJELDc)
+1. 📄 [**RPC и REST — в чём разница? Часть 1: RPC** – habr.com](https://youtu.be/vmGdIkn0CK8)
+1. 📄 [**Введение в основы RPC: принципы и простые примеры**](https://russianblogs.com/article/9856396913/)
+1. 📄 [**Сравнение архитектурных стилей API: SOAP vs REST vs GraphQL vs RPC** – medium.com](https://medium.com/nuances-of-programming/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85-%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9-api-soap-vs-rest-vs-graphql-vs-rpc-68855deb3f4)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1819,9 +1819,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**WebRTC для всех и каждого** – habr.com](https://habr.com/ru/company/timeweb/blog/656947)
-1. [**WebRTC API** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/API/WebRTC_API)
-1. [**Оффициальный GitHub-репозиторий WebRTC** – GitHub](https://github.com/webrtc)
+1. 📄 [**WebRTC для всех и каждого** – habr.com](https://habr.com/ru/company/timeweb/blog/656947)
+1. 📄 [**WebRTC API** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/API/WebRTC_API)
+1. 📄 [**Оффициальный GitHub-репозиторий WebRTC** – GitHub](https://github.com/webrtc)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1869,11 +1869,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое Git и для чего он нужен**](https://guides.hexlet.io/ru/git-guide/)
-1. [**Основы Git, GitHub и GitHub Actions** – YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l)
-1. [**Git. Большой практический выпуск** – YouTube](https://youtu.be/SEvR78OhGtw)
-1. [**Шпаргалка по консольным командам Git** – GitHub](https://github.com/cyberspacedk/Git-commands)
-1. [**Полная книга про Git на русском**](https://git-scm.com/book/ru/v2)
+1. 📄 [**Что такое Git и для чего он нужен**](https://guides.hexlet.io/ru/git-guide/)
+1. 📺 [**Основы Git, GitHub и GitHub Actions** – YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l)
+1. 📺 [**Git. Большой практический выпуск** – YouTube](https://youtu.be/SEvR78OhGtw)
+1. 📄 [**Шпаргалка по консольным командам Git** – GitHub](https://github.com/cyberspacedk/Git-commands)
+1. 📄 [**Полная книга про Git на русском**](https://git-scm.com/book/ru/v2)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1928,12 +1928,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое виртуализация и для чего она нужна**](https://guides.hexlet.io/ru/virtualization/)
-1. [**Как и для чего использовать Docker**](https://guides.hexlet.io/ru/docker/)
-1. [**Docker для Начинающих. Полный Курс** – YouTube](https://youtu.be/n9uCgUzfeRQ)
-1. [**Полное практическое руководство по Docker** – habr.com](https://habr.com/ru/post/310460/)
-1. [**Изучаем Docker: файлы Dockerfile** – habr.com](https://habr.com/ru/company/ruvds/blog/439980/)
-1. [**Руководство по Docker Compose для начинающих** – habr.com](https://habr.com/ru/company/ruvds/blog/450312)
+1. 📄 [**Что такое виртуализация и для чего она нужна**](https://guides.hexlet.io/ru/virtualization/)
+1. 📄 [**Как и для чего использовать Docker**](https://guides.hexlet.io/ru/docker/)
+1. 📺 [**Docker для Начинающих. Полный Курс** – YouTube](https://youtu.be/n9uCgUzfeRQ)
+1. 📄 [**Полное практическое руководство по Docker** – habr.com](https://habr.com/ru/post/310460/)
+1. 📄 [**Изучаем Docker: файлы Dockerfile** – habr.com](https://habr.com/ru/company/ruvds/blog/439980/)
+1. 📄 [**Руководство по Docker Compose для начинающих** – habr.com](https://habr.com/ru/company/ruvds/blog/450312)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1950,9 +1950,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Уроки по тестированию в Postman (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLZqgWWF4O-zhpYUPLjpe2yfg93s1olElm)
-1. [**Insomnia. Инструмент для API тестирования** – YouTube](https://youtu.be/aXa_nQtDjUI)
-1. [**Insomnia docs на русском**](https://insomnia.w3ref.ru/insomnia/get-started/)
+1. 📺 [**Уроки по тестированию в Postman (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLZqgWWF4O-zhpYUPLjpe2yfg93s1olElm)
+1. 📺 [**Insomnia. Инструмент для API тестирования** – YouTube](https://youtu.be/aXa_nQtDjUI)
+1. 📄 [**Insomnia docs на русском**](https://insomnia.w3ref.ru/insomnia/get-started/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1968,15 +1968,15 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое веб сервер и для чего он нужен?** – YouTube](https://youtu.be/uFWyAn6E4BU)
-1. [**Что такое Nginx**](https://eternalhost.net/blog/sozdanie-saytov/chto-takoe-nginx?)
-1. [**Основы Nginx (плейлист)** – YouTube](https://youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
-1. [**NGINX изнутри: рожден для производительности и масштабирования** – habr.com](https://habr.com/ru/post/260065/)
-1. [**Что такое Apache**](https://eternalhost.net/blog/hosting/web-server-apache)
-1. [**Apache vs Nginx: практический взгляд** – habr.com](https://habr.com/ru/post/267721/)
-1. [**Установка web-сервера Apache на Linux Ubuntu и публикация web-сайта** – YouTube](https://youtu.be/XmN7FUIYycA)
-1. [**Web-технологии. Web сервера | Технострим** – YouTube](https://youtu.be/1Tp5TV3BVWE)
-1. [**Веб-сервер на Ubuntu 18 с нуля: nginx, HTTP/2, Brotli и HTTPS** – YouTube](https://youtu.be/oanbIqkS9LM)
+1. 📺 [**Что такое веб сервер и для чего он нужен?** – YouTube](https://youtu.be/uFWyAn6E4BU)
+1. 📄 [**Что такое Nginx**](https://eternalhost.net/blog/sozdanie-saytov/chto-takoe-nginx?)
+1. 📺 [**Основы Nginx (плейлист)** – YouTube](https://youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
+1. 📄 [**NGINX изнутри: рожден для производительности и масштабирования** – habr.com](https://habr.com/ru/post/260065/)
+1. 📄 [**Что такое Apache**](https://eternalhost.net/blog/hosting/web-server-apache)
+1. 📄 [**Apache vs Nginx: практический взгляд** – habr.com](https://habr.com/ru/post/267721/)
+1. 📺 [**Установка web-сервера Apache на Linux Ubuntu и публикация web-сайта** – YouTube](https://youtu.be/XmN7FUIYycA)
+1. 📺 [**Web-технологии. Web сервера | Технострим** – YouTube](https://youtu.be/1Tp5TV3BVWE)
+1. 📺 [**Веб-сервер на Ubuntu 18 с нуля: nginx, HTTP/2, Brotli и HTTPS** – YouTube](https://youtu.be/oanbIqkS9LM)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1998,16 +1998,16 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Системы доставки сообщений, для чего они нужны?** – YouTube](https://youtu.be/ygZ9LsJG7Dw)
-1. [**Что такое очередь сообщений?** – Amazon)](https://aws.amazon.com/ru/message-queue/)
-1. [**Понимание брокеров сообщений. Изучение механики обмена сообщениями** – habr.com](https://habr.com/ru/post/466385/)
-1. [**Микросервисы: Коммуникации через очередь сообщений** – YouTube](https://youtu.be/pCF-AeplALc)
-1. [**RabbitMQ Tutorial на русском (плейлист)** – YouTube](https://youtube.com/playlist?list=PLCpsrvs6hImZShRjUbqewZWgjJgU6SIvU)
-1. [**Что такое Apache Kafka за 5 минут** – YouTube](https://youtu.be/Mw9YFay8-WM)
-1. [**Apache Kafka: основы технологии** – habr.com](https://habr.com/ru/company/southbridge/blog/550934/)
-1. [**Про Kafka (основы)** – YouTube](https://youtu.be/-AZOi3kP9Js)
-1. [**Брокер сообщений Kafka в условиях повышенной нагрузки** – YouTube](https://youtu.be/BtmYjTO1EpI)
-1. [**Выбор MQ для высоконагруженного проекта** – habr.com](https://habr.com/ru/post/326880/)
+1. 📺 [**Системы доставки сообщений, для чего они нужны?** – YouTube](https://youtu.be/ygZ9LsJG7Dw)
+1. 📄 [**Что такое очередь сообщений?** – Amazon)](https://aws.amazon.com/ru/message-queue/)
+1. 📄 [**Понимание брокеров сообщений. Изучение механики обмена сообщениями** – habr.com](https://habr.com/ru/post/466385/)
+1. 📺 [**Микросервисы: Коммуникации через очередь сообщений** – YouTube](https://youtu.be/pCF-AeplALc)
+1. 📺 [**RabbitMQ Tutorial на русском (плейлист)** – YouTube](https://youtube.com/playlist?list=PLCpsrvs6hImZShRjUbqewZWgjJgU6SIvU)
+1. 📄 [**Что такое Apache Kafka за 5 минут** – YouTube](https://youtu.be/Mw9YFay8-WM)
+1. 📄 [**Apache Kafka: основы технологии** – habr.com](https://habr.com/ru/company/southbridge/blog/550934/)
+1. 📺 [**Про Kafka (основы)** – YouTube](https://youtu.be/-AZOi3kP9Js)
+1. 📺 [**Брокер сообщений Kafka в условиях повышенной нагрузки** – YouTube](https://youtu.be/BtmYjTO1EpI)
+1. 📄 [**Выбор MQ для высоконагруженного проекта** – habr.com](https://habr.com/ru/post/326880/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2027,7 +2027,7 @@
 
 1. [**Что такое CDN и как это работает?** – habr.com](https://habr.com/ru/company/selectel/blog/463915)
 1. [**Что такое CDN и как работает данная технология**](https://timeweb.com/ru/community/articles/chto-takoe-cdn-i-zachem-on-nuzhen)
-1. [**CDN своими руками** – YouTube](https://youtu.be/YSyQb2BKW9I)
+1. 📺 [**CDN своими руками** – YouTube](https://youtu.be/YSyQb2BKW9I)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2046,12 +2046,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Учебное пособие по кэшированию** – habr.com](https://habr.com/ru/post/203548/)
-1. [**Кэширование и производительность веб-приложений** – habr.com](https://habr.com/ru/company/ruvds/blog/350310/)
-1. [**Основы кеширования веб-приложений**](https://dev-gang.ru/article/osnovy-keshirovanija-vebprilozhenii-3hwgeivhpg/)
-1. [**HTTP-кеширование** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Web/HTTP/Caching)
-1. [**Четыре уровня кэширования в сети: клиентский, сетевой, серверный и уровень приложения** – tproger.ru](https://tproger.ru/translations/cache-levels-on-the-web/)
-1. [**«HTTP Strict-Transport-Security» или как обезопасить себя от атак «man-in-the-middle» и заставить браузер всегда использовать HTTPS** – habr.com](https://habr.com/ru/post/216751/)
+1. 📄 [**Учебное пособие по кэшированию** – habr.com](https://habr.com/ru/post/203548/)
+1. 📄 [**Кэширование и производительность веб-приложений** – habr.com](https://habr.com/ru/company/ruvds/blog/350310/)
+1. 📄 [**Основы кеширования веб-приложений**](https://dev-gang.ru/article/osnovy-keshirovanija-vebprilozhenii-3hwgeivhpg/)
+1. 📄 [**HTTP-кеширование** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Web/HTTP/Caching)
+1. 📄 [**Четыре уровня кэширования в сети: клиентский, сетевой, серверный и уровень приложения** – tproger.ru](https://tproger.ru/translations/cache-levels-on-the-web/)
+1. 📄 [**«HTTP Strict-Transport-Security» или как обезопасить себя от атак «man-in-the-middle» и заставить браузер всегда использовать HTTPS** – habr.com](https://habr.com/ru/post/216751/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2089,12 +2089,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое Redis** – Amazon](https://aws.amazon.com/ru/redis/)
-1. [**Redis - основы и практическое использование** – YouTube](https://youtu.be/AimUYjKs3pQ)
-1. [**Структуры данных, используемые в Redis** – harb.com](https://habr.com/ru/post/144054/)
-1. [**Базы данных. NoSQL. Redis** – YouTube](https://youtu.be/cSghexeHlDI)
-1. [**HighLoad: Успехи и провалы с Redis** – YouTube](https://youtu.be/JBIm4sglyQU)
-1. [**Опыт использования Redis в качестве главного хранилища** – habr.com](https://habr.com/ru/post/178525/)
+1. 📄 [**Что такое Redis** – Amazon](https://aws.amazon.com/ru/redis/)
+1. 📺 [**Redis - основы и практическое использование** – YouTube](https://youtu.be/AimUYjKs3pQ)
+1. 📄 [**Структуры данных, используемые в Redis** – harb.com](https://habr.com/ru/post/144054/)
+1. 📺 [**Базы данных. NoSQL. Redis** – YouTube](https://youtu.be/cSghexeHlDI)
+1. 📺 [**HighLoad: Успехи и провалы с Redis** – YouTube](https://youtu.be/JBIm4sglyQU)
+1. 📄 [**Опыт использования Redis в качестве главного хранилища** – habr.com](https://habr.com/ru/post/178525/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2106,8 +2106,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое Memcached?** – Amazon](https://aws.amazon.com/ru/memcached/)
-1. [**Сравниваем Redis и Memcached, плюсы и минусы этих решений** – YouTube](https://youtu.be/sYamcfYati8)
+1. 📄 [**Что такое Memcached?** – Amazon](https://aws.amazon.com/ru/memcached/)
+1. 📺 [**Сравниваем Redis и Memcached, плюсы и минусы этих решений** – YouTube](https://youtu.be/sYamcfYati8)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2132,15 +2132,15 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Веб-безопасность** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/Server-side/First_steps/Website_security)
-1. [**Безопасность веб-приложений: от уязвимостей до мониторинга** – habr.com](https://habr.com/ru/company/pentestit/blog/526878/)
-1. [**Безопасность: уязвимости вашего приложения** – YouTube](https://youtu.be/2gthjl2Lks4)
-1. [**Как защитить веб-приложение: основные советы, инструменты, полезные ссылки** – tproger.ru](https://tproger.ru/translations/webapp-security/)
-1. [**Что такое XSS-уязвимость и как тестировщику не пропустить ее** – habr.com](https://habr.com/ru/post/511318/)
-1. [**DDoS-атаки: нападение и защита** – habr.com](https://habr.com/ru/company/ruvds/blog/321992/)
-1. [**Безопасность Web-приложений (плейлист)** – YouTube](https://youtube.com/playlist?list=PLp2kHCN7pLe1azEbJa5ucnLpD0nGex0tg)
-1. [**Безопасность интернет-приложений (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon)
-1. [**Аналитика уязвимостей и угроз веб-приложений за 2019 год**](https://www.ptsecurity.com/ru-ru/research/analytics/web-vulnerabilities-2020/)
+1. 📄 [**Веб-безопасность** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/Server-side/First_steps/Website_security)
+1. 📄 [**Безопасность веб-приложений: от уязвимостей до мониторинга** – habr.com](https://habr.com/ru/company/pentestit/blog/526878/)
+1. 📺 [**Безопасность: уязвимости вашего приложения** – YouTube](https://youtu.be/2gthjl2Lks4)
+1. 📄 [**Как защитить веб-приложение: основные советы, инструменты, полезные ссылки** – tproger.ru](https://tproger.ru/translations/webapp-security/)
+1. 📄 [**Что такое XSS-уязвимость и как тестировщику не пропустить ее** – habr.com](https://habr.com/ru/post/511318/)
+1. 📄 [**DDoS-атаки: нападение и защита** – habr.com](https://habr.com/ru/company/ruvds/blog/321992/)
+1. 📺 [**Безопасность Web-приложений (плейлист)** – YouTube](https://youtube.com/playlist?list=PLp2kHCN7pLe1azEbJa5ucnLpD0nGex0tg)
+1. 📺 [**Безопасность интернет-приложений (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon)
+1. 📄 [**Аналитика уязвимостей и угроз веб-приложений за 2019 год**](https://www.ptsecurity.com/ru-ru/research/analytics/web-vulnerabilities-2020/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2173,15 +2173,15 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Что такое криптография?**](https://guides.hexlet.io/ru/cryptography/)
-1. [**Хеш-функция, что это такое?** – habr.com](https://habr.com/ru/post/534596/)
-1. [**Что такое ХЭШ функция? | Хеширование** – YouTube](https://youtu.be/Bul0XYMa8Jg)
-1. [**Hash/Хеш - просто о сложном** – YouTube](https://youtu.be/oPknb1k4elE)
-1. [**Как работает SHA256** – YouTube](https://youtu.be/8vg5B2O4RPk)
-1. [**«Привет, мир»: разбираем каждый шаг хэш-алгоритма SHA-256** – habr.com](https://habr.com/ru/company/selectel/blog/530262/)
-1. [**Все методы взлома MD5**](https://xakep.ru/2013/10/13/md5-hack/)
-1. [**CRC: как защитить программу**](https://xakep.ru/2004/03/30/21788/)
-1. [**Простой расчет контрольной суммы** – habr.com](https://habr.com/ru/post/278171/)
+1. 📄 [**Что такое криптография?**](https://guides.hexlet.io/ru/cryptography/)
+1. 📄 [**Хеш-функция, что это такое?** – habr.com](https://habr.com/ru/post/534596/)
+1. 📺 [**Что такое ХЭШ функция? | Хеширование** – YouTube](https://youtu.be/Bul0XYMa8Jg)
+1. 📺 [**Hash/Хеш - просто о сложном** – YouTube](https://youtu.be/oPknb1k4elE)
+1. 📺 [**Как работает SHA256** – YouTube](https://youtu.be/8vg5B2O4RPk)
+1. 📄 [**«Привет, мир»: разбираем каждый шаг хэш-алгоритма SHA-256** – habr.com](https://habr.com/ru/company/selectel/blog/530262/)
+1. 📄 [**Все методы взлома MD5**](https://xakep.ru/2013/10/13/md5-hack/)
+1. 📄 [**CRC: как защитить программу**](https://xakep.ru/2004/03/30/21788/)
+1. 📄 [**Простой расчет контрольной суммы** – habr.com](https://habr.com/ru/post/278171/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2209,16 +2209,16 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Аутентификация и авторизация в микросервисных приложениях** – habr.com](https://habr.com/ru/company/dataart/blog/311376/)
-1. [**Обзор способов и протоколов аутентификации в веб-приложениях** – habr.com](https://habr.com/ru/company/dataart/blog/262817/)
-1. [**Как работает single sign-on (технология единого входа)?** – habr.com](https://habr.com/ru/company/nixys/blog/563244/)
-1. [**Как работает OAuth 2 - введение (просто и понятно)** – YouTube](https://youtu.be/DilydjvgVbo)
-1. [**OAuth 2.0 простым и понятным языком** – habr.com](https://habr.com/ru/company/vk/blog/115163/)
-1. [**OpenID Connect. Теория** – YouTube](https://youtu.be/KkIsn7bvUbQ)
-1. [**OpenID Connect простыми словами** – habr.com](https://habr.com/ru/company/nixys/blog/566910/)
-1. [**Пять простых шагов для понимания JSON Web Tokens (JWT)** – habr.com](https://habr.com/ru/post/340146/)
-1. [**Виды авторизации: сессии, JWT-токены. Для чего нужны сессии? Как работает JWT?** – YouTube](https://youtu.be/q0u4yRUSDzI)
-1. [**JWT. Часть 1. Теория** – YouTube](https://youtu.be/vQldMjSJ6-w)
+1. 📄 [**Аутентификация и авторизация в микросервисных приложениях** – habr.com](https://habr.com/ru/company/dataart/blog/311376/)
+1. 📄 [**Обзор способов и протоколов аутентификации в веб-приложениях** – habr.com](https://habr.com/ru/company/dataart/blog/262817/)
+1. 📄 [**Как работает single sign-on (технология единого входа)?** – habr.com](https://habr.com/ru/company/nixys/blog/563244/)
+1. 📺 [**Как работает OAuth 2 - введение (просто и понятно)** – YouTube](https://youtu.be/DilydjvgVbo)
+1. 📄 [**OAuth 2.0 простым и понятным языком** – habr.com](https://habr.com/ru/company/vk/blog/115163/)
+1. 📺 [**OpenID Connect. Теория** – YouTube](https://youtu.be/KkIsn7bvUbQ)
+1. 📄 [**OpenID Connect простыми словами** – habr.com](https://habr.com/ru/company/nixys/blog/566910/)
+1. 📄 [**Пять простых шагов для понимания JSON Web Tokens (JWT)** – habr.com](https://habr.com/ru/post/340146/)
+1. 📺 [**Виды авторизации: сессии, JWT-токены. Для чего нужны сессии? Как работает JWT?** – YouTube](https://youtu.be/q0u4yRUSDzI)
+1. 📺 [**JWT. Часть 1. Теория** – YouTube](https://youtu.be/vQldMjSJ6-w)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2230,12 +2230,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Протоколы TLS/SSL | Защищенные сетевые протоколы** – YouTube](https://youtu.be/LTLqazCztnc)
-1. [**Как это работает: знакомство с SSL/TLS** – habr.com](https://habr.com/ru/company/1cloud/blog/326292/)
-1. [**TLS/SSL сертификаты и с чем их едят** – YouTube](https://youtu.be/W9M40MdlvSg)
-1. [**Как HTTPS обеспечивает безопасность соединения** – habr.com](https://habr.com/ru/post/188042/)
-1. [**Шифрование в TLS/SSL | Защищенные сетевые протоколы** – YouTube](https://youtu.be/kCkQRH5eweg)
-1. [**Как получить и настроить LetsEncrypt SSL сертификат для сайта?** – YouTube](https://youtu.be/1wnOw1vwPEo)
+1. 📺 [**Протоколы TLS/SSL | Защищенные сетевые протоколы** – YouTube](https://youtu.be/LTLqazCztnc)
+1. 📄 [**Как это работает: знакомство с SSL/TLS** – habr.com](https://habr.com/ru/company/1cloud/blog/326292/)
+1. 📺 [**TLS/SSL сертификаты и с чем их едят** – YouTube](https://youtu.be/W9M40MdlvSg)
+1. 📄 [**Как HTTPS обеспечивает безопасность соединения** – habr.com](https://habr.com/ru/post/188042/)
+1. 📺 [**Шифрование в TLS/SSL | Защищенные сетевые протоколы** – YouTube](https://youtu.be/kCkQRH5eweg)
+1. 📺 [**Как получить и настроить LetsEncrypt SSL сертификат для сайта?** – YouTube](https://youtu.be/1wnOw1vwPEo)
 </details>
  
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2253,9 +2253,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Юнит-тестирование для чайников** – habr.com](https://habr.com/ru/post/169381/)
-1. [**Unit tests - модульное тестирование** – YouTube](https://youtu.be/6whsUwWYYVk)
-1. [**Когда использовать mocks в юнит-тестировании** – habr.com](https://habr.com/ru/post/577424/)
+1. 📄 [**Юнит-тестирование для чайников** – habr.com](https://habr.com/ru/post/169381/)
+1. 📺 [**Unit tests - модульное тестирование** – YouTube](https://youtu.be/6whsUwWYYVk)
+1. 📄 [**Когда использовать mocks в юнит-тестировании** – habr.com](https://habr.com/ru/post/577424/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2267,9 +2267,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Для чего нужно интеграционное тестирование?** – habr.com](https://habr.com/ru/post/556002/)
-1. [**Интеграционное тестирование: полный обзор**](https://www.andreyolegovich.ru/qa/theory/integration.php)
-1. [**Доклад: Интеграционное тестирование** – YouTube](https://youtu.be/BzDzFrhWEHE)
+1. 📄 [**Для чего нужно интеграционное тестирование?** – habr.com](https://habr.com/ru/post/556002/)
+1. 📄 [**Интеграционное тестирование: полный обзор**](https://www.andreyolegovich.ru/qa/theory/integration.php)
+1. 📺 [**Доклад: Интеграционное тестирование** – YouTube](https://youtu.be/BzDzFrhWEHE)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2281,9 +2281,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Сквозное тестирование (end-to-end): что, зачем, почему** – habr.com](https://habr.com/ru/post/417395/)
-1. [**Про пользу E2E тестирования** – habr.com](https://habr.com/ru/post/525934/)
-1. [**Доклад: End to End – the right way!** – YouTube](https://youtu.be/FlQLUsczSLQ)
+1. 📄 [**Сквозное тестирование (end-to-end): что, зачем, почему** – habr.com](https://habr.com/ru/post/417395/)
+1. 📄 [**Про пользу E2E тестирования** – habr.com](https://habr.com/ru/post/525934/)
+1. 📺 [**Доклад: End to End – the right way!** – YouTube](https://youtu.be/FlQLUsczSLQ)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2304,10 +2304,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Поговорим о нагрузочном тестировании** – habr.com](https://habr.com/ru/company/veeam/blog/578942/)
-1. [**Обзор инструментария для нагрузочного и перформанс-тестирования** – habr.com](https://habr.com/ru/company/jugru/blog/337928/)
-1. [**Приручаем JMeter** – habr.com](https://habr.com/ru/post/261483/)
-1. [**Нагрузочное тестирование на Gatling — Полное руководство** – habr.com](https://habr.com/ru/company/otus/blog/552846/)
+1. 📄 [**Поговорим о нагрузочном тестировании** – habr.com](https://habr.com/ru/company/veeam/blog/578942/)
+1. 📄 [**Обзор инструментария для нагрузочного и перформанс-тестирования** – habr.com](https://habr.com/ru/company/jugru/blog/337928/)
+1. 📄 [**Приручаем JMeter** – habr.com](https://habr.com/ru/post/261483/)
+1. 📄 [**Нагрузочное тестирование на Gatling — Полное руководство** – habr.com](https://habr.com/ru/company/otus/blog/552846/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2319,8 +2319,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Регрессионное тестирование** – YouTube](https://youtu.be/1f3yfUnji8o)
-1. [**Что нужно знать о регрессионном тестировании**](https://otus.ru/journal/chto-nuzhno-znat-o-regressionnom-testirovanii/)
+1. 📺 [**Регрессионное тестирование** – YouTube](https://youtu.be/1f3yfUnji8o)
+1. 📄 [**Что нужно знать о регрессионном тестировании**](https://otus.ru/journal/chto-nuzhno-znat-o-regressionnom-testirovanii/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2337,9 +2337,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Чистая архитектура** – habr.com](https://habr.com/ru/post/269589/)
-1. [**Что можно узнать о Domain Driven Design за 10 минут?** – habr.com](https://habr.com/ru/company/dododev/blog/489352/)
-1. [**Доклад про Domain Driven Design** – YouTube](https://youtu.be/_CK5Kag7enw)
+1. 📄 [**Чистая архитектура** – habr.com](https://habr.com/ru/post/269589/)
+1. 📄 [**Что можно узнать о Domain Driven Design за 10 минут?** – habr.com](https://habr.com/ru/company/dododev/blog/489352/)
+1. 📺 [**Доклад про Domain Driven Design** – YouTube](https://youtu.be/_CK5Kag7enw)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2374,9 +2374,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Паттерны ООП в метафорах** – habr.com](https://habr.com/ru/post/136766/)
-1. [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
-1. [**Паттерны проектирования** – metanit.com](https://metanit.com/sharp/patterns/)
+1. 📄 [**Паттерны ООП в метафорах** – habr.com](https://habr.com/ru/post/136766/)
+1. 📄 [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
+1. 📄 [**Паттерны проектирования** – metanit.com](https://metanit.com/sharp/patterns/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2411,10 +2411,10 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Сравнение микросервисной и монолитной архитектур**](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith)
-1. [**Архитектура приложений. Монолит VS Микросервисы** – YouTube](https://youtu.be/pzwbFUzj5R8)
-1. [**Что такое микросервисы. Основные принципы и паттерны** – YouTube](https://youtu.be/uKtRSmO8ALk)
-1. [**Модули, монолиты и микросервисы** – habr.com](https://habr.com/ru/company/flant/blog/572414/)
+1. 📄 [**Сравнение микросервисной и монолитной архитектур**](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith)
+1. 📺 [**Архитектура приложений. Монолит VS Микросервисы** – YouTube](https://youtu.be/pzwbFUzj5R8)
+1. 📺 [**Что такое микросервисы. Основные принципы и паттерны** – YouTube](https://youtu.be/uKtRSmO8ALk)
+1. 📄 [**Модули, монолиты и микросервисы** – habr.com](https://habr.com/ru/company/flant/blog/572414/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
