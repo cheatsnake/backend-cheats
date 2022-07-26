@@ -1617,9 +1617,15 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Что такое SQL и реляционные базы данных** – YouTube](https://youtu.be/GQfC0nYrto8)
-1. 📺 [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
-1. 📺 [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
 1. 📺 [**Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
+1. 📺 [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
+1. 📘 [**Изучаем SQL** – Алан Бьюли, 2017](https://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-RU.pdf)
+1. 📺 [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
+1. 📄 [**Онлайн-тренажёр по SQL**](https://sql-academy.org/ru/trainer?sort=byId)
+1. 📘 [**SQL Сборник рецептов** – Энтони Молинаро, 2009](https://library-it.com/wp-content/uploads/2021/04/sql-sbornik_retseptov_o_39_reilly.pdf)
+1. 📄 [**Индексы в PostgreSQL** – habr.com](https://habr.com/ru/company/postgrespro/blog/326096/)
+1. 📺 [**PostgreSQL. Индексы: то, что вы всегда хотели узнать, но боялись спросить** – YouTube](https://youtu.be/-5_U5liPNTU)
+1. 📺 [**Вся правда об индексах в PostgreSQL** – YouTube](https://youtu.be/G9hWF0N5hkQ)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
