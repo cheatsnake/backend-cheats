@@ -1623,6 +1623,7 @@
 1. 📺 [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
 1. 📄 [**Онлайн-тренажёр по SQL**](https://sql-academy.org/ru/trainer?sort=byId)
 1. 📘 [**SQL Сборник рецептов** – Энтони Молинаро, 2009](https://library-it.com/wp-content/uploads/2021/04/sql-sbornik_retseptov_o_39_reilly.pdf)
+1. 📺 [**Расширенные возможности SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLKl9v2TQvIkqHEOvM1sLX3rNJ3WZJRKQ9)
 1. 📄 [**Индексы в PostgreSQL** – habr.com](https://habr.com/ru/company/postgrespro/blog/326096/)
 1. 📺 [**PostgreSQL. Индексы: то, что вы всегда хотели узнать, но боялись спросить** – YouTube](https://youtu.be/-5_U5liPNTU)
 1. 📺 [**Вся правда об индексах в PostgreSQL** – YouTube](https://youtu.be/G9hWF0N5hkQ)
