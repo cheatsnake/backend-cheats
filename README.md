@@ -1265,6 +1265,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. 📺 [**Языки программирования: что нужно знать** – YouTube](https://youtu.be/PS4S8BnURYU)
 1. 📺 [**Языки программирования: критерии выбора** – YouTube](https://youtu.be/T70qJndjYi0)
 1. 📄 [**Что такое компилятор**](https://guides.hexlet.io/ru/compiler/)
 1. 📄 [**Что такое интерпретатор**](https://guides.hexlet.io/ru/interpreter/)
