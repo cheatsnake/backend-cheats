@@ -2531,6 +2531,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. 📄 [**Самые важные архитектурные шаблоны, которые нужно знать** – habr.com](https://habr.com/ru/company/alconost/blog/522662/)
+1. 📄 [**Архитектурные шаблоны** – github.com](https://github.com/Max-Starling/Notes/blob/master/Architecture-Design.md)
 1. 📄 [**Чистая архитектура** – habr.com](https://habr.com/ru/post/269589/)
 1. 📄 [**Что можно узнать о Domain Driven Design за 10 минут?** – habr.com](https://habr.com/ru/company/dododev/blog/489352/)
 1. 📺 [**Доклад про Domain Driven Design** – YouTube](https://youtu.be/_CK5Kag7enw)
