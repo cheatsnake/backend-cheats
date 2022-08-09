@@ -2646,6 +2646,7 @@
 -   [Курс по компьютерным сетям начального уровня](https://www.asozykin.ru/courses/networks_online)
 -   [Как освоить бэкенд-разработку в 2022 году: дорожная карта](https://tproger.ru/articles/backend-roadmap-2021/)
 -   [Backend Roadmap для самоучек](https://youtu.be/2_4WBH-Si0w)
+-   [Max-Starling/Notes - Заметки Full Stack разработчика](https://github.com/Max-Starling/Notes)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022</div>
