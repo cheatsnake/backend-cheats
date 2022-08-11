@@ -2449,6 +2449,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Markdown - Обзор языка разметки** – YouTube](https://youtu.be/xaOHsJ5Igys)
+1. 📄 [**Шпаргалка по Markdown** – Learn X in Y Minutes](https://learnxinyminutes.com/docs/ru-ru/markdown-ru/)
 1. 📺 [**README – документирование проекта на GitHub** – YouTube](https://youtu.be/rnsIMha15KU)
 1. 📄 [**Оформляем README-файл профиля на GitHub** – habr.com](https://habr.com/ru/post/649363/)
 1. 📺 [**Курс по Obsidian** – YouTube](https://youtube.com/playlist?list=PLrRc3UisLr6KVOYhzpSnywtHkCi2PEza5)
