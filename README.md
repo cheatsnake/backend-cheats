@@ -1318,7 +1318,19 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. 📄 [METANIT – лучший русскоязычный ресурс по основам почти любого ЯП](https://metanit.com/)
+1. 📄 [**Metanit** – русскоязычный учебный ресурс по основам разных ЯП](https://metanit.com/)
+1. 📄 [**Руководство по языку Python на русском** – pydocs.ru](https://pydocs.ru/osnovy-yazyka-python/)
+1. 📄 [**Шпаргалка по основам Python** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/python-ru/)
+1. 📄 [**Шпаргалка по основам Python** – quickref.me](https://quickref.me/python)
+1. 📄 [**Современный учебник JavaScript на русском** – learn.javascript.ru](https://learn.javascript.ru/)
+1. 📄 [**Шпаргалка по основам JavaScript** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/javascript-ru/)
+1. 📄 [**Шпаргалка по основам JavaScript** – quickref.me](https://quickref.me/javascript)
+1. 📄 [**Руководство по Go на русском** – golangify.com](https://golangify.com/)
+1. 📄 [**Шпаргалка по основам Go** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/go-ru/)
+1. 📄 [**Шпаргалка по основам Go** – quickref.me](https://quickref.me/golang)
+1. 📄 [**Руководство по языку Kotlin на русском** – kotlinlang.ru](https://kotlinlang.ru/)
+1. 📄 [**Шпаргалка по основам Kotlin** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/kotlin-ru/)
+1. 📄 [**Шпаргалка по основам Kotlin** – devhints.io](https://devhints.io/kotlin)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
