@@ -1161,6 +1161,7 @@
 
 1. 📄 [**Сложность алгоритмов. Big O. Основы**](https://bimlibik.github.io/posts/complexity-of-algorithms/)
 1. 📄 [**Шпаргалка по Big O**](https://www.bigocheatsheet.com/)
+1. 📄 [**Шпаргалка по Big O** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
