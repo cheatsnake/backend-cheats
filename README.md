@@ -1191,6 +1191,7 @@
 1. 📄 [**Форматы сериализации данных** – habr.com](https://habr.com/ru/company/infowatch/blog/312320/)
 1. 📄 [**Введение в JSON** – medium.org](https://medium.com/@stasonmars/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-json-c798d2723107)
 1. 📄 [**Работа с JSON** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON)
+1. 📄 [**Шпаргалка по JSON** – Learn X in Y Minutes](https://learnxinyminutes.com/docs/ru-ru/json-ru/)
 1. 📄 [**Краткое руководство по XML**](https://xml.readthedocs.io/xml-intro.html)
 1. 📄 [**YAML за 5 минут: синтаксис и основные возможности** – tproger.ru](https://tproger.ru/translations/yaml-za-5-minut-sintaksis-i-osnovnye-vozmozhnosti/)
 1. 📄 [**Universal Binary JSON — ещё один бинарный JSON** – habr.com](https://habr.com/ru/post/130112/)
