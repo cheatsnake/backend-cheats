@@ -794,6 +794,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Основы работы с Bash** – YouTube](https://youtube.com/playlist?list=PLR-hhxrErPAXqI1b4paqCKhWPoXMRLj_G)
+1. 📄 [**Шпаргалка по Bash** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/bash-ru/)
 1. 📄 [**Шпаргалка оп Bash** – quickref.me](https://quickref.me/bash)
 </details>
 
