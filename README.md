@@ -1584,6 +1584,7 @@
 1. 📄 [**Руководство по MongoDB** – metanit.com](https://metanit.com/nosql/mongodb/)
 1. 📄 [**Большой курс по MongoDB: Агрегация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-mongodb-cab518a8f2fe)
 1. 📄 [**Большой курс по MongoDB: Индексация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c0ab21a16d71)
+1. 📘 [**MongoDB полное руководство** – Ш. Брэдшоу, 2020](https://www.rulit.me/data/programs/resources/pdf/MongoDB-polnoe-rukovodstvo_RuLit_Me_643188.pdf)
 </details>
 
 
