@@ -2421,13 +2421,15 @@
 
 -   ### Паттерны проектирования
 
-    - [Порождающие паттерны](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+    -   Порождающие паттерны
+        > Отвечают за удобное и безопасное создание новых объектов или даже целых семейств объектов
         -   [Factory (Фабрика)](https://refactoring.guru/ru/design-patterns/factory-method)
         -   [Abstract factory (Абстрактная фабрика)](https://refactoring.guru/ru/design-patterns/abstract-factory)
         -   [Builder (Строитель)](https://refactoring.guru/ru/design-patterns/builder)
         -   [Prototype (Прототип)](https://refactoring.guru/ru/design-patterns/prototype)
         -   [Singleton (Одиночка)](https://refactoring.guru/ru/design-patterns/singleton)
-    - [Структурные паттерны](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+    -   Структурные паттерны
+        > Отвечают за построение удобных в поддержке иерархий классов
         -   [Adapter (Адаптер)](https://refactoring.guru/ru/design-patterns/adapter)
         -   [Bridge (Мост)](https://refactoring.guru/ru/design-patterns/bridge)
         -   [Composite (Компоновщик)](https://refactoring.guru/ru/design-patterns/composite)
@@ -2435,7 +2437,8 @@
         -   [Facade (Фасад)](https://refactoring.guru/ru/design-patterns/facade)
         -   [Flyweight (Легковес)](https://refactoring.guru/ru/design-patterns/flyweight)
         -   [Proxy (Заместитель)](https://refactoring.guru/ru/design-patterns/proxy)
-    - [Поведенческие паттерны](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+    -   Поведенческие паттерны
+        > Решают задачи эффективного и безопасного взаимодействия между объектами программы
         -   [Chain of Responsibility (Цепочка обязонностей)](https://refactoring.guru/ru/design-patterns/chain-of-responsibility)
         -   [Command (Команда)](https://refactoring.guru/ru/design-patterns/command)
         -   [Iterator (Итератор)](https://refactoring.guru/ru/design-patterns/iterator)
