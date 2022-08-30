@@ -1004,7 +1004,7 @@
     <p align="center"><img src="./files/common/hex.png" alt="Hex"/></p>
 
     -   Перевод из одной СС в другую
-        > Для лучшего понимания можно попробовать [онлайн конвертер](cheatsnake.github.io/NSConverter/)
+        > Для лучшего понимания можно попробовать [онлайн конвертер](https://cheatsnake.github.io/NSConverter/)
 
     <br>
 
