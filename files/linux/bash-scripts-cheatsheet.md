@@ -402,3 +402,29 @@ $(( i-- )) # post decrement
 ```sh
 $(( --i )) # pre decrement
 ```
+
+С помощью while циклов можно построчно читать различные файлы. Существует несколько способов сделать это:
+
+```sh
+echo "Чтение файла по строкам:"
+while read line
+do
+	echo $line
+done < text.txt	
+```
+
+```sh
+echo "Чтение файла по строкам:"
+cat text.txt | while read line
+do
+	echo $line
+done
+```
+
+```sh
+echo "Чтение файла по строкам:"
+while IFS='' read -r line
+do
+	echo $line
+done < text.txt
+```
