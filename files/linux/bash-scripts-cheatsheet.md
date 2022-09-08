@@ -802,4 +802,12 @@ $ bash script.sh
 ^CВыполнение программы прервано...
 ```
 
+## Отладка скриптов
+
+Запуск скрипта с параметром `-x` покажет его поэтапное выполнение, что будет полезно при отладке и поиске ошибок:
+
+```
+$ bash -x script.sh
+```
+
 <div align="right"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/files/linux/bash-scripts-cheatsheet.md#%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-bash-%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%D0%BC">Вернуться в начало ⬆️</a></div>
