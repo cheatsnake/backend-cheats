@@ -393,7 +393,9 @@
 1. 📄 [**Протокол HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP)
 1. 📺 [**Протокол HTTP | Курс компьютерные сети** – YouTube](https://youtu.be/RlccXUx4LVw)
 1. 📄 [**Простым языком об HTTP** – habr.com](https://habr.com/ru/post/215117)
+1. 📄 [**HTTP-запросы: структура, методы, строка статуса и коды состояния** – selectel.ru](https://selectel.ru/blog/http-request/)
 1. 📄 [**Что такое протокол HTTPS, и как он защищает вас в интернете**](https://guides.hexlet.io/ru/https-yandex-guide/)
+1. 📄 [**В чем разница протоколов HTTP и HTTPS** – selectel.ru](https://selectel.ru/blog/http-https/)
 1. 📺 [**Как работает HTTPS?** – YouTube](https://youtu.be/B3j4SS5P8tM)
 1. 📺 [**Что такое cookies браузера** – YouTube](https://youtu.be/Ri3IAb6tdlE)
 1. 📄 [**Что такое cookie в браузере и почему на многих сайтах предупреждают об их использовании?**](https://club.dns-shop.ru/blog/t-326-internet/47805-chto-takoe-cookie-v-brauzere-i-pochemu-na-mnogih-saitah-preduprejd)
@@ -430,8 +432,8 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Модель и стек протоколов TCP/IP** — YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=8&ab_channel=AndreySozykin)
-1. 📺 [**What is TCP/IP? (ENG)** – YouTube](https://youtu.be/PpsEaqJV_A0)
 1. 📺 [**Что такое TCP/IP: Объясняем на пальцах** – YouTube](https://youtu.be/2I1HnSN1H9o)
+1. 📄 [**Руководство по стеку протоколов TCP/IP для начинающих** – selectel.ru](https://selectel.ru/blog/tcp-ip-for-beginners/)
 1. 📺 [**Протокол TCP** — YouTube](https://www.youtube.com/watch?v=CKUOb4htnB4&ab_channel=AndreySozykin)
 1. 📺 [**Протокол UDP** — YouTube](https://www.youtube.com/watch?v=GBrLfZvRrd8&ab_channel=AndreySozykin)
 1. 📄 [**Всё, что вы хотели знать о МАС адресе** — habr.com](https://habr.com/ru/post/483670/)
@@ -741,6 +743,7 @@
 1. 📺 [**Linux для Начинающих (Плейлист)** – YouTube](https://youtube.com/playlist?list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep)
 1. 📄 [**Основные linux-команды для новичка** – habr.com](https://habr.com/ru/post/501442/)
 1. 📄 [**44 команды Linux которые вы должны знать** – losst.ru](https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat)
+1. 📄 [**Основные команды Linux: (почти) полное руководство с примерами** – selectel.ru](https://selectel.ru/blog/basic-linux-commands/)
 1. 📄 [**Шпаргалка для редактора Nano**](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 1. 📄 [**Основы редактора Vim (Плейлист)** – YouTube](https://youtube.com/playlist?list=PLcjongJGYetkY4RFSVftH43F91vgzqB7U)
 </details>
@@ -901,6 +904,8 @@
 1. 📄 [**Что такое протокол SSH**](https://guides.hexlet.io/ru/ssh/)
 1. 📄 [**Как пользоваться SSH** – losst.ru](https://losst.ru/kak-polzovatsya-ssh)
 1. 📺 [**Настраиваем аутентификацию SSH по ключу в Linux** – YouTube](https://youtu.be/IVHv3eVQa14)
+1. 📄 [**Почему SSH-ключ — безопасная альтернатива паролю** – selectel.ru](https://selectel.ru/blog/ssh-keys/)
+1. 📄 [**SSH-туннели: практические примеры использования и важные функции** – selectel.ru](https://selectel.ru/blog/ssh-tunnels/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1459,6 +1464,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Зачем нужны базы данных**](https://thecode.media/db/)
+1. 📄 [**Виды баз данных** – selectel.ru](https://selectel.ru/blog/databases-types/)
 1. 📄 [**Выбираем базу данных** – medium.com](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D0%B1%D0%B0%D0%B7%D1%83-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-62b0747f7f47)
 1. 📄 [**Базы данных: большой обзор типов и подходов** – habr.com](https://habr.com/ru/company/yandex/blog/522164/?)
 1. 📺 [**Курс: Использование баз данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9reQb3ZXLWVaEu2CM3R54ho)
@@ -1506,6 +1512,7 @@
 1. 📄 [**Онлайн-тренажёр по SQL**](https://sql-academy.org/ru/trainer?sort=byId)
 1. 📘 [**SQL Сборник рецептов** – Энтони Молинаро, 2009](https://library-it.com/wp-content/uploads/2021/04/sql-sbornik_retseptov_o_39_reilly.pdf)
 1. 📺 [**Расширенные возможности SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLKl9v2TQvIkqHEOvM1sLX3rNJ3WZJRKQ9)
+1. 📄 [**8 книг по PostgreSQL для новичков и профессионалов** – selectel.ru](https://selectel.ru/blog/postgresql-books/)
 1. 📄 [**Индексы в PostgreSQL** – habr.com](https://habr.com/ru/company/postgrespro/blog/326096/)
 1. 📺 [**PostgreSQL. Индексы: то, что вы всегда хотели узнать, но боялись спросить** – YouTube](https://youtu.be/-5_U5liPNTU)
 1. 📺 [**Вся правда об индексах в PostgreSQL** – YouTube](https://youtu.be/G9hWF0N5hkQ)
@@ -1875,11 +1882,14 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Что такое виртуализация и для чего она нужна**](https://guides.hexlet.io/ru/virtualization/)
+1. 📄 [**Что такое Docker: для чего он нужен и где используется** – selectel.ru](https://selectel.ru/blog/what-is-docker/)
 1. 📄 [**Как и для чего использовать Docker**](https://guides.hexlet.io/ru/docker/)
 1. 📺 [**Docker для Начинающих. Полный Курс** – YouTube](https://youtu.be/n9uCgUzfeRQ)
 1. 📄 [**Полное практическое руководство по Docker** – habr.com](https://habr.com/ru/post/310460/)
 1. 📄 [**Изучаем Docker: файлы Dockerfile** – habr.com](https://habr.com/ru/company/ruvds/blog/439980/)
 1. 📄 [**Руководство по Docker Compose для начинающих** – habr.com](https://habr.com/ru/company/ruvds/blog/450312)
+1. 📄 [**Установка и настройка PostgreSQL в Docker** – selectel.ru](https://selectel.ru/blog/postgresql-docker-setup/)
+
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1972,6 +1982,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Что такое CDN и как это работает?** – habr.com](https://habr.com/ru/company/selectel/blog/463915)
+1. 📄 [**CDN: что такое и как это работает** – selectel.ru](https://selectel.ru/blog/review-cdn/)
 1. 📄 [**Что такое CDN и как работает данная технология**](https://timeweb.com/ru/community/articles/chto-takoe-cdn-i-zachem-on-nuzhen)
 1. 📺 [**CDN своими руками** – YouTube](https://youtu.be/YSyQb2BKW9I)
 </details>
@@ -2085,6 +2096,7 @@
 1. 📺 [**Безопасность: уязвимости вашего приложения** – YouTube](https://youtu.be/2gthjl2Lks4)
 1. 📄 [**Как защитить веб-приложение: основные советы, инструменты, полезные ссылки** – tproger.ru](https://tproger.ru/translations/webapp-security/)
 1. 📄 [**Что такое XSS-уязвимость и как тестировщику не пропустить ее** – habr.com](https://habr.com/ru/post/511318/)
+1. 📄 [**DDoS-атаки: что это, происхождение, виды и способы защиты** – selectel.ru](https://selectel.ru/blog/ddos-attacks/)
 1. 📄 [**DDoS-атаки: нападение и защита** – habr.com](https://habr.com/ru/company/ruvds/blog/321992/)
 1. 📄 [**Man-in-the-Middle: советы по обнаружению и предотвращению**](https://habr.com/ru/company/varonis/blog/526632/)
 1. 📺 [**Безопасность Web-приложений (плейлист)** – YouTube](https://youtube.com/playlist?list=PLp2kHCN7pLe1azEbJa5ucnLpD0nGex0tg)
@@ -2178,6 +2190,7 @@
 1. 📄 [**Аутентификация и авторизация в микросервисных приложениях** – habr.com](https://habr.com/ru/company/dataart/blog/311376/)
 1. 📄 [**Обзор способов и протоколов аутентификации в веб-приложениях** – habr.com](https://habr.com/ru/company/dataart/blog/262817/)
 1. 📄 [**Как работает single sign-on (технология единого входа)?** – habr.com](https://habr.com/ru/company/nixys/blog/563244/)
+1. 📄 [**OAuth 2: введение в протокол авторизации** – selectel.ru](https://selectel.ru/blog/oauth-2/)
 1. 📺 [**Как работает OAuth 2 - введение (просто и понятно)** – YouTube](https://youtu.be/DilydjvgVbo)
 1. 📄 [**OAuth 2.0 простым и понятным языком** – habr.com](https://habr.com/ru/company/vk/blog/115163/)
 1. 📺 [**OpenID Connect. Теория** – YouTube](https://youtu.be/KkIsn7bvUbQ)
