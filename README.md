@@ -837,8 +837,8 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. [**Пользователи в Linux: добавление, изменение, удаление**](https://host-consult.ru/polzovateli-v-linux/)
-1. [**Группы и пользователи в Linux**](https://sysadminium.ru/groups_and_users_in_linux/)
+1. 📄 [**Пользователи в Linux: добавление, изменение, удаление**](https://host-consult.ru/polzovateli-v-linux/)
+1. 📄 [**Группы и пользователи в Linux**](https://sysadminium.ru/groups_and_users_in_linux/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -879,7 +879,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Работа с процессами в Linux** – YouTube](https://www.youtube.com/watch?v=Y4W_rJStNSA)
-1. [**Шпаргалка по работе процессами в Linux**](https://www.dmosk.ru/miniinstruktions.php?mini=processes-linux)
+1. 📄 [**Шпаргалка по работе процессами в Linux**](https://www.dmosk.ru/miniinstruktions.php?mini=processes-linux)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
