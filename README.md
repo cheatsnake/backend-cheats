@@ -1427,6 +1427,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. 📺 [**Python Memory Management на пальцах** – YouTube](https://youtu.be/8GpI0PAGniA)
+1. 📺 [**Управление памятью в python** – YouTube](https://youtu.be/4KhVCga8guc)
+1. 📺 [**Утечки памяти в Node.js и JavaScript, сборка мусора и профилирование** – YouTube](https://youtu.be/0oZa64SB2wM)
+1. 📺 [**Примеры утечек памяти в JavaScript** – YouTube](https://youtu.be/HJSnq0z_cOE)
+1. 📺 [**Как устроена сборка мусора в Go** – YouTube](https://youtu.be/ZZJBu2o-NBU)
+1. 📺 [**Потребление оперативной памяти в языке Go: проблемы и пути решения** – YouTube](https://youtu.be/_BbhmaZupqs)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
