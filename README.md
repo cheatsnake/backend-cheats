@@ -1351,6 +1351,7 @@
 1. 📄 [**Руководство по языку Kotlin на русском** – kotlinlang.ru](https://kotlinlang.ru/)
 1. 📄 [**Шпаргалка по основам Kotlin** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/kotlin-ru/)
 1. 📄 [**Шпаргалка по основам Kotlin** – devhints.io](https://devhints.io/kotlin)
+1. 📄 [**Интерактивный курс по регулярным выражениям**](https://regexlearn.com/ru)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1377,12 +1378,12 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Руководство по веб-фреймворку Django (Python)** – metanit.com](https://metanit.com/python/django/)
-1. 📄 [**Руководство по Node.js (JavaScript)** – metanit.com](https://metanit.com/web/nodejs/)
-1. 📄 [**Документация Node.js на русском**](https://nodejsdev.ru/doc/)
-1. 📄 [**Руководство по веб-фреймворку Express (JavaScript)**](https://nodejsdev.ru/expressjs4/)
-1. 📄 [**Создание веб-приложения на Go** – golangify.com](https://golangify.com/go/web-app-go)
-1. 📄 [**Разработка веб-серверов на Golang — от простого к сложному** – habr.com](https://habr.com/ru/company/skillbox/blog/446454/)
-1. 📄 [**Разработка серверных приложений на Kotlin** – kotlinlang.ru](https://kotlinlang.ru/docs/server-overview.html)
+2. 📄 [**Руководство по Node.js (JavaScript)** – metanit.com](https://metanit.com/web/nodejs/)
+3. 📄 [**Документация Node.js на русском**](https://nodejsdev.ru/doc/)
+4. 📄 [**Руководство по веб-фреймворку Express (JavaScript)**](https://nodejsdev.ru/expressjs4/)
+5. 📄 [**Создание веб-приложения на Go** – golangify.com](https://golangify.com/go/web-app-go)
+6. 📄 [**Разработка веб-серверов на Golang — от простого к сложному** – habr.com](https://habr.com/ru/company/skillbox/blog/446454/)
+7. 📄 [**Разработка серверных приложений на Kotlin** – kotlinlang.ru](https://kotlinlang.ru/docs/server-overview.html)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
