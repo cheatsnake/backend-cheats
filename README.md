@@ -1325,7 +1325,7 @@
         > Массивы, объекты, классы и т.д.
     -   Стандартная библиотека
         > Здесь имеется ввиду встроенные возможности языка для манипуляции со строками, числами, массивами и т.д.
-    -   Регулярные выражения
+    -   [Регулярные выражения](./files/programming-language/regex-cheatsheet.md)
         > Мощный инструмент для работы со строками. Обязательно ознакомьтесь с этим в своем ЯП, хотя бы на базовом уровне.
     -   Пакетный менеджер
         > Рано или поздно, возникнет желание воспользоваться сторонними библиотеками.
@@ -1338,20 +1338,20 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Metanit** – русскоязычный учебный ресурс по основам разных ЯП](https://metanit.com/)
-1. 📄 [**Руководство по языку Python на русском** – pydocs.ru](https://pydocs.ru/osnovy-yazyka-python/)
-1. 📄 [**Шпаргалка по основам Python** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/python-ru/)
-1. 📄 [**Шпаргалка по основам Python** – quickref.me](https://quickref.me/python)
-1. 📄 [**Современный учебник JavaScript на русском** – learn.javascript.ru](https://learn.javascript.ru/)
-1. 📄 [**Шпаргалка по основам JavaScript** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/javascript-ru/)
-1. 📄 [**Шпаргалка по основам JavaScript** – quickref.me](https://quickref.me/javascript)
-1. 📄 [**Руководство по Go на русском** – golangify.com](https://golangify.com/)
-1. 📄 [**Шпаргалка по основам Go** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/go-ru/)
-1. 📄 [**Шпаргалка по основам Go** – quickref.me](https://quickref.me/golang)
-1. 📄 [**Изучение Go на примерах**](https://golangbyexample.com/)
-1. 📄 [**Руководство по языку Kotlin на русском** – kotlinlang.ru](https://kotlinlang.ru/)
-1. 📄 [**Шпаргалка по основам Kotlin** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/kotlin-ru/)
-1. 📄 [**Шпаргалка по основам Kotlin** – devhints.io](https://devhints.io/kotlin)
-1. 📄 [**Интерактивный курс по регулярным выражениям**](https://regexlearn.com/ru)
+2. 📄 [**Руководство по языку Python на русском** – pydocs.ru](https://pydocs.ru/osnovy-yazyka-python/)
+3. 📄 [**Шпаргалка по основам Python** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/python-ru/)
+4. 📄 [**Шпаргалка по основам Python** – quickref.me](https://quickref.me/python)
+5. 📄 [**Современный учебник JavaScript на русском** – learn.javascript.ru](https://learn.javascript.ru/)
+6. 📄 [**Шпаргалка по основам JavaScript** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/javascript-ru/)
+7. 📄 [**Шпаргалка по основам JavaScript** – quickref.me](https://quickref.me/javascript)
+8. 📄 [**Руководство по Go на русском** – golangify.com](https://golangify.com/)
+9. 📄 [**Шпаргалка по основам Go** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/go-ru/)
+10. 📄 [**Шпаргалка по основам Go** – quickref.me](https://quickref.me/golang)
+11. 📄 [**Изучение Go на примерах**](https://golangbyexample.com/)
+12. 📄 [**Руководство по языку Kotlin на русском** – kotlinlang.ru](https://kotlinlang.ru/)
+13. 📄 [**Шпаргалка по основам Kotlin** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/kotlin-ru/)
+14. 📄 [**Шпаргалка по основам Kotlin** – devhints.io](https://devhints.io/kotlin)
+15. 📄 [**Интерактивный курс по регулярным выражениям**](https://regexlearn.com/ru)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
