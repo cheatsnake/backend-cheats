@@ -2457,6 +2457,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. 📺 [**Что такое MVC за 4 минуты** – YouTube](https://youtu.be/NDOPFWOId28)
 1. 📄 [**Самые важные архитектурные шаблоны, которые нужно знать** – habr.com](https://habr.com/ru/company/alconost/blog/522662/)
 1. 📄 [**Архитектурные шаблоны** – github.com](https://github.com/Max-Starling/Notes/blob/master/Architecture-Design.md)
 1. 📄 [**Чистая архитектура** – habr.com](https://habr.com/ru/post/269589/)
