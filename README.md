@@ -792,7 +792,7 @@
 
     Менеджер пакетов – это утилита позволяющая устанавливать/обновлять пакеты (это обычные программы и утилиты) с помощью команд в терминале.
 
-    Linux дистрибутивы можно разделить на несколько групп, в зависимости от того, какой в них используется менеджер пакетов: [apt](https://ru.wikipedia.org/wiki/Advanced_Packaging_Tool) (в дистрибутивах на основе [Debian](https://ru.wikipedia.org/wiki/Debian)), [RPM](https://ru.wikipedia.org/wiki/RPM) (система управления пакетами [Red Hat](https://ru.wikipedia.org/wiki/Red_Hat) и [Pacman](https://ru.wikipedia.org/wiki/Pacman_(%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%D0%BC%D0%B8)) (менеджер пакетов в [Arch-подобных дистрибутивах](https://ru.wikipedia.org/wiki/Arch_Linux))
+    Linux дистрибутивы можно разделить на несколько групп, в зависимости от того, какой в них используется менеджер пакетов: [apt](https://ru.wikipedia.org/wiki/Advanced_Packaging_Tool) (в дистрибутивах на основе [Debian](https://ru.wikipedia.org/wiki/Debian)), [RPM](https://ru.wikipedia.org/wiki/RPM) (система управления пакетами [Red Hat](https://ru.wikipedia.org/wiki/Red_Hat)) и [Pacman](https://ru.wikipedia.org/wiki/Pacman_(%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%D0%BC%D0%B8)) (менеджер пакетов в [Arch-подобных дистрибутивах](https://ru.wikipedia.org/wiki/Arch_Linux))
 
     Ubuntu основан на Debian, поэтому там используется менеджер пакетов apt (advanced packaging tool).
 
