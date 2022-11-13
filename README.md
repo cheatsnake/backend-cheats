@@ -1177,6 +1177,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Алгоритмы и структуры данных. Подготовительный курс (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
+1. 📺 [**Алгоритмы и структуры данных на JavaScript** – YouTube](https://youtu.be/NErrGZ64OdE)
 1. 📄 [**Сортировки выбором** – habr.com](https://habr.com/ru/post/422085/)
 1. 📺 [**Сортировка выбором** – YouTube](https://youtu.be/KZxP5JqtKKA)
 1. 📄 [**Рекурсия. Занимательные задачки** – habr.com](https://habr.com/ru/post/275813/)
@@ -1403,6 +1404,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Руководство по веб-фреймворку Django (Python)** – metanit.com](https://metanit.com/python/django/)
+1. 📺 [**Node JS фундаментальный курс от А до Я** – YouTube](https://youtu.be/243pQXC5Ebs)
 2. 📄 [**Руководство по Node.js (JavaScript)** – metanit.com](https://metanit.com/web/nodejs/)
 3. 📄 [**Документация Node.js на русском**](https://nodejsdev.ru/doc/)
 4. 📄 [**Руководство по веб-фреймворку Express (JavaScript)**](https://nodejsdev.ru/expressjs4/)
@@ -1481,6 +1483,7 @@
 
 1. 📄 [**Практика хорошего кода** – habr.com](https://habr.com/ru/post/206868/)
 1. 📄 [**Принципы для разработки: KISS, DRY, YAGNI...** – habr.com](https://habr.com/ru/company/itelma/blog/546372/)
+1. 📺 [**SOLID принципы простым языком (много примеров)** – YouTube](https://youtu.be/TxZwqVTaCmA)
 1. 📄 [**Простое объяснение принципов SOLID** – habr.com](https://habr.com/ru/company/vk/blog/412699/)
 1. 📄 [**Принципы SOLID, о которых должен знать каждый разработчик** – medium.com](https://medium.com/webbdev/solid-4ffc018077da)
 1. 📄 [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
@@ -1555,6 +1558,7 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. 📺 [**Базы данных SQL уроки для начинающих** – YouTube](https://youtu.be/IK6e1SFCdow)
 1. 📺 [**Что такое SQL и реляционные базы данных** – YouTube](https://youtu.be/GQfC0nYrto8)
 1. 📺 [**Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
 1. 📺 [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
@@ -1642,6 +1646,7 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Что такое NoSQL за 6 минут** – YouTube](https://youtu.be/Xu4S2OX8Gb4)
+1. 📺 [**Основы Mongo DB за 20 минут** – YouTube](https://youtu.be/LNvmI8a9jwY)
 1. 📄 [**Руководство по MongoDB** – metanit.com](https://metanit.com/nosql/mongodb/)
 1. 📄 [**Большой курс по MongoDB: Агрегация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-mongodb-cab518a8f2fe)
 1. 📄 [**Большой курс по MongoDB: Индексация** – medium.com](https://merrick-krg.medium.com/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-mongodb-c0ab21a16d71)
@@ -2462,7 +2467,9 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. 📺 [**Архитектура ПО. Что это и зачем?** – YouTube](https://youtu.be/JXI2CsT2ZZQ)
 1. 📺 [**Что такое MVC за 4 минуты** – YouTube](https://youtu.be/NDOPFWOId28)
+1. 📺 [**MVC, MVVM Архитектура. Наглядная теория и примеры** – YouTube](https://youtu.be/X85soC5evw0)
 1. 📄 [**Самые важные архитектурные шаблоны, которые нужно знать** – habr.com](https://habr.com/ru/company/alconost/blog/522662/)
 1. 📄 [**Архитектурные шаблоны** – github.com](https://github.com/Max-Starling/Notes/blob/master/Architecture-Design.md)
 1. 📄 [**Чистая архитектура** – habr.com](https://habr.com/ru/post/269589/)
@@ -2582,6 +2589,7 @@
 -   [Как освоить бэкенд-разработку в 2022 году: дорожная карта](https://tproger.ru/articles/backend-roadmap-2021/)
 -   [Backend Roadmap для самоучек](https://youtu.be/2_4WBH-Si0w)
 -   [Max-Starling/Notes - Заметки Full Stack разработчика](https://github.com/Max-Starling/Notes)
+-   [Что должен знать Junior Backend разработчик? Подробный план](https://youtu.be/VR9EPKz8aXk)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022</div>
