@@ -1837,10 +1837,13 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Что такое веб-сокеты за 4 минуты** – YouTube](https://youtu.be/WtF-wMzPtuM)
-2. 📺 [**Что такое Websocket? Websockets простыми словами** – YouTube](https://www.youtube.com/watch?v=SxMvxIHBahU)
-3. 📺 [**Web сокеты | Компьютерные сети. Продвинутые темы** – YouTube](https://www.youtube.com/watch?v=TxVriqBkqbM&t)
-4. 📄 [**Использование WebSockets в браузере** – learn.javascript.ru](https://learn.javascript.ru/websockets)
-5. 📄 [**WebSocket и HTTP/2+SSE. Что выбрать?** – habr.com](https://habr.com/ru/company/ruvds/blog/342346/)
+1. 📺 [**Что такое Websocket? Websockets простыми словами** – YouTube](https://www.youtube.com/watch?v=SxMvxIHBahU)
+1. 📺 [**Web сокеты | Компьютерные сети. Продвинутые темы** – YouTube](https://www.youtube.com/watch?v=TxVriqBkqbM&t)
+1. 📄 [**Использование WebSockets в браузере** – learn.javascript.ru](https://learn.javascript.ru/websockets)
+1. 📺 [**Пример использования WebSocket на Python** – YouTube](https://youtu.be/Na_8D9FpKtQ)
+1. 📺 [[ENG] **Все об WebSocket на Node.js за 30 минут** – YouTube](https://youtu.be/ZKEqqIO7n-k)
+1. 📺 [[ENG] **Приложение с WebSocket на Go** – YouTube](https://youtu.be/-s2ydxHES9U)
+1. 📄 [**WebSocket и HTTP/2+SSE. Что выбрать?** – habr.com](https://habr.com/ru/company/ruvds/blog/342346/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
