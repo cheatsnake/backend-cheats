@@ -1809,6 +1809,9 @@
 1. 📄 [**Что же такое этот GraphQL?** – habr.com](https://habr.com/ru/post/326986/)
 1. 📄 [**Что такое GraphQL: с основ до первых запросов**](https://ru.hexlet.io/blog/posts/chto-takoe-graphql-s-osnov-do-pervyh-zaprosov)
 1. 📺 [**GraphQL vs REST - кто круче?** – YouTube](https://youtu.be/7fPcRouBVqo)
+1. 📺 [[ENG] **GraphQL + Python туториал. CRUD приложение** – YouTube](https://youtu.be/ZUrNFhG3LK4)
+1. 📺 [[ENG] **Все о GraphQL на Node.js за 40 минут** – YouTube](https://youtu.be/ZQL7tL2S0oQ)
+1. 📺 [[ENG] **GraphQL на Go – быстрый старт** – YouTube](https://youtu.be/RroLKn54FzE)
 </details>
 
 
@@ -1833,10 +1836,10 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Что такое веб-сокеты за 4 минуты** – YouTube](https://youtu.be/WtF-wMzPtuM)
-1. 📺 [**Что такое Websocket? Websockets простыми словами** – YouTube](https://www.youtube.com/watch?v=SxMvxIHBahU)
-1. 📺 [**Web сокеты | Компьютерные сети. Продвинутые темы** – YouTube](https://www.youtube.com/watch?v=TxVriqBkqbM&t)
-1. 📄 [**Использование WebSockets в браузере** – learn.javascript.ru](https://learn.javascript.ru/websockets)
-1. 📄 [**WebSocket и HTTP/2+SSE. Что выбрать?** – habr.com](https://habr.com/ru/company/ruvds/blog/342346/)
+2. 📺 [**Что такое Websocket? Websockets простыми словами** – YouTube](https://www.youtube.com/watch?v=SxMvxIHBahU)
+3. 📺 [**Web сокеты | Компьютерные сети. Продвинутые темы** – YouTube](https://www.youtube.com/watch?v=TxVriqBkqbM&t)
+4. 📄 [**Использование WebSockets в браузере** – learn.javascript.ru](https://learn.javascript.ru/websockets)
+5. 📄 [**WebSocket и HTTP/2+SSE. Что выбрать?** – habr.com](https://habr.com/ru/company/ruvds/blog/342346/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
