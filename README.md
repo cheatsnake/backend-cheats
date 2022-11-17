@@ -784,6 +784,7 @@
 1. 📄 [**Основные команды Linux: (почти) полное руководство с примерами** – selectel.ru](https://selectel.ru/blog/basic-linux-commands/)
 1. 📄 [**Шпаргалка для редактора Nano**](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 1. 📄 [**Основы редактора Vim (Плейлист)** – YouTube](https://youtube.com/playlist?list=PLcjongJGYetkY4RFSVftH43F91vgzqB7U)
+1. 📄 [**Изучение терминала через прохождение челленджей**](https://overthewire.org/wargames/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
