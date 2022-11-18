@@ -891,7 +891,7 @@
         ```bash
         chown <пользователь> <файл> # изменяет владельца и/или группу для указанных файлов
         chmod <права> <файл> # изменяет права доступа к файлам и каталогам
-        chgrp <группа> <файл> # позволяет пользователям изменять группы, но только те, членами которых они являются
+        chgrp <группа> <файл> # позволяет пользователям изменять группы
         ```
     -   Расширенные права [SUID](https://ru.wikipedia.org/wiki/Suid), [GUID](https://ru.wikipedia.org/wiki/Suid) и [sticky bit](https://ru.wikipedia.org/wiki/Sticky_bit)
     -   [ACL (Access control list)](https://help.ubuntu.ru/wiki/access_control_list)
