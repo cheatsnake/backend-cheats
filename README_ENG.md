@@ -445,6 +445,10 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 <details>
     <summary>🔗 <b>References</b></summary>
 
+</details>
+
+<div align="right"><a href="#top">Contents ⬆️</a></div>
+
 -   ### System logs
 
 <details>
