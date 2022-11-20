@@ -29,7 +29,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
   * [Hosting](#hosting)
   * [OSI network model](#osi-network-model)
   * [HTTP Protocol](#http-protocol)
-  * [TCP/IP stack](#tcp-ip-stack)
+  * [TCP/IP stack](#tcpip-stack)
   * [Network problems](#network-problems)
   * [Network diagnostics](#network-diagnostics)
 </details>
@@ -108,7 +108,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     
   * [Git version control system](#git-version-control-system)
   * [Docker](#docker)
-  * [Postman/Insomnia](#postman-insomnia)
+  * [Postman/Insomnia](#postmaninsomnia)
   * [Web servers](#web-servers)
   * [Message brokers](#message-brokers)
 </details>
@@ -120,7 +120,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
   * [Environment variables](#environment-variables)
   * [Hashing](#hashing)
   * [Authentication and authorization](#authentication-and-authorization)
-  * [SSL/TLS](#ssl-tls)
+  * [SSL/TLS](#ssltls)
 </details>
 
 <details>
