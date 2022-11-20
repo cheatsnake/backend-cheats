@@ -292,6 +292,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 </details>
 
+<div align="right"><a href="#top">Contents ⬆️</a></div>
+
 -   ### HTTP Protocol
 
 <details>
