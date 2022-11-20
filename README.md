@@ -1,3 +1,5 @@
+<div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/README_ENG.md">🚧 English version in progress</a></div>
+
 <a href="https://github.com/cheatsnake/backend-cheats/blob/master/README.md"><p align="center"><img src="./files/logo.png" alt="Logo"/></p></a>
 
 Данный репозиторий представляет собой наглядную шпаргалку по основным темам в области Backend-разработки. Весь материал разбит на темы и подтемы. Структура материала состоит из трех частей:
@@ -10,7 +12,7 @@
 
 > 🤝 Если вы хотите помочь проекту, не стесняйтесь присылать свои [пулл реквесты](https://github.com/cheatsnake/backend-cheats/pulls)
 
-> 📝 The translation into English will be start after all the main topics have been completed
+> 📝 The translation into English in progress
 
 <p><a name="top"></a></p>
 
