@@ -189,6 +189,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 -   ### What is a domain name
 
+    <p align="center"><img src="./files/network-internet/domain_eng.png" alt="Domain name"/></p>
+
     [Domain Names](https://en.wikipedia.org/wiki/Domain_name) are human-readable addresses of web servers available on the Internet. They consist of parts (levels) separated from each other by a dot. Each of these parts provides specific information about the domain name. For example country, service name, localization, etc.
 
     -   Who owns domain names
@@ -281,37 +283,118 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 -   ### Browsers and how they work
 
+    <p align="center"><img src="./files/network-internet/browser_eng.png" alt="Browser"/></p>
+
+    [Browser](https://en.wikipedia.org/wiki/Web_browser) is a client which can be used to send requests to a server for files which can then be used to render web pages. In simple terms, a browser can be thought of as a program for viewing HTML files, which can also search for and download them from the Internet.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**How browsers work** – MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+2. 📄 [**How browsers work: Behind the scenes of modern web browsers** – web.dev](https://web.dev/howbrowserswork/)
+3. 📺 [**What is a web browser?** – YouTube](https://youtu.be/QzohDuGk4mM)
+4. 📺 [**Anatomy of the browser 101 (Chrome University 2019)** – YouTube](https://youtu.be/PzzNuCk-e0Y)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### VPN and Proxy
 
+    <p align="center"><img src="./files/network-internet/proxy-vpn_eng.png" alt="Proxy & VPN"/></p>
+
+    The use of VPNs and Proxy is quite common in recent years. With the help of these technologies, users can get basic anonymity when surfing the web, as well as bypass various regional blockages.
+
+    -   [VPN (Virtual Private Network)](https://en.wikipedia.org/wiki/VPN)
+        > A technology that allows you to become a member of a private network (similar to your local network), where requests from all participants go through a single public IP address. This allows you to blend in with the general mass of requests from other participants. <br>
+        >
+        > -   Simple procedure for connection and use. <br>
+        > -   Reliable traffic encryption. <br>
+        > -   There is no guarantee of 100% anonymity, because the owner of the network knows the IP-addresses of all participants. <br>
+        > -   VPNs are useless for dealing with multi-accounts and some programs because all accounts operating from the same VPN are easily detected and blocked. <br>
+        > -   Free VPNs tend to be heavily loaded, resulting in unstable performance and slow download speeds. <br>
+    -   [Proxy (proxy server)](https://en.wikipedia.org/wiki/Proxy_server)
+        > A proxy is a special server on the network that acts as an intermediary between you and the destination server you intend to reach. When you are connected to a proxy server all your requests will be performed on behalf of that server, that is, your IP address and location will be substituted. <br>
+        >
+        > -   The ability to use an individual IP address, which allows you to work with multi-accounts. <br>
+        > -   Stability of the connection due to the absence of high loads. <br>
+        > -   Connection via proxy is provided in the operating system and browser, so no additional software is required. <br>
+        > -   There are proxy varieties that provide a high level of anonymity. <br>
+        > -   The unreliability of free solutions, because the proxy server can see and control everything you do on the Internet. <br>
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**What is VPN? How It Works, Types of VPN** – kaspersky.com](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn)
+2. 📺 [**What Is a Proxy and How Does It Work?** – YouTube](https://youtu.be/ayo2EUPTEkE)
+3. 📺 [**Proxy vs. Reverse Proxy (Explained by Example)** – YouTube](https://youtu.be/ozhe__GdWC8)
+4. 📺 [**VPN vs Proxy Explained Pros and Cons** – YouTube](https://youtu.be/npnqyRT77Zc)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Hosting
 
+    <p align="center"><img src="./files/network-internet/Hosting.png" alt="Hosting"/></p>
+
+    [Hosting](https://en.wikipedia.org/wiki/Web_hosting_service) is a special [service provided](https://en.wikipedia.org/wiki/Internet_hosting_service) by hosting providers, which allows you to rent space on a server (which is connected to the Internet around the clock), where your data and files can be stored. There are different options for hosting, where you can use not only the disk space of the server, but also the CPU power to run your network applications.
+
+    -   [Virtual hosting](https://en.wikipedia.org/wiki/Virtual_hosting)
+        > One physical server that distributes its resources to multiple tenants.
+    -   [VPS/VDS](https://en.wikipedia.org/wiki/Virtual_private_server)
+        > Virtual servers that emulate the operation of a separate physical server and are available for rent to the client with maximum privileges.
+    -   [Dedicated server](https://en.wikipedia.org/wiki/Dedicated_hosting_service)
+        > Renting a full physical server with full access to all resources. As a rule, this is the most expensive service.
+    -   [Cloud hosting](https://en.wikipedia.org/wiki/Cloud_storage)
+        > A service that uses the resources of several servers. When renting, the user pays only for the actual resources used.
+    -   [Colocation](https://en.wikipedia.org/wiki/Colocation_centre)
+        > A service that gives the customer the opportunity to install their equipment on the provider's premises.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**What is Web Hosting?** – namecheap.com](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
+2. 📺 [**What is Web Hosting and How Does It Work?** – YouTube](https://youtu.be/H8oAvyqQwew)
+3. 📺 [**Different Hosting Types Explained** – YouTube](https://youtu.be/CtNWVmt9U1M)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### OSI network model
 
+    | №   | Level              | Used protocols       |
+    | --- | ------------------ | -------------------- |
+    | 7   | Application layer  | HTTP, DNS, FTP, POP3 |
+    | 6   | Presentation layer | SSL, SSH, IMAP, JPEG |
+    | 5   | Session layer      | APIs Sockets         |
+    | 4   | Transport layer    | TCP, UDP             |
+    | 3   | Network layer      | IP, ICMP, IGMP       |
+    | 2   | Data link layer    | Ethernet, MAC, HDLC  |
+    | 1   | Physical layer     | RS-232, RJ45, DSL    |
+
+    -   [Physical layer](https://en.wikipedia.org/wiki/Physical_layer)
+        > At this level, bits (ones/zeros) are encoded into physical signals (current, light, radio waves) and transmitted further by wire ([Ethernet](https://en.wikipedia.org/wiki/Ethernet)) or wirelessly ([Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)).
+    -   [Data link layer](https://en.wikipedia.org/wiki/Data_link_layer)
+        > Physical signals from layer 1 are decoded back into ones and zeros, errors and defects are corrected, and the sender and receiver [MAC addresses](https://en.wikipedia.org/wiki/MAC_address) are extracted.
+    -   [Network layer](https://en.wikipedia.org/wiki/Network_layer)
+        > This is where traffic routing, DNS queries and [IP packet](https://en.wikipedia.org/wiki/Internet_Protocol) generation take place.
+    -   [Transport layer](https://en.wikipedia.org/wiki/Transport_layer)
+        > The layer responsible for data transfer. There are two important protocols: <br>
+        >
+        > -   [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) is a protocol that ensures reliable data transmission. TCP guarantees data delivery and preserves the order of the messages. This has an impact on the transmission speed. This protocol is used where data loss is unacceptable, such as when sending mail or loading web pages. <br>
+        > -   [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) is a simple protocol with fast data transfer. It does not use mechanisms to guarantee the delivery and ordering of data. It is used e.g. in online games where partial packet loss is not crucial, but the speed of data transfer is much more important. Also, requests to DNS servers are made through UDP protocol.
+    -   [Session layer](https://en.wikipedia.org/wiki/Session_layer)
+        > Responsible for opening and closing communications (sessions) between two devices. Ensures that the session stays open long enough to transfer all necessary data, and then closes quickly to avoid wasting resources.
+    -   [Presentation layer](https://en.wikipedia.org/wiki/Presentation_layer)
+        > Transmission, encryption/decryption and data compression. This is where data that comes in the form of zeros and ones are converted into desired formats (PNG, MP3, PDF, etc.)
+    -   [Application layer](https://en.wikipedia.org/wiki/Application_layer)
+        > Allows the user's applications to access network services such as database query handler, file access, email forwarding.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**Layers of OSI Model** – geeksForGeeks](https://www.geeksforgeeks.org/layers-of-osi-model/)
+2. 📺 [**The OSI Model - Explained by Example** – YouTube](https://youtu.be/7IS7gigunyI)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
@@ -961,8 +1044,9 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 ## Additional and similar resources
 
 -   [Backend Developer Roadmap: Learn to become a modern backend developer](https://roadmap.sh/backend)
--   [A curated and opinionated list of resources (English & Russian) for Backend developers](https://github.com/zhashkevych/awesome-backend)
 -   [Hussein Nasser – YouTube channel about networking](https://www.youtube.com/c/HusseinNasser-software-engineering)
+-   [CS50 2022 – Harvard University's course about programming](https://youtube.com/playlist?list=PLeLzIg9tqA3LQW-RiFA8zJUBcTKqUVLMU)
+-   [A curated and opinionated list of resources (English & Russian) for Backend developers](https://github.com/zhashkevych/awesome-backend)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022</div>
