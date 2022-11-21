@@ -273,7 +273,7 @@
 
     Задачами клиентской части являются:
     -   Реализация пользовательского интерфейса (внешний вид приложения)
-        > Для создания веб-страниц использются специальный язык разметки – [HTML](https://ru.wikipedia.org/wiki/HTML) <br>
+        > Для создания веб-страниц используются специальный язык разметки – [HTML](https://ru.wikipedia.org/wiki/HTML) <br>
         > Для стилизации шрифтов, расположения содержимого и т.д. используется язык стилей – [CSS](https://ru.wikipedia.org/wiki/CSS) <br>
         > Для добавления динамики и интерактивности – язык программирования [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) <br>
         > Как правило в чистом виде эти инструменты используются редко, поскольку для более удобной и быстрой разработки существуют так называемые [фреймворки](https://2020.stateofjs.com/ru-RU/technologies/front-end-frameworks/) и [препроцессоры](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_1/css-reprocessors.html). <br>
