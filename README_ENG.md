@@ -394,43 +394,129 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 1. 📄 [**Layers of OSI Model** – geeksForGeeks](https://www.geeksforgeeks.org/layers-of-osi-model/)
 2. 📺 [**The OSI Model - Explained by Example** – YouTube](https://youtu.be/7IS7gigunyI)
+3. 📺 [**TCP vs UDP Crash Course** – YouTube](https://youtu.be/qqRYkcta6IE)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### HTTP Protocol
 
+    [HTTP (HyperText Transport Protocol)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) is the most important protocol on the Internet. It is used to transfer data of any format. The protocol itself works according to a simple principle: request -> response.
+
+    -   [Structure of HTTP messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+        > Start Line > Headers > Message Body
+
+    <p align="center"><img src="./files/network-internet/http_eng.png" alt="HTTP"/></p>
+
+    -   [Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+        > Additional service information that is sent with the request/response. <br>
+        > Common headers: [Host](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host), [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent), [If-Modified-Since](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-Modified-Since), [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cookie), [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer), [Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization), [Cache-Control](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control), [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type), [Content-Length](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length), [Last-Modified](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Last-Modified), [Set-Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie), [Content-Encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Encoding).
+    -   [Request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+        > [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) - data retrieval request <br> [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST) - request with data to create a new record <br> [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT) - request with data to change existing record <br> [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE) - deletion request <br> Others: [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD), [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT), [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS), [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH). <br>
+    -   [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+        > Each response from the server has a special numeric code that characterizes the state of the sent request. These codes are divided into 5 main classes:
+        >
+        > -   1хх - service information <br>
+        > -   2хх - successful request <br>
+        > -   3хх - redirect to another address <br>
+        > -   4хх - client side error <br>
+        > -   5хх - server side error <br>
+    -   [HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/https)
+        > Same HTTP, but with encryption support
+    -   [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+        > Because the HTTP protocol does not allow you to save any information about the status of previous requests/responses, you need to use cookies. Cookies allow the server to store various information on the client side, which the client can then send back to the server. In particular, cookies can be used for authorization or to save various settings/configurations.
+    -   [CORS (Cross origin resource sharing)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+        > A technology that allows one domain to securely receive data from another domain.
+    -   [CSP (Content Security Policy)](https://developer.mozilla.org/ru/docs/Web/HTTP/CSP)
+        > A special header that allows you to recognize and eliminate certain types of web application vulnerabilities.
+    -   [HTTP/1.0 vs HTTP/1.1 vs HTTP/2](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Persistent_connections)
+        > The main innovation in version 1.1 is the permanent connection mode, which allows you to send several requests per connection. In version 2, the protocol became binary, with the ability to transmit data from multiple streams on the same channel.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
+1. 📄 [**How HTTP Works and Why it's Important** – freeCodeCamp](https://www.freecodecamp.org/news/how-the-internet-works/)
+2. 📄 [**Hypertext Transfer Protocol (HTTP)** – MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+3. 📺 [**Hyper Text Transfer Protocol Crash Course** – YouTube](https://youtu.be/0OrmKCB0UrQ)
+4. 📄 [**HTTP vs HTTPS – What's the Difference?** – freeCodeCamp](https://www.freecodecamp.org/news/http-vs-https/)
+5. 📺 [**HTTP Cookies Crash Course** – YouTube](https://youtu.be/sovAIX4doOE)
+6. 📺 [**Cross Origin Resource Sharing (Explained by Example)** – YouTube](https://youtu.be/Ka8vG5miErk)
+7. 📺 [**When to use HTTP GET vs POST?** – YouTube](https://youtu.be/K8HJ6DN23zI)
+8. 📺 [**How HTTP/2 Works, Performance, Pros & Cons and More** – YouTube](https://youtu.be/fVKPrDrEwTI)
+9. 📺 [**HTTP/2 Critical Limitation that led to HTTP/3 & QUIC** – YouTube](https://youtu.be/GriONb4EfPY)
+10. 📺 [**304 Not Modified HTTP Status (Explained with Code Example and Pros & Cons)** – YouTube](https://youtu.be/0QHmHR55_Lo)
+11. 📺 [**What is the Largest POST Request the Server can Process?** – YouTube](https://youtu.be/0QHmHR55_Lo)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### TCP/IP stack
 
+    <p align="center"><img src="./files/network-internet/tcp-ip_eng.png" alt="TCP/IP"/></p>
+
+    Compared to the [OSI model](https://github.com/cheatsnake/backend-cheats/blob/master/README_ENG.md#osi-network-model), the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) stack has a simpler architecture. It is widely used and was first used as the basis for the creation of a global network, and then to describe the workings of the Internet.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**What is the TCP/IP Model? Layers and Protocols Explained** – freeCodeCamp](https://www.freecodecamp.org/news/what-is-tcp-ip-layers-and-protocols-explained/)
+2. 📺 [**What is TCP/IP?** – YouTube](https://youtu.be/PpsEaqJV_A0)
+3. 📺 [**How TCP really works. Three-way handshake. TCP/IP Deep Dive** – YouTube](https://youtu.be/rmFX1V49K8U)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Network problems
 
+    <p align="center"><img src="./files/network-internet/problems_eng.gif" alt="Problems"/></p>
+
+    The quality of networks, much less the Internet, is far from ideal. This is due to the complex and dispersed network structure in different devices. Therefore, on the functioning of the network affects a huge number of factors. For example: the stability of the connection between the client device and its router, the quality of service of the provider, the power and performance of the server, the physical distance between the client and the server, etc.
+
+    -   [Latency](https://developer.mozilla.org/en-US/docs/Web/Performance/Understanding_latency)
+        > The time it takes for a data packet to travel from sender to receiver. It depends more on the physical distance.
+    -   [Packet loss](https://en.wikipedia.org/wiki/Packet_loss)
+        > Not all packets traveling over the network can reach their destination. This happens most often when using wireless networks or due to [network congestion](https://en.wikipedia.org/wiki/Network_congestion).
+    -   [Round Trip Time (RTT)](https://en.wikipedia.org/wiki/Round-trip_delay)
+        > The time it takes for the data packet to reach its destination + the time to respond that the packet was received successfully.
+    -   [Jitter](https://www.ir.com/guides/what-is-network-jitter)
+        > Delay fluctuations, unstable ping (for example, 50ms, 120ms, 35ms...).
+    -   [Packet reordering](https://wiki.geant.org/display/public/EK/PacketReordering)
+        > The IP protocol does not guarantee that packets are delivered in the order in which they are sent.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**Understanding latency** – MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/Understanding_latency)
+2. 📺 [**What is latency? What affects latency?** – YouTube](https://youtu.be/epAXDsq5SbE)
+3. 📺 [**Basics of network bandwidth, latency, and jitter** – YouTube](https://youtu.be/WdbJdUh6W08)
+4. 📺 [**Round Trip Time (RTT)** – YouTube](https://youtu.be/nT9F-USjtBg)
+5. 📺 [**What Causes Packet Loss and How to Eliminate It In Your Network** – YouTube](https://youtu.be/Cg656nGbXe4)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Network diagnostics
 
+    <p align="center"><img src="./files/network-internet/Traceroute.png" alt="Traceroute"/></p>
+
+    -   [Traceroute](https://en.wikipedia.org/wiki/Traceroute)
+        > A procedure that allows you to trace to which nodes, with which IP addresses, a packet you send before it reaches its destination. Tracing can be used to identify computer network related problems and to examine/analyze the network.
+    -   [Ping scan](<https://en.wikipedia.org/wiki/Ping_(networking_utility)>)
+        > The easiest way to check the server for performance.
+    -   [Checking for packet loss](https://www.dnsstuff.com/packet-loss-test)
+        > Due to dropped connections, not all packets sent over the network reach their destination.
+    -   [Wireshark](https://en.wikipedia.org/wiki/Wireshark)
+        > A powerful program with a graphical interface for analyzing all traffic that passes through the network in real time.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**How does traceroute work?** – YouTube](https://youtu.be/G05y9UKT69s)
+2. 📺 [**Traceroute (tracert) Explained - Network Troubleshooting** – YouTube](https://youtu.be/up3bcBLZS74)
+3. 📺 [**Nmap - Host Discovery With Ping Sweep** – YouTube](https://youtu.be/LvCDaftsMwI)
+4. 📺 [**Internet Troubleshooting - Pathping Packet Loss** – YouTube](https://youtu.be/VPdotNIXOgI)
+5. 📺 [**Wireshark crash course (playlist)** – YouTube](https://youtube.com/playlist?list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
