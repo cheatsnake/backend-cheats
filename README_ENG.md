@@ -566,37 +566,115 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 -   ### Operating system design
 
+    <p align="center"><img src="./files/os/os-layer_eng.png" alt="OS"/></p>
+
+    [Operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is a comprehensive software system designed to manage a computer's resources. With operating systems, people do not have to deal directly with the processor, RAM or other parts of the PC.
+
+    OS can be thought of as an abstraction layer that manages the hardware of a computer, thereby providing a simple and convenient environment for user software to run.
+
+    -   Main features
+        > -   RAM management (space allocation for individual programms)
+        > -   Loading programms into RAM and their execution
+        > -   Execution of requests from user's programms (inputting and outputting data, starting and stopping other programms, freeing up memory or allocating additional memory, etc.)
+        > -   Interaction with input and output devices (mouse, keyboard, monitor, etc.)
+        > -   Interaction with storage media (HDDs and SSDs)
+        > -   Providing a user's interface (console shell or graphical interface)
+        > -   Logging of software errors (saving logs)
+    -   Additional functions (may not be available in all OSs)
+        > -   Organise [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) (simultaneous execution of several programms)
+        > -   Delimiting access to resources for each process
+        > -   [Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) (data exchange, synchronisation)
+        > -   Organise the protection of the operating system itself against other programms and the actions of the user
+        > -   Provide multi-user mode and differentiate rights between different OS users (admins, guests, etc.)
+    -   [OS kernel](<https://en.wikipedia.org/wiki/Kernel_(operating_system)>)
+        > The central part of the operating system which is used most intensively. The kernel is constantly in memory, while other parts of the OS are loaded into and unloaded from memory as needed.
+    -   [Bootloader](https://en.wikipedia.org/wiki/Bootloader)
+        > The system software that prepares the environment for the OS to run (puts the hardware in the right state, prepares the memory, loads the OS kernel there and transfers control to it (the kernel).
+    -   [Device drivers](https://en.wikipedia.org/wiki/Device_driver)
+        > Special software that allows the OS to work with a particular piece of equipment.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**What is an OS? Operating System Definition for Beginners** – freeCodeCamp](https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/)
+2. 📄 [**Windows vs MacOS vs Linux – Operating System Handbook** – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
+3. 📺 [**Operating Systems: Crash Course Computer Science** – YouTube](https://youtu.be/26QPDBe-NB8)
+4. 📺 [**Operating System Basics** – YouTube](https://youtu.be/9GDX-IyZ_C8)
+5. 📺 [**Operating System in deep details (playlist)** – YouTube](https://youtube.com/playlistlist=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Processes and threads
 
+    <p align="center"><img src="./files/os/process_eng.png" alt="Process"/></p>
+
+    -   [Process](<https://en.wikipedia.org/wiki/Process_(computing)>)
+        > A kind of container in which all the resources needed to run a program are stored. As a rule, the process consists of:
+        >
+        > -   Executable program code <br>
+        > -   Input and output data <br>
+        > -   [Call stack](https://en.wikipedia.org/wiki/Call_stack) (order of instructions for execution) <br>
+        > -   [Heap](https://en.wikipedia.org/wiki/Memory_management#Manual_memory_management) (a structure for storing intermediate data created during the process) <br>
+        > -   [Segment descriptor](https://en.wikipedia.org/wiki/Segment_descriptor) <br>
+        > -   [File descriptor](https://en.wikipedia.org/wiki/File_descriptor) <br>
+        > -   Information about the set of permissible powers <br>
+        > -   Processor status information
+    -   [Thread](<https://en.wikipedia.org/wiki/Thread_(computing)>)
+        > An entity in which sequences of program actions (procedures) are executed. Threads are within a process and use the same address space. There can be multiple threads in a single process, allowing multiple tasks to be performed. These tasks, thanks to threads, can exchange data, use shared data or the results of other tasks.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**Difference Between Process and Thread** – YouTube](https://youtu.be/O3EyzlZxx3g)
+2. 📺 [**How Do CPUs Use Multiple Cores** – YouTube](https://youtu.be/S3I5WNHbnJ0)
+3. 📺 [**What is Hyper Threading Technology** – YouTube](https://youtu.be/wnS50lJicXc)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Concurrency and parallelism
 
+    <p align="center"><img src="./files/os/concurrency-parallel.png" alt="Concurrency-parallelism"/></p>
+
+    -   [Parallelism](https://en.wikipedia.org/wiki/Parallel_computing)
+        > The ability to perform multiple tasks simultaneously using multiple processor cores, where each individual core performs a different task.
+    -   [Concurrency](<https://en.wikipedia.org/wiki/Concurrency_(computer_science)>)
+        > The ability to perform multiple tasks, but using a single processor core. This is achieved by dividing tasks into separate blocks of commands which are executed in turn, but switching between these blocks is so fast that for users it seems as if these processes are running simultaneously.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**Concurrency, parallelism, and the many threads of Santa Claus** – freeCodeCamp](https://www.freecodecamp.org/news/concurrency-parallelism-and-the-many-threads-of-santa-claus/)
+2. 📺 [**Concurrency vs Parallelism** – YouTube](https://youtu.be/Y1pgpn2gOSg)
+3. 📺 [**Concurrency is not Parallelism by Rob Pike** – YouTube](https://youtu.be/oV9rvDllKEg)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Inter-process communication
 
+    A mechanism which allows to exchange data between threads of one or different processes. Processes can be run on the same computer or on different computers connected by a network. [Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) can be done in different ways.
+
+    -   [File](https://en.wikipedia.org/wiki/Computer_file)
+        > The easiest way to exchange data. One process writes data to a certain file, another process reads the same file and thus receives data from the first process.
+    -   [Signal (IPC)](<https://en.wikipedia.org/wiki/Signal_(IPC)>)
+        > Asynchronous notification of one process about an event which occurred in another process.
+    -   [Network socket](https://en.wikipedia.org/wiki/Network_socket)
+        > In particular, IP addresses and ports are used to communicate between computers using the TCP/IP protocol stack. This pair defines a socket (_socket_ corresponding to the address and port).
+    -   [Semaphore](<https://en.wikipedia.org/wiki/Semaphore_(programming)>)
+        > A counter over which only 2 operations can be performed: increasing and decreasing (and for 0 the decreasing operation is blocked).
+    -   [Message passing](https://en.wikipedia.org/wiki/Message_passing) & [Message queue](https://en.wikipedia.org/wiki/Message_queue)
+    -   [Pipelines](<https://en.wikipedia.org/wiki/Pipeline_(Unix)>)
+        > Redirecting the output of one process to the input of another (similar to a pipe).
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**Interprocess Communications** – Microsoft](https://learn.microsoft.com/en-us/windows/win32/ipc/interprocess-communications)
+2. 📺 [**Interprocess Communication** – YouTube](https://youtu.be/dJuYKfR8vec)
+3. 📺 [**Inter Process Communication** – YouTube](https://youtu.be/W0BX6geRCDQ)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
