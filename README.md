@@ -346,9 +346,10 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Чем отличается VPN от прокси и что выбрать?**](https://hidemy.name/ru/articles/chem-otlichaetsja-proksi-i-vpn-chto-vybrat-proksi-server-ili-vpn/)
-1. 📺 [**Что такое прокси-сервер за 7 минут** – YouTube](https://youtu.be/oeOuaqyYzSY)
-1. 📺 [**Какая разница между Прокси и VPN** – YouTube](https://youtu.be/2QNKtyVwUDo)
-1. 📄 [**Защищённые прокси — практичная альтернатива VPN** – habr.com](https://habr.com/ru/post/506356/)
+2. 📺 [**Что такое прокси-сервер за 7 минут** – YouTube](https://youtu.be/oeOuaqyYzSY)
+3. 📺 [**Всё, что нужно знать о VPN за час** – YouTube](https://youtu.be/ZlaQiys0lcM)
+4. 📺 [**Какая разница между Прокси и VPN** – YouTube](https://youtu.be/2QNKtyVwUDo)
+5. 📄 [**Защищённые прокси — практичная альтернатива VPN** – habr.com](https://habr.com/ru/post/506356/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2015,6 +2016,7 @@
 1. 📄 [**Что такое виртуализация и для чего она нужна**](https://guides.hexlet.io/ru/virtualization/)
 1. 📄 [**Что такое Docker: для чего он нужен и где используется** – selectel.ru](https://selectel.ru/blog/what-is-docker/)
 1. 📄 [**Как и для чего использовать Docker**](https://guides.hexlet.io/ru/docker/)
+1. 📺 [**Docker. Полный курс Docker для начинающих за 3 часа** – YouTube](https://youtu.be/_uZQtRyF6Eg)
 1. 📺 [**Docker для Начинающих. Полный Курс** – YouTube](https://youtu.be/n9uCgUzfeRQ)
 1. 📄 [**Полное практическое руководство по Docker** – habr.com](https://habr.com/ru/post/310460/)
 1. 📄 [**Изучаем Docker: файлы Dockerfile** – habr.com](https://habr.com/ru/company/ruvds/blog/439980/)
