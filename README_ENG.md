@@ -764,7 +764,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     
 1. 📺 [**Linux Crash Course - The apt Command** – YouTube](https://youtu.be/1kicKTbK768)
 2. 📺 [**Linux Package Management | Debian, Fedora, and Arch Linux** – YouTube](https://youtu.be/lkii2cGuKao)
-3. 📄 [**sudo apt-get update vs upgrade – What is the Difference?** – freeCodeCamp](<(https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference/)>)
+3. 📄 [**sudo apt-get update vs upgrade – What is the Difference?** – freeCodeCamp](https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
