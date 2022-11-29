@@ -189,9 +189,9 @@
 
 1. 📄 [**Как работает Интернет** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
 1. 📺 [**Основы программирования. Как работают сети?** – YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton)
-1. 📄 [**Кому принадлежит сеть Интернет?**](https://setphone.ru/stati/komu-prinadlezhit-set-internet/)
-1. 📄 [**Что такое сервер и как он работает**](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
-1. 📄 [**Хост — что это такое и как он работает**](https://anisim.org/articles/host/)
+2. 📄 [**Что такое сервер и как он работает**](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
+3. 📄 [**Как выглядит сервер**](https://thecode.media/server/)
+4. 📄 [**Что такое Хост**](https://blog.sk8er.name/wiki/xost/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -211,8 +211,8 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Что такое доменные имена** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_is_a_domain_name)
-1. 📄 [**Как работают домены**](https://temoto.github.io/a/kak-rabotayut-domeny.html)
-1. 📄 [**Доменное имя в призме закона** – habr.com](https://habr.com/ru/post/557786/)
+2. 📄 [**Как работают домены**](https://temoto.github.io/a/kak-rabotayut-domeny.html)
+3. 📄 [**Доменное имя в призме закона** – habr.com](https://habr.com/ru/post/557786/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -330,11 +330,12 @@
 
 1. 📄 [**Как работают браузеры** — MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
 2. 📄 [**Как работают браузеры — введение в безопасность веб-приложений** – habr.com](https://habr.com/ru/company/edison/blog/432870/)
-3. 📄 [**Важные аспекты работы браузера для разработчиков** – habr.com](https://habr.com/ru/company/dataart/blog/304138/)
-4. 📄 [**Обзор всех инструментов разработчика Chrome DevTools** – habr.com](https://habr.com/ru/company/simbirsoft/blog/337116/)
-5. 📄 [**Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com** – habr.com](https://habr.com/ru/company/htmlacademy/blog/254825/)
-6. 📄 [**Принципы работы современных веб-браузеров**](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
-7. 📄 [**Подробное объяснение того, как работает браузер (под капотом)**](https://russianblogs.com/article/7580365317/)
+3. 📄 [**Как браузер рисует страницы**](https://doka.guide/js/how-the-browser-creates-pages/)
+4. 📄 [**Важные аспекты работы браузера для разработчиков** – habr.com](https://habr.com/ru/company/dataart/blog/304138/)
+5. 📄 [**Обзор всех инструментов разработчика Chrome DevTools** – habr.com](https://habr.com/ru/company/simbirsoft/blog/337116/)
+6. 📄 [**Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com** – habr.com](https://habr.com/ru/company/htmlacademy/blog/254825/)
+7. 📄 [**Принципы работы современных веб-браузеров**](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
+8. 📄 [**Подробное объяснение того, как работает браузер (под капотом)**](https://russianblogs.com/article/7580365317/)
 </details>
 
 
