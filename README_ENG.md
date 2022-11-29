@@ -833,7 +833,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Permissions
 
-    <!-- <p align="center"><img src="./files/linux/chmod.png" alt="chmod"/></p> -->
+    <p align="center"><img src="./files/linux/chmod_eng.png" alt="chmod"/></p>
 
     In Linux, it is possible to share privileges between users, limit access to unwanted files or features, control available actions for services, and much more. In Linux, there are only three kinds of rights - read, write and execute - and three categories of users to which they can be applied - file owner, file group and everyone else.
 
@@ -907,7 +907,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Task Scheduler
 
-    <p align="center"><img src="./files/linux/cron.png" alt="cron"/></p>
+    <p align="center"><img src="./files/linux/cron_eng.png" alt="cron"/></p>
 
     Schedulers allow you to flexibly manage the delayed running of commands and scripts. Linux has a built-in [cron](https://en.wikipedia.org/wiki/Cron) scheduler that can be used to easily perform necessary actions at certain intervals.
 
