@@ -62,8 +62,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 <details>
     <summary><a href="#general-knowledge">4. General knowledge</a></summary>
     
-  * [Number systems](#number-systems)
-  * [Logical operations](#logical-operations)
+  * [Numeral systems](#numeral-systems)
+  * [Logical connective](#logical-connective)
   * [Data structures](#data-structures)
   * [Basic algorithms](#basic-algorithms)
   * [Algorithm complexity](#algorithm-complexity)
@@ -990,65 +990,205 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 ## General knowledge
 
--   ### Number systems
+-   ### Numeral systems
+
+    [Numeral system](https://en.wikipedia.org/wiki/Numeral_system) is a set of symbols and rules for denoting numbers. In computer science, it is customary to distinguish four main number systems: binary, octal, decimal, and hexadecimal. It is connected, first of all, with their use in various branches of programming.
+
+    -   [Binary number](https://en.wikipedia.org/wiki/Binary_number)
+        > The most important system for computing technology. Its use is justified by the fact that the logic of the processor is based on only two states (on/off, open/closed, high/low, true/false, yes/no, high/low).
+
+    <p align="center"><img src="./files/common/binary.png" alt="Binary"/></p>
+
+    -   [Octal](https://en.wikipedia.org/wiki/Octal)
+        > It is used e.g. in Linux systems to grant access rights.
+
+    <p align="center"><img src="./files/common/octal.png" alt="Octal"/></p>
+
+    -   [Decimal](https://en.wikipedia.org/wiki/Decimal)
+        > A system that is easy to understand for most people.
+    -   [Hexadecimal]()
+        > The letters A, B, C, D, E, F are additionally used for recording. It is widely used in low-level programming and computer documentation because the minimum addressable memory unit is an 8-bit byte, the values of which are conveniently written in two hexadecimal digits.
+
+    <p align="center"><img src="./files/common/hex.png" alt="Hex"/></p>
+
+    -   Translation between different number systems
+        > You can try [online converter](https://cheatsnake.github.io/NSConverter/) for a better understanding.
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**Number Systems Introduction - Decimal, Binary, Octal & Hexadecimal** – YouTube](https://youtu.be/FFDMzbrEXaE)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
--   ### Logical operations
+-   ### Logical connective
+
+    [Logical connective](https://en.wikipedia.org/wiki/Logical_connective) are widely used in programming to check various conditions. The result of a logical expression is always _truth_ or _false_.
+
+    <p align="center"><img src="./files/common/logic.png" alt="Logic"/></p>
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**Logical Operators − Negation, Conjunction & Disjunction** – YouTube](https://youtu.be/6kYngPvoGxU)
+2. 📺 [**Logical Operators − Exclusive OR** – YouTube](https://youtu.be/m2mf6I3g2-c)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Data structures
 
+    [Data structures](https://en.wikipedia.org/wiki/Data_structure) are containers in which data is stored according to certain rules. Depending on these rules, the data structure will be effective in some tasks and ineffective in others. Therefore, it is necessary to understand when and where to use this or that structure.
+
+    -   [Array](<https://en.wikipedia.org/wiki/Array_(data_structure)>)
+        > A data structure that allows you to store data of the same type, where each element is assigned a different sequence number.
+
+    <p align="center"><img src="./files/common/array.png" alt="Array"/></p>
+
+    -   [Linked list](https://en.wikipedia.org/wiki/Linked_list)
+        > A data structure where all elements, in addition to the data, contain references to the next and/or previous element. There are 3 varieties:
+        >
+        > -   A [singly linked list](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list) is a list where each element stores a link to the next element only (one direction).
+        > -   A [doubly linked list](https://en.wikipedia.org/wiki/Doubly_linked_list) is a list where the items contain links to both the next item and the previous one (two directions).
+        > -   A [circular linked list](https://en.wikipedia.org/wiki/Linked_list#Circular_linked_list) is a kind of bilaterally linked list, where the last element of the ring list contains a pointer to the first and the first to the last.
+
+    <p align="center"><img src="./files/common/linked-list.png" alt="Linked list"/></p>
+
+    -   [Stack](<https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>)
+        > Structure where data storage works on the principle of _last in - first out_ (LIFO).
+
+    <p align="center"><img src="./files/common/stack.png" alt="Stack"/></p>
+
+    -   [Queue](<https://en.wikipedia.org/wiki/Queue_(abstract_data_type)>)
+        > Structure where data storage is based on the principle of _first in - first out_ (FIFO).
+
+    <p align="center"><img src="./files/common/queue.gif" alt="Queue"/></p>
+
+    -   [Hash table](https://en.wikipedia.org/wiki/Hash_table)
+        > In other words, it is an associative array. Here, each of the elements is accessed with a corresponding key value, which is calculated using [hash function](https://en.wikipedia.org/wiki/Hash_function) according to a certain algorithm.
+
+    <p align="center"><img src="./files/common/hash-table.png" alt="Hash Table"/></p>
+
+    -   [Tree](<https://en.wikipedia.org/wiki/Tree_(data_structure)>)
+        > Structure with a hierarchical model, as a set of related elements, usually not ordered in any way.
+
+    <p align="center"><img src="./files/common/tree.png" alt="Tree"/></p>
+
+    -   [Heap](<https://en.wikipedia.org/wiki/Heap_(data_structure)>)
+        > Similar to the tree, but in the heap, the items with the largest key is the root node (max-heap). But it may be the other way around, then it is a min heap.
+
+    <p align="center"><img src="./files/common/heap.png" alt="Heap"/></p>
+
+    -   [Graph](<https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)>)
+        > A structure that is designed to work with a large number of links.
+
+    <p align="center"><img src="./files/common/graph.png" alt="Graph"/></p>
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Basic algorithms
 
+    [Algorithms](https://de.wikipedia.org/wiki/Algorithmus) refer to sets of sequential instructions (steps) that lead to the solution of a given problem. Throughout human history, a huge number of algorithms have been invented to solve certain problems in the most efficient way. Accordingly, the correct choice of algorithms in programming will allow you to create the fastest and most resource-intensive solutions.
+
+    > There is a very good book on algorithms for beginners – [Grokking algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf). You can start [learning a programming language](#programming-language) in parallel with it.
+
+    -   [Binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+        > Maximum efficient search algorithm for sorted lists.
+    -   [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+        > At each step of the algorithm, the minimum element is searched for and then swapped with the current iteration element.
+    -   [Recursion](https://en.wikipedia.org/wiki/Recursion)
+        > When a function can call itself and so on to infinity. On the one hand, recursion-based solutions look very elegant, but on the other hand, this approach quickly leads to stack overflow and is recommended to be avoided.
+    -   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
+        > At each iteration neighboring elements are sequentially compared, and if the order of the pair is wrong, the elements are swapped.
+    -   [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+        > Improved bubble sorting method.
+    -   [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
+        > Allows to find all shortest paths from a given vertex of the graph.
+    -   [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+        > Finds the shortest paths between all vertices of a graph and their length.
+    -   [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
+        > An algorithm that at each step makes locally the best choice in the hope that the final solution will be optimal.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**Code for the book Grokking Algorithms** – GitHub](https://github.com/egonSchiele/grokking_algorithms)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Algorithm complexity
 
+    <p align="center"><img src="./files/common/BigO.png" alt="BigO"/></p>
+
+    In the world of programming there is a special unit of measure **Big O** (or O-notation). It describes how the complexity of an algorithm increases with the amount of input data. **Big O** estimates how many actions (steps/iterations) it takes to execute the algorithm, while always showing the worst case scenario.
+
+    -   Varieties of algorithm complexity
+        > -   Constant - O(1) <br>
+        > -   Linear - O(n) <br>
+        > -   Logarithmic - O(log n) <br>
+        > -   Linearimetric - O(n \* log n) <br>
+        > -   Quadratic - O(n^2) <br>
+        > -   Stepwise - О(2^n) <br>
+        > -   Factorical - O(!n) <br>
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Data storage formats
 
+    Different file formats can be used to store and transfer data over the network. Text files are human-readable, so they are used for configuration files, for example. But transferring data in text formats over the network is not always rational, because they weigh more than their corresponding binary files.
+
+    -   Text formats
+
+        -   [JSON (JavaScript Object Notation)](https://en.wikipedia.org/wiki/JSON)
+            > Represents an object in which data is stored as key-value pairs.
+        -   [YAML (Yet Another Markup Language)](https://en.wikipedia.org/wiki/YAML)
+            > The format is close to markup languages like HTML. Minimalist, because it has no opening or closing tags. Easy to edit.
+        -   [XML (eXtensible Markup Language)](https://en.wikipedia.org/wiki/XML)
+            > The format is closer to HTML. Here the data is wrapped in opening and closing tags.
+
+    -   Binary formats
+        -   [Message Pack](https://msgpack.org/)
+            > Binary analog of JSON. Allows you to pack data 15-20% more efficiently.
+        -   [BSON (Binary JavaScript Object Notation)](https://en.wikipedia.org/wiki/BSON)
+            > It is a superset of JSON, including additionally regular expressions, binary data and dates.
+        -   [ProtoBuf (Protocol Buffers)](https://en.wikipedia.org/wiki/Protocol_Buffers)
+            > Binary alternative to XML text format. Simpler, more compact and faster.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Text encodings
 
+    Computers work only with numbers, or more precisely, only with 0 and 1. It is already clear how to convert numbers from different number systems to binary. But you can't do that with text. That's why special tables called [encodings](https://en.wikipedia.org/wiki/Character_encoding) were invented, in which text characters are assigned numeric equivalents.
+
+    -   [ASCII (American standard code for information interchange)](https://en.wikipedia.org/wiki/ASCII)
+        > The simplest encoding created specifically for the American alphabet. Consists of 128 characters.
+    -   [Unicode](https://en.wikipedia.org/wiki/Unicode)
+        > This is an international character table that, in addition to the English alphabet, contains the alphabets of almost all countries. It can hold more than a million different characters (the table is currently incomplete).
+    -   [UTF-8](https://en.wikipedia.org/wiki/UTF-8)
+        > Unicode is a variable-length encoding that can be used to represent any unicode character.
+    -   [UTF-16](https://en.wikipedia.org/wiki/UTF-16)
+        > Its main difference from UTF-8 is that its structural unit is not one but two bytes. That is, in UTF-16 any Unicode character can be encoded by either two or four bytes.
+
 <details>
     <summary>🔗 <b>References</b></summary>
-
+    
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
