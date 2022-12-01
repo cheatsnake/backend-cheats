@@ -1026,7 +1026,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
     [Logical connective](https://en.wikipedia.org/wiki/Logical_connective) are widely used in programming to check various conditions. The result of a logical expression is always _truth_ or _false_.
 
-    <p align="center"><img src="./files/common/logic.png" alt="Logic"/></p>
+    <p align="center"><img src="./files/common/logic_eng.png" alt="Logic"/></p>
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1044,7 +1044,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   [Array](<https://en.wikipedia.org/wiki/Array_(data_structure)>)
         > A data structure that allows you to store data of the same type, where each element is assigned a different sequence number.
 
-    <p align="center"><img src="./files/common/array.png" alt="Array"/></p>
+    <p align="center"><img src="./files/common/array_eng.png" alt="Array"/></p>
 
     -   [Linked list](https://en.wikipedia.org/wiki/Linked_list)
         > A data structure where all elements, in addition to the data, contain references to the next and/or previous element. There are 3 varieties:
@@ -1058,7 +1058,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   [Stack](<https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>)
         > Structure where data storage works on the principle of _last in - first out_ (LIFO).
 
-    <p align="center"><img src="./files/common/stack.png" alt="Stack"/></p>
+    <p align="center"><img src="./files/common/stack_eng.png" alt="Stack"/></p>
 
     -   [Queue](<https://en.wikipedia.org/wiki/Queue_(abstract_data_type)>)
         > Structure where data storage is based on the principle of _first in - first out_ (FIFO).
@@ -1068,7 +1068,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   [Hash table](https://en.wikipedia.org/wiki/Hash_table)
         > In other words, it is an associative array. Here, each of the elements is accessed with a corresponding key value, which is calculated using [hash function](https://en.wikipedia.org/wiki/Hash_function) according to a certain algorithm.
 
-    <p align="center"><img src="./files/common/hash-table.png" alt="Hash Table"/></p>
+    <p align="center"><img src="./files/common/hash-table_eng.png" alt="Hash Table"/></p>
 
     -   [Tree](<https://en.wikipedia.org/wiki/Tree_(data_structure)>)
         > Structure with a hierarchical model, as a set of related elements, usually not ordered in any way.
@@ -1078,12 +1078,12 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   [Heap](<https://en.wikipedia.org/wiki/Heap_(data_structure)>)
         > Similar to the tree, but in the heap, the items with the largest key is the root node (max-heap). But it may be the other way around, then it is a min heap.
 
-    <p align="center"><img src="./files/common/heap.png" alt="Heap"/></p>
+    <p align="center"><img src="./files/common/heap_eng.png" alt="Heap"/></p>
 
     -   [Graph](<https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)>)
         > A structure that is designed to work with a large number of links.
 
-    <p align="center"><img src="./files/common/graph.png" alt="Graph"/></p>
+    <p align="center"><img src="./files/common/graph_eng.png" alt="Graph"/></p>
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1125,7 +1125,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Algorithm complexity
 
-    <p align="center"><img src="./files/common/BigO.png" alt="BigO"/></p>
+    <p align="center"><img src="./files/common/BigO_eng.png" alt="BigO"/></p>
 
     In the world of programming there is a special unit of measure **Big O** (or O-notation). It describes how the complexity of an algorithm increases with the amount of input data. **Big O** estimates how many actions (steps/iterations) it takes to execute the algorithm, while always showing the worst case scenario.
 
@@ -1141,6 +1141,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 <details>
     <summary>🔗 <b>References</b></summary>
 
+1. 📄 [**Big-O Algorithm Complexity cheatsheet**](https://www.bigocheatsheet.com/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
