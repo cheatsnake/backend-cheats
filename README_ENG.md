@@ -899,7 +899,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**What the hell is SSH?** – freeCodeCamp](PASTE)
+1. 📄 [**What the hell is SSH?**](https://codingpastor.hashnode.dev/what-the-hell-is-ssh)
 2. 📺 [**Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial** – YouTube](https://youtu.be/v45p_kJV9i4)
  </details>
 
@@ -1018,6 +1018,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Number Systems Introduction - Decimal, Binary, Octal & Hexadecimal** – YouTube](https://youtu.be/FFDMzbrEXaE)
+1. 📄 [**Number System in Maths** – GeeksGorGeeks](https://www.geeksforgeeks.org/number-system-in-maths/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1088,6 +1089,10 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 <details>
     <summary>🔗 <b>References</b></summary>
 
+1. 📺 [**CS50 2022 - Lecture about Data Structures** – YouTube](https://youtu.be/X8h4dq9Hzq8)
+2. 📺 [**Data Structures Easy to Advanced Course** – YouTube](https://youtu.be/RBSGKlAvoiM)
+3. 📄 [**Free courses to learn data structures and algorithms in depth** – freeCodeCamp](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/)
+4. 📄 [**Data Structures: collection of topics** – GeeksForGeeks](https://www.geeksforgeeks.org/data-structures/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1119,6 +1124,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**Code for the book Grokking Algorithms** – GitHub](https://github.com/egonSchiele/grokking_algorithms)
+2. 📺 [**Algorithms and Data Structures Tutorial** – YouTube](https://youtu.be/8hly31xKli0)
+3. 📄 [**Largest open-source algorithm library**](https://the-algorithms.com/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1141,7 +1148,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Big-O Algorithm Complexity cheatsheet**](https://www.bigocheatsheet.com/)
+1. 📄 [**Big O Algorithm Complexity cheatsheet**](https://www.bigocheatsheet.com/)
+2. 📺 [**Big O Notation - Full Course** – YouTube](https://youtu.be/Mo4vesaut8g)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1170,6 +1178,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 <details>
     <summary>🔗 <b>References</b></summary>
 
+1. 📺 [**Data Formats: XML, JSON, and YAML** – YouTube](https://youtu.be/JQO-x8rzNVI)
+2. 📺 [**Serialization formats: JSON and Protobuf** – YouTube](https://youtu.be/uGYZn6xk-hA)
+3. 📺 [**Protocol Buffers Crash Course** – YouTube](https://youtu.be/46O73On0gyI)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1190,6 +1201,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 <details>
     <summary>🔗 <b>References</b></summary>
     
+1. 📺 [**Unicode, in friendly terms: ASCII, UTF-8 and more** – YouTube](https://youtu.be/ut74oHojxqo)
+2. 📺 [**Unicode Encoding! UTF-32, UCS-2, UTF-16, & UTF-8!** – YouTube](https://youtu.be/uTJoJtNYcaQ)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
