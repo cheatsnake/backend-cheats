@@ -1209,14 +1209,50 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 ## Programming Language
 
+At this stage you have to choose one programming language to study. There is plenty of information on various languages in the Internet (books, courses, thematic sites, etc.), so you should have no problem finding information.
+
+> Below is a list of specific languages that [personally, in my opinion](https://github.com/cheatsnake) are good for backend development (⚠️ may not agree with the opinions of others, including those more competent in this matter).
+
+-   [Python](<https://en.wikipedia.org/wiki/Python_(programming_language)>)
+    > A very popular language with a wide range of applications. Easy to learn due to its simple syntax.
+-   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+    > No less popular and practically the only language for full-fledged Web-development. Thanks to the platform [Node.js](https://en.wikipedia.org/wiki/Node.js) last few years is gaining popularity in the field of backend development as well.
+-   [Go](<https://en.wikipedia.org/wiki/Go_(programming_language)>)
+    > A language created internally by Google. It was created specifically for high-load server development. Minimalistic syntax, high performance and rich standard library.
+-   [Kotlin](<https://en.wikipedia.org/wiki/Kotlin_(programming_language)>)
+    > A kind of modern version of [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>). Simpler and more concise syntax, better type-safety, built-in tools for multithreading. One of the best choices for Android development.
+
+Find a good book or online tutorial in English at [this repository] (https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md). There is a large collection for different languages and frameworks.
+
+Look for a special [awesome repository] (https://github.com/sindresorhus/awesome#programming-languages) - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs and other various resources).
+
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Classification of programming languages
 
+    There are many programming languages. They are all created for a reason. Some languages may be very specific and used only for certain purposes. Also, different languages may use different approaches to writing programs. They may even run differently on a computer. In general, there are many different [classifications](https://en.wikipedia.org/wiki/Category:Programming_language_classification), which would be useful to understand.
+
+    -   Depending on language level
+        -   [Low level languages](https://en.wikipedia.org/wiki/Low-level_programming_language)
+            > As close to machine code as possible, complex to write, but as productive as possible. As a rule, it provides access to all of the computer's resources.
+        -   [High-level languages](https://en.wikipedia.org/wiki/High-level_programming_language)
+            > They have a fairly high level of abstraction, which makes them easy to write and easy to use. As a rule, they are safer because they do not provide access to all of the computer's resources.
+    -   [Compiled, interpreted and embedded languages](https://en.wikipedia.org/wiki/Programming_language#Implementation)
+        -   [Compilation](https://en.wikipedia.org/wiki/Compiler)
+            > Allows you to convert the source code of a program to an executable file.
+        -   [Interpretation](<https://en.wikipedia.org/wiki/Interpreter_(computing)>)
+            > The source code of a program is translated and immediately executed (interpreted) by a special interpreter program.
+    -   [Depending on the programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
+        -   [The Imperative Paradigm](https://en.wikipedia.org/wiki/Imperative_programming)
+        -   [The Declarative Paradigm](https://en.wikipedia.org/wiki/Declarative_programming)
+        -   [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**Classifying Programming Languages**](https://cs.lmu.edu/~ray/notes/pltypes/)
+2. 📺 [**What are the Types of Programming Languages?** – YouTube](https://youtu.be/Mo4vesaut8g)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
