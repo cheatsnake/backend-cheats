@@ -1222,9 +1222,9 @@ At this stage you have to choose one programming language to study. There is ple
 -   [Kotlin](<https://en.wikipedia.org/wiki/Kotlin_(programming_language)>)
     > A kind of modern version of [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>). Simpler and more concise syntax, better type-safety, built-in tools for multithreading. One of the best choices for Android development.
 
-Find a good book or online tutorial in English at [this repository] (https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md). There is a large collection for different languages and frameworks.
+Find a good book or online tutorial in English at [this repository](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md). There is a large collection for different languages and frameworks.
 
-Look for a special [awesome repository] (https://github.com/sindresorhus/awesome#programming-languages) - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs and other various resources).
+Look for a special [awesome repository](https://github.com/sindresorhus/awesome#programming-languages) - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs and other various resources).
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
