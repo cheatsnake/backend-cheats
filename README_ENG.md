@@ -1258,7 +1258,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Language Basics
 
-        By foundations are meant some fundamental ideas present in every language.
+    By foundations are meant some fundamental ideas present in every language.
 
     -   Variables and constants
     -   Data types
