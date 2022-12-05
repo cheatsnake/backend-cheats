@@ -1258,9 +1258,53 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Language Basics
 
+        By foundations are meant some fundamental ideas present in every language.
+
+    -   Variables and constants
+    -   Data types
+        > Strings, integers, floats, booleans, etc.
+    -   Operators
+        > Mathematical operators, comparison operators, bitwise operators.
+    -   Functions
+        > Working with arguments and return values. <br>
+        > Understanding the scope of variables.
+    -   Flow control
+        > Cycles for, conditions if else, switch-case statement.
+    -   Data structures
+        > Arrays, objects, classes, etc.
+    -   Standard Library
+        > This refers to the language's built-in capabilities to manipulate strings, numbers, arrays, etc.
+    -   [Regular expressions](./files/programming-language/regex-cheatsheet.md)
+        > A powerful tool for working with strings. Be sure to familiarize yourself with it in your language, at least on a basic level.
+    -   Package Manager
+        > Sooner or later, there will be a desire to use third-party libraries.
+
+    After mastering the minimal base for writing the simplest programs, there is not much point in continuing to learn without having specific goals (without practice, everything will be forgotten). You need to think of/find something that you would like to create yourself (a game, a chatbot, a website, a mobile/desktop application, whatever). For inspiration, check out these repositories: [Build your own x](https://github.com/codecrafters-io/build-your-own-x) and [Project based learning](https://github.com/practical-tutorials/project-based-learning).
+
+    At this point, the most productive part of learning begins: You just look for all kinds of information to implement your project. Your best friends are Google, YouTube, and Stack Overflow.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
+1. 📄 [**Free Interactive Python Tutorial**](https://www.learnpython.org/)
+2. 📺 [**Python Tutorial for Beginners** – YouTube](https://youtu.be/8124kv-632k)
+3. 📄 [**Python cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+4. 📄 [**Python cheatsheet** – quickref.me](https://quickref.me/python)
+5. 📄 [**Free Interactive JavaScript Tutorial**](https://www.learn-js.org/)
+6. 📺 [**JavaScript Programming - Full Course** – YouTube](https://youtu.be/jS4aFq5-91M)
+7. 📄 [**The Modern JavaScript Tutorial**](https://javascript.info/)
+8. 📄 [**JavaScript cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
+9. 📄 [**JavaScript cheatsheet** – quickref.me](https://quickref.me/javascript)
+10. 📄 [**Go Tour – learn most important features of the language**](https://go.dev/tour/list)
+11. 📺 [**Learn Go Programming - Golang Tutorial for Beginners** – YouTube](https://youtu.be/YS4e4q9oBaU)
+12. 📄 [**Go cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/go/)
+13. 📄 [**Go cheatsheet** – quickref.me](https://quickref.me/golang)
+14. 📄 [**Learn Go by Examples**](https://golangbyexample.com/)
+15. 📄 [**Get started with Kotlin**](https://kotlinlang.org/docs/getting-started.html)
+16. 📺 [**Learn Kotlin Programming – Full Course for Beginners** – YouTube](https://youtu.be/EExSSotojVI)
+17. 📄 [**Kotlin cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
+18. 📄 [**Kotlin cheatsheet** – devhints.io](https://devhints.io/kotlin)
+19. 📄 [**Learn Regex step by step, from zero to advanced**](https://regexlearn.com)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
