@@ -1311,10 +1311,30 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Server development
 
+    -   Creating and running a local HTTP server
+    -   Handing out static files
+        > Hosting HTML pages, pictures, PDFs, etc.
+    -   Routing
+        > Creation of endpoints (URLs) which will call the appropriate handler on the server when accessed.
+    -   Processing requests
+        > As a rule, HTTP handlers have a special object which receives all information about user request (headers, method, request body, full url with parameters, etc.)
+    -   Processing responses
+        > Sending an appropriate message to a received request (HTTP status and code, response body, headers, etc.)
+    -   Error handling
+        > You should always consider cases where the user could send invalid data, the database failed to execute the operation, or an unexpected error occurred in the application, so that the server does not crash but responds with an error message.
+    -   Sending requests
+        > Often, within one application, you will need to access another application over the network. That's why it's important to be able to send HTTP requests using the built-in features of the language.
+    -   [Template processor](https://en.wikipedia.org/wiki/Template_processor)
+        > Is a special module that uses a more convenient syntax to generate HTML based on dynamic data.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**Learn Django – Python-based web framework**](https://www.djangoproject.com/start/)
+2. 📄 [**Learn Express – web framework for Node.js**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+3. 📄 [**How to build servers in Go**](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+4. 📄 [**Learn Ktor – web framework for Kotlin**](https://ktor.io/learn/)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
