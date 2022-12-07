@@ -1349,28 +1349,70 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Multithreading
 
-<details>
+    Computers today have processors with several physical and virtual cores, and if we take into account server machines, their number can reach up to hundreds. All of these available resources would be good to use to the fullest, for maximum application performance. That is why modern server development cannot do without implementing [multithreading](<https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)>) and [paralleling](https://en.wikipedia.org/wiki/Parallel_computing).
+
+    -   [Race conditions & data races](https://en.wikipedia.org/wiki/Race_condition)
+        > The main problems that arise when using multithreading.
+    -   Creating processes
+    -   Creating threads
+    -   [Corutines](https://en.wikipedia.org/wiki/Coroutine)
+        > Lightweight code execution threads organized on top of operating system threads. They can exist as separate libraries or be already built into the kernel.
+    -   [Linearizability](https://en.wikipedia.org/wiki/Linearizability)
+        > Operations that are performed completely, or not performed at all.
+    -   Lockouts
+        > Using [semaphores](<https://en.wikipedia.org/wiki/Semaphore_(programming)>) and [mutexes](<https://en.wikipedia.org/wiki/Lock_(computer_science)>) to synchronize data.
+
+<details></details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**Multithreading Code - Computerphile** – YouTube](https://youtu.be/7ENFeb-J75k)
+2. 📺 [**Threading vs multiprocessing in Python** – YouTube](https://youtu.be/AZnGRKFUU0c)
+3. 📺 [**When is NodeJS Single-Threaded and when is it Multi-Threaded?** – YouTube](https://youtu.be/gMtchRodC2I)
+4. 📺 [**How to use Multithreading with "worker threads" in Node.js?** – YouTube](https://youtu.be/MuwJJrfIfsU)
+5. 📺 [**Concurrency in Go** – YouTube](https://youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
+6. 📺 [**Kotlin coroutines** – YouTube](https://youtube.com/playlist?list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Advanced Topics
 
+    -   [Garbage collector](<https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)>)
+        > A process that has made high-level languages very popular - it allows the programmer not to worry about memory allocation and freeing. Be sure to familiarize yourself with the subtleties of its operation in your own language.
+    -   [Debuger](https://en.wikipedia.org/wiki/Debugging)
+        > Handy tool for analyzing program code and identifying errors.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**How to Use a Debugger - Debugger Tutorial** – YouTube](https://youtu.be/7qZBwhSlfOo)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Code quality
 
+    During these long years that programming has existed, a huge amount of code, programs and entire systems have been written. And as a consequence, there have been all sorts of problems in the development of all this. First of all they were related to scaling, support, and the entry threshold for new developers. Clever people, of course, did not sit still and started to solve these problems, thus creating so-called patterns/principles/approaches for writing high-quality code.
+
+    By learning programming best practices, you will not only make things better for yourself, but also for others, because other developers will be working with your code.
+
+    -   [DRY (Don't Repeat Yourself)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+    -   [KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle)
+    -   [YAGNI (You Aren't Gonna Need It)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+    -   [SOLID](https://en.wikipedia.org/wiki/SOLID)
+        -   [**S**ingle Responsibility](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+        -   [**O**pen–Closed](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+        -   [**L**iskov Substitution](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+        -   [**I**nterface Segregation](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+        -   [**D**ependency Inversion](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+    -   [GRASP (General Responsibility Assignment Software Patterns)](<https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)>)
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**KISS, SOLID, YAGNI And Other Fun Acronyms**](https://blog.bitsrc.io/kiss-solid-yagni-and-other-fun-acronyms-b5d207530335)
+2. 📺 [**Uncle Bob SOLID principles** – YouTube](https://youtu.be/zHiWqnTWsn4)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
