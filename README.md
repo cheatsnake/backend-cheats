@@ -304,6 +304,7 @@
 
 1. 📄 [**Как работают веб-приложения** – habr.com](https://habr.com/ru/post/450282)
 1. 📺 [**Как устроены веб-приложения? (Frontend/Backend)** – YouTube](https://youtu.be/nQBNH0x4YmI)
+1. 📺 [**Архитектура современных WEB приложений. Эволюция от А до Я** – YouTube](https://youtu.be/S0e_5a2WB60)
 1. 📄 [**Что такое HTML за 7 минут**](https://youtu.be/MBe1h80ghKA)
 1. 📄 [**Базовый курс по фронтенду** – (MDN) mozilla.org](https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer)
 1. 📄 [**Frontend Developer roadmap**](https://roadmap.sh/frontend)
