@@ -1452,10 +1452,40 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Relational database
 
+    The most popular relational databases: [MySQL](https://en.wikipedia.org/wiki/MySQL), [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [MariaDB](https://en.wikipedia.org/wiki/MariaDB), [Oracle](https://en.wikipedia.org/wiki/Oracle_Database). A special language [SQL (Structured Query Language)](https://postgrespro.com/docs/postgresql/14/sql) is used to work with these databases. It is quite simple and intuitive.
+
+    -   [SQL basics](./files/databases/sql-cheatsheet.md)
+        > Learn the basic cycle of creating/receiving/updating/deleting data. Everything else as needed.
+    -   Merging tables
+        -   Querying data from multiple tables
+            > Operator `JOIN`; Combinations with other operators; `JOIN` types.
+        -   Relationships between tables
+            > References from one table to another; foreign keys.
+    -   [Subquery Expressions](https://postgrespro.com/docs/postgresql/14/functions-subquery)
+        > Query inside another SQL query.
+    -   [Indexes](https://postgrespro.com/docs/postgresql/14/indexes-intro)
+        > Data structure that allows you to quickly determine the position of the data of interest in the database.
+    -   [Transactions](https://postgrespro.com/docs/postgresql/14/tutorial-transactions)
+        > Sequences of commands that must be executed completely, or not executed at all.
+        -   Command `START TRANSACTION`
+        -   Commands `COMMIT` and `ROLLBACK`
+    -   Working with a programming language
+        > To do this, you need to install a special driver for your language. For more convenient operation, there are ORM libraries that allow you to execute SQL queries as if you were simply calling methods on the object.
+    -   [Optimization and performance](https://postgrespro.ru/docs/postgresql/14/performance-tips)
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**SQL Crash Course - Beginner to Intermediate** – YouTube](https://youtu.be/nWeW3sCmD2k)
+2. 📺 [**SQL Tutorial - Full Database Course for Beginners** – YouTube](https://youtu.be/HXV3zeQKqGY)
+3. 📺 [**MySQL - The Basics. Learn SQL in 23 Easy Steps** – YouTube](https://youtu.be/Cz3WcZLRaWc)
+4. 📄 [**MySQL command-line client commands**](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
+5. 📺 [**Learn PostgreSQL Tutorial - Full Course for Beginners** – YouTube](https://youtu.be/qw--VYLpxG4)
+6. 📄 [**Postgres Cheat Sheet**](https://postgrescheatsheet.com)
+7. 📺 [**Database Indexing Explained (with PostgreSQL)** – YouTube](https://youtu.be/-qNSXK7s7_w)
+8. 📺 [**What is a Database transaction?** – YouTube](https://youtu.be/P80Js_qClUE)
+9. 📺 [**SQL Server Performance Essentials – Full Course** – YouTube](https://youtu.be/HvxmF0FUwrM)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
