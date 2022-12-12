@@ -1491,10 +1491,25 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### MongoDB
 
+    [MongoDB](https://en.wikipedia.org/wiki/MongoDB) is a document-oriented database (which is a classic example of [NoSQL](https://en.wikipedia.org/wiki/NoSQL) databases) that does not require a table schema description. Uses JSON-like documents and database schema.
+
+    -   [Basic commands](./files/databases/mongodb-cheatsheet.md)
+        > Learn the basic cycle of creating/receiving/updating/deleting data. Everything else as needed.
+    -   [Aggregations](https://www.mongodb.com/docs/manual/aggregation)
+        > Grouping values from multiple documents. <br> Three ways to perform aggregation: pipeline, map-reduce, and single-purpose aggregation methods.
+    -   [Working with Indexes](https://www.mongodb.com/docs/manual/indexes)
+    -   Working with a programming language
+        > For this you need to install [MongoDB driver](https://www.mongodb.com/docs/drivers) for your language.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**MongoDB in 100 Seconds** – YouTube](https://youtu.be/-bt_y4Loofg)
+2. 📺 [**MongoDB Crash Course 2022** – YouTube](https://youtu.be/2QQGWYe7IDU)
+3. 📄 [**MongoDB — Complete Guide**](https://faun.pub/mongodb-com-50d2f3016c2b)
+4. 📄 [**MongoDB Cheat Sheet**](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
+5. 📺 [**MongoDB Tutorial For Beginners (playlist)** – YouTube](https://youtube.com/playlist?list=PLp50dWW_m40UWFSV6PTgYzciZJIxgHy7Q)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
