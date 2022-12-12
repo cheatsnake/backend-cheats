@@ -1583,16 +1583,13 @@
 
 -   ### Реляционная база данных
     
-    Наиболее популярные реляционные БД: [MySQL](https://ru.wikipedia.org/wiki/MySQL), [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL), [MariaDB](https://ru.wikipedia.org/wiki/MariaDB), [Oracle](https://ru.wikipedia.org/wiki/Oracle_Database).
-
-    [SQL (Structured Query Language)](https://ru.wikipedia.org/wiki/SQL) – специальный язык для работы с реляционными базами данных. Он довольно простой и интуитивно понятный.
-    > Удобная документация по SQL на русском языке [здесь](https://postgrespro.ru/docs/postgresql/14/sql).
+    Наиболее популярные реляционные БД: [MySQL](https://ru.wikipedia.org/wiki/MySQL), [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL), [MariaDB](https://ru.wikipedia.org/wiki/MariaDB), [Oracle](https://ru.wikipedia.org/wiki/Oracle_Database). Для работы с ними используется специальный язык – [SQL (Structured Query Language)](https://postgrespro.ru/docs/postgresql/14/sql). Он довольно простой и интуитивно понятный.
 
     -   [Основы SQL](./files/databases/sql-cheatsheet.md)
         > Изучите основной цикл операций по созданию/получению/обновлению/удалению данных. Всё остальное по мере надобности.
     -   Объединение таблиц
         - Запрос данных из нескольких таблиц
-            > Оператор `JOIN`; Комбинации с другими операторами; типы JOIN: (внешние/внутренние, левое/правое, перекресные, полные) 
+            > Оператор `JOIN`; Комбинации с другими операторами; типы `JOIN`: (внешние/внутренние, левое/правое, перекрёстные, полные) 
         - Связи между таблицами
             > Ссылки из одной таблицы на другую; внешние ключи (FOREIGN KEY)
     -   [Подзапросы](https://postgrespro.ru/docs/postgresql/14/functions-subquery) 
@@ -1611,18 +1608,18 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Базы данных SQL уроки для начинающих** – YouTube](https://youtu.be/IK6e1SFCdow)
-1. 📺 [**Что такое SQL и реляционные базы данных** – YouTube](https://youtu.be/GQfC0nYrto8)
-1. 📺 [**Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
-1. 📺 [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
-1. 📘 [**Изучаем SQL** – Алан Бьюли, 2017](https://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-RU.pdf)
-1. 📺 [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
-1. 📄 [**Онлайн-тренажёр по SQL**](https://sql-academy.org/ru/trainer?sort=byId)
-1. 📘 [**SQL Сборник рецептов** – Энтони Молинаро, 2009](https://library-it.com/wp-content/uploads/2021/04/sql-sbornik_retseptov_o_39_reilly.pdf)
-1. 📺 [**Расширенные возможности SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLKl9v2TQvIkqHEOvM1sLX3rNJ3WZJRKQ9)
-1. 📄 [**8 книг по PostgreSQL для новичков и профессионалов** – selectel.ru](https://selectel.ru/blog/postgresql-books/)
-1. 📄 [**Индексы в PostgreSQL** – habr.com](https://habr.com/ru/company/postgrespro/blog/326096/)
-1. 📺 [**PostgreSQL. Индексы: то, что вы всегда хотели узнать, но боялись спросить** – YouTube](https://youtu.be/-5_U5liPNTU)
-1. 📺 [**Вся правда об индексах в PostgreSQL** – YouTube](https://youtu.be/G9hWF0N5hkQ)
+2. 📺 [**Что такое SQL и реляционные базы данных** – YouTube](https://youtu.be/GQfC0nYrto8)
+3. 📺 [**Базы данных (плейлист)** – YouTube](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
+4. 📺 [**Основы SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
+5. 📘 [**Изучаем SQL** – Алан Бьюли, 2017](https://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-RU.pdf)
+6. 📺 [**Практика SQL (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
+7. 📄 [**Онлайн-тренажёр по SQL**](https://sql-academy.org/ru/trainer?sort=byId)
+8. 📘 [**SQL Сборник рецептов** – Энтони Молинаро, 2009](https://library-it.com/wp-content/uploads/2021/04/sql-sbornik_retseptov_o_39_reilly.pdf)
+9. 📺 [**Расширенные возможности SQL (плейлист)** – YouTube](https://youtube.com/playlist?list=PLKl9v2TQvIkqHEOvM1sLX3rNJ3WZJRKQ9)
+10. 📄 [**8 книг по PostgreSQL для новичков и профессионалов** – selectel.ru](https://selectel.ru/blog/postgresql-books/)
+11. 📄 [**Индексы в PostgreSQL** – habr.com](https://habr.com/ru/company/postgrespro/blog/326096/)
+12. 📺 [**PostgreSQL. Индексы: то, что вы всегда хотели узнать, но боялись спросить** – YouTube](https://youtu.be/-5_U5liPNTU)
+13. 📺 [**Вся правда об индексах в PostgreSQL** – YouTube](https://youtu.be/G9hWF0N5hkQ)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
