@@ -1537,7 +1537,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         SETEX key 1000 "value" # consolidation of commands SET and EXPIRE
         ```
     -   Transactions
-        > `MULTI` — start recording commands for the transaction. <br> > `EXEC` — execute the recorded commands. <br> > `DISCARD` — delete all recorded commands. <br> > `WATCH` — command that provides execution only if other clients have not changed the value of the variable. Otherwise EXEC will not execute the written commands.
+        > `MULTI` — start recording commands for the transaction. <br> `EXEC` — execute the recorded commands. <br> `DISCARD` — delete all recorded commands. <br> `WATCH` — command that provides execution only if other clients have not changed the value of the variable. Otherwise EXEC will not execute the written commands.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1554,10 +1554,25 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### ACID Requirements
 
+    [ACID](https://en.wikipedia.org/wiki/ACID) is an acronym consisting of the names of the four main properties that guarantee the reliability of transactions in the database.
+
+    -   [Atomicity](<https://en.wikipedia.org/wiki/Atomicity_(database_systems)>)
+        > Guarantees that the transaction will be executed completely or not executed at all.
+    -   [Consistency](<https://en.wikipedia.org/wiki/Consistency_(database_systems)>)
+        > Ensures that each successful transaction captures only valid results (any inconsistencies are excluded).
+    -   [Isolation](<https://en.wikipedia.org/wiki/Isolation_(database_systems)>)
+        > Guarantees that one transaction cannot affect the other in any way.
+    -   [Durability](<https://en.wikipedia.org/wiki/Durability_(database_systems)>)
+        > Guarantees that the changes made by the transaction are saved.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**ACID Transactions (Explained by Example)** – YouTube](https://youtu.be/pomxJOFVcQs)
+2. 📺 [**Relational Database Atomicity Explained By Example** – YouTube](https://youtu.be/6vqzOjfZDco)
+3. 📺 [**ACID Properties in DBMS With Examples | In-depth Explanation** – YouTube](https://youtu.be/clPPKgYJC10)
+4. 📄 [\*_How SQLite Helps You Do ACID_ – QuickRef](https://fly.io/blog/sqlite-internals-rollback-journal/)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
