@@ -1571,7 +1571,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 1. 📺 [**ACID Transactions (Explained by Example)** – YouTube](https://youtu.be/pomxJOFVcQs)
 2. 📺 [**Relational Database Atomicity Explained By Example** – YouTube](https://youtu.be/6vqzOjfZDco)
 3. 📺 [**ACID Properties in DBMS With Examples | In-depth Explanation** – YouTube](https://youtu.be/clPPKgYJC10)
-4. 📄 [\*_How SQLite Helps You Do ACID_ – QuickRef](https://fly.io/blog/sqlite-internals-rollback-journal/)
+4. 📄 [**How SQLite Helps You Do ACID**](https://fly.io/blog/sqlite-internals-rollback-journal/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
