@@ -693,6 +693,7 @@
 1. 📺 [**Процессы и потоки в операционной системе** – YouTube](https://youtu.be/Xwm_88dDdBQ)
 1. 📄 [**Процессы и потоки**](https://learnc.info/c/processes_and_threads.html)
 1. 📺 [**Что такое поток?** – YouTube](https://youtu.be/t1JpAC1LOKg)
+1. 📄 [**Многозадачность и процессы**](https://doka.guide/tools/multitasking-and-processes/)
 </details>
 
 
@@ -711,9 +712,9 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Чем отличаются Concurrency и Parallelism** – YouTube](https://youtu.be/4PNneed92lM)
-1. 📄 [**Отличие между конкурентностью, параллелизмом и многопоточностью** – GitHub](https://github.com/gm-soft/knowledge-base/blob/master/dot-net/2019-11-06-asynchronous-programming-epm-theory.md)
-1. 📄 [**Parallelism vs Concurrency: правильно подбираем инструменты** – habr.com](https://habr.com/ru/company/piter/blog/274569/)
-1. 📄 [**Параллелизм против многопоточности против асинхронного программирования: разъяснение** – habr.com](https://habr.com/ru/post/337528/)
+2. 📄 [**Отличие между конкурентностью, параллелизмом и многопоточностью** – GitHub](https://github.com/gm-soft/knowledge-base/blob/master/dot-net/2019-11-06-asynchronous-programming-epm-theory.md)
+3. 📄 [**Parallelism vs Concurrency: правильно подбираем инструменты** – habr.com](https://habr.com/ru/company/piter/blog/274569/)
+4. 📄 [**Параллелизм против многопоточности против асинхронного программирования: разъяснение** – habr.com](https://habr.com/ru/post/337528/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -979,10 +980,11 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Что такое протокол SSH**](https://guides.hexlet.io/ru/ssh/)
-1. 📄 [**Как пользоваться SSH** – losst.ru](https://losst.ru/kak-polzovatsya-ssh)
-1. 📺 [**Настраиваем аутентификацию SSH по ключу в Linux** – YouTube](https://youtu.be/IVHv3eVQa14)
-1. 📄 [**Почему SSH-ключ — безопасная альтернатива паролю** – selectel.ru](https://selectel.ru/blog/ssh-keys/)
-1. 📄 [**SSH-туннели: практические примеры использования и важные функции** – selectel.ru](https://selectel.ru/blog/ssh-tunnels/)
+2. 📄 [**Как пользоваться SSH**](https://losst.ru/kak-polzovatsya-ssh)
+3. 📄 [**Удалённое управление по SSH**](https://doka.guide/tools/ssh/)
+4. 📺 [**Настраиваем аутентификацию SSH по ключу в Linux** – YouTube](https://youtu.be/IVHv3eVQa14)
+5. 📄 [**Почему SSH-ключ — безопасная альтернатива паролю** – selectel.ru](https://selectel.ru/blog/ssh-keys/)
+6. 📄 [**SSH-туннели: практические примеры использования и важные функции** – selectel.ru](https://selectel.ru/blog/ssh-tunnels/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2025,10 +2027,13 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Что такое веб сервер и для чего он нужен?** – YouTube](https://youtu.be/uFWyAn6E4BU)
+1. 📄 [**Веб-сервер: краткий обзор**](https://doka.guide/tools/web-server/)
 1. 📄 [**Что такое Nginx**](https://eternalhost.net/blog/sozdanie-saytov/chto-takoe-nginx?)
+1. 📄 [**Веб-сервер Nginx: краткий обзор**](https://doka.guide/tools/nginx-web-server/)
 1. 📺 [**Основы Nginx (плейлист)** – YouTube](https://youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
 1. 📄 [**NGINX изнутри: рожден для производительности и масштабирования** – habr.com](https://habr.com/ru/post/260065/)
 1. 📄 [**Что такое Apache**](https://eternalhost.net/blog/hosting/web-server-apache)
+1. 📄 [**Веб-сервер Apache: краткий обзор**](https://doka.guide/tools/apache-web-server/)
 1. 📄 [**Apache vs Nginx: практический взгляд** – habr.com](https://habr.com/ru/post/267721/)
 1. 📺 [**Установка web-сервера Apache на Linux Ubuntu и публикация web-сайта** – YouTube](https://youtu.be/XmN7FUIYycA)
 1. 📺 [**Web-технологии. Web сервера | Технострим** – YouTube](https://youtu.be/1Tp5TV3BVWE)
@@ -2595,10 +2600,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. 📄 [**Сравнение микросервисной и монолитной архитектур**](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith)
-1. 📺 [**Архитектура приложений. Монолит VS Микросервисы** – YouTube](https://youtu.be/pzwbFUzj5R8)
-1. 📺 [**Что такое микросервисы. Основные принципы и паттерны** – YouTube](https://youtu.be/uKtRSmO8ALk)
-1. 📄 [**Модули, монолиты и микросервисы** – habr.com](https://habr.com/ru/company/flant/blog/572414/)
+1. 📄 [**Что такое микросервисы**](https://doka.guide/tools/microservices/)
+2. 📄 [**Сравнение микросервисной и монолитной архитектур**](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith)
+3. 📺 [**Архитектура приложений. Монолит VS Микросервисы** – YouTube](https://youtu.be/pzwbFUzj5R8)
+4. 📺 [**Что такое микросервисы. Основные принципы и паттерны** – YouTube](https://youtu.be/uKtRSmO8ALk)
+5. 📄 [**Модули, монолиты и микросервисы** – habr.com](https://habr.com/ru/company/flant/blog/572414/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
