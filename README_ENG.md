@@ -1578,10 +1578,23 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Designing databases
 
+    [Database design](https://en.wikipedia.org/wiki/Database_design) is a very important topic that is often overlooked. A well-designed database will ensure long-term scalability and ease of data maintenance. There are several basic steps in database design:
+
+    -   [Conceptual schema](https://en.wikipedia.org/wiki/Conceptual_schema)
+        > The most abstract vision of the entire system is a description of the basic entities (tables) and the relationships between them without focusing on a particular database management system.
+    -   Logic schema
+        > Work with data models of the future database, the designation of necessary fields with the indication of types, the definition of relationships and relationships with the indication of the primary and external keys.
+    -   Real implementation
+        > This is the direct work with the DBMS, the organization of specific tables, the implementation of relationships, the creation of indexes, and so on.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**How to Create a Database Design From an Idea** – YouTube](https://youtu.be/5RpUmDEsn1k)
+2. 📺 [**Database Design Course - Learn how to design and plan a database for beginners** – YouTube](https://youtu.be/ztHopE5Wnpc)
+3. 📺 [**7 Database Design Mistakes to Avoid (With Solutions)** – YouTube](https://youtu.be/s6m8Aby2at8)
+4. 📄 [**Dbdiagram – simple tool to draw ER diagrams**](https://dbdiagram.io/home)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
