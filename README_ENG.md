@@ -1600,12 +1600,31 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 ## API development
 
+[API (Application Programming Interface)](https://en.wikipedia.org/wiki/API) an interface which describes a certain set of rules by which different programs (applications, bots, websites...) can interact with each other. With API calls you can execute certain functions of a program without knowing how it works.
+
+When developing server applications, different API formats can be used, depending on the tasks and requirements.
+
 -   ### REST API
+
+    [REST (Representational State Transfer)](https://ru.wikipedia.org/wiki/REST) an architectural approach that describes a set of rules for how a programmer organizes the writing of server application code so that all systems can easily exchange data and the application can be easily scaled. When building a REST API, HTTP protocol methods are widely used.
+
+    Basic rules for writing a good REST API:
+
+    -   Each URL-endpoint must be a noun
+        > To perform different operations (get/create/update/delete), this endpoint must implement handlers for the corresponding HTTP methods (GET/POST/PUT/DELETE).
+    -   Use of plural names
+        > For example, the endpoint to get one record by id looks like this: `/task/42`, and to get all records like this: `/tasks`.
+    -   Using versioning
+        > Detailed instructions are described [here](https://www.freecodecamp.org/news/how-to-version-a-rest-api/).
+    -   Sending the appropriate HTTP response codes
+        > The most commonly used: [200](https://developer.mozilla.org/en/docs/Web/HTTP/Status/200), [201](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201), [204](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/204), [304](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/304), [400](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400), [401](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401), [403](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403), [404](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404), [405](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405), [410](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/410), [415](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/415), [422](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422), [429](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/429).
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📄 [**What Is Restful API?** – AWS](https://aws.amazon.com/what-is/restful-api/?nc1=h_ls)
+1. 📺 [**What is REST API?** – YouTube](https://youtu.be/lsMQRaeKNDk)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
