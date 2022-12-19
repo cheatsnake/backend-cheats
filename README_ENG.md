@@ -1630,37 +1630,88 @@ When developing server applications, different API formats can be used, dependin
 
 -   ### GraphQL
 
+    [GraphQL](https://graphql.org/) is a query language that describes how to request data and is mainly used by the client to download data from the server. It has three main features:
+
+    -   Allows the customer to specify exactly what data they want, thereby reducing traffic consumption from unnecessary data.
+    -   Facilitates the aggregation of data from multiple sources.
+    -   Uses a type system to describe the data.
+
+    Content to learn:
+
+    -   [Queries and Mutations](https://graphql.org/learn/queries/)
+    -   [Schemas and Types](https://graphql.org/learn/schema/)
+    -   [Validation](https://graphql.org/learn/validation/)
+    -   [Execution](https://graphql.org/learn/execution/)
+    -   [Introspection](https://graphql.org/learn/introspection/)
+    -   [Best Practices](https://graphql.org/learn/best-practices/)
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**What Is GraphQL? REST vs. GraphQL** – YouTube](https://youtu.be/yWzKJPw_VzM)
+2. 📄 [**Why use GraphQL?**](https://www.apollographql.com/blog/graphql/basics/why-use-graphql/)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### WebSockets
 
+    [WebSockets](https://en.wikipedia.org/wiki/WebSocket) is an advanced technology that allows you to open a persistent bidirectional network connection between the client and the server. With its API you can send a message to the server and receive a response without making an HTTP request, thereby implementing real-time communication.
+
+    The basic idea is that you do not need to send requests to the server for new information. When the connection is established, the server itself will send a new batch of data to connected clients as soon as that data is available. Web sockets are widely used to create chat rooms, online games, trading applications, etc.
+
+    -   Opening a web socket
+        > Sending an HTTP request with a specific set of headers: `Connection: Upgrade`, `Upgrade: websocket`, `Sec-WebSocket-Key`, `Sec-WebSocket-Version`.
+    -   Connection states
+        > `CONNECTING`, `OPEN`, `CLOSING`, `CLOSED`.
+    -   Events
+        > `Open`, `Message`, `Error`, `Close`.
+    -   Connection closing codes
+        > `1000`, `1001`, `1006`, `1009`, `1011`, [etc.](https://github.com/Luka967/websocket-close-codes)
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**A Beginner's Guide to WebSockets** – YouTube](https://youtu.be/8ARodQ4Wlf4)
+2. 📺 [**WebSockets Crash Course - Handshake, Use-cases, Pros & Cons and more** – YouTube](https://youtu.be/2Nt-ZrNP22A)
+3. 📄 [**Introducing WebSockets - Bringing Sockets to the Web**](https://web.dev/websockets-basics)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### RPC and gRPC
 
+    [RPC (remote procedure call)](https://en.wikipedia.org/wiki/Remote_procedure_call) it is simply a function call on the server with a set of defined arguments, which responds with the result of this function call.
+
+    The main RPC protocols:
+
+    -   [SOAP](https://en.wikipedia.org/wiki/SOAP)
+        > A protocol that uses the XML language. It was developed in 1998. Due to the complexity of XML and high traffic consumption, it is not recommended for use.
+    -   [JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC)
+        > A protocol with a very simple specification. All calls and responses are JSON records.
+    -   [gRPC](https://en.wikipedia.org/wiki/GRPC)
+        > Binary protocol created by Google and using [the Protobuf language](https://en.wikipedia.org/wiki/Protocol_Buffers).
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**What is RPC? gRPC Introduction** – YouTube](https://youtu.be/gnchfOojMk4)
+2. 📄 [**Learning gRPC with an Example**](https://blog.devgenius.io/learning-grpc-with-an-example-8b4931bd90c8)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### WebRTC
 
+    [WebRTC](https://en.wikipedia.org/wiki/WebRTC) an open-source project for streaming data (video, audio) in a browser. WebRTC operation is based on [peer to peer connection](https://en.wikipedia.org/wiki/Peer-to-peer), however, there are implementations that allow you to organize complex group sessions. For example, the video-calling service [Google Meet](https://en.wikipedia.org/wiki/Google_Meet) makes extensive use of WebRTC.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**WebRTC Crash Course** – YouTube](https://youtu.be/FExZvpVvYxA)
+2. 📄 [**Everything You Ever Wanted To Know About WebRTC**](https://blog.openreplay.com/everything-you-ever-wanted-to-know-about-webrtc/)
+3. 📄 [**HTTP, WebSocket, gRPC or WebRTC: Which Communication Protocol is Best For Your App?**](https://getstream.io/blog/communication-protocols/)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
