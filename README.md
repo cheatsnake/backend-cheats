@@ -1826,7 +1826,7 @@
     -   События
         > `Open`, `Message`, `Error`, `Close`.
     -   Коды закрытия соединения
-        > `1000`, `1001`, `1006`, `1009`, `1011` [и т.д.](https://datatracker.ietf.org/doc/html/rfc6455#section-7.4.1)
+        > `1000`, `1001`, `1006`, `1009`, `1011` [и т.д.](https://github.com/Luka967/websocket-close-codes)
 
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
