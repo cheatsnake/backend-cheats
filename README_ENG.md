@@ -1724,10 +1724,50 @@ When developing server applications, different API formats can be used, dependin
 
 -   ### Git version control system
 
+    [Git](https://en.wikipedia.org/wiki/Git) a special system for managing the history of changes to the source code. Any changes that are made to Git can be saved, allowing you to rollback (revert) to a previously saved copy of the project. Git is currently the standard for development.
+
+    -   Basic commands
+        ```bash
+        git init # initialize Git in the current folder
+        git add [file] # add a file to Git
+        git add . # add all the files in the folder to Git
+        git reset [file] # cancel the addition of the specified file
+        git reset # cancel the addition of all files
+        git commit -m "your message" # create a commit (save)
+        git status # shows the status of added files
+        git push # send current commits to a remote repository
+        git pull # load changes from a remote repository
+        git clone [link] # clone the specified repository to your PC
+        ```
+    -   Working with branches
+        > Branching allows you to deviate from the main branch of development and continue to work independently.
+        ```bash
+        git branch # show a list of current threads
+        git branch [name] # create a new branch from the current commit
+        git checkout [name] # create a new branch from the current commit
+        git merge [name] # merge the specified branch into the current branch
+        git branch -d [name] # delete the specified branch
+        ```
+    -   Cancel commits
+        ```bash
+        git revert HEAD --no-edit # create a new commit that overrides the changes of the previous one
+        git revert [hash] --no-edit # the same action, but with the specified commit
+        ```
+    -   Log history
+        ```bash
+        git log [branch] # show the commits of the specified branch
+        git log -3 # show the last 3 commits of the current branch
+        git log [file] # show the commit history of the specified file
+        ```
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**Git It? How to use Git and Github** – YouTube](https://youtu.be/HkdAHXoRtos)
+2. 📺 [**Git and GitHub for Beginners - Crash Course** – YouTube](https://youtu.be/RGOj5yH7evk)
+3. 📺 [**13 Advanced (but useful) Git Techniques and Shortcuts** – YouTube](https://youtu.be/RGOj5yH7evk)
+4. 📄 [**Git Cheat Sheet – 50 Git Commands You Should Know** – freeCodeCamp](https://www.freecodecamp.org/news/git-cheat-sheet/)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
