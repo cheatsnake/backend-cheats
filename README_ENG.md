@@ -1832,28 +1832,73 @@ When developing server applications, different API formats can be used, dependin
 
 -   ### Postman/Insomnia
 
+    When creating a server application, it is necessary to test its performance. This can be done in different ways. One of the easiest is to use the console utility [curl](https://en.wikipedia.org/wiki/CURL). But this is good for very simple applications. Much more efficient is to use special software for testing, which have a user-friendly interface and all the necessary functionality to create collections of queries.
+
+    -   [Postman](https://www.postman.com/)
+        > A very popular and feature-rich program. It definitely has everything you might need and more: from the trivial creation of collections to raising mock-servers. The basic functionality of the application is free of charge.
+    -   [Insomnia](https://insomnia.rest/)
+        > Not as popular, but a very nice tool. The interface in Insomnia, minimalist and clear. It has less functionality, but everything you need: collections, variables, work with GraphQL, gRPC, WebSocket, etc. It is possible to install third-party plugins.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**What is Postman? How to use Postman? Tool For Beginners** – YouTube](https://youtu.be/E0f9DUEN_jI)
+2. 📺 [**Postman Beginner's Course - API Testing** – YouTube](https://youtu.be/VywxIQ2ZXw4)
+3. 📺 [**Insomnia API Client Tutorial** – YouTube](https://youtu.be/x2AlTaFJJxs)
+4. 📺 [**Insomnia Tutorial: API Design, Testing and Collaboration** – YouTube](https://youtu.be/fzLPHpOP3Wc)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Web servers
 
+    <p align="center"><img src="./files/software/web-server_eng.png" alt="Web server"/></p>
+
+    A [web server](https://en.wikipedia.org/wiki/Web_server) is a program designed to handle incoming HTTP requests. In addition, it can keep error logs (logs), perform authentication and authorization, store rules for file processing, etc.
+
+    -   What is it for?
+        > -   Not all languages can have a built-in web server (e.g. PHP). Therefore, to run web applications written in such languages, a third-party one is needed.
+        > -   A single server (virtual or dedicated) can run several applications, but only one external IP address. A configured web server solves this problem and can redirect incoming requests to the right applications.
+    -   Popular web servers
+        > -   [Nginx](https://en.wikipedia.org/wiki/Nginx) – the most popular at the moment.
+        > -   [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) – also popular, but already giving up its position.
+        > -   [Caddy](<https://en.wikipedia.org/wiki/Caddy_(web_server)>) – a fairly young web server with great potential.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**What are web servers and how do they work** – YouTube](https://youtu.be/JhpUch6lWMw)
+2. 📺 [**Web Server Concepts and Examples** – YouTube](https://youtu.be/9J1nJOivdyw)
+3. 📺 [**The NGINX Crash Course** – YouTube](https://youtu.be/7VAI73roXaY)
+4. 📺 [**Nginx Server Complete Course** – YouTube](https://youtu.be/tMtFZdaaIhk)
+5. 📄 [**6 Best Courses to learn Nginx in depth** – medium](https://medium.com/javarevisited/best-courses-to-learn-nginx-in-36ed9ccca804)
+6. 📄 [**NGINX: Advanced Load Balancer, Web Server, & Reverse Proxy** – dev.to](https://dev.to/lovepreetsingh/nginx-advanced-load-balancer-web-server-reverse-proxy-4i23)
+7. </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Message brokers
 
+    <p align="center"><img src="./files/software/message-queue_eng.png" alt="Message queue"/></p>
+
+    When creating a large-scale backend system, the problem of communication between a large number of microservices may arise. In order not to complicate existing services (establish a reliable communication system, distribute the load, provide for various errors, etc.) you can use a separate service, which is called a [message broker](https://en.wikipedia.org/wiki/Message_broker) (or message queue).
+
+    The broker takes the responsibility of creating a reliable and fault-tolerant system of communication between services (performs balancing, guarantees delivery, monitors recipients, maintains logs, buffering, etc.)
+
+    A message is an ordinary HTTP request/response with data of a certain format.
+
+    -   [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ)
+    -   [Apache Kafka](https://en.wikipedia.org/wiki/Apache_Kafka)
+    -   [NATS](https://nats.io/)
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**What is a Message Queue and When should you use Messaging Queue Systems** – YouTube](https://youtu.be/W4_aGb_MOls)
+2. 📺 [**What is a Message Queue?** – YouTube](https://youtu.be/xErwDaOc-Gs)
+3. 📄 [**Understanding RabbitMQ** – medium](https://medium.com/swlh/understanding-rabbitmq-11d710e40a38)
+4. 📺 [**RabbitMQ course (playlist)** – YouTube](https://youtube.com/playlist?list=PLrwNNiB6YOA3Z3JfOUMKE6PmnpmVAJgTK)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
