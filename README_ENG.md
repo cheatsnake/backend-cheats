@@ -1906,19 +1906,51 @@ When developing server applications, different API formats can be used, dependin
 
 -   ### Web application vulnerabilities
 
+    -   [Cross-site scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting)
+        > An attack that allows an attacker to inject malicious code through a website into the browsers of other users.
+    -   [SQL injection](https://en.wikipedia.org/wiki/SQL_injection)
+        > An attack is possible if the user input that is passed to the SQL query is able to change the meaning of the statement or add another query to it.
+    -   [Cross-site request forgery (CSRF)](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+        > When a site uses a POST request to perform a transaction, the attacker can forge a form, such as in an email, and send it to the victim. The victim, who is an authorized user interacting with this email, can then unknowingly send a request to the site with the data that the attacker has set.
+    -   [Clickjacking](https://en.wikipedia.org/wiki/Clickjacking)
+        > The principle is based on the fact that an invisible layer is placed on top of the visible web page, in which the page the intruder wants is loaded, while the control (button, link) needed to perform the desired action is combined with the visible link or button the user is expected to click on.
+    -   [Denial of Service (DoS attack)](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+        > A hacker attack that overloads the server running the web application by sending a huge number of requests.
+    -   [Man-in-the-Middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+        > A type of attack in which an attacker gets into the chain between two (or more) communicating parties to intercept a conversation or data transmission.
+    -   Incorrect security configuration
+        > Using default configuration settings can be dangerous because it is common knowledge. For example, a common vulnerability is that network administrators leave the default logins and passwords _admin:admin_.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**7 Security Risks and Hacking Stories for Web Developers** – YouTube](https://youtu.be/4YOpILi9Oxs)
+2. 📄 [**Top 10 Web Application Security Risks**](https://owasp.org/www-project-top-ten/)
+3. 📺 [**Web App Vulnerabilities - DevSecOps Course for Beginners** – YouTube](https://youtu.be/F5KJVuii0Yw)
+4. 📺 [**Securing Web Applications – MIT lecture** – YouTube](https://youtu.be/WlmKwIe9z1Q)
+5. 📺 [**Scan for Vulnerabilities on Any Website Using Nikto** – YouTube](https://youtu.be/K78YOmbuT48)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Environment variables
 
+    Often your applications may use various tokens (e.g. to access a third-party paid API), logins and passwords (to connect to a database), various secret keys for signatures and so on. All this data should not be known and available to outsiders, so you can't leave them in the program code in any case. To solve this problem, there are environment variables.
+
+    -   The `.env' file
+        > A special file in which you can store all environment variables.
+    -   Parsing the `.env' file
+        > Variables are passed to the program using command line arguments. To do the same with the `.env' file, you need to use a special library for your language.
+    -   Storage and transfer `.env' files
+        > Learn how to upload `.env' files to the hosting services and remember that such files cannot be commited to remote repositories, so do not forget to add them to exceptions via the `.gitignore' file.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**How to use environment variables in a Python script** – YouTube](https://youtu.be/ed2NGpsws8Y)
+2. 📺 [**Configure Node.js Environment Variables for Local Development & Production** – YouTube](https://youtu.be/gfyQzeBlLTI)
+3. 📺 [**GoLang Environment Variables** – YouTube](https://youtu.be/mnCgl-iwPak)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
