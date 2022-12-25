@@ -2156,7 +2156,7 @@
 
     Основные алгоритмы шифрования:
     -   [Семейство SHA (Secure Hash Algorithm)](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
-        > [SHA-256]() наиболее популярный алгоритм шифрования. Используется, например, в [Bitcoin](https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD).
+        > [SHA-256](https://ru.wikipedia.org/wiki/SHA-2) наиболее популярный алгоритм шифрования. Используется, например, в [Bitcoin](https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD).
     -   Семейство MD (Message Digest)
         > Наиболее популярный алгоритм семейства – [MD5](https://ru.wikipedia.org/wiki/MD5). Сейчас считается очень уязвимым к коллизиям (существуют даже генераторы коллизий для MD5).
     -   [CRC (Cyclic redundancy check)](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%B7%D0%B1%D1%8B%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B4)
