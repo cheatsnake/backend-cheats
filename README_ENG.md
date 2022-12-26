@@ -1983,26 +1983,56 @@ When developing server applications, different API formats can be used, dependin
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**What is Hashing? Hash Functions Explained Simply** – YouTube](https://youtu.be/2BldESGZKB8)
+2. 📺 [**Passwords & hash functions (Simply Explained)** – YouTube](https://youtu.be/cczlpiiu42M)
+3. 📺 [**Hashing Algorithms and Security - Computerphile** – YouTube](https://youtu.be/b4b8ktEV4Bg)
+4. 📺 [**SHA: Secure Hashing Algorithm - Computerphile** – YouTube](https://youtu.be/DMtFhACPnTY)
+5. 📺 [**How secure is 256 bit security?** – YouTube](https://youtu.be/DMtFhACPnTY)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Authentication and authorization
 
+    [Authentication](https://en.wikipedia.org/wiki/Authentication) is a procedure that is usually performed by comparing the password entered by the user with the password stored in the database.
+    Also, this often includes [identification](<https://en.wikipedia.org/wiki/Identification_(information)>) - a procedure for identifying the user by his unique identifier (usually a regular login or email). This is needed to know exactly which user is being authenticated.
+
+    [Authorization](https://en.wikipedia.org/wiki/Authorization) - the procedure of granting access rights to a certain user to perform certain operations. For example, ordinary users of the online store can view products and add them to cart. But only administrators can add new products or delete existing ones.
+
+    -   [Basic Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
+        > The simplest authentication scheme where the username and password of the user are passed in the [Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization) header in unencrypted (base64-encoded) form. It is relatively secure when using HTTPS.
+    -   [SSO (Single Sign-On)](https://en.wikipedia.org/wiki/Single_sign-on)
+        > Technology that implements the ability to move from one service to another (not related to the first), without reauthorization.
+    -   [OAuth / OAuth 2.0](https://en.wikipedia.org/wiki/OAuth)
+        > Authorization protocol, which allows you to register in various applications using popular services (Google, Facebook, GitHub, etc.)
+    -   [OpenID](https://en.wikipedia.org/wiki/OpenID)
+        > An open standard that allows you to create a single account for authenticating to multiple unrelated services.
+    -   [JWT (Json Web Token)](https://en.wikipedia.org/wiki/JSON_Web_Token)
+        > An authentication standard based on access tokens. Tokens are created by the server, signed with a secret key and transmitted to the client, who then uses the token to verify his identity.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
+1. 📺 [**HTTP Basic Authentication explained** – YouTube](https://youtu.be/EeNzWUcPaFY)
+2. 📺 [**What Is Single Sign-on (SSO)? How It Works** – YouTube](https://youtu.be/O1cRJWYF-g4)
+3. 📺 [**OAuth 2 explained in very simple terms** – YouTube](https://youtu.be/THs9QUUXVhk)
+4. 📺 [**OpenID Connect explained** – YouTube](https://youtu.be/PsbIGfvX900)
+5. 📺 [**What Is JWT and Why Should You Use JWT** – YouTube](https://youtu.be/7Q17ubqLfaM)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### SSL/TLS
 
+    [SSL (Secure Socket Layer)](https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0,_and_3.0) and [TLS (Transport Layer Security)](https://en.wikipedia.org/wiki/Transport_Layer_Security) are cryptographic protocols that allow secure transmission of data between two computers on a network. These protocols work essentially the same and there are no differences. SSL is considered obsolete, although it is still used to support older devices.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-</details>
- 
+1. 📺 [**SSL, TLS, HTTPS Explained** – YouTube](https://youtu.be/j9QmMEWmcfo)
+2. 📺 [**Transport Layer Security, TLS 1.2 and 1.3 (Explained by Example)** – YouTube](https://youtu.be/AlE5X1NlHgg)
+ </details>
+
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 ## Testing
