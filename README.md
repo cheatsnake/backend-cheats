@@ -2669,4 +2669,4 @@
 -   [Сети для самых маленьких – серия статей о сетях, их настройке и администрировании](https://linkmeup.gitbook.io/sdsm/)
 
 <div align="center">Made with &#9829;</div>
-<div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022</div>
+<div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-2023</div>
