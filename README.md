@@ -2373,7 +2373,7 @@
     -   [CDN (Content Delivery Network)](https://ru.wikipedia.org/wiki/Content_Delivery_Network) 
         > Система серверов расположенная по всему миру. Такие сервера позволяют хранить дубликаты статического контента и доставлять его намного быстрее тем пользователям, которые находятся в непосредственной географической близости. Так же при использовании CDN снижается нагрузка на главный сервер. 
     -   Браузерное (клиентское) кэширование 
-        > Основано на загрузке страниц и других статических данных из локального кэша. Для этого браузеру (клиенту) отдается специальные заголовоки: [304 Not Modified](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/304), [Expires](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Expires), [Strict-Transport-Security](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Strict-Transport-Security).
+        > Основано на загрузке страниц и других статических данных из локального кэша. Для этого браузеру (клиенту) отдается специальные заголовки: [304 Not Modified](https://developer.mozilla.org/ru/docs/Web/HTTP/Status/304), [Expires](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Expires), [Strict-Transport-Security](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Strict-Transport-Security).
     -   [Memcached](https://ru.wikipedia.org/wiki/Memcached) 
         > Программа-демон которая реализует высокопроизводительное кэширование в оперативной памяти на основе пар _ключ-значение_. В отличие от [Redis](#redis) не может являться надёжным и долговременным хранилищем, поэтому подходит только для кэша.
 
