@@ -8,9 +8,9 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 > 🛠 The repository is under active development, so it is constantly updated and supplemented
 
-> 🤝 If you want to help the project, feel free to send your [Pull requests](https://github.com/cheatsnake/backend-cheats/pulls)
+> 🤝 If you want to help the project, feel free to send your [pull requests](https://github.com/cheatsnake/backend-cheats/pulls)
 
-> 📝 Translation into English is in progress
+> 🌐 The development of a web page in the process...
 
 <p><a name="top"></a></p>
 

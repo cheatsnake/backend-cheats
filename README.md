@@ -1,4 +1,4 @@
-<div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/README_ENG.md">🚧 English version in progress</a></div>
+<div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/README_ENG.md">🎉 English version is ready</a></div>
 
 <a href="https://github.com/cheatsnake/backend-cheats/blob/master/README.md"><p align="center"><img src="./files/logo.png" alt="Logo"/></p></a>
 
@@ -12,7 +12,7 @@
 
 > 🤝 Если у Вас есть идеи как сделать проект лучше, не стесняйтесь присылать [Issues](https://github.com/cheatsnake/backend-cheats/issues) и [Pull requests](https://github.com/cheatsnake/backend-cheats/pulls)
 
-> 📝 The translation into English in [progress](https://github.com/cheatsnake/backend-cheats/issues/7)
+> 🌐 Разработка отдельной веб-страницы в процессе...
 
 <p><a name="top"></a></p>
 
