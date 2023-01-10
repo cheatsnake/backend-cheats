@@ -299,6 +299,13 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     [Browser](https://en.wikipedia.org/wiki/Web_browser) is a client which can be used to send requests to a server for files which can then be used to render web pages. In simple terms, a browser can be thought of as a program for viewing HTML files, which can also search for and download them from the Internet.
 
+    -   Working Principle
+        > Query handling, page rendering, and the tabs feature (each tab has its own process to prevent the contents of one tab from affecting the contents of the other).
+    -   [Extensions](https://developer.chrome.com/docs/extensions/)
+        > Allow you to change the browser's user interface, modify the contents of web pages, and modify the browser's network requests.
+    -   [Chrome DevTools](https://developer.chrome.com/docs/devtools/overview/)
+        > An indispensable tool for any web developer. It allows you to analyze all possible information related to web pages, monitor their performance, logs and, most importantly for us, track information about network requests.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
@@ -306,6 +313,9 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 2. 📄 [**How browsers work: Behind the scenes of modern web browsers** – web.dev](https://web.dev/howbrowserswork/)
 3. 📺 [**What is a web browser?** – YouTube](https://youtu.be/QzohDuGk4mM)
 4. 📺 [**Anatomy of the browser 101 (Chrome University 2019)** – YouTube](https://youtu.be/PzzNuCk-e0Y)
+5. 📺 [**Chrome DevTools - Crash Course** – YouTube](https://youtu.be/gTVpBbFWry8)
+6. 📺 [**Demystifying the Browser Networking Tab in DevTools ** – YouTube](https://youtu.be/LBgfSwX4GDI)
+7. 📺 [**21+ Browser Dev Tools & Tips You Need To Know** – YouTube](https://youtu.be/TcTSqhpm80Y)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
