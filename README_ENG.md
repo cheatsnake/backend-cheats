@@ -873,7 +873,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**An Introduction to Linux Permissions** – Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-permissions)
-2. 📺 [**Understanding File & Directory Permissions** – YouTube](https://youtu.be/4e669hSjaX8)
+2. 📄 [**File Permissions in Linux – How to Use the chmod Command** – freeCodeCamp](https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)
+3. 📺 [**Understanding File & Directory Permissions** – YouTube](https://youtu.be/4e669hSjaX8)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
