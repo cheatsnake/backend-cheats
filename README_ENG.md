@@ -1731,6 +1731,11 @@ When developing server applications, different API formats can be used, dependin
 
 1. 📺 [**What is RPC? gRPC Introduction** – YouTube](https://youtu.be/gnchfOojMk4)
 2. 📄 [**Learning gRPC with an Example**](https://blog.devgenius.io/learning-grpc-with-an-example-8b4931bd90c8)
+3. 📺 [**gRPC Crash Course - Modes, Examples, Pros & Cons and more** – YouTube](https://youtu.be/Yw4rkaTc0f8)
+4. 📺 [**This is why gRPC was invented** – YouTube](https://youtu.be/u4LWEXDP7_M)
+5. 📺 [**gRPC with Python - microservice complete tutorial** – YouTube](https://youtu.be/E0CaocyNYKg)
+6. 📺 [**Implementing a gRPC client and server in Typescript with Node.js** – YouTube](https://youtu.be/H0c4Wjl4kRQ)
+7. 📺 [**Build a gRPC server with Go - Step by step tutorial** – YouTube](https://youtu.be/gbrPMv_GuQY)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
