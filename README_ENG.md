@@ -977,6 +977,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 6. 📄 [**Iptables Tutorial**](https://linuxhint.com/iptables-tutorial/)
 7. 📄 [**An intro to cURL: The basics of the transfer tool**](https://blog.logrocket.com/an-intro-to-curl-the-basics-of-the-transfer-tool/)
 8. 📺 [**Basic cURL Tutorial** – YouTube](https://youtu.be/7XUibDYw4mc)
+9. 📄 [**Linux Shell Tools for Network**](https://leesei.github.io/shell-network/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
