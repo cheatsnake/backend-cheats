@@ -2188,6 +2188,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 
 1. 📄 [**What is End-to-End Testing and When Should You Use It?** – freeCodeCamp](https://www.freecodecamp.org/news/end-to-end-testing-tutorial/)
 2. 📺 [**End to End Testing - Explained** – YouTube](https://youtu.be/68xvfrxlEYo)
+3. 📄 [**Awesome Testing** – GitHub](https://github.com/TheJambo/awesome-testing)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
