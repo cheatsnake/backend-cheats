@@ -1352,7 +1352,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         > Arrays, objects, classes, etc.
     -   Standard Library
         > This refers to the language's built-in capabilities to manipulate strings, numbers, arrays, etc.
-    -   [Regular expressions](./files/programming-language/regex-cheatsheet.md)
+    -   [Regular expressions](https://github.com/cheatsnake/regex-by-example)
         > A powerful tool for working with strings. Be sure to familiarize yourself with it in your language, at least on a basic level.
     -   Package Manager
         > Sooner or later, there will be a desire to use third-party libraries.
