@@ -797,7 +797,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
     You can use scripts to automate the sequential input of any number of commands. In [Bash](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>) you can create different conditions (branching), loops, timers, etc. to perform all kinds of actions related to console input.
 
-    -   [Basics of Bash Scripts](./files/linux/bash-scripts-cheatsheet.md)
+    -   [Basics of Bash Scripts](https://github.com/cheatsnake/bash-scripts-by-example)
         > The most basic and frequently used features such as: variables, I/O, loops, conditions, etc.
     -   Practice
         > Solve challenges on sites like [HackerRank](https://www.hackerrank.com/domains/shell) and [Codewars](https://www.codewars.com/join?language=shell).

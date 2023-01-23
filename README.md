@@ -847,7 +847,7 @@
 
     С помощью скриптов (сценариев) можно автоматизировать последовательный ввод любого количества команд. В [Bash](https://ru.wikipedia.org/wiki/Bash#%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B) можно создавать различные условия (разветвления), циклы, таймеры и т.д. для выполнения всевозможных действий связанных с вводом в консоль.
 
-    -   [Основы Bash скриптов](./files/linux/bash-scripts-cheatsheet.md)
+    -   [Основы Bash скриптов](https://github.com/cheatsnake/bash-scripts-by-example/blob/master/README_RUS.md)
         > Самые базовые и часто используемые возможности такие как: переменные, ввод/вывод, циклы, условия и т.д. 
     -   Практика
         > Решайте задания на таких сайтах как [HackerRank](https://www.hackerrank.com/domains/shell) и [Codewars](https://www.codewars.com/join?language=shell). <br>
@@ -861,13 +861,13 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Основы работы с Bash** – YouTube](https://youtube.com/playlist?list=PLR-hhxrErPAXqI1b4paqCKhWPoXMRLj_G)
-1. 📄 [**Интерактивный онлайн-тренажёр по основам Bash**](https://www.learnshell.org/)
-1. 📄 [**Bash-скрипты: начало** – habr.com](https://habr.com/ru/company/ruvds/blog/325522/)
-1. 📄 [**Шпаргалка по Bash** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/bash-ru/)
-1. 📄 [**Шпаргалка оп Bash** – quickref.me](https://quickref.me/bash)
-1. 📄 [**Страница Bash на Reddit** – reddit.com](https://www.reddit.com/r/bash/)
-1. 📄 [**Лучшие практики Bash скриптов** – habr.com](https://habr.com/ru/company/vk/blog/513064/)
-1. 📄 [**Как работает bash: разбираемся в деталях** – VK Cloud](https://mcs.mail.ru/blog/detali-raboty-bash)
+2. 📄 [**Интерактивный онлайн-тренажёр по основам Bash**](https://www.learnshell.org/)
+3. 📄 [**Bash-скрипты: начало** – habr.com](https://habr.com/ru/company/ruvds/blog/325522/)
+4. 📄 [**Шпаргалка по Bash** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/bash-ru/)
+5. 📄 [**Шпаргалка оп Bash** – quickref.me](https://quickref.me/bash)
+6. 📄 [**Страница Bash на Reddit** – reddit.com](https://www.reddit.com/r/bash/)
+7. 📄 [**Лучшие практики Bash скриптов** – habr.com](https://habr.com/ru/company/vk/blog/513064/)
+8. 📄 [**Как работает bash: разбираемся в деталях** – VK Cloud](https://mcs.mail.ru/blog/detali-raboty-bash)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
