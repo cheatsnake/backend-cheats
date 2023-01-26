@@ -978,8 +978,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 6. 📄 [**Iptables Tutorial**](https://linuxhint.com/iptables-tutorial/)
 7. 📄 [**An intro to cURL: The basics of the transfer tool**](https://blog.logrocket.com/an-intro-to-curl-the-basics-of-the-transfer-tool/)
 8. 📺 [**Basic cURL Tutorial** – YouTube](https://youtu.be/7XUibDYw4mc)
-9. 📄 [**Linux Shell Tools for Network**](https://leesei.github.io/shell-network/)
- </details>
+9. 📺 [**Using curl better - tutorial by curl creator Daniel Stenberg** – YouTube](https://youtu.be/I6id1Y0YuNk)
+10. 📄 [**Linux Shell Tools for Network**](https://leesei.github.io/shell-network/)
+</details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
@@ -1012,6 +1013,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 1. 📄 [**How to schedule and manage tasks using crontab** – dev.to](https://dev.to/shaikh/how-to-schedule-and-manage-tasks-using-crontab-20dj)
 2. 📺 [**Cron Jobs For Beginners | Linux Task Scheduling** – YouTube](https://youtu.be/v952m13p-b4)
+3. 📄 [**How to Check Crontab logs in Linux**](https://linuxhandbook.com/check-crontab-logs/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1041,6 +1043,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Linux Crash Course - Understanding Logging** – YouTube](https://youtu.be/6uP_f_z3CbM)
+2. 📺 [**Linux Monitoring and Logging** – YouTube](https://youtu.be/kZ5LhS6fThM)
+3. 📄 [**3 ways to watch logs in real time in Linux**](https://linuxhandbook.com/watch-logs-real-time/)
+4. 📄 [**Analyzing logs in Linux with journalctl command**](https://linuxhandbook.com/journalctl-command/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1061,8 +1066,10 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 <details>
     <summary>🔗 <b>References</b></summary>
-    
-</details>
+
+1. 📺 [**Linux Drivers Explained** – YouTube](https://youtu.be/s8t0AWmHvUM)
+2. 📺 [**How Do Linux Kernel Drivers Work?** – YouTube](https://youtu.be/juGNPLdjLH4)
+ </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
@@ -1413,6 +1420,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 4. 📄 [**OOP tutorial from Python docs**](https://docs.python.org/3/tutorial/classes.html)
 5. 📺 [**OOP in JavaScript: Made Super Simple** – YouTube](https://youtu.be/PFmuCDHHpwk)
 6. 📄 [**OOP in Go by examples**](https://golangbyexample.com/golang-comprehensive-tutorial/#OOPS_in_Golang)
+7. 📺 [**Object Oriented Programming is not what I thought - Talk by Anjana Vakil** – YouTube](https://youtu.be/TbP2B1ijWr8)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
