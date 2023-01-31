@@ -2211,7 +2211,8 @@ Testing is the process of assessing that all parts of the program behave as expe
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Unit testing vs integration testing** – YouTube](https://youtu.be/pf6Zhm-PDfQ)
-2. 📄 [**Integration Testing – Software testing fundamentals**](https://softwaretestingfundamentals.com/integration-testing/)
+2. 📺 [**PyTest REST API Integration Testing with Python** – YouTube](https://youtu.be/7dgQRVqF1N0)
+3. 📄 [**Integration Testing – Software testing fundamentals**](https://softwaretestingfundamentals.com/integration-testing/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2230,7 +2231,10 @@ Testing is the process of assessing that all parts of the program behave as expe
 
 1. 📄 [**What is End-to-End Testing and When Should You Use It?** – freeCodeCamp](https://www.freecodecamp.org/news/end-to-end-testing-tutorial/)
 2. 📺 [**End to End Testing - Explained** – YouTube](https://youtu.be/68xvfrxlEYo)
-3. 📄 [**Awesome Testing** – GitHub](https://github.com/TheJambo/awesome-testing)
+3. 📺 [**Testing Node.js Server with Jest and Supertest** – YouTube](https://youtu.be/FKnzS_icp20)
+4. 📺 [**End to End - Test Driven Development (TDD) to create a REST API in Go** – YouTube](https://youtu.be/tG9dPO6fe4E)
+5. 📺 [**How to test HTTP handlers in Go** – YouTube](https://youtu.be/Ztk9d78HgC0)
+6. 📄 [**Awesome Testing** – GitHub](https://github.com/TheJambo/awesome-testing)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
