@@ -903,8 +903,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**How to Show Process Tree in Linux**](https://linuxhandbook.com/show-process-tree/)
-2. 📄 [**How To Use ps, kill, and nice to Manage Processes in Linux** – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
-3. 📺 [**Linux processes, init, fork/exec, ps, kill, fg, bg, jobs** – YouTube](https://youtu.be/TJzltwv7jJs)
+2. 📄 [**How to Manage Linux Processes** – freeCodeCamp](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)
+3. 📄 [**How To Use ps, kill, and nice to Manage Processes in Linux** – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
+4. 📺 [**Linux processes, init, fork/exec, ps, kill, fg, bg, jobs** – YouTube](https://youtu.be/TJzltwv7jJs)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
