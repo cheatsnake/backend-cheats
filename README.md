@@ -2709,8 +2709,11 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Паттерны ООП в метафорах** – habr.com](https://habr.com/ru/post/136766/)
-1. 📄 [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
-1. 📄 [**Паттерны проектирования** – metanit.com](https://metanit.com/sharp/patterns/)
+2. 📄 [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
+3. 📺 [**Паттерны проектирования на языке Python (playlist)** – YouTube](https://youtube.com/playlist?list=PLKP3l9fd3KUHYXVsSy37WXSkvunqenNhS)
+4. 📺 [**JavaScript Паттерны. Шаблоны проектирования. 17 Примеров** – YouTube](https://youtu.be/YJVj4XNASDk)
+5. 📺 [**Паттерны проектирования на языке Go (playlist)** – YouTube](https://youtube.com/playlist?list=PLxj7Nz8YYkVW5KHnsb9qWUDP2eD1TXl1N)
+6. 📄 [**Паттерны проектирования** – metanit.com](https://metanit.com/sharp/patterns/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
