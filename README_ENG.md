@@ -1752,11 +1752,12 @@ When developing server applications, different API formats can be used, dependin
 
 1. 📄 [**What Is Restful API?** – AWS](https://aws.amazon.com/what-is/restful-api/?nc1=h_ls)
 2. 📺 [**What is REST API?** – YouTube](https://youtu.be/lsMQRaeKNDk)
-3. 📺 [**Build Web APIs with Python – Django REST Framework Course** – YouTube](https://youtu.be/tujhGdn1EMI)
-4. 📺 [**Build an API from Scratch with Node.js Express** – YouTube](https://youtu.be/-MTSQjw5DrM)
-5. 📺 [**Build REST API on Vanilla Node.js** – YouTube](https://youtu.be/_1xa8Bsho6A)
-6. 📺 [**Build a Rest API with GoLang** – YouTube](https://youtu.be/d_L64KT3SFM)
-7. 📺 [**Spring Kotlin - Building a Rest API Tutorial** – YouTube](https://youtube.com/playlist?list=PLNnNHr-wCfobAxSkuxMqFGdpA8E5cLR6w)
+3. 📺 [**APIs for Beginners 2023 - How to use an API (Full Course)** – YouTube](https://youtu.be/WXsD0ZgxjRw)
+4. 📺 [**Build Web APIs with Python – Django REST Framework Course** – YouTube](https://youtu.be/tujhGdn1EMI)
+5. 📺 [**Build an API from Scratch with Node.js Express** – YouTube](https://youtu.be/-MTSQjw5DrM)
+6. 📺 [**Build REST API on Vanilla Node.js** – YouTube](https://youtu.be/_1xa8Bsho6A)
+7. 📺 [**Build a Rest API with GoLang** – YouTube](https://youtu.be/d_L64KT3SFM)
+8. 📺 [**Spring Kotlin - Building a Rest API Tutorial** – YouTube](https://youtube.com/playlist?list=PLNnNHr-wCfobAxSkuxMqFGdpA8E5cLR6w)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
