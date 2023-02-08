@@ -1609,23 +1609,29 @@
     - [DRY (Don't Repeat Yourself)](https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself)
     - [KISS (Keep It Simple, Stupid)](https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF))
     - [YAGNI (You Aren't Gonna Need It)](https://ru.wikipedia.org/wiki/YAGNI)
-    - [SOLID](https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5))
-        - [Принцип единственной ответственности (**S**ingle Responsibility)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-        - [Принцип открытости/закрытости (**O**pen–Closed)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D1%81%D1%82%D0%B8/%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D1%81%D1%82%D0%B8)
-        - [Принцип подстановки Барбары Лисков (**L**iskov Substitution)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D0%BA%D0%BE%D0%B2)
-        - [Принцип разделения интерфейса (**I**nterface Segregation)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
-        - [Принцип инверсии зависимостей (**D**ependency Inversion)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%B8%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8_%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B5%D0%B9)
+    - [SOLID принципы](https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5))
     - [GRASP (General Responsibility Assignment Software Patterns)](https://ru.wikipedia.org/wiki/GRASP)
+
+    Для многих языков существуют специальные руководства по стилю и соглашения по написанию кода. В них обычно сравнивается правильный и неправильный способ написания кода и объясняется, почему это так.
+
+    -   [Python руководство по стилю от Google](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
+    -   [Python лучшие практики guidebook](https://github.com/realpython/python-guide)
+    -   [JavaScript руководство по стилю от Airbnb](https://github.com/airbnb/javascript)
+    -   [Node.js сборник лучших практик](https://github.com/goldbergyoni/nodebestpractices)
+    -   [Effective Go - официальные соглашения по написанию кода](https://go.dev/doc/effective_go)
+    -   [Go руководство по стилю от Uber](https://github.com/uber-go/guide)
+    -   [Kotlin официальные соглашения по написанию кода](https://kotlinlang.org/docs/coding-conventions.html)
+    -   [и другие...](https://github.com/google/styleguide)
 
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Практика хорошего кода** – habr.com](https://habr.com/ru/post/206868/)
-1. 📄 [**Принципы для разработки: KISS, DRY, YAGNI...** – habr.com](https://habr.com/ru/company/itelma/blog/546372/)
-1. 📺 [**SOLID принципы простым языком (много примеров)** – YouTube](https://youtu.be/TxZwqVTaCmA)
-1. 📄 [**Простое объяснение принципов SOLID** – habr.com](https://habr.com/ru/company/vk/blog/412699/)
-1. 📄 [**Принципы SOLID, о которых должен знать каждый разработчик** – medium.com](https://medium.com/webbdev/solid-4ffc018077da)
-1. 📄 [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
+2. 📄 [**Принципы для разработки: KISS, DRY, YAGNI...** – habr.com](https://habr.com/ru/company/itelma/blog/546372/)
+3. 📺 [**SOLID принципы простым языком (много примеров)** – YouTube](https://youtu.be/TxZwqVTaCmA)
+4. 📄 [**Простое объяснение принципов SOLID** – habr.com](https://habr.com/ru/company/vk/blog/412699/)
+5. 📄 [**Принципы SOLID, о которых должен знать каждый разработчик** – medium.com](https://medium.com/webbdev/solid-4ffc018077da)
+6. 📄 [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
