@@ -1521,13 +1521,19 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     -   [DRY (Don't Repeat Yourself)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
     -   [KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle)
     -   [YAGNI (You Aren't Gonna Need It)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-    -   [SOLID](https://en.wikipedia.org/wiki/SOLID)
-        -   [**S**ingle Responsibility](https://en.wikipedia.org/wiki/Single-responsibility_principle)
-        -   [**O**pen–Closed](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
-        -   [**L**iskov Substitution](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-        -   [**I**nterface Segregation](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-        -   [**D**ependency Inversion](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+    -   [SOLID principles](https://en.wikipedia.org/wiki/SOLID)
     -   [GRASP (General Responsibility Assignment Software Patterns)](<https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)>)
+
+    For many languages there are special style guides and coding conventions. They usually compare the right and wrong way of writing code and explain why this is the case.
+
+    -   [Python style guide by Google](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
+    -   [Python best practices guidebook](https://github.com/realpython/python-guide)
+    -   [JavaScript style guide by Airbnb](https://github.com/airbnb/javascript)
+    -   [Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
+    -   [Effective Go - official coding conventions](https://go.dev/doc/effective_go)
+    -   [Go style guide by Uber](https://github.com/uber-go/guide)
+    -   [Kotlin official coding conventions](https://kotlinlang.org/docs/coding-conventions.html)
+    -   [and other...](https://github.com/google/styleguide)
 
 <details>
     <summary>🔗 <b>References</b></summary>
