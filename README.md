@@ -1621,7 +1621,7 @@
     -   [Effective Go - официальные соглашения по написанию кода](https://go.dev/doc/effective_go)
     -   [Go руководство по стилю от Uber](https://github.com/uber-go/guide)
     -   [Kotlin официальные соглашения по написанию кода](https://kotlinlang.org/docs/coding-conventions.html)
-    -   [и другие...](https://github.com/google/styleguide)
+    -   [и другие...](https://github.com/kciter/awesome-style-guide)
 
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
@@ -1632,6 +1632,7 @@
 4. 📄 [**Простое объяснение принципов SOLID** – habr.com](https://habr.com/ru/company/vk/blog/412699/)
 5. 📄 [**Принципы SOLID, о которых должен знать каждый разработчик** – medium.com](https://medium.com/webbdev/solid-4ffc018077da)
 6. 📄 [**GRASP паттерны проектирования** – habr.com](https://habr.com/ru/post/92570/)
+7. 📄 [**Google style guides** – GitHub](https://github.com/google/styleguide)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>

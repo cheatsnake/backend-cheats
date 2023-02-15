@@ -1533,7 +1533,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     -   [Effective Go - official coding conventions](https://go.dev/doc/effective_go)
     -   [Go style guide by Uber](https://github.com/uber-go/guide)
     -   [Kotlin official coding conventions](https://kotlinlang.org/docs/coding-conventions.html)
-    -   [and other...](https://github.com/google/styleguide)
+    -   [and other...](https://github.com/kciter/awesome-style-guide)
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1542,6 +1542,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 2. 📺 [**Uncle Bob SOLID principles** – YouTube](https://youtu.be/zHiWqnTWsn4)
 3. 📄 [**SOLID Principles explained in Python** – medium](https://towardsdev.com/solid-principles-explained-635ad3608b20)
 4. 📄 [**SOLID Principles in JavaScript** – freeCodeCamp](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
+5. 📄 [**Google style guides** – GitHub](https://github.com/google/styleguide)
 
  </details>
 
