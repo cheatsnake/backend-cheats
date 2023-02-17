@@ -185,14 +185,19 @@
     -   [Сервер](<https://ru.wikipedia.org/wiki/Сервер_(аппаратное_обеспечение)>)
         > (Serve - обслуживать) специальный компьютер в сети, который обслуживает запросы поступающие от других участников.
 
+    <p align="center"><img src="./files/network-internet/topologies_rus.png" alt="Network topologies"/></p>
+
+    -   [Сетевые топологии](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F_%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
+        > Существует несколько топологий (способов организации сети): [Point to point (Точка-точка)](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D1%8C_%D1%82%D0%BE%D1%87%D0%BA%D0%B0-%D1%82%D0%BE%D1%87%D0%BA%D0%B0), [Daisy chain (Цепочка/гирлянда)](https://en.wikipedia.org/wiki/Daisy_chain_(electrical_engineering)), [Bus (Шина)](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_(%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%B5%D1%82%D0%B8)), [Ring (Кольцо)](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_(%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%B5%D1%82%D0%B8)), [Star (Звезда)](https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_(%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%B5%D1%82%D0%B8)) и [Mesh (Сетка)](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D1%81%D0%B2%D1%8F%D0%B7%D0%BD%D0%B0%D1%8F_%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F). Сам Интернет нельзя отнести к какой-то одной топологии, поскольку это невероятно сложная система смешанная разными топологиями.
+
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Как работает Интернет** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
-1. 📺 [**Основы программирования. Как работают сети?** – YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton)
-2. 📄 [**Что такое сервер и как он работает**](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
-3. 📄 [**Как выглядит сервер**](https://thecode.media/server/)
-4. 📄 [**Что такое Хост**](https://blog.sk8er.name/wiki/xost/)
+2. 📺 [**Основы программирования. Как работают сети?** – YouTube](https://www.youtube.com/watch?v=k_0BAtyaDio&ab_channel=Winderton)
+3. 📄 [**Что такое сервер и как он работает**](https://timeweb.com/ru/community/articles/chto-takoe-server-i-kak-on-rabotaet)
+4. 📄 [**Как выглядит сервер**](https://thecode.media/server/)
+5. 📄 [**Что такое Хост**](https://blog.sk8er.name/wiki/xost/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>

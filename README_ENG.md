@@ -180,6 +180,11 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     -   [Server](<https://en.wikipedia.org/wiki/Server_(computing)>)
         > A special computer on the network that serves requests from other computers.
 
+    <p align="center"><img src="./files/network-internet/topologies_rus.png" alt="Network topologies"/></p>
+
+    -   [Network topologies](https://en.wikipedia.org/wiki/Network_topology)
+        > There are several topologies (ways of organizing a network): [Point to point](<https://en.wikipedia.org/wiki/Point-to-point_(telecommunications)>), [Daisy chain](<https://en.wikipedia.org/wiki/Daisy_chain_(electrical_engineering)>), [Bus](https://en.wikipedia.org/wiki/Bus_network), [Ring](https://en.wikipedia.org/wiki/Ring_network), [Star](https://en.wikipedia.org/wiki/Star_network) and [Mesh](). The Internet itself cannot be referred to any one topology, because it is an incredibly complex system mixed with different topologies.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
