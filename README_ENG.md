@@ -567,7 +567,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
         > -   [VRM (Voltage Regulator Module)](https://en.wikipedia.org/wiki/Voltage_regulator_module) – module that converts the incoming voltage (usually 12V) to a lower voltage to run the processor, integrated graphics, memory, etc.
         > -   Slots for RAM.
         > -   Expansion slots [PCI-Express](https://en.wikipedia.org/wiki/PCI_Express) - designed for connection of video cards, external network/sound cards.
-        > -   Slots [М.2](https://en.wikipedia.org/wiki/M.2) / [SATA](https://en.wikipedia.org/wiki/SATA) - designed to connect hard disks and SSDs.
+        > -   Slots [M.2](https://en.wikipedia.org/wiki/M.2) / [SATA](https://en.wikipedia.org/wiki/SATA) - designed to connect hard disks and SSDs.
     -   [CPU (Central processing unit)](https://en.wikipedia.org/wiki/Central_processing_unit)
         > The most important device that executes instructions (programme code). Processors only work with 1 and 0, so all programmes are ultimately a set of binary code.
         >
@@ -1038,9 +1038,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
     -   Main log files
         ```bash
-        /var/log/syslog или /var/log/messages # information about the kernel,
+        /var/log/syslog or /var/log/messages # information about the kernel,
         # various services detected, devices, network interfaces, etc.
-        /var/log/auth.log или /var/log/secure # user authorization information
+        /var/log/auth.log or /var/log/secure # user authorization information
         /var/log/faillog # failed login attempts
         /var/log/dmesg # information about device drivers
         /var/log/boot.log # operating system boot information
@@ -1241,7 +1241,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         > -   Logarithmic - O(log n) <br>
         > -   Linearimetric - O(n \* log n) <br>
         > -   Quadratic - O(n^2) <br>
-        > -   Stepwise - О(2^n) <br>
+        > -   Stepwise - O(2^n) <br>
         > -   Factorical - O(!n) <br>
 
 <details>
@@ -1423,7 +1423,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         > Ability to hide certain properties/methods from external access, leaving only a simplified interface for interacting with the object.
     -   [Polymorphism principle](<https://en.wikipedia.org/wiki/Polymorphism_(computer_science)>)
         > The ability to implement the same method differently in descendant classes.
-    -   [Сomposition](https://en.wikipedia.org/wiki/Composition_over_inheritance) over inheritance
+    -   [Composition](https://en.wikipedia.org/wiki/Composition_over_inheritance) over inheritance
         > Often the principle of `inheritance` can complicate and confuse your program if you do not think carefully about how to build the future hierarchy. That is why there is an alternative (more flexible) approach called composition. In particular, Go language lacks classes and many OOP principles, but widely [uses composition](https://golangbyexample.com/oop-inheritance-golang-complete).
 
 <details>
@@ -2424,7 +2424,7 @@ Testing is the process of assessing that all parts of the program behave as expe
         > -   [Docstring](https://peps.python.org/pep-0257/) for Python.
         > -   [JSDoc](https://github.com/jsdoc/jsdoc) for JavaScript.
         > -   [Godoc](https://go.dev/doc/comment) for Go.
-        > -   [KDoc и Dokka](https://kotlinlang.org/docs/kotlin-doc.html) for Kotlin.
+        > -   [KDoc and Dokka](https://kotlinlang.org/docs/kotlin-doc.html) for Kotlin.
         > -   [Javadoc](https://en.wikipedia.org/wiki/Javadoc) for Java.
         > -   And look for others on request: `documentation engine for <your lang>`.
 
@@ -2482,7 +2482,7 @@ Testing is the process of assessing that all parts of the program behave as expe
         > A generator with a modern and advanced design.
     -   [mdBook](https://rust-lang.github.io/mdBook/)
         > A static generator from the developers of the Rust language.
-    -   [И другие...](https://jamstack.org/generators/)
+    -   [And others...](https://jamstack.org/generators/)
 
 <details>
     <summary>🔗 <b>References</b></summary>
