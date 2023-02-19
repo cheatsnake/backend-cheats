@@ -190,6 +190,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 1. 📄 [**How does the Internet work?** – MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 2. 📺 [**How does the internet work? (Full Course)** – YouTube](https://youtu.be/zN8YNNHcaZc)
+3. 📺 [**What is a Server? Servers vs Desktops Explained** – YouTube](https://youtu.be/UjCDWCeHCzY)
+4. 📺 [**Network Topology** – YouTube](https://youtu.be/lnFeG4DOMcE)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -237,7 +239,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 1. 📺 [**IP addresses. Explained** – YouTube](https://youtu.be/7_-qWlvQQtY)
 2. 📺 [**Public IP vs. Private IP and Port Forwarding (Explained by Example)** – YouTube](https://youtu.be/92b-jjBURkw)
-3. 📺 [**What is IP address and types of IP address - IPv4 and IPv6** – YouTube](https://youtu.be/8npT9AALbrI)
+3. 📺 [**Network Ports Explained** – YouTube](https://youtu.be/g2fT-g9PX9o)
+4. 📺 [**What is IP address and types of IP address - IPv4 and IPv6** – YouTube](https://youtu.be/8npT9AALbrI)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -354,9 +357,11 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**What is VPN? How It Works, Types of VPN** – kaspersky.com](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn)
-2. 📺 [**What Is a Proxy and How Does It Work?** – YouTube](https://youtu.be/ayo2EUPTEkE)
-3. 📺 [**Proxy vs. Reverse Proxy (Explained by Example)** – YouTube](https://youtu.be/ozhe__GdWC8)
-4. 📺 [**VPN vs Proxy Explained Pros and Cons** – YouTube](https://youtu.be/npnqyRT77Zc)
+2. 📺 [**VPN (Virtual Private Network) Explained** – YouTube](https://youtu.be/R-JUOpCgTZc)
+3. 📺 [**What Is a Proxy and How Does It Work?** – YouTube](https://youtu.be/ayo2EUPTEkE)
+4. 📺 [**What is a Proxy Server?** – YouTube](https://youtu.be/5cPIukqXe5w)
+5. 📺 [**Proxy vs. Reverse Proxy (Explained by Example)** – YouTube](https://youtu.be/ozhe__GdWC8)
+6. 📺 [**VPN vs Proxy Explained Pros and Cons** – YouTube](https://youtu.be/npnqyRT77Zc)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
