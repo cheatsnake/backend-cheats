@@ -192,6 +192,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 2. 📺 [**How does the internet work? (Full Course)** – YouTube](https://youtu.be/zN8YNNHcaZc)
 3. 📺 [**What is a Server? Servers vs Desktops Explained** – YouTube](https://youtu.be/UjCDWCeHCzY)
 4. 📺 [**Network Topology** – YouTube](https://youtu.be/lnFeG4DOMcE)
+5. 📺 [**Network Topologies (Star, Bus, Ring, Mesh, Ad hoc, Infrastructure, & Wireless Mesh Topology)** – YouTube](https://youtu.be/zbqrNg4C98U)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -241,6 +242,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 2. 📺 [**Public IP vs. Private IP and Port Forwarding (Explained by Example)** – YouTube](https://youtu.be/92b-jjBURkw)
 3. 📺 [**Network Ports Explained** – YouTube](https://youtu.be/g2fT-g9PX9o)
 4. 📺 [**What is IP address and types of IP address - IPv4 and IPv6** – YouTube](https://youtu.be/8npT9AALbrI)
+5. 📺 [**IP Address - IPv4 vs IPv6 Tutorial** – YouTube](https://youtu.be/ThdO9beHhpA)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -592,9 +594,10 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 1. 📄 [**Everything You Need to Know About Computer Hardware**](https://www.lifewire.com/computer-hardware-2625895)
 2. 📺 [**What does what in your computer? Computer parts Explained** – YouTube](https://youtu.be/ExxFxD4OSZ0)
-3. 📺 [**The Fetch-Execute Cycle: What's Your Computer Actually Doing?** – YouTube](https://youtu.be/Z5JC9Ve1sfI)
-4. 📺 [**How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9** – YouTube](https://youtu.be/vqs_0W-MSB0)
-5. 📺 [**Arm vs x86 - Key Differences Explained** – YouTube](https://youtu.be/AADZo73yrq4)
+3. 📺 [**Motherboards Explained** – YouTube](https://youtu.be/b2pd3Y6aBag)
+4. 📺 [**The Fetch-Execute Cycle: What's Your Computer Actually Doing?** – YouTube](https://youtu.be/Z5JC9Ve1sfI)
+5. 📺 [**How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9** – YouTube](https://youtu.be/vqs_0W-MSB0)
+6. 📺 [**Arm vs x86 - Key Differences Explained** – YouTube](https://youtu.be/AADZo73yrq4)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2083,8 +2086,9 @@ When developing server applications, different API formats can be used, dependin
 1. 📺 [**7 Security Risks and Hacking Stories for Web Developers** – YouTube](https://youtu.be/4YOpILi9Oxs)
 2. 📄 [**Top 10 Web Application Security Risks**](https://owasp.org/www-project-top-ten/)
 3. 📺 [**Web App Vulnerabilities - DevSecOps Course for Beginners** – YouTube](https://youtu.be/F5KJVuii0Yw)
-4. 📺 [**Securing Web Applications – MIT lecture** – YouTube](https://youtu.be/WlmKwIe9z1Q)
-5. 📺 [**Scan for Vulnerabilities on Any Website Using Nikto** – YouTube](https://youtu.be/K78YOmbuT48)
+4. 📺 [**DDoS Attack Explained** – YouTube](https://youtu.be/ilhGh9CEIwM)
+5. 📺 [**Securing Web Applications – MIT lecture** – YouTube](https://youtu.be/WlmKwIe9z1Q)
+6. 📺 [**Scan for Vulnerabilities on Any Website Using Nikto** – YouTube](https://youtu.be/K78YOmbuT48)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
