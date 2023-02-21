@@ -243,6 +243,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 3. 📺 [**Network Ports Explained** – YouTube](https://youtu.be/g2fT-g9PX9o)
 4. 📺 [**What is IP address and types of IP address - IPv4 and IPv6** – YouTube](https://youtu.be/8npT9AALbrI)
 5. 📺 [**IP Address - IPv4 vs IPv6 Tutorial** – YouTube](https://youtu.be/ThdO9beHhpA)
+6. 📄 [**IP Address Subnet Cheat Sheet** – freeCodeCamp](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -269,7 +270,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 1. 📄 [**What is DNS? Domain Name System explained** – freeCodeCamp](https://www.freecodecamp.org/news/what-is-dns/)
 2. 📺 [**DNS (Domain Name System) explained. Types of Domain Name Servers** – YouTube](https://youtu.be/JkEYOt08-rU)
 3. 📺 [**DNS as Fast As Possible** – YouTube](https://youtu.be/Rck3BALhI5c)
-4. 📄 [**All about DNS records** – YouTube](https://www.cloudflare.com/learning/dns/dns-records/)
+4. 📄 [**All about DNS records** – Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/)
 5. 📺 [**DNS records explained (playlist)** – YouTube](https://youtube.com/playlist?list=PL_vyuxE-AO-DD94NKcCqd4iqwy5ah_pwq)
  </details>
 
@@ -1228,6 +1229,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 1. 📄 [**Code for the book Grokking Algorithms** – GitHub](https://github.com/egonSchiele/grokking_algorithms)
 2. 📺 [**Algorithms and Data Structures Tutorial** – YouTube](https://youtu.be/8hly31xKli0)
 3. 📄 [**Largest open-source algorithm library**](https://the-algorithms.com/)
+4. 📺 [**Sorting Algorithms Explained Visually** – YouTube](https://youtu.be/RfXt_qHDEPw)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
