@@ -1328,9 +1328,10 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Сложность алгоритмов. Big O. Основы**](https://bimlibik.github.io/posts/complexity-of-algorithms/)
-2. 📄 [**Шпаргалка по Big O**](https://www.bigocheatsheet.com/)
-3. 📄 [**Шпаргалка по Big O** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
-4. 📄 [**Нотация «О» большое: объяснение на примерах**](https://techrocks.ru/2021/04/02/big-o-notation-examples/) 
+2. 📺 [**Вся сложность алгоритмов за 11 минут** – YouTube](https://youtu.be/cXCuXNwzdfY)
+3. 📄 [**Шпаргалка по Big O**](https://www.bigocheatsheet.com/)
+4. 📄 [**Шпаргалка по Big O** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
+5. 📄 [**Нотация «О» большое: объяснение на примерах**](https://techrocks.ru/2021/04/02/big-o-notation-examples/) 
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1443,6 +1444,7 @@
 1. 📺 [**Языки программирования: что нужно знать** – YouTube](https://youtu.be/PS4S8BnURYU)
 1. 📺 [**Языки программирования: критерии выбора** – YouTube](https://youtu.be/T70qJndjYi0)
 1. 📺 [**Компиляция и интерпретация за 10 минут** – YouTube](https://youtu.be/kIsDOw5safA)
+1. 📺 [**Почему языков программирования так много?** – YouTube](https://youtu.be/2YMrV-e5rZQ)
 1. 📄 [**Что такое компилятор**](https://guides.hexlet.io/ru/compiler/)
 1. 📄 [**Что такое интерпретатор**](https://guides.hexlet.io/ru/interpreter/)
 1. 📄 [**Методы программирования** – GitHub](https://github.com/kolei/OAP/blob/master/articles/t2l2.md)
