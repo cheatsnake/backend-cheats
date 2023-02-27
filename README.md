@@ -1727,6 +1727,7 @@
 12. 📄 [**Индексы в PostgreSQL** – habr.com](https://habr.com/ru/company/postgrespro/blog/326096/)
 13. 📺 [**PostgreSQL. Индексы: то, что вы всегда хотели узнать, но боялись спросить** – YouTube](https://youtu.be/-5_U5liPNTU)
 14. 📺 [**Вся правда об индексах в PostgreSQL** – YouTube](https://youtu.be/G9hWF0N5hkQ)
+15. 📺 [**Лекция - Что такое ORM? Почему стоит использовать ORM?** – YouTube](https://youtu.be/9wONUQCMOQQ)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
