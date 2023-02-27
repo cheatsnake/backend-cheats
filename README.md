@@ -1699,13 +1699,15 @@
     -   [Подзапросы](https://postgrespro.ru/docs/postgresql/14/functions-subquery) 
         > Запрос внутри другого запроса SQL
     -   [Индексы](https://postgrespro.ru/docs/postgresql/14/indexes-intro)
-        > Структура данных, позволяющая быстро определить положение интересующих данных в базе. <br>
+        > Структура данных, позволяющая быстро определить положение интересующих данных в базе.
     -   [Транзакции](https://postgrespro.ru/docs/postgresql/14/tutorial-transactions) 
         > Последовательности команд, которые должны быть выполнены полностью, либо не выполнены вообще.
         - Команда `START TRANSACTION`
         - Команды `COMMIT` и `ROLLBACK` 
     -   Работа с языком программирования
-        > Для этого необходимо установить специальный драйвер под ваш ЯП. Для более удобной работы существуют ORM-библиотеки, которые позволяют выполнять SQL-запросы, как если бы вы просто вызывали методы у объекта.
+        > Для этого необходимо установить драйвер (адаптер) базы данных под ваш ЯП. (Например [psycopg2 ](https://github.com/psycopg/psycopg2) для Python, [node-postgres](https://github.com/brianc/node-postgres) для Node.js, [pgx](https://github.com/jackc/pgx) для Go)
+    -   [ORM (Object-Relational Mapping)](https://ru.wikipedia.org/wiki/ORM) библиотеки
+        > Писать SQL-запросы в коде трудно. В них легко допускать ошибки и опечатки, поскольку это просто строки которые никак не валидируются. Для решения этой проблемы существуют так называемые ORM-библиотеки, которые позволяют выполнять SQL-запросы, как если бы вы просто вызывали методы у объекта. К сожалению и с ними не все так гладко, поскольку "под капотом" запросы, которые генерируются этими библиотеками далеко не самые оптимальные в плане производительности (поэтому будьте готовы работать как с ORM, так и с чистым SQL). <br> Популярныме ORM: [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) для Python, [Sequelize](https://github.com/sequelize/sequelize) для Node.js, [GORM](https://github.com/go-gorm/gorm) для Go.
     -   [Оптимизация и производительность](https://postgrespro.ru/docs/postgresql/14/performance-tips)
 
 <details>
