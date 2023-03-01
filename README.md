@@ -1705,7 +1705,7 @@
         - Команда `START TRANSACTION`
         - Команды `COMMIT` и `ROLLBACK` 
     -   Работа с языком программирования
-        > Для этого необходимо установить драйвер (адаптер) базы данных под ваш ЯП. (Например [psycopg2 ](https://github.com/psycopg/psycopg2) для Python, [node-postgres](https://github.com/brianc/node-postgres) для Node.js, [pgx](https://github.com/jackc/pgx) для Go)
+        > Для этого необходимо установить драйвер (адаптер) базы данных под ваш ЯП. <br> Например [psycopg2 ](https://github.com/psycopg/psycopg2) для Python, [node-postgres](https://github.com/brianc/node-postgres) для Node.js, [pgx](https://github.com/jackc/pgx) для Go.
     -   [ORM (Object-Relational Mapping)](https://ru.wikipedia.org/wiki/ORM) библиотеки
         > Писать SQL-запросы в коде трудно. В них легко допускать ошибки и опечатки, поскольку это просто строки которые никак не валидируются. Для решения этой проблемы существуют так называемые ORM-библиотеки, которые позволяют выполнять SQL-запросы, как если бы вы просто вызывали методы у объекта. К сожалению и с ними не все так гладко, поскольку "под капотом" запросы, которые генерируются этими библиотеками далеко не самые оптимальные в плане производительности (поэтому будьте готовы работать как с ORM, так и с чистым SQL). <br> Популярныме ORM: [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) для Python, [Sequelize](https://github.com/sequelize/sequelize) для Node.js, [GORM](https://github.com/go-gorm/gorm) для Go.
     -   [Оптимизация и производительность](https://postgrespro.ru/docs/postgresql/14/performance-tips)
