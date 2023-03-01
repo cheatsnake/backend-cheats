@@ -1638,7 +1638,9 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 7. 📺 [**Database Indexing Explained (with PostgreSQL)** – YouTube](https://youtu.be/-qNSXK7s7_w)
 8. 📺 [**What is a Database transaction?** – YouTube](https://youtu.be/P80Js_qClUE)
 9. 📺 [**SQL Server Performance Essentials – Full Course** – YouTube](https://youtu.be/HvxmF0FUwrM)
- </details>
+10. 📺 [**ORM: The Good, the Great, and the Ugly** – YouTube](https://youtu.be/3EvhK7-DlZA)
+11. 📺 [**I Would Never Use an ORM, by Matteo Collina** – YouTube](https://youtu.be/qfRQ5zhYuJE)
+</details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
