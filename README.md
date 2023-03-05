@@ -1692,7 +1692,7 @@
     
     Наиболее популярные реляционные БД: [MySQL](https://ru.wikipedia.org/wiki/MySQL), [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL), [MariaDB](https://ru.wikipedia.org/wiki/MariaDB), [Oracle](https://ru.wikipedia.org/wiki/Oracle_Database). Для работы с ними используется специальный язык – [SQL (Structured Query Language)](https://postgrespro.ru/docs/postgresql/14/sql). Он довольно простой и интуитивно понятный.
 
-    -   [Основы SQL](./files/databases/sql-cheatsheet.md)
+    -   [Основы SQL](https://github.com/cheatsnake/sql-by-example/blob/master/README_RUS.md)
         > Изучите основной цикл операций по созданию/получению/обновлению/удалению данных. Всё остальное по мере надобности.
     -   Объединение таблиц
         - Запрос данных из нескольких таблиц

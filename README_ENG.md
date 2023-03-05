@@ -1605,7 +1605,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
     The most popular relational databases: [MySQL](https://en.wikipedia.org/wiki/MySQL), [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [MariaDB](https://en.wikipedia.org/wiki/MariaDB), [Oracle](https://en.wikipedia.org/wiki/Oracle_Database). A special language [SQL (Structured Query Language)](https://postgrespro.com/docs/postgresql/14/sql) is used to work with these databases. It is quite simple and intuitive.
 
-    -   [SQL basics](./files/databases/sql-cheatsheet.md)
+    -   [SQL basics](https://github.com/cheatsnake/sql-by-example/blob/master/README.md)
         > Learn the basic cycle of creating/receiving/updating/deleting data. Everything else as needed.
     -   Merging tables
         -   Querying data from multiple tables
