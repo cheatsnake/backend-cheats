@@ -2472,8 +2472,8 @@
     -   Когда этим нужно заниматься?
         > По мере потребности – когда есть явные проблемы или подозрения.
     -   Какие конкретные инструменты для этого есть?
-        > Для Python используется: [cProfile](https://docs.python.org/3/library/profile.html), [line_profiler](https://github.com/pyutils/line_profiler).
-        > Для Node.js: [встроенный Profiler](https://nodejs.org/en/docs/guides/simple-profiling/), [Clinic.js](https://github.com/clinicjs/node-clinic), [модуль Trace events](https://nodejs.org/api/tracing.html). 
+        > Для Python используется: [cProfile](https://docs.python.org/3/library/profile.html), [line_profiler](https://github.com/pyutils/line_profiler). <br>
+        > Для Node.js: [встроенный Profiler](https://nodejs.org/en/docs/guides/simple-profiling/), [Clinic.js](https://github.com/clinicjs/node-clinic), [модуль Trace events](https://nodejs.org/api/tracing.html). <br>
         > Для Go: [пакет runtime/pprof](https://go.dev/blog/pprof), [утилита trace](https://go.dev/doc/diagnostics#tracing).
 
 <details>

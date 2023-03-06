@@ -2339,8 +2339,8 @@ Testing is the process of assessing that all parts of the program behave as expe
     -   When should this be done?
         > As needed - when there are obvious problems or suspicions.
     -   What specific tools are there for this?
-        > For Python, use: [cProfile](https://docs.python.org/3/library/profile.html), [line_profiler](https://github.com/pyutils/line_profiler).
-        > For Node.js: [built-in Profiler](https://nodejs.org/en/docs/guides/simple-profiling/), [Clinic.js](https://github.com/clinicjs/node-clinic), [Trace events module](https://nodejs.org/api/tracing.html).
+        > For Python, use: [cProfile](https://docs.python.org/3/library/profile.html), [line_profiler](https://github.com/pyutils/line_profiler). <br>
+        > For Node.js: [built-in Profiler](https://nodejs.org/en/docs/guides/simple-profiling/), [Clinic.js](https://github.com/clinicjs/node-clinic), [Trace events module](https://nodejs.org/api/tracing.html). <br>
         > For Go: [runtime/pprof](https://go.dev/blog/pprof), [trace utility](https://go.dev/doc/diagnostics#tracing).
 
 <details>
