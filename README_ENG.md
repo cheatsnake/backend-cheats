@@ -2332,7 +2332,16 @@ Testing is the process of assessing that all parts of the program behave as expe
 
 -   ### Profiling
 
-    [Profiling](<https://en.wikipedia.org/wiki/Profiling_(computer_programming)>) is an attempt to find bottlenecks in your code. Profiling allows you to analyze your code and find its longest running sections. The tool used to analyze performance is called a profiler.
+    [Profiling](<https://en.wikipedia.org/wiki/Profiling_(computer_programming)>) is a program performance analysis, which reveals bottlenecks where the highest CPU and/or memory load occurs.
+
+    -   What is it for?
+        > The information obtained after profiling can be very useful for performance optimization. Profiling can also be useful for debugging the program to find bugs and errors.
+    -   When should this be done?
+        > As needed - when there are obvious problems or suspicions.
+    -   What specific tools are there for this?
+        > For Python, use: [cProfile](https://docs.python.org/3/library/profile.html), [line_profiler](https://github.com/pyutils/line_profiler).
+        > For Node.js: [built-in Profiler](https://nodejs.org/en/docs/guides/simple-profiling/), [Clinic.js](https://github.com/clinicjs/node-clinic), [Trace events module](https://nodejs.org/api/tracing.html).
+        > For Go: [runtime/pprof](https://go.dev/blog/pprof), [trace utility](https://go.dev/doc/diagnostics#tracing).
 
 <details>
     <summary>🔗 <b>References</b></summary>
