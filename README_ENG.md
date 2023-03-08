@@ -2377,6 +2377,8 @@ Testing is the process of assessing that all parts of the program behave as expe
 4. 📺 [**Go (Golang) Benchmark Tutorial** – YouTube](https://youtu.be/L-BkH-_lXpk)
  </details>
 
+<div align="right"><a href="#top">Содержание ⬆️</a></div>
+
 -   ### Caching
 
     [Caching](https://aws.amazon.com/caching) is one of the most effective solutions for optimizing the performance of web applications. With caching, you can reuse previously received resources (static files), thereby reducing latency, reducing network traffic, and reducing the time it takes to fully load content.
