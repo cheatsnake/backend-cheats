@@ -2377,7 +2377,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 4. 📺 [**Go (Golang) Benchmark Tutorial** – YouTube](https://youtu.be/L-BkH-_lXpk)
  </details>
 
-<div align="right"><a href="#top">Содержание ⬆️</a></div>
+<div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Caching
 
