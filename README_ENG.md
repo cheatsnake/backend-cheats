@@ -137,9 +137,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     <p align="center"><img src="./files/network-internet/Internet.png" alt="Internet"/></p>
 
-    Your computer has never been directly connected to the Internet. Because it can only see its local network to which other devices are connected via wired ([Ethernet](https://en.wikipedia.org/wiki/Ethernet)) or wirelessly (Wi-Fi, Bluetooth). To communicate with the Internet, you have a special minicomputer in your local network - [router](<https://en.wikipedia.org/wiki/Router_(computing)>). It then connects you to [Internet Service Provider](https://en.wikipedia.org/wiki/Internet_service_provider) which in turn connects to other higher-level providers. Thus, your message, transits through the network of several ISPs before reaching the destination network.
-
-    The Internet is just a long wire to which a small number of [Tier 1 providers](https://en.wikipedia.org/wiki/Tier_1_network) are directly connected. The ISPs below that are just renting access.
+    Your computer does not have direct access to the Internet. Instead, it has access to your local network to which other devices are connected via a wired ([Ethernet](https://en.wikipedia.org/wiki/Ethernet)) or wireless (Wi-Fi) connection. The organizer of such a network is a special minicomputer - [router](<https://en.wikipedia.org/wiki/Router_(computing)>). This device connects you to your [Internet Service Provider (ISP)](https://en.wikipedia.org/wiki/Internet_service_provider), which in turn is connected to other higher-level ISPs. Thus, all these interactions make up the Internet, and your messages always transit through different networks before reaching the final recipient.
 
     -   [Host](<https://en.wikipedia.org/wiki/Host_(network)>)
         > Any device that is on any network.
