@@ -16,153 +16,118 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 ## Contents
 
-<details>
-    <summary><a href="#network---internet">1. Network & Internet</a></summary>
-    
-  * [How the Internet works](#how-the-internet-works)
-  * [What is a domain name](#what-is-a-domain-name)
-  * [IP address](#ip-address)
-  * [What is DNS](#what-is-dns)
-  * [Web application design](#web-application-design)
-  * [Browsers and how they work](#browsers-and-how-they-work)
-  * [VPN and Proxy](#vpn-and-proxy)
-  * [Hosting](#hosting)
-  * [OSI network model](#osi-network-model)
-  * [HTTP Protocol](#http-protocol)
-  * [TCP/IP stack](#tcpip-stack)
-  * [Network problems](#network-problems)
-  * [Network diagnostics](#network-diagnostics)
-</details>
+<table>
+<tr><td width=33% valign=top>
 
-<details>
-    <summary><a href="#pc-device">2. PC device</a></summary>
-    
-  * [Main components (hardware)](#main-components--hardware-)
-  * [Operating system design](#operating-system-design)
-  * [Processes and threads](#processes-and-threads)
-  * [Concurrency and parallelism](#concurrency-and-parallelism)
-  * [Inter-process communication](#inter-process-communication)
-</details>
+-   [Network & Internet](#network--internet)
+    * [How the Internet works](#how-the-internet-works)
+    * [What is a domain name](#what-is-a-domain-name)
+    * [IP address](#ip-address)
+    * [What is DNS](#what-is-dns)
+    * [Web application design](#web-application-design)
+    * [Browsers and how they work](#browsers-and-how-they-work)
+    * [VPN and Proxy](#vpn-and-proxy)
+    * [Hosting](#hosting)
+    * [OSI network model](#osi-network-model)
+    * [HTTP Protocol](#http-protocol)
+    * [TCP/IP stack](#tcpip-stack)
+    * [Network problems](#network-problems)
+    * [Network diagnostics](#network-diagnostics)
+-   [PC device](#pc-device)
+    * [Main components (hardware)](#main-components-hardware)
+    * [Operating system design](#operating-system-design)
+    * [Processes and threads](#processes-and-threads)
+    * [Concurrency and parallelism](#concurrency-and-parallelism)
+    * [Inter-process communication](#inter-process-communication)
+</td><td width=33% valign=top>
 
-<details>
-    <summary><a href="#linux-basics">3. Linux Basics</a></summary>
-    
-  * [Working with the terminal](#working-with-the-terminal)
-  * [Package manager](#package-manager)
-  * [Bash scripts](#bash-scripts)
-  * [Users and groups](#users-and-groups)
-  * [Permissions](#permissions)
-  * [Working with processes](#working-with-processes)
-  * [Working with SSH](#working-with-ssh)
-  * [Network utils](#network-utils)
-  * [Task Scheduler](#task-scheduler)
-  * [System logs](#system-logs)
-  * [Linux problems](#linux-problems)
-</details>
+-   [Linux basics](#linux-basics)
+    * [Working with the terminal](#working-with-the-terminal)
+    * [Package manager](#package-manager)
+    * [Bash scripts](#bash-scripts)
+    * [Users and groups](#users-and-groups)
+    * [Permissions](#permissions)
+    * [Working with processes](#working-with-processes)
+    * [Working with SSH](#working-with-ssh)
+    * [Network utils](#network-utils)
+    * [Task Scheduler](#task-scheduler)
+    * [System logs](#system-logs)
+    * [Linux problems](#linux-problems)
+-   [General knowledge](#general-knowledge)
+    * [Numeral systems](#numeral-systems)
+    * [Logical connective](#logical-connective)
+    * [Data structures](#data-structures)
+    * [Basic algorithms](#basic-algorithms)
+    * [Algorithm complexity](#algorithm-complexity)
+    * [Data storage formats](#data-storage-formats)
+    * [Text encodings](#text-encodings)
+</td><td valign=top>
 
-<details>
-    <summary><a href="#general-knowledge">4. General knowledge</a></summary>
-    
-  * [Numeral systems](#numeral-systems)
-  * [Logical connective](#logical-connective)
-  * [Data structures](#data-structures)
-  * [Basic algorithms](#basic-algorithms)
-  * [Algorithm complexity](#algorithm-complexity)
-  * [Data storage formats](#data-storage-formats)
-  * [Text encodings](#text-encodings)
-</details>
+-   [Programming Language](#programming-language)
+    * [Classification of programming languages](#classification-of-programming-languages)
+    * [Language Basics](#language-basics)
+    * [Object-oriented programming](#object-oriented-programming)
+    * [Server development](#server-development)
+    * [Multithreading](#multithreading)
+    * [Advanced Topics](#advanced-topics)
+    * [Code quality](#code-quality)
+-   [Databases](#databases)
+    * [Database classification](#database-classification)
+    * [Relational database](#relational-database)
+    * [MongoDB](#mongodb)
+    * [Redis](#redis)
+    * [ACID Requirements](#acid-requirements)
+    * [Designing databases](#designing-databases)
+-   [API development](#api-development)
+    * [REST API](#rest-api)
+    * [GraphQL](#graphql)
+    * [WebSockets](#websockets)
+    * [RPC and gRPC](#rpc-and-grpc)
+    * [WebRTC](#webrtc)
+</td></tr>
 
-<details>
-    <summary><a href="#programming-language">5. Programming Language</a></summary>
-    
-  * [Classification of programming languages](#classification-of-programming-languages)
-  * [Language Basics](#language-basics)
-  * [Object-oriented programming](#object-oriented-programming)
-  * [Server development](#server-development)
-  * [Multithreading](#multithreading)
-  * [Advanced Topics](#advanced-topics)
-  * [Code quality](#code-quality)
-</details>
+<tr><td width=33% valign=top>
 
-<details>
-    <summary><a href="#databases">6. Databases</a></summary>
-    
-  * [Database classification](#database-classification)
-  * [Relational database](#relational-database)
-  * [MongoDB](#mongodb)
-  * [Redis](#redis)
-  * [ACID Requirements](#acid-requirements)
-  * [Designing databases](#designing-databases)
-</details>
+-   [Software](#security)
+    * [Git version control system](#git-version-control-system)
+    * [Docker](#docker)
+    * [Postman/Insomnia](#postmaninsomnia)
+    * [Web servers](#web-servers)
+    * [Message brokers](#message-brokers)
+-   [Security](#security)
+    * [Web application vulnerabilities](#web-application-vulnerabilities)
+    * [Environment variables](#environment-variables)
+    * [Hashing](#hashing)
+    * [Authentication and authorization](#authentication-and-authorization)
+    * [SSL/TLS](#ssltls)
+</td><td width=33% valign=top>
 
-<details>
-    <summary><a href="#api-development">7. API development</a></summary>
-    
-  * [REST API](#rest-api)
-  * [GraphQL](#graphql)
-  * [WebSockets](#websockets)
-  * [RPC and gRPC](#rpc-and-grpc)
-  * [WebRTC](#webrtc)
-</details>
+-   [Testing](#testing)
+    * [Unit Tests](#unit-tests)
+    * [Integration tests](#integration-tests)
+    * [E2E tests](#e2e-tests)
+    * [Load testing](#load-testing)
+    * [Regression testing](#regression-testing)
+-   [Optimization](#optimization)
+    *   [Profiling](#profiling)
+    *   [Benchmarks](#benchmarks)
+    *   [Caching](#caching)
+    *   [Load balancing](#load-balancing)
+</td><td valign=top>
 
-<details>
-    <summary><a href="#software">8. Software</a></summary>
-    
-  * [Git version control system](#git-version-control-system)
-  * [Docker](#docker)
-  * [Postman/Insomnia](#postmaninsomnia)
-  * [Web servers](#web-servers)
-  * [Message brokers](#message-brokers)
-</details>
-
-<details>
-    <summary><a href="#security">9. Security</a></summary>
-    
-  * [Web application vulnerabilities](#web-application-vulnerabilities)
-  * [Environment variables](#environment-variables)
-  * [Hashing](#hashing)
-  * [Authentication and authorization](#authentication-and-authorization)
-  * [SSL/TLS](#ssltls)
-</details>
-
-<details>
-    <summary><a href="#testing">10. Testing</a></summary>
-    
-  * [Unit Tests](#unit-tests)
-  * [Integration tests](#integration-tests)
-  * [E2E tests](#e2e-tests)
-  * [Load testing](#load-testing)
-  * [Regression testing](#regression-testing)
-</details>
-
-<details>
-    <summary><a href="#optimization">11. Optimization</a></summary>
-
--   [Profiling](#profiling)
--   [Benchmarks](#benchmarks)
--   [Caching](#caching)
--   [Load balancing](#load-balancing)
-</details>
-
-<details>
-    <summary><a href="#documentation">12. Documentation</a></summary>
-    
-  * [Markdown](#markdown)
-  * [Documentation inside code](#documentation-inside-code)
-  * [API Documentation](#api-documentation)
-  * [Static generators](#static-generators)
-</details>
-
-<details>
-    <summary><a href="#building-architecture">13. Building Architecture</a></summary>
-    
-  * [Architectural Patterns](#architectural-patterns)
-  * [Design patterns](#design-patterns)
-  * [Monolithic and microservice architecture](#monolithic-and-microservice-architecture)
-  * [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
-</details>
-
-[Additional and similar resources](#additional-and-similar-resources)
+-   [Documentation](#documentation)
+    * [Markdown](#markdown)
+    * [Documentation inside code](#documentation-inside-code)
+    * [API Documentation](#api-documentation)
+    * [Static generators](#static-generators)
+-   [Building Architecture](#building-architecture)
+    * [Architectural Patterns](#architectural-patterns)
+    * [Design patterns](#design-patterns)
+    * [Monolithic and microservice architecture](#monolithic-and-microservice-architecture)
+    * [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
+-   [Additional and similar resources](#additional-and-similar-resources)
+</td></tr>
+</table>
 
 ## Network & Internet
 
