@@ -425,7 +425,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     -   [HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/https)
         > Same HTTP, but with encryption support
     -   [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
-        > Because the HTTP protocol does not allow you to save any information about the status of previous requests/responses, you need to use cookies. Cookies allow the server to store various information on the client side, which the client can then send back to the server. In particular, cookies can be used for authorization or to save various settings/configurations.
+        > The HTTP protocol does not provide the ability to save information about the status of previous requests and responses. Cookies are used to solve this problem. Cookies allow the server to store information on the client side that the client can send back to the server. For example, cookies can be used to authenticate users or to store various settings.
     -   [CORS (Cross origin resource sharing)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
         > A technology that allows one domain to securely receive data from another domain.
     -   [CSP (Content Security Policy)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
