@@ -1,16 +1,16 @@
 <a href="https://github.com/cheatsnake/backend-cheats/blob/master/README.md"><p align="center"><img src="./files/logo.png" alt="Logo"/></p></a>
 
-This repository is a visual cheatsheet on the main topics in Backend-development. All the material is divided into topics and subtopics. The structure of the material consists of three parts:
+This repository is a visual cheatsheet on the main topics in Backend-development. All the material is divided into chapters and topics. The structure of the material consists of three parts:
 
 -   **Visual part** - various images/tables/cheatsheets for better understanding (may not be available). All pictures and tables are made from scratch, specifically for this repository.
 -   **Summary** - A very brief summary with a list of key terms and concepts. The terms are hyperlinked to the appropriate section on Wikipedia or a similar reference resource.
 -   **References to sources** - resources where you may find complete information on a particular issue. If possible, the most authoritative sources are indicated, or those that provide information in as simple and comprehensible language as possible.
 
-> 🛠 The repository is under active development, so it is constantly updated and supplemented
+> 🛠 The repository is under active development, so it is constantly updated and supplemented.
 
-> 🤝 If you want to help the project, feel free to send your [pull requests](https://github.com/cheatsnake/backend-cheats/pulls)
+> 🤝 If you want to help the project, feel free to send your [issues](https://github.com/cheatsnake/backend-cheats/issues) or [pull requests](https://github.com/cheatsnake/backend-cheats/pulls).
 
-> 🌐 The development of a web page in the process...
+> 🌐 Available translations: [`English`](./README_ENG.md) [`Русский`](./README.md)
 
 <p><a name="top"></a></p>
 
