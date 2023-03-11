@@ -456,7 +456,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     <p align="center"><img src="./files/network-internet/tcp-ip_eng.png" alt="TCP/IP"/></p>
 
-    Compared to the [OSI model](https://github.com/cheatsnake/backend-cheats/blob/master/README_ENG.md#osi-network-model), the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) stack has a simpler architecture. It is widely used and was first used as the basis for the creation of a global network, and then to describe the workings of the Internet.
+    Compared to the [OSI model](https://github.com/cheatsnake/backend-cheats/blob/master/README_ENG.md#osi-network-model), the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) stack has a simpler architecture. In general, the TCP/IP model is more widely used and practical, and the OSI model is more theoretical and detailed. Both models describe the same principles, but differ in the approach and protocols they include at their levels.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -472,7 +472,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     <p align="center"><img src="./files/network-internet/problems_eng.gif" alt="Problems"/></p>
 
-    The quality of networks, much less the Internet, is far from ideal. This is due to the complex and dispersed network structure in different devices. Therefore, on the functioning of the network affects a huge number of factors. For example: the stability of the connection between the client device and its router, the quality of service of the provider, the power and performance of the server, the physical distance between the client and the server, etc.
+    The quality of networks, including the Internet, is far from ideal. This is due to the complex structure of networks and their dependence on a huge number of factors. For example, the stability of the connection between the client device and its router, the quality of service of the provider, the power and performance of the server, the physical distance between the client and the server, etc.
 
     -   [Latency](https://developer.mozilla.org/en-US/docs/Web/Performance/Understanding_latency)
         > The time it takes for a data packet to travel from sender to receiver. It depends more on the physical distance.
