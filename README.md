@@ -2690,8 +2690,10 @@ Testing is the process of assessing that all parts of the program behave as expe
 -   [Backend Developer Roadmap: Learn to become a modern backend developer](https://roadmap.sh/backend)
 -   [Hussein Nasser – YouTube channel about network engineering](https://www.youtube.com/c/HusseinNasser-software-engineering)
 -   [CS50 2022 – Harvard University's course about programming](https://youtube.com/playlist?list=PLeLzIg9tqA3LQW-RiFA8zJUBcTKqUVLMU)
+-   [Harvard CS50’s Web Programming with Python and JavaScript](https://youtu.be/vzGllw18DkA)
 -   [A curated and opinionated list of resources for Backend developers](https://github.com/zhashkevych/awesome-backend)
 -   [Most important skills for Backend Developer](https://www.crio.do/blog/backend-development-career/)
+-   [System Design Course](https://github.com/karanpratapsingh/system-design)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-2023</div
