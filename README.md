@@ -1303,8 +1303,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         > The simplest encoding created specifically for the American alphabet. Consists of 128 characters.
     -   [Unicode](https://en.wikipedia.org/wiki/Unicode)
         > This is an international character table that, in addition to the English alphabet, contains the alphabets of almost all countries. It can hold more than a million different characters (the table is currently incomplete).
-    -   [UTF-8](https://en.wikipedia.org/wiki/UTF-8)
-        > Unicode is a variable-length encoding that can be used to represent any unicode character.
+    -   [UTF-8 (Unicode Transformation Format)](https://en.wikipedia.org/wiki/UTF-8)
+        > UTF-8 is a variable-length encoding that can be used to represent any unicode character.
     -   [UTF-16](https://en.wikipedia.org/wiki/UTF-16)
         > Its main difference from UTF-8 is that its structural unit is not one but two bytes. That is, in UTF-16 any Unicode character can be encoded by either two or four bytes.
 
