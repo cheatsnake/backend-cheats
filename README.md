@@ -1418,6 +1418,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 17. 📄 [**Kotlin cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
 18. 📄 [**Kotlin cheatsheet** – devhints.io](https://devhints.io/kotlin)
 19. 📄 [**Learn Regex step by step, from zero to advanced**](https://regexlearn.com)
+20. 📄 [**Projectbook – The Great Big List of Software Project Ideas**](https://projectbook.code.brettchalupa.com/)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1644,10 +1645,11 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 5. 📺 [**Learn PostgreSQL Tutorial - Full Course for Beginners** – YouTube](https://youtu.be/qw--VYLpxG4)
 6. 📄 [**Postgres Cheat Sheet**](https://postgrescheatsheet.com)
 7. 📺 [**Database Indexing Explained (with PostgreSQL)** – YouTube](https://youtu.be/-qNSXK7s7_w)
-8. 📺 [**What is a Database transaction?** – YouTube](https://youtu.be/P80Js_qClUE)
-9. 📺 [**SQL Server Performance Essentials – Full Course** – YouTube](https://youtu.be/HvxmF0FUwrM)
-10. 📺 [**ORM: The Good, the Great, and the Ugly** – YouTube](https://youtu.be/3EvhK7-DlZA)
-11. 📺 [**I Would Never Use an ORM, by Matteo Collina** – YouTube](https://youtu.be/qfRQ5zhYuJE)
+8. 📄 [**SQL Indexing and Tuning e-Book**](https://use-the-index-luke.com/)
+9. 📺 [**What is a Database transaction?** – YouTube](https://youtu.be/P80Js_qClUE)
+10. 📺 [**SQL Server Performance Essentials – Full Course** – YouTube](https://youtu.be/HvxmF0FUwrM)
+11. 📺 [**ORM: The Good, the Great, and the Ugly** – YouTube](https://youtu.be/3EvhK7-DlZA)
+12. 📺 [**I Would Never Use an ORM, by Matteo Collina** – YouTube](https://youtu.be/qfRQ5zhYuJE)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
