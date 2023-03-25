@@ -255,9 +255,9 @@
 
     Задачами клиентской части являются:
     -   Реализация пользовательского интерфейса (внешний вид приложения)
-        > Для создания веб-страниц используется специальный язык разметки – [HTML](https://ru.wikipedia.org/wiki/HTML) <br>
-        > Для стилизации шрифтов, расположения содержимого и т.д. используется язык стилей – [CSS](https://ru.wikipedia.org/wiki/CSS) <br>
-        > Для добавления динамики и интерактивности – язык программирования [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) <br>
+        > - Для создания веб-страниц используется специальный язык разметки – [HTML](https://ru.wikipedia.org/wiki/HTML).
+        > - Для стилизации шрифтов, расположения содержимого и т.д. используется язык стилей – [CSS](https://ru.wikipedia.org/wiki/CSS).
+        > - Для добавления динамики и интерактивности – язык программирования [JavaScript](https://ru.wikipedia.org/wiki/JavaScript).
         > Как правило в чистом виде эти инструменты используются редко, поскольку для более удобной и быстрой разработки существуют так называемые [фреймворки](https://2020.stateofjs.com/ru-RU/technologies/front-end-frameworks/) и [препроцессоры](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_1/css-reprocessors.html). <br>
     -   Cоздание функционала для формирования запросов к серверу
         > Как правило это различного вида формы ввода, с которыми можно удобно взаимодействовать. 
@@ -430,7 +430,7 @@
     [HTTP (HyperText Transport Protocol)](https://ru.wikipedia.org/wiki/HTTP) - cамый важный протокол интернета. Используется для передачи данных любого формата. Сам по себе протокол работает по простому принципу: запрос –> ответ.
 
     -   [Структура HTTP-сообщений](https://developer.mozilla.org/ru/docs/Web/HTTP/Messages#%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_http)
-        > Стартовая строка > Заголовки > Тело сообщения
+        > HTTP-сообщения состоят из заголовка, содержащего метаданные о сообщении, за которым следует необязательное тело сообщения, содержащее отправляемые данные.
 
     <p align="center"><img src="./files/network-internet/http.png" alt="HTTP"/></p>
 
@@ -438,7 +438,7 @@
         > Дополнительная служебная информация которая отправляется вместе с запросом/ответом. <br>
         > Основные: [Host](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Host), [User-Agent](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/User-Agent), [If-Modified-Since](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/If-Modified-Since), [Cookie](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Cookie), [Referer](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Referer), [Authorization](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Authorization), [Cache-Control](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Cache-Control), [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type), [Content-Length](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Content-Length), [Last-Modified](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Last-Modified), [Set-Cookie](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Set-Cookie), [Content-Encoding](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Content-Encoding).
     -   [Методы запросов](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods)
-        > [GET](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/GET) - запрос на получение данных <br> [POST](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/POST) - запрос с передачей данных для создания новой записи <br> [PUT](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/PUT) - запрос с передачей данных для изменения записи <br> [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE) - запрос на удаление записи <br> Другие: [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD), [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT), [OPTIONS](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/OPTIONS), [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH). <br>
+        > Основные: [GET](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/PUT), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE). <br> Дополнительные: [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD), [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT), [OPTIONS](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/OPTIONS), [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH). <br>
     -   [Коды состояния](https://developer.mozilla.org/ru/docs/Web/HTTP/Status)
         > Каждый ответ от сервера имеет специальный числовой код, который характеризует состояние отправленного запроса. Эти коды делятся на 5 основных классов:
         > -   1хх - служебная информация <br>
@@ -461,18 +461,18 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Протокол HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP)
-1. 📺 [**Протокол HTTP | Курс компьютерные сети** – YouTube](https://youtu.be/RlccXUx4LVw)
-1. 📄 [**Простым языком об HTTP** – habr.com](https://habr.com/ru/post/215117)
-1. 📄 [**HTTP-запросы: структура, методы, строка статуса и коды состояния** – selectel.ru](https://selectel.ru/blog/http-request/)
-1. 📄 [**Что такое протокол HTTPS, и как он защищает вас в интернете**](https://guides.hexlet.io/ru/https-yandex-guide/)
-1. 📄 [**В чем разница протоколов HTTP и HTTPS** – selectel.ru](https://selectel.ru/blog/http-https/)
-1. 📺 [**Как работает HTTPS?** – YouTube](https://youtu.be/B3j4SS5P8tM)
-1. 📺 [**Что такое cookies браузера** – YouTube](https://youtu.be/Ri3IAb6tdlE)
-1. 📄 [**Что такое cookie в браузере и почему на многих сайтах предупреждают об их использовании?**](https://club.dns-shop.ru/blog/t-326-internet/47805-chto-takoe-cookie-v-brauzere-i-pochemu-na-mnogih-saitah-preduprejd)
-1. 📄 [**CORS для чайников: история возникновения, как устроен и оптимальные методы работы** – habr.com](https://habr.com/ru/company/macloud/blog/553826/)
-1. 📄 [**Улучшение сетевой безопасности с помощью Content Security Policy** – habr.com](https://habr.com/ru/company/nix/blog/271575/?)
-1. 📄 [**Путь к HTTP/2** – habr.com](https://habr.com/ru/post/308846/)
-1. 📄 [**Evolution of HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+2. 📺 [**Протокол HTTP | Курс компьютерные сети** – YouTube](https://youtu.be/RlccXUx4LVw)
+3. 📄 [**Простым языком об HTTP** – habr.com](https://habr.com/ru/post/215117)
+4. 📄 [**HTTP-запросы: структура, методы, строка статуса и коды состояния** – selectel.ru](https://selectel.ru/blog/http-request/)
+5. 📄 [**Что такое протокол HTTPS, и как он защищает вас в интернете**](https://guides.hexlet.io/ru/https-yandex-guide/)
+6. 📄 [**В чем разница протоколов HTTP и HTTPS** – selectel.ru](https://selectel.ru/blog/http-https/)
+7. 📺 [**Как работает HTTPS?** – YouTube](https://youtu.be/B3j4SS5P8tM)
+8. 📺 [**Что такое cookies браузера** – YouTube](https://youtu.be/Ri3IAb6tdlE)
+9. 📄 [**Что такое cookie в браузере и почему на многих сайтах предупреждают об их использовании?**](https://club.dns-shop.ru/blog/t-326-internet/47805-chto-takoe-cookie-v-brauzere-i-pochemu-na-mnogih-saitah-preduprejd)
+10. 📄 [**CORS для чайников: история возникновения, как устроен и оптимальные методы работы** – habr.com](https://habr.com/ru/company/macloud/blog/553826/)
+11. 📄 [**Улучшение сетевой безопасности с помощью Content Security Policy** – habr.com](https://habr.com/ru/company/nix/blog/271575/?)
+12. 📄 [**Путь к HTTP/2** – habr.com](https://habr.com/ru/post/308846/)
+13. 📄 [**Evolution of HTTP** – MDN (mozilla.org)](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>

@@ -252,7 +252,9 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     The tasks of the Frontend are:
 
     -   Implementation of the user interface (appearance of the application)
-        > A special markup language [HTML](https://en.wikipedia.org/wiki/HTML) is used to create web pages. <br> [CSS](https://en.wikipedia.org/wiki/CSS) style language is used to style fonts, layout of content, etc. <br> [JavaScript](https://en.wikipedia.org/wiki/JavaScript) programming language is used to add dynamics and interactivity. <br>
+        > - A special markup language [HTML](https://en.wikipedia.org/wiki/HTML) is used to create web pages. 
+        > - [CSS](https://en.wikipedia.org/wiki/CSS) style language is used to style fonts, layout of content, etc. 
+        > - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) programming language is used to add dynamics and interactivity.
         > As a rule, these tools are rarely used in their pure form, as so-called [frameworks](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/) and [preprocessors](https://www.freecodecamp.org/news/css-preprocessors/) exist for more convenient and faster development. <br>
     -   Creating functionality for generating requests to the server
         > These are usually different types of input forms that can be conveniently interacted with.
@@ -410,7 +412,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     [HTTP (HyperText Transport Protocol)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) is the most important protocol on the Internet. It is used to transfer data of any format. The protocol itself works according to a simple principle: request -> response.
 
     -   [Structure of HTTP messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-        > Start Line > Headers > Message Body
+        > HTTP messages consist of a header section containing metadata about the message, followed by an optional message body containing the data being sent.
 
     <p align="center"><img src="./files/network-internet/http_eng.png" alt="HTTP"/></p>
 
@@ -418,7 +420,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
         > Additional service information that is sent with the request/response. <br>
         > Common headers: [Host](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host), [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent), [If-Modified-Since](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-Modified-Since), [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cookie), [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer), [Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization), [Cache-Control](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control), [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type), [Content-Length](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length), [Last-Modified](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Last-Modified), [Set-Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie), [Content-Encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Encoding).
     -   [Request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-        > [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) - data retrieval request <br> [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST) - request with data to create a new record <br> [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT) - request with data to change existing record <br> [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE) - deletion request <br> Others: [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD), [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT), [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS), [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH). <br>
+        > Main: [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE). <br> Others: [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD), [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT), [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS), [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH).
     -   [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
         > Each response from the server has a special numeric code that characterizes the state of the sent request. These codes are divided into 5 main classes:
         >
