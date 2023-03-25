@@ -2394,11 +2394,12 @@ Testing is the process of assessing that all parts of the program behave as expe
 1. 📄 [**How To Optimize Docker Images for Production** – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-optimize-docker-images-for-production)
 2. 📄 [**Docker Compose in production**](https://docs.docker.com/compose/production/)
 3. 📄 [**Top 8 Docker Best Practices for using Docker in Production** – dev.to](https://dev.to/techworld_with_nana/top-8-docker-best-practices-for-using-docker-in-production-1m39)
-4. 📺 [**DockerCon 2021: Best Practices Around Creating a Production Web App With Docker and Docker Compose** – YouTube](https://youtu.be/vYpPGCaKs3I)
-5. 📺 [**Docker Swarm | Docker Swarm Tutorial | What Is Docker Swarm?** – YouTube](https://youtu.be/Tm0Q5zr3FL4)
+4. 📺 [**Best practices around creating a production web app with Docker and Docker Compose** – YouTube](https://youtu.be/vYpPGCaKs3I)
+5. 📺 [**Docker Swarm Tutorial** – YouTube](https://youtu.be/Tm0Q5zr3FL4)
 6. 📄 [**Kubernetes VS Docker Swarm – What is the Difference?**](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
-7. 📺 [**Docker Containers and Kubernetes Fundamentals – Full Hands-On Course** – YouTube](https://youtu.be/kTp5xUtcalw)
-8. 📺 [**Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)** – YouTube](https://youtu.be/d6WC5n9G_sM)
+7. 📄 [**Kubernetes Roadmap**](https://roadmap.sh/kubernetes)
+8. 📺 [**Docker Containers and Kubernetes Fundamentals – Full Hands-On Course** – YouTube](https://youtu.be/kTp5xUtcalw)
+9. 📺 [**Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)** – YouTube](https://youtu.be/d6WC5n9G_sM)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
