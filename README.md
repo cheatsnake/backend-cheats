@@ -254,7 +254,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     -   Implementation of the user interface (appearance of the application)
         > - A special markup language [HTML](https://en.wikipedia.org/wiki/HTML) is used to create web pages. 
         > - [CSS](https://en.wikipedia.org/wiki/CSS) style language is used to style fonts, layout of content, etc. 
-        > - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) programming language is used to add dynamics and interactivity.
+        > - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) programming language is used to add dynamics and interactivity. <br>
         > As a rule, these tools are rarely used in their pure form, as so-called [frameworks](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/) and [preprocessors](https://www.freecodecamp.org/news/css-preprocessors/) exist for more convenient and faster development. <br>
     -   Creating functionality for generating requests to the server
         > These are usually different types of input forms that can be conveniently interacted with.
