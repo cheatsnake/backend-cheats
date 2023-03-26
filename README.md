@@ -1805,19 +1805,17 @@ When developing server applications, different API formats can be used, dependin
 
 -   ### GraphQL
 
-    [GraphQL](https://graphql.org/) is a query language that describes how to request data and is mainly used by the client to download data from the server. It has three main features:
+    [GraphQL](https://en.wikipedia.org/wiki/GraphQL) is a query language and server-side runtime for APIs that allows you to retrieve and modify data from a server using a single URL endpoint. It provides several benefits, including the ability to retrieve only the data you need (reducing traffic consumption), aggregation of data from multiple sources and a strict type system for describing data.
 
-    -   Allows the customer to specify exactly what data they want, thereby reducing traffic consumption from unnecessary data.
-    -   Facilitates the aggregation of data from multiple sources.
-    -   Uses a type system to describe the data.
-
-    Content to learn:
-
+    -   [Schema and types](https://graphql.org/learn/schema/)
+        > Learn how to describe data using GraphQL schema and general types.
     -   [Queries and Mutations](https://graphql.org/learn/queries/)
-    -   [Schemas and Types](https://graphql.org/learn/schema/)
-    -   [Validation](https://graphql.org/learn/validation/)
-    -   [Execution](https://graphql.org/learn/execution/)
-    -   [Introspection](https://graphql.org/learn/introspection/)
+        > Queries are used to retrieve data from a server, while Mutations are used to modify (create, update or delete) data on a server.
+    -   [Resolvers](https://www.apollographql.com/docs/apollo-server/data/resolvers/)
+        > Resolvers are functions that determine how to retrieve the data for a particular field in the GraphQL schema.
+    -   [Data sources](https://www.apollographql.com/docs/apollo-server/v2/data/data-sources/)
+        > Are places where you retrieve data from, such as databases or APIs. Data sources are connected to the GraphQL server through resolvers.
+    -   [Performance optimization](https://www.toptal.com/graphql/graphql-internal-api-optimization)
     -   [Best Practices](https://graphql.org/learn/best-practices/)
 
 <details>
