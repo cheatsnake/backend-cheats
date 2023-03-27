@@ -84,7 +84,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     * [REST API](#rest-api)
     * [GraphQL](#graphql)
     * [WebSockets](#websockets)
-    * [RPC and gRPC](#rpc-and-grpc)
+    * [RPC (Remote Procedure Call)](#rpc-remote-procedure-call)
     * [WebRTC](#webrtc)
 </td></tr>
 
@@ -1859,19 +1859,22 @@ When developing server applications, different API formats can be used, dependin
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
--   ### RPC and gRPC
+-   ### RPC (Remote Procedure Call)
 
-    [RPC (remote procedure call)](https://en.wikipedia.org/wiki/Remote_procedure_call) it is simply a function call on the server with a set of defined arguments, which responds with the result of this function call.
+    [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) is simply a function call to the server with a set of specific arguments, which returns the response usually encoded in a certain format, such as JSON or XML. There are several protocols that implement RPC.
 
-    The main RPC protocols:
-
-    -   [SOAP](https://en.wikipedia.org/wiki/SOAP)
-        > A protocol that uses the XML language. It was developed in 1998. Due to the complexity of XML and high traffic consumption, it is not recommended for use.
+    -   XML-based protocols
+        > The are two main protocols: [XML-RPC]() and [SOAP (Simple Object Access Protocol)](https://en.wikipedia.org/wiki/SOAP) <br>
+        > They are considered deprecated and not recommended for new projects because they are heavyweight and complex compared to newer alternatives such as REST, GraphQL and newer RPC protocols.
     -   [JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC)
-        > A protocol with a very simple specification. All calls and responses are JSON records.
+        > A protocol with a very simple [specification](https://www.jsonrpc.org/specification). All requests and responses are serialized in JSON format.
+        > - A request to the server includes: `method` - the name of the method to be invoked; `params` - object or array of values to be passed as parameters to the defined method; `id` - identificator used to match the response with the request.
+        > - A response includes: `result` - data returned by the invoked method; `error` - object with error or null for success; `id` - the same as in the request.
     -   [gRPC](https://en.wikipedia.org/wiki/GRPC)
-        > Binary protocol created by Google and using [the Protobuf language](https://en.wikipedia.org/wiki/Protocol_Buffers).
-
+        > RPC framework developed by Google. It works by defining a service using [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers), a language-agnostic binary serialization format, that generates to client and server code for various programming languages.
+        > - Understand [protobuf fundamentals](https://protobuf.dev/programming-guides/proto3/).
+        > - See turorials for your language: [Python](https://grpc.io/docs/languages/python/quickstart/), [Node.js](https://grpc.io/docs/languages/node/basics/), [Go](https://grpc.io/docs/languages/go/quickstart/), [Kotlin](https://grpc.io/docs/languages/kotlin/quickstart/), etc.
+        > - Learn [style guides](https://protobuf.dev/programming-guides/style/).
 <details>
     <summary>🔗 <b>References</b></summary>
 
