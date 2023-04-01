@@ -1502,6 +1502,7 @@
 13. 📄 [**Шпаргалка по основам Kotlin** – Learn X in Y minutes](https://learnxinyminutes.com/docs/ru-ru/kotlin-ru/)
 14. 📄 [**Шпаргалка по основам Kotlin** – devhints.io](https://devhints.io/kotlin)
 15. 📄 [**Интерактивный курс по регулярным выражениям**](https://regexlearn.com/ru)
+16. 📄 [**Список книг для программиста (70+ на разные темы)**](https://botanim.to.digital/#popup:books)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
