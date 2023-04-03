@@ -2490,8 +2490,9 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**AWS на русском языке (playlist)** – YouTube](https://youtube.com/playlist?list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9)
-2. 📺 [**Google cloud на русском языке (playlist)** – YouTube](https://youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H)
-3. 📺 [**Уроки по Microsoft Azure (playlist)** – YouTube](https://youtube.com/playlist?list=PL_1ck0dfZvvCk7QCuYNCE_fWZIEY-Xae8)
+2. 📄 [**Подкасты об AWS на русском языке** – Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2F3c25hcnVzc2tvbS9mZWVkLnhtbA)
+3. 📺 [**Google cloud на русском языке (playlist)** – YouTube](https://youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H)
+4. 📺 [**Уроки по Microsoft Azure (playlist)** – YouTube](https://youtube.com/playlist?list=PL_1ck0dfZvvCk7QCuYNCE_fWZIEY-Xae8)
  </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
