@@ -2516,9 +2516,12 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. 📺 [**Запускаем Docker Swarm в продакшене** – YouTube](https://www.youtube.com/live/2FPL6jfXqOM?feature=share)
-2. 📺 [**Вебинар «Docker Swarm vs K8s. Уйти нельзя остаться** – YouTube](https://youtu.be/NX2OGJLJP6Y)
-3. 📺 [**Kubernetes на русском языке (playlist)** – YouTube](https://youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
+1. 📄 [**Docker Swarm для самых маленьких** – habr.com](https://habr.com/ru/articles/659813/)
+2. 📺 [**Запускаем Docker Swarm в продакшене** – YouTube](https://www.youtube.com/live/2FPL6jfXqOM?feature=share)
+3. 📺 [**Вебинар «Docker Swarm vs K8s. Уйти нельзя остаться** – YouTube](https://youtu.be/NX2OGJLJP6Y)
+4. 📄 [**K8S для начинающих** – habr.com](https://habr.com/ru/articles/589415/)
+5. 📺 [**Введение в Kubernetes на примере Minikube** – YouTube](https://youtu.be/sLQefhPfwWE)
+6. 📺 [**Kubernetes на русском языке (playlist)** – YouTube](https://youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
