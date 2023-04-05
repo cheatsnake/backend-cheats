@@ -553,7 +553,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     -   [Data storage](https://en.wikipedia.org/wiki/Data_storage)
         > Large capacity memory (256GB-1TB) designed for long-term storage of files and installed programmes.
     -   [GPU (Graphics card)](https://en.wikipedia.org/wiki/Graphics_card)
-        > A separate card that translates and processes data into images for display on a monitor. This device is also called a discrete graphics card. Usually needed for those who do 3D modelling or play games. <br> > [Built-in graphics card](https://en.wikipedia.org/wiki/Graphics_processing_unit#Integrated_graphics_processing_unit) is a graphics card built into the processor. It is suitable for daily work.
+        > A separate card that translates and processes data into images for display on a monitor. This device is also called a discrete graphics card. Usually needed for those who do 3D modelling or play games. <br> [Built-in graphics card](https://en.wikipedia.org/wiki/Graphics_processing_unit#Integrated_graphics_processing_unit) is a graphics card built into the processor. It is suitable for daily work.
     -   [Network card](https://en.wikipedia.org/wiki/Network_interface_controller)
         > A device that receives and transmits data from other devices connected to the [local network](https://en.wikipedia.org/wiki/Local_area_network).
     -   [Sound card](https://en.wikipedia.org/wiki/Sound_card)
@@ -1135,7 +1135,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
     -   Basic logical operations
         > They are the basis of other all kinds of operations. <br>
-        > There are three in total: [`Operation AND (&&, Conjunction)`](https://en.wikipedia.org/wiki/Logical_conjunction), [`operation OR (||, Disjunction)`](https://en.wikipedia.org/wiki/Logical_disjunction), [`operation NOT (!, Negation)`](https://en.wikipedia.org/wiki/Negation).
+        > There are three in total: [Operation AND (&&, Conjunction)](https://en.wikipedia.org/wiki/Logical_conjunction), [operation OR (||, Disjunction)](https://en.wikipedia.org/wiki/Logical_disjunction), [operation NOT (!, Negation)](https://en.wikipedia.org/wiki/Negation).
     -   Operation [Exclusive OR (XOR, Modulo 2 Addition)](https://en.wikipedia.org/wiki/Exclusive_or)
         > An important operation that is fundamental to coding theory and computer networks.
     -   [Truth Tables](https://en.wikipedia.org/wiki/Truth_table)
