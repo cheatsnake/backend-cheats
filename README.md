@@ -1260,7 +1260,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         > -   Stepwise O(2^n) <br>
         > -   Factorical O(!n) – the slowest. <br>
     -   [Time complexity](https://en.wikipedia.org/wiki/Time_complexity)
-        > When you know in advance on which machine the algorithm will be executed, you can measure the execution time of the algorithm. Again, on very good hardware the execution time of the algorithm can be quite acceptable, but the same algorithm on a weaker hardware can run for hundreds of microseconds or even a few seconds. Such delays will be very sensitive if your application handles user requests over the network.
+        > When you know in advance on which machine the algorithm will be executed, you can measure the execution time of the algorithm. Again, on very good hardware the execution time of the algorithm can be quite acceptable, but the same algorithm on a weaker hardware can run for hundreds of milliseconds or even a few seconds. Such delays will be very sensitive if your application handles user requests over the network.
     -   [Space complexity](https://en.wikipedia.org/wiki/Space_complexity)
         > In addition to time, you need to consider how much memory is spent on the work of an algorithm. It is important when you working with limited memory resources.
 
