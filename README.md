@@ -1215,7 +1215,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
     [Algorithms](https://de.wikipedia.org/wiki/Algorithmus) refer to sets of sequential instructions (steps) that lead to the solution of a given problem. Throughout human history, a huge number of algorithms have been invented to solve certain problems in the most efficient way. Accordingly, the correct choice of algorithms in programming will allow you to create the fastest and most resource-intensive solutions.
 
-    > There is a very good book on algorithms for beginners – [Grokking algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf). You can start [learning a programming language](#programming-language) in parallel with it.
+    > There is a very good book about algorithms for beginners – [Grokking algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf). You can start [learning a programming language](#programming-language) in parallel with reading it.
 
     -   [Binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
         > Maximum efficient search algorithm for sorted lists.
@@ -1249,16 +1249,20 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
     <p align="center"><img src="./files/common/BigO_eng.png" alt="BigO"/></p>
 
-    In the world of programming there is a special unit of measure **Big O** (or O-notation). It describes how the complexity of an algorithm increases with the amount of input data. **Big O** estimates how many actions (steps/iterations) it takes to execute the algorithm, while always showing the worst case scenario.
+    In the world of programming there is a special unit of measure [Big O notation](https://en.m.wikipedia.org/wiki/Big_O_notation). It describes how the complexity of an algorithm increases with the amount of input data. Big O estimates how many actions (steps/iterations) it takes to execute the algorithm, while always showing the worst case scenario.
 
-    -   Varieties of algorithm complexity
-        > -   Constant - O(1) <br>
-        > -   Linear - O(n) <br>
-        > -   Logarithmic - O(log n) <br>
-        > -   Linearimetric - O(n \* log n) <br>
-        > -   Quadratic - O(n^2) <br>
-        > -   Stepwise - O(2^n) <br>
-        > -   Factorical - O(!n) <br>
+    -   Main types of complexity
+        > -   Constant O(1) – the fastest. <br>
+        > -   Linear O(n) <br>
+        > -   Logarithmic O(log n) <br>
+        > -   Linearimetric O(n \* log n) <br>
+        > -   Quadratic O(n^2) <br>
+        > -   Stepwise O(2^n) <br>
+        > -   Factorical O(!n) – the slowest. <br>
+    -   [Time complexity](https://en.wikipedia.org/wiki/Time_complexity)
+        > When you know in advance on which machine the algorithm will be executed, you can measure the execution time of the algorithm. Again, on very good hardware the execution time of the algorithm can be quite acceptable, but the same algorithm on a weaker hardware can run for hundreds of microseconds or even a few seconds. Such delays will be very sensitive if your application handles user requests over the network.
+    -   [Space complexity](https://en.wikipedia.org/wiki/Space_complexity)
+        > In addition to time, you need to consider how much memory is spent on the work of an algorithm. It is important when you working with limited memory resources.
 
 <details>
     <summary>🔗 <b>References</b></summary>
