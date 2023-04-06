@@ -2695,6 +2695,9 @@ Testing is the process of assessing that all parts of the program behave as expe
 
 1. 📄 [**Design Patterns Cheat Sheet**](http://www.lug.or.kr/files/cheat_sheet/design_pattern_cheatsheet_v1.pdf)
 2. 📺 [**10 Design Patterns Explained in 10 Minutes** – YouTube](https://youtu.be/tv-_1er1mWI)
+3. 📺 [**Design Patterns with examples in Python** – YouTube](https://youtu.be/tAuRQs_d9F8)
+4. 📺 [**Design Patterns with examples in JavaScript** – YouTube](https://youtube.com/playlist?list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s)
+5. 📺 [**Design Patterns with examples in Go** – YouTube](https://youtube.com/playlist?list=PLfyLecA5DLOcUXmgk3BLDgWQvBoHbea2m)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
