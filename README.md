@@ -1720,6 +1720,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 1. 📺 [**Redis Crash Course - Transactions** – YouTube](https://youtu.be/5seIrOGYHPo)
 1. 📄 [**How To Run Transactions in Redis** – Digital Ocean](https://www.digitalocean.com/community/cheatsheets/how-to-run-transactions-in-redis)
 1. 📄 [**Redis cheatsheet** – QuickRef](https://quickref.me/redis)
+1. 📄 [**Awesome Redis** – GitHub](https://github.com/JamzyWang/awesome-redis)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1803,6 +1804,7 @@ When developing server applications, different API formats can be used, dependin
 7. 📺 [**Build a Rest API with GoLang** – YouTube](https://youtu.be/d_L64KT3SFM)
 8. 📺 [**Spring Kotlin - Building a Rest API Tutorial** – YouTube](https://youtube.com/playlist?list=PLNnNHr-wCfobAxSkuxMqFGdpA8E5cLR6w)
 9. 📄 [**REST API design full guide** – GitHub](https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki)
+10. 📄 [**Awesome REST** – GitHub](https://github.com/marmelab/awesome-rest)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1831,6 +1833,7 @@ When developing server applications, different API formats can be used, dependin
 4. 📺 [**Python with GraphQL tutorial** – YouTube](https://youtu.be/ZUrNFhG3LK4)
 5. 📺 [**Modern GraphQL with Node.js Crash Course** – YouTube](https://youtu.be/qux4-yWeZvo)
 6. 📺 [**GraphQL in Go - GQLGen Tutorial** – YouTube](https://youtu.be/O6jYy421tGw)
+7. 📄 [**Awesome list of GraphQL** – GitHub](https://github.com/chentsulin/awesome-graphql)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1859,6 +1862,7 @@ When developing server applications, different API formats can be used, dependin
 4. 📺 [**WebSockets with Python tutorial** – YouTube](https://youtu.be/lv0oEnQY1pM)
 5. 📺 [**WebSockets with Node.js tutorial** – YouTube](https://youtu.be/1BfCnjr_Vjg)
 6. 📺 [**WebSockets with Go tutorial** – YouTube](https://youtu.be/JuUAEYLkGbM)
+7. 📄 [**Awesome WebSockets** – GitHub](https://github.com/facundofarias/awesome-websockets)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1889,6 +1893,7 @@ When developing server applications, different API formats can be used, dependin
 5. 📺 [**gRPC with Python - microservice complete tutorial** – YouTube](https://youtu.be/E0CaocyNYKg)
 6. 📺 [**Implementing a gRPC client and server in Typescript with Node.js** – YouTube](https://youtu.be/H0c4Wjl4kRQ)
 7. 📺 [**Build a gRPC server with Go - Step by step tutorial** – YouTube](https://youtu.be/gbrPMv_GuQY)
+8. 📄 [**Awesome gRPC** – GitHub](https://github.com/grpc-ecosystem/awesome-grpc)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
