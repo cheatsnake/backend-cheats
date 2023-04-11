@@ -484,6 +484,18 @@
 
     По сравнению с [моделью OSI](#сетевая-модель-osi) [стек TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP) имеет более простую архитектуру. В целом, модель TCP/IP является более широко используемой и практичной, а модель OSI - более теоретической и детальной. Обе модели описывают одни и те же принципы, но отличаются подходом и протоколами, которые они включают на своих уровнях.
 
+    - [Канальный уровень](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C_(TCP/IP))
+        > Определяет, как данные передаются по физической среде, такой как кабели или беспроводные сигналы. <br>
+        > Протоколы: [Ethernet](https://ru.wikipedia.org/wiki/Ethernet), [Wi-Fi](https://ru.wikipedia.org/wiki/Wi-Fi), [Bluetooth](https://ru.wikipedia.org/wiki/Bluetooth), [оптоволокно](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D0%BE-%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C).
+    - [Сетевой (межсетевой) уровень](https://ru.wikipedia.org/wiki/TCP/IP#%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_(%D0%BC%D0%B5%D0%B6%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9)_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+        > Маршрутизация данных между различными сетями. Он использует IP-адреса для идентификации устройств и направляет пакеты данных к месту назначения. <br>
+        > Протоколы: [IP](https://ru.wikipedia.org/wiki/Internet_Protocol), [ARP](https://ru.wikipedia.org/wiki/Address_Resolution_Protocol), [ICMP](https://ru.wikipedia.org/wiki/Internet_Control_Message_Protocol), [IGMP](https://ru.wikipedia.org/wiki/Internet_Group_Management_Protocol)
+    - [Транспортный уровень](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+        > Передача данных между двумя устройствами. При этом используются такие протоколы, как [TCP](https://ru.wikipedia.org/wiki/Transmission_Control_Protocol) - надежный, но медленный и [UDP](https://ru.wikipedia.org/wiki/User_Datagram_Protocol) - быстрый, но ненадежный.
+    - [Прикладной уровень](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F)
+        > Предоставляет услуги конечному пользователю, такие как просмотр веб-страниц, электронная почта и передача файлов. <br>
+        > Протоколы: [HTTP](#протокол-http), [FTP](https://ru.wikipedia.org/wiki/File_Transfer_Protocol), [SMTP](https://ru.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol), [DNS](https://ru.wikipedia.org/wiki/Domain_Name_System), [SNMP](https://ru.wikipedia.org/wiki/Simple_Network_Management_Protocol).
+
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
