@@ -363,6 +363,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 1. 📄 [**What is Web Hosting?** – namecheap.com](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
 2. 📺 [**What is Web Hosting and How Does It Work?** – YouTube](https://youtu.be/H8oAvyqQwew)
 3. 📺 [**Different Hosting Types Explained** – YouTube](https://youtu.be/CtNWVmt9U1M)
+4. 📄 [**Awesome Hosting** – GitHub](https://github.com/dalisoft/awesome-hosting)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -623,6 +624,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 3. 📺 [**Operating Systems: Crash Course Computer Science** – YouTube](https://youtu.be/26QPDBe-NB8)
 4. 📺 [**Operating System Basics** – YouTube](https://youtu.be/9GDX-IyZ_C8)
 5. 📺 [**Operating System in deep details (playlist)** – YouTube](https://youtube.com/playlistlist=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+6. 📄 [**Awesome Operating System Stuff** – GitHub](https://github.com/jubalh/awesome-os)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
