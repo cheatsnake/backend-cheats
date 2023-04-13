@@ -759,6 +759,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 4. 📺 [**The 50 Most Popular Linux & Terminal Commands** – YouTube](https://youtu.be/ZtqBQ68cfJc)
 5. 📺 [**Nano Editor Fundamentals** – YouTube](https://youtu.be/gyKiDczLIZ4)
 6. 📺 [**Vim Tutorial for Beginners** – YouTube](https://youtu.be/RZ4p-saaQkc)
+7. 📄 [**Awesome Terminals** – GitHub](https://github.com/cdleon/awesome-terminals)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -929,6 +930,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 1. 📄 [**What the hell is SSH?**](https://codingpastor.hashnode.dev/what-the-hell-is-ssh)
 2. 📺 [**Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial** – YouTube](https://youtu.be/v45p_kJV9i4)
 3. 📺 [**SSH Crash Course | With Some DevOps** – YouTube](https://youtu.be/hQWRp-FdTpc)
+4. 📄 [**Awesome SSH** – GitHub](https://github.com/moul/awesome-ssh)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
