@@ -1675,6 +1675,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 10. 📺 [**SQL Server Performance Essentials – Full Course** – YouTube](https://youtu.be/HvxmF0FUwrM)
 11. 📺 [**ORM: The Good, the Great, and the Ugly** – YouTube](https://youtu.be/3EvhK7-DlZA)
 12. 📺 [**I Would Never Use an ORM, by Matteo Collina** – YouTube](https://youtu.be/qfRQ5zhYuJE)
+13. 📄 [**Awesome SQL** – GitHub](https://github.com/danhuss/awesome-sql)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
