@@ -1675,6 +1675,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 10. 📺 [**SQL Server Performance Essentials – Full Course** – YouTube](https://youtu.be/HvxmF0FUwrM)
 11. 📺 [**ORM: The Good, the Great, and the Ugly** – YouTube](https://youtu.be/3EvhK7-DlZA)
 12. 📺 [**I Would Never Use an ORM, by Matteo Collina** – YouTube](https://youtu.be/qfRQ5zhYuJE)
+13. 📄 [**Awesome SQL** – GitHub](https://github.com/danhuss/awesome-sql)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1704,6 +1705,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 3. 📄 [**MongoDB — Complete Guide**](https://faun.pub/mongodb-com-50d2f3016c2b)
 4. 📄 [**MongoDB Cheat Sheet**](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 5. 📺 [**MongoDB Tutorial For Beginners (playlist)** – YouTube](https://youtube.com/playlist?list=PLp50dWW_m40UWFSV6PTgYzciZJIxgHy7Q)
+6. 📄 [**Awesome MongoDB** – GitHub](https://github.com/ramnes/awesome-mongodb)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1738,12 +1740,12 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Redis in 100 Seconds** – YouTube](https://youtu.be/G1rOthIU-uo)
-1. 📺 [**Redis In-Memory Database Crash Course** – YouTube](https://youtu.be/V7FPk4J10KI)
-1. 📺 [**Redis Course - In-Memory Database Tutorial** – YouTube](https://youtu.be/XCsS_NVAa1g)
-1. 📺 [**Redis Crash Course - Transactions** – YouTube](https://youtu.be/5seIrOGYHPo)
-1. 📄 [**How To Run Transactions in Redis** – Digital Ocean](https://www.digitalocean.com/community/cheatsheets/how-to-run-transactions-in-redis)
-1. 📄 [**Redis cheatsheet** – QuickRef](https://quickref.me/redis)
-1. 📄 [**Awesome Redis** – GitHub](https://github.com/JamzyWang/awesome-redis)
+2. 📺 [**Redis In-Memory Database Crash Course** – YouTube](https://youtu.be/V7FPk4J10KI)
+3. 📺 [**Redis Course - In-Memory Database Tutorial** – YouTube](https://youtu.be/XCsS_NVAa1g)
+4. 📺 [**Redis Crash Course - Transactions** – YouTube](https://youtu.be/5seIrOGYHPo)
+5. 📄 [**How To Run Transactions in Redis** – Digital Ocean](https://www.digitalocean.com/community/cheatsheets/how-to-run-transactions-in-redis)
+6. 📄 [**Redis cheatsheet** – QuickRef](https://quickref.me/redis)
+7. 📄 [**Awesome Redis** – GitHub](https://github.com/JamzyWang/awesome-redis)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2049,6 +2051,7 @@ When developing server applications, different API formats can be used, dependin
 4. 📺 [**Docker Compose Tutorial** – YouTube](https://youtu.be/HG6yIjZapSA)
 5. 📺 [**Docker networking – everything you need to know** – YouTube](https://youtu.be/bKFMS5C4CG0)
 6. 📄 [**Developing Inside a Container**](https://betterprogramming.pub/developing-inside-a-container-5830e6882627)
+7. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) 
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2096,7 +2099,8 @@ When developing server applications, different API formats can be used, dependin
 4. 📺 [**Nginx Server Complete Course** – YouTube](https://youtu.be/tMtFZdaaIhk)
 5. 📄 [**6 Best Courses to learn Nginx in depth** – medium](https://medium.com/javarevisited/best-courses-to-learn-nginx-in-36ed9ccca804)
 6. 📄 [**NGINX: Advanced Load Balancer, Web Server, & Reverse Proxy** – dev.to](https://dev.to/lovepreetsingh/nginx-advanced-load-balancer-web-server-reverse-proxy-4i23)
-7. </details>
+7. 📄 [**Awesome NGINX** – GitHub](https://github.com/agile6v/awesome-nginx)
+</details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
