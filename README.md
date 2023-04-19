@@ -1683,7 +1683,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
     [MongoDB](https://en.wikipedia.org/wiki/MongoDB) is a popular [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database that stores data in flexible, JSON-like documents, allowing for dynamic and scalable data structures. It offers high performance, horizontal scalability, and a powerful query language, making it a preferred choice for modern web applications.
 
-    -   [Basic commands](./files/databases/mongodb-cheatsheet.md)
+    -   [Basic commands](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
         > Learn the basic cycle of creating/receiving/updating/deleting data. Everything else as needed.
     -   [Aggregations](https://www.mongodb.com/docs/manual/aggregation)
         > MongoDB provides a powerful aggregation framework for performing complex queries and calculations. Learn how to use aggregation pipelines.
