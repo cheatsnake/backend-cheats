@@ -96,6 +96,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     * [Postman/Insomnia](#postmaninsomnia)
     * [Web servers](#web-servers)
     * [Message brokers](#message-brokers)
+    * [Ngrok](#ngrok)
 -   [Security](#security)
     * [Web application vulnerabilities](#web-application-vulnerabilities)
     * [Environment variables](#environment-variables)
@@ -2125,6 +2126,23 @@ When developing server applications, different API formats can be used, dependin
 2. 📺 [**What is a Message Queue?** – YouTube](https://youtu.be/xErwDaOc-Gs)
 3. 📄 [**Understanding RabbitMQ** – medium](https://medium.com/swlh/understanding-rabbitmq-11d710e40a38)
 4. 📺 [**RabbitMQ course (playlist)** – YouTube](https://youtube.com/playlist?list=PLrwNNiB6YOA3Z3JfOUMKE6PmnpmVAJgTK)
+ </details>
+
+<div align="right"><a href="#top">Contents ⬆️</a></div>
+
+-   ### Ngrok
+
+    [Ngrok](https://ngrok.com/) is a tool for creating public [tunnels](https://en.wikipedia.org/wiki/Tunneling_protocol) on the internet that allows local network applications (web servers, web services, etc.) to be accessible from outside.
+
+    - How does it work?
+        > Ngrok creates a temporary public URL that can be used to access your local server from the Internet. Once Ngrok is started, you have access to the console, where you can monitor requests, handling and responses to those requests, and configure additional features such as authentication and encryption.
+    - What to use it for?
+        > For example, to test web sites and APIs, to demonstrate running applications on a local server, to access local network applications over the Internet without having to set up a router, firewall, proxy server, etc.
+
+<details>
+    <summary>🔗 <b>References</b></summary>
+
+1. 📺 [**Expose Local WebSocket, HTTP and HTTPS WebServers to the Public Internet with Ngrok** – YouTube](https://youtu.be/pR2qNnVIuKE)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
