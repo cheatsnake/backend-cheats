@@ -1409,21 +1409,25 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     By foundations are meant some fundamental ideas present in every language.
 
     -   Variables and constants
+        > Are names assigned to a memory location in the program to store some data.
     -   Data types
-        > Strings, integers, floats, booleans, etc.
+        > Define the type of data that can be stored in a variable. The main data types are integers, floating point numbers, symbols, strings, and boolean.
     -   Operators
-        > Mathematical operators, comparison operators, bitwise operators.
-    -   Functions
-        > Working with arguments and return values. <br>
-        > Understanding the scope of variables.
+        > Used to perform operations on variables or values. Common operators include arithmetic operators, comparison operators, logical operators, and assignment operators.
     -   Flow control
-        > Cycles for, conditions if else, switch-case statement.
+        > Loops, conditions `if else`, `switch case` statements.
+    -   Functions
+        > Are blocks of code that can be called multiple times in a program. They allow for code reusability and modularization. Functions are an important concept for understanding the scope of variables.
     -   Data structures
-        > Arrays, objects, classes, etc.
-    -   Standard Library
-        > This refers to the language's built-in capabilities to manipulate strings, numbers, arrays, etc.
+        > Special containers in which data are stored according to certain rules. Main data structures are arrays, maps, trees, graphs.
+    -   Standard library
+        > This refers to the language's built-in features for manipulating data structures, working with the file system, network, cryptography, etc.
+    -   Error handling 
+        > Used to handle unexpected events that can occur during program execution.
     -   [Regular expressions](https://github.com/cheatsnake/regex-by-example)
         > A powerful tool for working with strings. Be sure to familiarize yourself with it in your language, at least on a basic level.
+    -   Modules
+        > Writing the code of the whole program in one file is not at all convenient. It is much more readable to break it up into smaller modules and import them into the right places.
     -   Package Manager
         > Sooner or later, there will be a desire to use third-party libraries.
 
