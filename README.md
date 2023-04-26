@@ -1052,6 +1052,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 2. 📺 [**Linux Monitoring and Logging** – YouTube](https://youtu.be/kZ5LhS6fThM)
 3. 📄 [**3 ways to watch logs in real time in Linux**](https://linuxhandbook.com/watch-logs-real-time/)
 4. 📄 [**Analyzing logs in Linux with journalctl command**](https://linuxhandbook.com/journalctl-command/)
+5. 📄 [**Linux File Structure Explained**](https://shubhsharma19.hashnode.dev/linux-file-structure-explained)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
