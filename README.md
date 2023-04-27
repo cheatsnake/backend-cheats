@@ -1542,7 +1542,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Asynchronous programming
 
-    [Asynchronous programming]() is an efficient way to write programs with a large number of [I/O (input/output) operations](). Such operations may include reading files, requesting to a database or remote server, reading user input, and so on. In these cases, the program spends a lot of time waiting for external resources to respond, and asynchronous programming allows the program to perform other tasks while waiting for the response.
+    [Asynchronous programming](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)) is an efficient way to write programs with a large number of [I/O (input/output) operations](https://en.wikipedia.org/wiki/Input/output). Such operations may include reading files, requesting to a database or remote server, reading user input, and so on. In these cases, the program spends a lot of time waiting for external resources to respond, and asynchronous programming allows the program to perform other tasks while waiting for the response.
 
     -   [Callback](https://en.wikipedia.org/wiki/Callback_(computer_programming))
         > This is function that is passed as an argument to another function and is intended to be called by that function at a later time. The purpose of a callback is to allow the calling function to continue executing while the called function performs a time-consuming or asynchronous task. Once the task is complete, the called function will invoke the callback function, passing it any necessary data as arguments.
