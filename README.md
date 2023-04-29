@@ -1549,7 +1549,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     -   [Event-driven architecture (EDA)](https://en.wikipedia.org/wiki/Event-driven_architecture)
         > A popular approach to writing asynchronous programs. The logic of the program is to wait for certain events and process them as they arrive. This can be useful in web applications that need to handle a large number of concurrent connections, such as chat applications or real-time games.
     -   Asynchronous in particular languages
-        > - In JavaScript, asynchronous programming is commonly achieved through the use of [promises](https://javascript.info/promise-basics), [callbacks](https://javascript.info/callbacks), [async/await syntax](https://javascript.info/async-await), and the [event loop](https://javascript.info/event-loop).
+        > - In JavaScript, asynchronous programming is commonly achieved through the use of [promises](https://javascript.info/promise-basics), [callbacks](https://javascript.info/callbacks), [async/await syntax](https://javascript.info/async-await) and the [event loop](https://javascript.info/event-loop).
         > - In Python, asynchronous programming can be done using the [asyncio module](https://docs.python.org/3/library/asyncio.html), which provides an event loop and coroutine-based API for concurrency. There are also other third-party libraries like [Twisted](https://github.com/twisted/twisted) and [Tornado](https://github.com/tornadoweb/tornado) that provide asynchronous capabilities.
         > - Go has built-in support for concurrency through [goroutines and channels](https://go.dev/tour/concurrency/1), which allow developers to write asynchronous code that can communicate and synchronize across multiple threads.
         > - Kotlin provides [coroutines](https://kotlinlang.org/docs/coroutines-overview.html) are similar to JavaScript's async/await and Python's asyncio, and can be used with a variety of platforms and frameworks.
@@ -1596,6 +1596,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 4. 📺 [**How to use Multithreading with "worker threads" in Node.js?** – YouTube](https://youtu.be/MuwJJrfIfsU)
 5. 📺 [**Concurrency in Go** – YouTube](https://youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 6. 📺 [**Kotlin coroutines** – YouTube](https://youtube.com/playlist?list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
+7. 📄 [**Multithreading in practice** – GitHub](https://github.com/thanhit95/multi-threading)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
