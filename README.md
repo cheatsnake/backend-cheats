@@ -2883,6 +2883,8 @@ Testing is the process of assessing that all parts of the program behave as expe
 -   [A curated and opinionated list of resources for Backend developers](https://github.com/zhashkevych/awesome-backend)
 -   [Most important skills for Backend Developer](https://www.crio.do/blog/backend-development-career/)
 -   [System Design Course](https://github.com/karanpratapsingh/system-design)
+-   [Awesome Sysadmin: A curated list of open source sysadmin resources](https://github.com/awesome-foss/awesome-sysadmin)
+-   [Awesome Network Automation](https://github.com/networktocode/awesome-network-automation)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-2023</div
