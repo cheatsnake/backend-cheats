@@ -1549,8 +1549,8 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     -   [Event-driven architecture (EDA)](https://en.wikipedia.org/wiki/Event-driven_architecture)
         > A popular approach to writing asynchronous programs. The logic of the program is to wait for certain events and process them as they arrive. This can be useful in web applications that need to handle a large number of concurrent connections, such as chat applications or real-time games.
     -   Asynchronous in particular languages
-        > - In JavaScript, asynchronous programming is commonly achieved through the use of [promises](https://javascript.info/promise-basics), [callbacks](https://javascript.info/callbacks), [async/await syntax](https://javascript.info/async-await) and the [event loop](https://javascript.info/event-loop).
         > - In Python, asynchronous programming can be done using the [asyncio module](https://docs.python.org/3/library/asyncio.html), which provides an event loop and coroutine-based API for concurrency. There are also other third-party libraries like [Twisted](https://github.com/twisted/twisted) and [Tornado](https://github.com/tornadoweb/tornado) that provide asynchronous capabilities.
+        > - In JavaScript, asynchronous programming is commonly achieved through the use of [promises](https://javascript.info/promise-basics), [callbacks](https://javascript.info/callbacks), [async/await syntax](https://javascript.info/async-await) and the [event loop](https://javascript.info/event-loop).
         > - Go has built-in support for concurrency through [goroutines and channels](https://go.dev/tour/concurrency/1), which allow developers to write asynchronous code that can communicate and synchronize across multiple threads.
         > - Kotlin provides [coroutines](https://kotlinlang.org/docs/coroutines-overview.html) are similar to JavaScript's async/await and Python's asyncio, and can be used with a variety of platforms and frameworks.
 
@@ -1558,6 +1558,8 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Synchronous vs Asynchronous Applications (Explained by Example)** – YouTube](https://youtu.be/N5Ky-mz6n-8)
+2. 📄 [**Asynchronous Programming in JavaScript – Guide for Beginners** – freeCodeCamp](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/)
+3. 📄 [**Async IO in Python: A Complete Walkthrough**](https://realpython.com/async-io-python/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1582,8 +1584,8 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         > - [Atomic operations](https://en.wikipedia.org/wiki/Linearizability): operations that are executed as a single, indivisible unit, without the possibility of interruption or interference by other threads or processes.
         > - [Condition variables](https://en.wikipedia.org/wiki/Monitor_(synchronization)): allows threads to wait for a specific condition to be true before continuing execution. It is often used in conjunction with a mutex to avoid busy waiting and improve efficiency.
     -   Working with particular language
-        > - In Node.js you can work with [worker threads](https://nodejs.org/api/worker_threads.html#worker-threads), [cluster module](https://nodejs.org/api/cluster.html#cluster) and [shared array buffers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer).
         > - In Python you can see [threading](https://docs.python.org/3/library/threading.html) and [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) modules.
+        > - In Node.js you can work with [worker threads](https://nodejs.org/api/worker_threads.html#worker-threads), [cluster module](https://nodejs.org/api/cluster.html#cluster) and [shared array buffers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer).
         > - Go has incredible [goroutines and channels](https://go.dev/tour/concurrency/1).
         > - Kotlin provides [coroutines](https://kotlinlang.org/docs/coroutines-overview.html).
 
