@@ -1558,8 +1558,10 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Synchronous vs Asynchronous Applications (Explained by Example)** – YouTube](https://youtu.be/N5Ky-mz6n-8)
-2. 📄 [**Asynchronous Programming in JavaScript – Guide for Beginners** – freeCodeCamp](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/)
-3. 📄 [**Async IO in Python: A Complete Walkthrough**](https://realpython.com/async-io-python/)
+2. 📄 [**Async IO in Python: A Complete Walkthrough**](https://realpython.com/async-io-python/)
+3. 📄 [**Asynchronous Programming in JavaScript – Guide for Beginners** – freeCodeCamp](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/)
+4. 📺 [**Master Go Programming With These Concurrency Patterns** – YouTube](https://youtu.be/qyM8Pi1KiiM)
+5. 📺 [**Kotlin coroutines: new ways to do asynchronous programming** – YouTube](https://youtu.be/WlGEOu-Ka-E)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
