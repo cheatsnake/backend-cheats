@@ -1652,10 +1652,11 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 2. 📺 [**Naming Things in Code** – YouTube](https://youtu.be/-J3wNP6u5YU)
 3. 📺 [**Why You Shouldn't Nest Your Code** – YouTube](https://youtu.be/CFRhGnuXG-4)
 4. 📺 [**Why you shouldn't write comments in your code** – YouTube](https://youtu.be/Bf7vDBBOBUA)
-5. 📺 [**Uncle Bob SOLID principles** – YouTube](https://youtu.be/zHiWqnTWsn4)
-6. 📄 [**SOLID Principles explained in Python** – medium](https://towardsdev.com/solid-principles-explained-635ad3608b20)
-7. 📄 [**SOLID Principles in JavaScript** – freeCodeCamp](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
-8. 📄 [**Google style guides** – GitHub](https://github.com/google/styleguide)
+5. 📺 [**How principled coders outperform the competition** – YouTube](https://youtu.be/q1qKv5TBaOA)
+6. 📺 [**Uncle Bob SOLID principles** – YouTube](https://youtu.be/zHiWqnTWsn4)
+7. 📄 [**SOLID Principles explained in Python** – medium](https://towardsdev.com/solid-principles-explained-635ad3608b20)
+8. 📄 [**SOLID Principles in JavaScript** – freeCodeCamp](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
+9. 📄 [**Google style guides** – GitHub](https://github.com/google/styleguide)
 
  </details>
 
@@ -2106,12 +2107,13 @@ When developing server applications, different API formats can be used, dependin
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Learn Docker in 7 Easy Steps - Full Beginner's Tutorial** – YouTube](https://youtu.be/gAkwW2tuIqE)
-2. 📺 [**Docker Crash Course Tutorial (playlist)** – YouTube](https://youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
-3. 📄 [**The Ultimate Docker Cheat Sheet**](https://dockerlabs.collabnix.com/docker/cheatsheet/)
-4. 📺 [**Docker Compose Tutorial** – YouTube](https://youtu.be/HG6yIjZapSA)
-5. 📺 [**Docker networking – everything you need to know** – YouTube](https://youtu.be/bKFMS5C4CG0)
-6. 📄 [**Developing Inside a Container**](https://betterprogramming.pub/developing-inside-a-container-5830e6882627)
-7. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) 
+2. 📺 [**Never install locally** – YouTube](https://youtu.be/J0NuOlA2xDc)
+3. 📺 [**Docker Crash Course Tutorial (playlist)** – YouTube](https://youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
+4. 📄 [**The Ultimate Docker Cheat Sheet**](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+5. 📺 [**Docker Compose Tutorial** – YouTube](https://youtu.be/HG6yIjZapSA)
+6. 📺 [**Docker networking – everything you need to know** – YouTube](https://youtu.be/bKFMS5C4CG0)
+7. 📄 [**Developing Inside a Container**](https://betterprogramming.pub/developing-inside-a-container-5830e6882627)
+8. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) 
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
