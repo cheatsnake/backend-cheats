@@ -1379,11 +1379,13 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
             > As close to [machine code](https://en.wikipedia.org/wiki/Machine_code), complex to write, but as productive as possible. As a rule, it provides access to all of the computer's resources.
         -   [High-level languages](https://en.wikipedia.org/wiki/High-level_programming_language)
             > They have a fairly high level of abstraction, which makes them easy to write and easy to use. As a rule, they are safer because they do not provide access to all of the computer's resources.
-    -   [Compiled, interpreted and embedded languages](https://en.wikipedia.org/wiki/Programming_language#Implementation)
+    -   Depending on [implementation](https://en.wikipedia.org/wiki/Programming_language_implementation)
         -   [Compilation](https://en.wikipedia.org/wiki/Compiler)
             > Allows you to convert the source code of a program to an executable file.
         -   [Interpretation](<https://en.wikipedia.org/wiki/Interpreter_(computing)>)
             > The source code of a program is translated and immediately executed (interpreted) by a special interpreter program.
+        -   [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
+            > In this approach, the program is not compiled into a machine code, but into machine-independent low-level code - [bytecode](https://en.wikipedia.org/wiki/Bytecode). This bytecode is then executed by the virtual machine itself.
     -   [Depending on the programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
         -   [Imperative](https://en.wikipedia.org/wiki/Imperative_programming)
             > Focuses on describing the steps to solve a problem through a sequence of statements or commands.
@@ -1612,8 +1614,8 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         > A process that has made high-level languages very popular - it allows the programmer not to worry about memory allocation and freeing. Be sure to familiarize yourself with the subtleties of its operation in your own language.
     -   [Debuger](https://en.wikipedia.org/wiki/Debugging)
         > Handy tool for analyzing program code and identifying errors.
-    -   [Compilers](https://en.wikipedia.org/wiki/Compiler) and [interpreters](https://en.wikipedia.org/wiki/Interpreter_(computing))
-        > Depending on what your language uses, you can explore in detail the process of converting your code to machine code (a set of zeros and ones). As a rule, compilation/interpretation processes consist of several steps. By understanding them you can optimize your programs for faster builds and efficient execution.
+    -   [Compilers](https://en.wikipedia.org/wiki/Compiler), [interpreters](https://en.wikipedia.org/wiki/Interpreter_(computing)) and [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine)
+        > Depending on what your language uses, you can explore in detail the process of converting your code to machine code (a set of zeros and ones). As a rule, compilation/interpretation/virtualization processes consist of several steps. By understanding them you can optimize your programs for faster builds and efficient execution.
 
 <details>
     <summary>🔗 <b>References</b></summary>
