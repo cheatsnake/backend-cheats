@@ -2152,12 +2152,12 @@ When developing server applications, different API formats can be used, dependin
     A [web server](https://en.wikipedia.org/wiki/Web_server) is a program designed to handle incoming HTTP requests. In addition, it can keep error logs (logs), perform authentication and authorization, store rules for file processing, etc.
 
     -   What is it for?
-        > -   Not all languages can have a built-in web server (e.g. PHP). Therefore, to run web applications written in such languages, a third-party one is needed.
-        > -   A single server (virtual or dedicated) can run several applications, but only one external IP address. A configured web server solves this problem and can redirect incoming requests to the right applications.
+        > Not all languages can have a built-in web server (e.g. PHP). Therefore, to run web applications written in such languages, a third-party one is needed. <br>
+        > A single server (virtual or dedicated) can run several applications, but only one external IP address. A configured web server solves this problem and can redirect incoming requests to the right applications.
     -   Popular web servers
-        > -   [Nginx](https://en.wikipedia.org/wiki/Nginx) – the most popular at the moment.
-        > -   [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) – also popular, but already giving up its position.
-        > -   [Caddy](<https://en.wikipedia.org/wiki/Caddy_(web_server)>) – a fairly young web server with great potential.
+        > [Nginx](https://en.wikipedia.org/wiki/Nginx) – the most popular at the moment. <br>
+        > [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) – also popular, but already giving up its position. <br>
+        > [Caddy](<https://en.wikipedia.org/wiki/Caddy_(web_server)>) – a fairly young web server with great potential.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -2200,7 +2200,7 @@ When developing server applications, different API formats can be used, dependin
 
 -   ### Ngrok
 
-    [Ngrok](https://ngrok.com/) is a tool for creating public [tunnels](https://en.wikipedia.org/wiki/Tunneling_protocol) on the internet that allows local network applications (web servers, web services, etc.) to be accessible from outside.
+    [Ngrok](https://ngrok.com/) is a tool for creating public [tunnels](https://en.wikipedia.org/wiki/Tunneling_protocol) on the Internet that allows local network applications (web servers, websites, bots, etc.) to be accessible from outside.
 
     - How does it work?
         > Ngrok creates a temporary public URL that can be used to access your local server from the Internet. Once Ngrok is started, you have access to the console, where you can monitor requests, handling and responses to those requests, and configure additional features such as authentication and encryption.
@@ -2284,7 +2284,7 @@ When developing server applications, different API formats can be used, dependin
     -   [Salt (in cryptography)](<https://en.wikipedia.org/wiki/Salt_(cryptography)>)
         > A random string of data, which is added to the input data before hashing, to calculate the hash. This is necessary to make brute-force hacking more difficult.
 
-    Popular encryption algorithms:
+    Popular hashing algorithms:
 
     -   [SHA family (Secure Hash Algorithm)](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
         > [SHA-256](https://en.wikipedia.org/wiki/SHA-2) is the most popular encryption algorithm. It is used, for example, in [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin).
