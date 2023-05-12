@@ -1625,7 +1625,12 @@
 
 1. 📄 [**Асинхронность в программировании** – habr.com](https://habr.com/ru/companies/jugru/articles/446562/)
 2. 📺 [**Python - Асинхронное программирование** – YouTube](https://www.youtube.com/live/rMh5O4eZrug?feature=share)
-3. 📺 [**Асинхронное программирование с примерами на JavaScript (playlist)** – YouTube](https://youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+3. 📺 [**Асинхронность в Python (playlist)** – YouTube](https://youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
+4. 📄 [**Коллбэк в JavaScript… Что за зверь?** – habr.com](https://habr.com/ru/companies/ruvds/articles/330880/)
+5. 📄 [**Промисы в JavaScript на примере бургер-вечеринки** – habr.com](https://habr.com/ru/companies/nix/articles/323066/)
+6. 📄 [**У нас проблемы с промисами в JavaScript** – habr.com](https://habr.com/ru/companies/vk/articles/269465/)
+7. 📺 [**Асинхронное программирование с примерами на JavaScript (playlist)** – YouTube](https://youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+8. 📺 [**Android - Потоки и асинхронность** – YouTube](https://www.youtube.com/live/M5Jl643cP34?feature=share)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
