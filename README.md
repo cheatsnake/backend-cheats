@@ -763,6 +763,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 5. 📺 [**Nano Editor Fundamentals** – YouTube](https://youtu.be/gyKiDczLIZ4)
 6. 📺 [**Vim Tutorial for Beginners** – YouTube](https://youtu.be/RZ4p-saaQkc)
 7. 📄 [**Awesome Terminals** – GitHub](https://github.com/cdleon/awesome-terminals)
+8. 📄 [**Awesome CLI-apps** – GitHub](https://github.com/agarrharr/awesome-cli-apps)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -988,6 +989,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 8. 📺 [**Basic cURL Tutorial** – YouTube](https://youtu.be/7XUibDYw4mc)
 9. 📺 [**Using curl better - tutorial by curl creator Daniel Stenberg** – YouTube](https://youtu.be/I6id1Y0YuNk)
 10. 📄 [**Linux Shell Tools for Network**](https://leesei.github.io/shell-network/)
+11. 📄 [**Awesome console services** – GitHub](https://github.com/chubin/awesome-console-services)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1444,26 +1446,28 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Free Interactive Python Tutorial**](https://www.learnpython.org/)
-2. 📺 [**Python Tutorial for Beginners** – YouTube](https://youtu.be/8124kv-632k)
-3. 📄 [**Python cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
-4. 📄 [**Python cheatsheet** – quickref.me](https://quickref.me/python)
-5. 📄 [**Free Interactive JavaScript Tutorial**](https://www.learn-js.org/)
-6. 📺 [**JavaScript Programming - Full Course** – YouTube](https://youtu.be/jS4aFq5-91M)
-7. 📄 [**The Modern JavaScript Tutorial**](https://javascript.info/)
-8. 📄 [**JavaScript cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
-9. 📄 [**JavaScript cheatsheet** – quickref.me](https://quickref.me/javascript)
-10. 📄 [**Go Tour – learn most important features of the language**](https://go.dev/tour/list)
-11. 📺 [**Learn Go Programming - Golang Tutorial for Beginners** – YouTube](https://youtu.be/YS4e4q9oBaU)
-12. 📄 [**Go cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/go/)
-13. 📄 [**Go cheatsheet** – quickref.me](https://quickref.me/golang)
-14. 📄 [**Learn Go by Examples**](https://golangbyexample.com/)
-15. 📄 [**Get started with Kotlin**](https://kotlinlang.org/docs/getting-started.html)
-16. 📺 [**Learn Kotlin Programming – Full Course for Beginners** – YouTube](https://youtu.be/EExSSotojVI)
-17. 📄 [**Kotlin cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
-18. 📄 [**Kotlin cheatsheet** – devhints.io](https://devhints.io/kotlin)
-19. 📄 [**Learn Regex step by step, from zero to advanced**](https://regexlearn.com)
-20. 📄 [**Projectbook – The Great Big List of Software Project Ideas**](https://projectbook.code.brettchalupa.com/)
+1. 📺 [**CS50 2022 – Harvard University's course about programming** – YouTube](https://youtube.com/playlist?list=PLeLzIg9tqA3LQW-RiFA8zJUBcTKqUVLMU)
+2. 📺 [**Harvard CS50’s Web Programming with Python and JavaScript** – YouTube](https://youtu.be/vzGllw18DkA)
+3. 📄 [**Free Interactive Python Tutorial**](https://www.learnpython.org/)
+4. 📺 [**Python Tutorial for Beginners** – YouTube](https://youtu.be/8124kv-632k)
+5. 📄 [**Python cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+6. 📄 [**Python cheatsheet** – quickref.me](https://quickref.me/python)
+7. 📄 [**Free Interactive JavaScript Tutorial**](https://www.learn-js.org/)
+8. 📺 [**JavaScript Programming - Full Course** – YouTube](https://youtu.be/jS4aFq5-91M)
+9. 📄 [**The Modern JavaScript Tutorial**](https://javascript.info/)
+10. 📄 [**JavaScript cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
+11. 📄 [**JavaScript cheatsheet** – quickref.me](https://quickref.me/javascript)
+12. 📄 [**Go Tour – learn most important features of the language**](https://go.dev/tour/list)
+13. 📺 [**Learn Go Programming - Golang Tutorial for Beginners** – YouTube](https://youtu.be/YS4e4q9oBaU)
+14. 📄 [**Go cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/go/)
+15. 📄 [**Go cheatsheet** – quickref.me](https://quickref.me/golang)
+16. 📄 [**Learn Go by Examples**](https://golangbyexample.com/)
+17. 📄 [**Get started with Kotlin**](https://kotlinlang.org/docs/getting-started.html)
+18. 📺 [**Learn Kotlin Programming – Full Course for Beginners** – YouTube](https://youtu.be/EExSSotojVI)
+19. 📄 [**Kotlin cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
+20. 📄 [**Kotlin cheatsheet** – devhints.io](https://devhints.io/kotlin)
+21. 📄 [**Learn Regex step by step, from zero to advanced**](https://regexlearn.com)
+22. 📄 [**Projectbook – The Great Big List of Software Project Ideas**](https://projectbook.code.brettchalupa.com/)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2920,13 +2924,12 @@ Testing is the process of assessing that all parts of the program behave as expe
 
 -   [Backend Developer Roadmap: Learn to become a modern backend developer](https://roadmap.sh/backend)
 -   [Hussein Nasser – YouTube channel about network engineering](https://www.youtube.com/c/HusseinNasser-software-engineering)
--   [CS50 2022 – Harvard University's course about programming](https://youtube.com/playlist?list=PLeLzIg9tqA3LQW-RiFA8zJUBcTKqUVLMU)
--   [Harvard CS50’s Web Programming with Python and JavaScript](https://youtu.be/vzGllw18DkA)
 -   [A curated and opinionated list of resources for Backend developers](https://github.com/zhashkevych/awesome-backend)
 -   [Most important skills for Backend Developer](https://www.crio.do/blog/backend-development-career/)
 -   [System Design Course](https://github.com/karanpratapsingh/system-design)
 -   [Awesome Sysadmin: A curated list of open source sysadmin resources](https://github.com/awesome-foss/awesome-sysadmin)
 -   [Awesome Network Automation](https://github.com/networktocode/awesome-network-automation)
+-   [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-2023</div
