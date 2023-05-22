@@ -467,7 +467,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     <p align="center"><img src="./files/network-internet/tcp-ip_eng.png" alt="TCP/IP"/></p>
 
-    Compared to the [OSI model](https://github.com/cheatsnake/backend-cheats/blob/master/README_ENG.md#osi-network-model), the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) stack has a simpler architecture. In general, the TCP/IP model is more widely used and practical, and the OSI model is more theoretical and detailed. Both models describe the same principles, but differ in the approach and protocols they include at their levels.
+    Compared to the [OSI model](#osi-network-model), the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) stack has a simpler architecture. In general, the TCP/IP model is more widely used and practical, and the OSI model is more theoretical and detailed. Both models describe the same principles, but differ in the approach and protocols they include at their levels.
 
     - [Link layer](https://en.wikipedia.org/wiki/Link_layer)
         > Defines how data is transmitted over the physical medium, such as cables or wireless signals. <br>
@@ -626,7 +626,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 2. 📄 [**Windows vs MacOS vs Linux – Operating System Handbook** – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 3. 📺 [**Operating Systems: Crash Course Computer Science** – YouTube](https://youtu.be/26QPDBe-NB8)
 4. 📺 [**Operating System Basics** – YouTube](https://youtu.be/9GDX-IyZ_C8)
-5. 📺 [**Operating System in deep details (playlist)** – YouTube](https://youtube.com/playlistlist=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+5. 📺 [**Operating System in deep details (playlist)** – YouTube](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 6. 📄 [**Awesome Operating System Stuff** – GitHub](https://github.com/jubalh/awesome-os)
  </details>
 
@@ -988,8 +988,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 7. 📄 [**An intro to cURL: The basics of the transfer tool**](https://blog.logrocket.com/an-intro-to-curl-the-basics-of-the-transfer-tool/)
 8. 📺 [**Basic cURL Tutorial** – YouTube](https://youtu.be/7XUibDYw4mc)
 9. 📺 [**Using curl better - tutorial by curl creator Daniel Stenberg** – YouTube](https://youtu.be/I6id1Y0YuNk)
-10. 📄 [**Linux Shell Tools for Network**](https://leesei.github.io/shell-network/)
-11. 📄 [**Awesome console services** – GitHub](https://github.com/chubin/awesome-console-services)
+10. 📄 [**Awesome console services** – GitHub](https://github.com/chubin/awesome-console-services)
 </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2127,8 +2126,7 @@ When developing server applications, different API formats can be used, dependin
 4. 📄 [**The Ultimate Docker Cheat Sheet**](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 5. 📺 [**Docker Compose Tutorial** – YouTube](https://youtu.be/HG6yIjZapSA)
 6. 📺 [**Docker networking – everything you need to know** – YouTube](https://youtu.be/bKFMS5C4CG0)
-7. 📄 [**Developing Inside a Container**](https://betterprogramming.pub/developing-inside-a-container-5830e6882627)
-8. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) 
+7. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) 
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
