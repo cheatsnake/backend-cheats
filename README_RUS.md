@@ -440,7 +440,7 @@
 
     -   [Заголовки](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers)
         > Дополнительная служебная информация которая отправляется вместе с запросом/ответом. <br>
-        > Основные: [Host](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Host), [User-Agent](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/User-Agent), [If-Modified-Since](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/If-Modified-Since), [Cookie](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Cookie), [Referer](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Referer), [Authorization](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Authorization), [Cache-Control](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Cache-Control), [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type), [Content-Length](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Content-Length), [Last-Modified](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Last-Modified), [Set-Cookie](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Set-Cookie), [Content-Encoding](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Content-Encoding).
+        > Основные: [Host](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Host), [User-Agent](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/User-Agent), [If-Modified-Since](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/If-Modified-Since), [Cookie](https://ru.wikipedia.org/wiki/Cookie), [Referer](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Referer), [Authorization](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Authorization), [Cache-Control](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Cache-Control), [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type), [Content-Length](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Content-Length), [Last-Modified](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Last-Modified), [Set-Cookie](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Set-Cookie), [Content-Encoding](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Content-Encoding).
     -   [Методы запросов](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods)
         > Основные: [GET](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/PUT), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE). <br> Дополнительные: [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD), [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT), [OPTIONS](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/OPTIONS), [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH). <br>
     -   [Коды состояния](https://developer.mozilla.org/ru/docs/Web/HTTP/Status)
@@ -606,11 +606,10 @@
 6. 📺 [**Как работает кэш процессора** – YouTube](https://youtu.be/7n_8cOBpQrg)
 7. 📺 [**Различия компьютерных архитектур** – YouTube](https://youtu.be/vVjvrTnjoVs)
 8. 📺 [**ПРОЦЕССОРЫ ARM vs x86: ОБЪЯСНЯЕМ** – YouTube](https://youtu.be/5hBBFnMevvA)
-9. 📄 [**Чем архитектура ARM отличается от x86**](https://losst.pro/chem-arhitektura-arm-otlichaetsya-ot-x86)
-10. 📺 [**Как работает память компьютера** – YouTube](https://youtu.be/Wh22_O8jXVQ)
-11. 📄 [**Анатомия оперативной памяти** – habr.com](https://habr.com/ru/post/506470/)
-12. 📺 [**Сетевая карта** – YouTube](https://youtu.be/RoL9ro7DWX0)
-13. 📄 [**О работе ПК на примере Windows 10 и клавиатуры** – habr.com](https://habr.com/ru/post/483330/)
+9.  📺 [**Как работает память компьютера** – YouTube](https://youtu.be/Wh22_O8jXVQ)
+10. 📄 [**Анатомия оперативной памяти** – habr.com](https://habr.com/ru/post/506470/)
+11. 📺 [**Сетевая карта** – YouTube](https://youtu.be/RoL9ro7DWX0)
+12. 📄 [**О работе ПК на примере Windows 10 и клавиатуры** – habr.com](https://habr.com/ru/post/483330/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1008,7 +1007,7 @@
     -   [`tcpdump`](https://ru.wikipedia.org/wiki/Tcpdump)
         > Консольная утилита, позволяющая перехватывать и анализировать весь сетевой трафик, проходящий через ваш компьютер.
     -   [`netcat`](https://ru.wikipedia.org/wiki/Netcat)
-        > Утилита позволяющая устанавливать соединения по TCP и UDP, принимать оттуда данные и передавать их. Может выполнять сканирование портов, передачу файлов и прослушивание портов: как и любой сервер, она может быть использована как [Бэкдор]([<https://en.wikipedia.org/wiki/Backdoor_(computing)>](https://ru.wikipedia.org/wiki/%D0%91%D1%8D%D0%BA%D0%B4%D0%BE%D1%80)).
+        > Утилита позволяющая устанавливать соединения по TCP и UDP, принимать оттуда данные и передавать их. Может выполнять сканирование портов, передачу файлов и прослушивание портов: как и любой сервер, она может быть использована как [Бэкдор](https://ru.wikipedia.org/wiki/%D0%91%D1%8D%D0%BA%D0%B4%D0%BE%D1%80).
     -   [`iptables`](https://ru.wikipedia.org/wiki/Iptables)
         > Пользовательская утилита, позволяющая настраивать правила фильтрации IP-пакетов брандмауэра ядра Linux. Фильтры организованы в виде таблиц, которые содержат цепочки правил обработки пакетов сетевого трафика.
     -   [`nftables`](https://ru.wikipedia.org/wiki/Nftables)
@@ -1093,7 +1092,6 @@
 1. 📄 [**Лог файлы Linux по порядку** – habr.com](https://habr.com/ru/post/332502/)
 1. 📄 [**Что такое «управление конфигурацией»**](https://guides.hexlet.io/ru/configuration-management/)
 1. 📄 [**Туториал по системным логам Linux**](https://proglib.io/p/pomedlennee-ya-zapisyvayu-tutorial-po-sistemnym-logam-linux-2020-07-09)
-1. 📄 [**Логи Linux. Всё о логах и журналировании**](https://hacker-basement.ru/2021/04/24/logi-linux-jurnalirovanie/)
 1. 📄 [**Документация по lnav на русском**](https://akawah.ru/linux/lnav.html)
 1. 📄 [**Ротация логов в Linux с помощью logrotate**](https://www.dmosk.ru/miniinstruktions.php?mini=logrotate-linux)
 1. 📄 [**Использование journalctl для просмотра и анализа логов: подробный гайд** – habr.com](https://habr.com/ru/company/ruvds/blog/533918/)
@@ -1269,7 +1267,6 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
-1. 📄 [**8 структур данных, которые должен знать каждый программист**](https://blog.askmentor.io/8-data-structure-everybody-should-know/)
 1. 📄 [**Структуры данных для самых маленьких** – habr.com](https://habr.com/ru/post/310794/)
 1. 📄 [**Обзор наиболее часто используемых структур данных** – habr.com](https://habr.com/ru/post/128457/)
 1. 📺 [**Вся правда о массивах** – YouTube](https://youtu.be/47_LhSf-ago)
@@ -1321,11 +1318,10 @@
 1. 📄 [**Алгоритм Дейкстры** – habr.com](https://habr.com/ru/post/111361/)
 1. 📄 [**Жадные алгоритмы** – habr.com](https://habr.com/ru/post/120343/)
 1. 📄 [**Визуализация алгоритмов сортировки**](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
-1. 📄 [**Сайт с алгоритмами и структурами данных**](https://ru.algorithmica.org/)
-1. 📄 [**Крупнейшая библиотека алгоритмов на разных языках**](https://ru.algorithmica.org/ru)
+1. 📄 [**Сайт с алгоритмами и структурами данных**](https://ru.algorithmica.org)
+1. 📄 [**Крупнейшая библиотека алгоритмов на разных языках**](https://the-algorithms.com/ru)
 1. 📄 [**Большая коллекция алгоритмов** – GitHub](https://github.com/trekhleb/javascript-algorithms)
 1. 📘 [**Алгоритмы. Руководство по разработке** – Скиена Стивен С., 2011](https://static-ru.insales.ru/files/1/445/10019261/original/935462548.pdf?1566571639)
-1. 📘 [**Спортивное программирование** – Халим С., 2020](https://ftp.zhirov.website/books/IT/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%28%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%A5%D0%B0%D0%BB%D0%B8%D0%BC%2C%20%D0%A4%D0%B5%D0%BB%D0%B8%D0%BA%D1%81%20%D0%A5%D0%B0%D0%BB%D0%B8%D0%BC%29.pdf)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1599,7 +1595,7 @@
 1. 📄 [**Руководство по веб-фреймворку Django (Python)** – metanit.com](https://metanit.com/python/django/)
 2. 📺 [**Node JS фундаментальный курс от А до Я** – YouTube](https://youtu.be/243pQXC5Ebs)
 3. 📄 [**Руководство по Node.js (JavaScript)** – metanit.com](https://metanit.com/web/nodejs/)
-4. 📄 [**Документация Node.js на русском**](https://nodejsdev.ru/doc/)
+4. 📄 [**Документация Node.js на русском**](https://nodejsdev.ru)
 5. 📄 [**Руководство по веб-фреймворку Express (JavaScript)**](https://nodejsdev.ru/expressjs4/)
 6. 📄 [**Создание веб-приложения на Go** – golangify.com](https://golangify.com/go/web-app-go)
 7. 📄 [**Разработка веб-серверов на Golang — от простого к сложному** – habr.com](https://habr.com/ru/company/skillbox/blog/446454/)
@@ -2214,7 +2210,6 @@
 
 1. 📺 [**Уроки по тестированию в Postman (плейлист)** – YouTube](https://www.youtube.com/playlist?list=PLZqgWWF4O-zhpYUPLjpe2yfg93s1olElm)
 2. 📺 [**Insomnia. Инструмент для API тестирования** – YouTube](https://youtu.be/aXa_nQtDjUI)
-3. 📄 [**Insomnia docs на русском**](https://insomnia.w3ref.ru/insomnia/get-started/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2238,7 +2233,7 @@
 
 1. 📺 [**Что такое веб сервер и для чего он нужен?** – YouTube](https://youtu.be/uFWyAn6E4BU)
 2. 📄 [**Веб-сервер: краткий обзор**](https://doka.guide/tools/web-server/)
-3. 📄 [**Что такое Nginx**](https://eternalhost.net/blog/sozdanie-saytov/chto-takoe-nginx?)
+3. 📄 [**Что такое Nginx**](https://eternalhost.net/blog/sozdanie-saytov/chto-takoe-nginx)
 4. 📄 [**Веб-сервер Nginx: краткий обзор**](https://doka.guide/tools/nginx-web-server/)
 5. 📺 [**Основы Nginx (плейлист)** – YouTube](https://youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
 6. 📄 [**NGINX изнутри: рожден для производительности и масштабирования** – habr.com](https://habr.com/ru/post/260065/)
