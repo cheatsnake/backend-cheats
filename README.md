@@ -2502,9 +2502,12 @@ Testing is the process of assessing that all parts of the program behave as expe
 1. 📺 [**Big Vs Small Public Cloud Providers** – YouTube](https://youtu.be/LJomGBuBDaU)
 2. 📺 [**Top 50+ AWS Services Explained in 10 Minutes** – YouTube](https://youtu.be/JIbIYCM48to)
 3. 📺 [**AWS Certified Cloud Practitioner Certification Course** – YouTube](https://youtu.be/SOTamWNgDKc)
-4. 📺 [**Google Cloud Associate Cloud Engineer Course** – YouTube](https://youtu.be/jpno8FSqpc8)
-5. 📺 [**Microsoft Azure Fundamentals Certification Course** – YouTube](https://youtu.be/NKEFWyqJ5XA)
-6. 📺 [**Full DigitalOcean Crash Course** – YouTube](https://youtu.be/9ZUHSW1tTiU)
+4. 📄 [**Awesome AWS (list of libraries, open source repos, guides, blogs) – GitHub**](https://github.com/donnemartin/awesome-aws)
+5. 📺 [**Google Cloud Associate Cloud Engineer Course** – YouTube](https://youtu.be/jpno8FSqpc8)
+6. 📄 [**Awesome Google Cloud Platform – GitHub**](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
+7. 📺 [**Microsoft Azure Fundamentals Certification Course** – YouTube](https://youtu.be/NKEFWyqJ5XA)
+8. 📺 [**Full DigitalOcean Crash Course** – YouTube](https://youtu.be/9ZUHSW1tTiU)
+9. 📄 [**Awesome Digital Ocean – GitHub**](https://github.com/jonleibowitz/awesome-digitalocean)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2533,10 +2536,12 @@ Testing is the process of assessing that all parts of the program behave as expe
 3. 📄 [**Top 8 Docker Best Practices for using Docker in Production** – dev.to](https://dev.to/techworld_with_nana/top-8-docker-best-practices-for-using-docker-in-production-1m39)
 4. 📺 [**Best practices around creating a production web app with Docker and Docker Compose** – YouTube](https://youtu.be/vYpPGCaKs3I)
 5. 📺 [**Docker Swarm Tutorial** – YouTube](https://youtu.be/Tm0Q5zr3FL4)
-6. 📄 [**Kubernetes VS Docker Swarm – What is the Difference?**](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
-7. 📄 [**Kubernetes Roadmap**](https://roadmap.sh/kubernetes)
-8. 📺 [**Docker Containers and Kubernetes Fundamentals – Full Hands-On Course** – YouTube](https://youtu.be/kTp5xUtcalw)
-9. 📺 [**Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)** – YouTube](https://youtu.be/d6WC5n9G_sM)
+6. 📄 [**Awesome Swarm – GitHub**](https://github.com/BretFisher/awesome-swarm)
+7. 📄 [**Kubernetes VS Docker Swarm – What is the Difference?**](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
+8. 📄 [**Kubernetes Roadmap**](https://roadmap.sh/kubernetes)
+9. 📺 [**Docker Containers and Kubernetes Fundamentals – Full Hands-On Course** – YouTube](https://youtu.be/kTp5xUtcalw)
+10. 📺 [**Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)** – YouTube](https://youtu.be/d6WC5n9G_sM)
+11. 📄 [**Awesome Kubernetes Resources – GitHub**](https://github.com/tomhuang12/awesome-k8s-resources)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2558,9 +2563,10 @@ Testing is the process of assessing that all parts of the program behave as expe
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**GitHub Actions: The Full Course - Learn by Doing (playlist)** – YouTube](https://youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
-2. 📺 [**Learn Jenkins! Complete Jenkins Course - Zero to Hero** – YouTube](https://youtu.be/6YZvp2GwT0A)
-3. 📺 [**CircleCI Tutorial for Beginners | Learn CircleCI In 30 Minutes** – YouTube](https://youtu.be/_XaYv9zvHUk)
-4. 📺 [**Travis CI Complete Tutorial for DevOps Engineers** – YouTube](https://youtu.be/xLWDOLhTH38)
+2. 📄 [**Awesome GitHub Actions – GitHub**](https://github.com/sdras/awesome-actions)
+3. 📺 [**Learn Jenkins! Complete Jenkins Course - Zero to Hero** – YouTube](https://youtu.be/6YZvp2GwT0A)
+4. 📺 [**CircleCI Tutorial for Beginners | Learn CircleCI In 30 Minutes** – YouTube](https://youtu.be/_XaYv9zvHUk)
+5. 📺 [**Travis CI Complete Tutorial for DevOps Engineers** – YouTube](https://youtu.be/xLWDOLhTH38)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
