@@ -384,6 +384,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     | 2   | Data link layer    | Ethernet, MAC, HDLC  |
     | 1   | Physical layer     | RS-232, RJ45, DSL    |
 
+    [OSI (The Open Systems Interconnection model)](https://en.wikipedia.org/wiki/OSI_model) is a set of rules describing how different devices should interact with each other on the network. The model is divided into 7 layers, each of which is responsible for a specific function. All this is to ensure that the process of information exchange in the network follows the same pattern and all devices, whether it is a smart fridge or a smartphone, can understand each other without any problems.
+
     -   [Physical layer](https://en.wikipedia.org/wiki/Physical_layer)
         > At this level, bits (ones/zeros) are encoded into physical signals (current, light, radio waves) and transmitted further by wire ([Ethernet](https://en.wikipedia.org/wiki/Ethernet)) or wirelessly ([Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)).
     -   [Data link layer](https://en.wikipedia.org/wiki/Data_link_layer)
