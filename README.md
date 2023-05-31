@@ -2581,7 +2581,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 
     Logs capture detailed information about events, errors, and activities within your applications, facilitating troubleshooting and debugging processes. They provide a historical record of system behavior, allowing you to investigate issues, understand root causes, and improve overall system reliability and stability.
 
-    -   Libraries for you lang
+    -   Libraries for your lang
         > The easiest way to log an application is to use the tools of the standard language library or third-party packages. For example, in Python you can use [logging module](https://docs.python.org/3/library/logging.html) or [Loguru](https://github.com/Delgan/loguru). In Node.js – [Winston](https://github.com/winstonjs/winston), [Pino](https://github.com/pinojs/pino). And in Go – [log package](https://pkg.go.dev/log), [Logrus](https://github.com/sirupsen/logrus).
     -   [Loki](https://go2.grafana.com/loki-grafana-cloud.html)
         > Designed to collect log data from various sources and provides fast searching and filtering capabilities.
