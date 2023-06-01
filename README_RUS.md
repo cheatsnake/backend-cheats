@@ -2680,6 +2680,11 @@
 <details>
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
+1. 📄 [**Loki — сбор логов, используя подход Prometheus** – habr.com](https://habr.com/ru/companies/otus/articles/487118)
+2. 📄 [**Изучаем ELK. Часть I — Установка Elasticsearch** – habr.com](https://habr.com/ru/articles/538840)
+3. 📄 [**Основы мониторинга (обзор Prometheus и Grafana)** – habr.com](https://habr.com/ru/articles/709204)
+4. 📄 [**Долгосрочное хранение метрик Prometheus** – habr.com](https://habr.com/ru/articles/441136)
+5. 📄 [**Grafana как еще один инструмент для технического мониторинга** – habr.com](https://habr.com/ru/companies/southbridge/articles/431122)
 </details>
 
 ## Оптимизация
