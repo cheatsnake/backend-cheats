@@ -2127,6 +2127,8 @@
 1. 📄 [**Что такое Git и для чего он нужен**](https://guides.hexlet.io/ru/git-guide/)
 1. 📺 [**Основы Git, GitHub и GitHub Actions** – YouTube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l)
 1. 📺 [**Git. Большой практический выпуск** – YouTube](https://youtu.be/SEvR78OhGtw)
+1. 📄 [**Учебное руководство по Git**](https://www.atlassian.com/ru/git/tutorials)
+1. 📄 [**30 основных команд Git** – habr.com](https://habr.com/ru/companies/ruvds/articles/599929)
 1. 📄 [**Шпаргалка по консольным командам Git** – GitHub](https://github.com/cyberspacedk/Git-commands)
 1. 📄 [**Полная книга про Git на русском**](https://git-scm.com/book/ru/v2)
 </details>
