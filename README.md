@@ -2073,6 +2073,7 @@ When developing server applications, different API formats can be used, dependin
 3. 📺 [**13 Advanced (but useful) Git Techniques and Shortcuts** – YouTube](https://youtu.be/RGOj5yH7evk)
 4. 📄 [**Git Cheat Sheet – 50 Git Commands You Should Know** – freeCodeCamp](https://www.freecodecamp.org/news/git-cheat-sheet/)
 5. 📄 [**Git Commit Patterns** – dev.to](https://dev.to/hornet_daemon/git-commit-patterns-5dm7)
+6. 📄 [**Collection of .gitignore templates** – GitHub](https://github.com/github/gitignore)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2543,12 +2544,13 @@ Testing is the process of assessing that all parts of the program behave as expe
 3. 📄 [**Top 8 Docker Best Practices for using Docker in Production** – dev.to](https://dev.to/techworld_with_nana/top-8-docker-best-practices-for-using-docker-in-production-1m39)
 4. 📺 [**Best practices around creating a production web app with Docker and Docker Compose** – YouTube](https://youtu.be/vYpPGCaKs3I)
 5. 📺 [**Docker Swarm Tutorial** – YouTube](https://youtu.be/Tm0Q5zr3FL4)
-6. 📄 [**Awesome Swarm – GitHub**](https://github.com/BretFisher/awesome-swarm)
+6. 📄 [**Awesome Swarm** – GitHub](https://github.com/BretFisher/awesome-swarm)
 7. 📄 [**Kubernetes VS Docker Swarm – What is the Difference?**](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
 8. 📄 [**Kubernetes Roadmap**](https://roadmap.sh/kubernetes)
-9. 📺 [**Docker Containers and Kubernetes Fundamentals – Full Hands-On Course** – YouTube](https://youtu.be/kTp5xUtcalw)
-10. 📺 [**Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)** – YouTube](https://youtu.be/d6WC5n9G_sM)
-11. 📄 [**Awesome Kubernetes Resources – GitHub**](https://github.com/tomhuang12/awesome-k8s-resources)
+9. 📄 [**Kubernetes Learning Roadmap** – GitHub](https://github.com/techiescamp/kubernetes-learning-path)
+10. 📺 [**Docker Containers and Kubernetes Fundamentals – Full Hands-On Course** – YouTube](https://youtu.be/kTp5xUtcalw)
+11. 📺 [**Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)** – YouTube](https://youtu.be/d6WC5n9G_sM)
+12. 📄 [**Awesome Kubernetes Resources – GitHub**](https://github.com/tomhuang12/awesome-k8s-resources)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2979,6 +2981,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 -   [Awesome Network Automation](https://github.com/networktocode/awesome-network-automation)
 -   [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 -   [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+-   [Mindmaps for cyber security](https://github.com/Ignitetechnologies/Mindmap)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-2023</div
