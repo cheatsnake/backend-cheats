@@ -430,13 +430,13 @@ This repository is a visual cheatsheet on the main topics in Backend-development
         > Main: [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE). <br> Others: [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD), [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT), [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS), [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH).
     -   [Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
         > Each response from the server has a special numeric code that characterizes the state of the sent request. These codes are divided into 5 main classes:
-        > -   **1хх** - Service information <br>
-        > -   **2хх** - Successful request <br>
-        > -   **3хх** - Redirect to another address <br>
-        > -   **4хх** - Client side error <br>
+        > -   **1хх** - Service information
+        > -   **2хх** - Successful request
+        > -   **3хх** - Redirect to another address
+        > -   **4хх** - Client side error
         > -   **5хх** - Server side error
     -   [HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/https)
-        > Same HTTP, but with encryption support
+        > Same HTTP, but with encryption support. Your apps should use HTTPS to be secure.
     -   [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
         > The HTTP protocol does not provide the ability to save information about the status of previous requests and responses. Cookies are used to solve this problem. Cookies allow the server to store information on the client side that the client can send back to the server. For example, cookies can be used to authenticate users or to store various settings.
     -   [CORS (Cross origin resource sharing)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
@@ -446,7 +446,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     -   [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
         > - **HTTP 1.0**: Uses separate connections for each request/response, lacks caching support, and has plain text headers.
         > - **HTTP 1.1**: Introduces persistent connections, pipelining, the Host header, and chunked transfer encoding.
-        > - **HTTP 2**: Supports multiplexing, header compression, server push, and uses a binary data.
+        > - **HTTP 2**: Supports multiplexing, header compression, server push, and support a binary data.
         > - **HTTP 3**: Built on [QUIC](https://developer.mozilla.org/en-US/docs/Glossary/QUIC), offers improved multiplexing, reliability, and better performance over unreliable networks.
 
 <details>
