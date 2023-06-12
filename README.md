@@ -1323,6 +1323,18 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         -   [ProtoBuf (Protocol Buffers)](https://en.wikipedia.org/wiki/Protocol_Buffers)
             > Binary alternative to XML text format. Simpler, more compact and faster.
 
+    -   Image formats
+        -   [JPEG (Joint Photographic Experts Group)](https://en.wikipedia.org/wiki/JPEG)
+            > It is best suited for photographs and complex images with a wide range of colors. JPEG images can achieve high compression ratios while maintaining good image quality, but repeated editing and saving can result in loss of image fidelity.
+        -   [PNG (Portable Network Graphics)](https://en.wikipedia.org/wiki/PNG)
+            > It is a lossless compression format that supports transparency. It is commonly used for images with sharp edges, logos, icons, and images that require transparency. PNG images can have a higher file size compared to JPEG, but they retain excellent quality without degradation during repeated saves.
+        -   [GIF (Graphics Interchange Format)](https://en.wikipedia.org/wiki/GIF)
+            > Used for simple animations and low-resolution images with limited colors. It supports transparency and can be animated by displaying a sequence of frames.
+        -   [SVG (Scalable Vector Graphics)](https://en.wikipedia.org/wiki/SVG)
+            > XML-based vector image format defined by mathematical equations rather than pixels. SVG images can be scaled to any size without losing quality and are well-suited for logos, icons, and graphical elements.
+        -   [WebP](https://en.wikipedia.org/wiki/WebP)
+            > Modern image format developed by Google. It supports both lossy and lossless compression, providing good image quality with smaller file sizes compared to JPEG and PNG. WebP images are optimized for web use and can include transparency and animation.
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
