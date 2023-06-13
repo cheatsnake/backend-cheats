@@ -1341,6 +1341,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 1. 📺 [**Data Formats: XML, JSON, and YAML** – YouTube](https://youtu.be/JQO-x8rzNVI)
 2. 📺 [**Serialization formats: JSON and Protobuf** – YouTube](https://youtu.be/uGYZn6xk-hA)
 3. 📺 [**Protocol Buffers Crash Course** – YouTube](https://youtu.be/46O73On0gyI)
+4. 📺 [**Explaining Image File Formats** – YouTube](https://youtu.be/WblPwVq9KnU)
+5. 📺 [**What's the difference between a JPEG, PNG, GIF, etc...?** – YouTube](https://youtu.be/ww12lImOJ38)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
