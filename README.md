@@ -2962,6 +2962,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 4. 📺 [**NodeJS Microservices Full Course - Event-Driven Architecture with RabbitMQ** – YouTube](https://youtu.be/Zc2mQSQXoS4)
 5. 📺 [**Building Microservices in Go (playlist)** – YouTube](https://youtube.com/playlist?list=PL7yAAGMOat_Fn8sAXIk0WyBfK_sT1pohu)
 6. 📄 [**Awesome Microservices: collection of principles and technologies** – GitHub](https://github.com/mfornos/awesome-microservices)
+7. 📄 [**Patterns for Microservices**](https://microservices.io/patterns/index.html)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
