@@ -1841,9 +1841,10 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 2. 📺 [**Redis In-Memory Database Crash Course** – YouTube](https://youtu.be/V7FPk4J10KI)
 3. 📺 [**Redis Course - In-Memory Database Tutorial** – YouTube](https://youtu.be/XCsS_NVAa1g)
 4. 📺 [**Redis Crash Course - Transactions** – YouTube](https://youtu.be/5seIrOGYHPo)
-5. 📄 [**How To Run Transactions in Redis** – Digital Ocean](https://www.digitalocean.com/community/cheatsheets/how-to-run-transactions-in-redis)
-6. 📄 [**Redis cheatsheet** – QuickRef](https://quickref.me/redis)
-7. 📄 [**Awesome Redis** – GitHub](https://github.com/JamzyWang/awesome-redis)
+5. 📺 [**Python and Redis Tutorial - Caching API Responses** – YouTube](https://youtu.be/_8lJ5lp8P0U)
+6. 📄 [**How To Run Transactions in Redis** – Digital Ocean](https://www.digitalocean.com/community/cheatsheets/how-to-run-transactions-in-redis)
+7. 📄 [**Redis cheatsheet** – QuickRef](https://quickref.me/redis)
+8. 📄 [**Awesome Redis** – GitHub](https://github.com/JamzyWang/awesome-redis)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
