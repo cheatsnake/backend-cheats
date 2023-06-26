@@ -1311,10 +1311,10 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
         -   [JSON (JavaScript Object Notation)](https://en.wikipedia.org/wiki/JSON)
             > Represents an object in which data is stored as key-value pairs.
-        -   [YAML (Yet Another Markup Language)](https://en.wikipedia.org/wiki/YAML)
-            > The format is close to markup languages like HTML. Minimalist, because it has no opening or closing tags. Easy to edit.
         -   [XML (eXtensible Markup Language)](https://en.wikipedia.org/wiki/XML)
             > The format is closer to HTML. Here the data is wrapped in opening and closing tags.
+        -   [YAML (Yet Another Markup Language)](https://en.wikipedia.org/wiki/YAML)
+            > The format is close to markup languages like HTML. Minimalist, because it has no opening or closing tags. Easy to edit.
         -   [TOML (Tom's Obvious Minimal Language)](https://en.wikipedia.org/wiki/TOML)
             > A minimal configuration file format that's easy to read due to obvious semantics. TOML is designed to map unambiguously to a hash table. TOML should be easy to parse into data structures in a wide variety of languages.
 
