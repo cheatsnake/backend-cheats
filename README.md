@@ -44,7 +44,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 </td><td width=33% valign=top>
 
 -   [Linux basics](#linux-basics)
-    * [Working with the terminal](#working-with-the-terminal)
+    * [Working with shell](#working-with-shell)
     * [Package manager](#package-manager)
     * [Bash scripts](#bash-scripts)
     * [Users and groups](#users-and-groups)
@@ -713,50 +713,51 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 ## Linux Basics
 
-Operating systems based on [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) are the standard in the world of server development, since most servers run on such operating systems. Using Linux on servers is profitable because it is free.
+Operating systems based on [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) are the standard in the world of server development, since most servers run on such operating systems. Using Linux on servers is profitable because it is free and open source, secure and works fast on cheap hardware.
 
 There are a huge number of Linux distributions (preinstalled software bundles) to suit all tastes. One of the most popular is [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu). This is where you can start your dive into server development.
 
 [Install Ubuntu](https://ubuntu.com/download/desktop) on a separate PC or laptop. If this is not possible, you can use a special program [Virtual Box](https://www.virtualbox.org/wiki/Downloads) where you can [run other OS](https://www.virtualbox.org/manual/ch01.html#create-vm-wizard) on top of the main OS. You can also run [Docker](https://www.docker.com/products/docker-desktop) [Ubuntu image container](https://hub.docker.com/_/ubuntu) (Docker is a [separate topic](#docker) that is exists in this repository).
 
--   ### Working with the terminal
+-   ### Working with shell
 
-    [Terminal](https://en.wikipedia.org/wiki/Computer_terminal) is a program that uses special text commands to control your computer. Generally, servers do not have graphical interfaces, so you will definitely need terminal skills.
+    [Shell](https://en.wikipedia.org/wiki/Shell_(computing)) is a computer program which is used to operate and control a computer by entering special text commands. Generally, servers do not have [graphical interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), so you will definitely need to learn how to work with shells. The are many [Unix shells](https://en.wikipedia.org/wiki/Unix_shell), but most Linux distributions come with a [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) by default.
 
     -   Basic commands for navigating the file system
         ```bash
         ls # list directory contents
-        cd <path> # go to specified directory
+        cd [PATH] # go to specified directory
         cd .. # move to a higher level (to the parent directory)
-        touch <file> # create a file
-        cat > <file> # enter text into the file (overwrite)
-        cat >> <file> # enter text at the end of the file (append)
-        cat/more/less <file> # to view the file contents
-        head/tail <file> # view the first/last lines of a file
+        touch [FILE] # create a file
+        cat > [FILE] # enter text into the file (overwrite)
+        cat >> [FILE] # enter text at the end of the file (append)
+        cat/more/less [FILE] # to view the file contents
+        head/tail [FILE] # view the first/last lines of a file
         pwd # print path to current directory
-        mkdir <name> # create a directory
-        rmdir <name> # delete a directory
-        cp <file> <path> # copy a file or directory
-        mv <file> <path># moving or renaming
-        rm <file> # deleting a file or directory
-        find <string># file system search
-        du <file># output file or directory size
+        mkdir [NAME] # create a directory
+        rmdir [NAME] # delete a directory
+        cp [FILE] [PATH] # copy a file or directory
+        mv [FILE] [PATH] # moving or renaming
+        rm [FILE] # deleting a file or directory
+        find [STRING] # file system search
+        du [FILE] # output file or directory size
         ```
     -   Commands for help information
         ```bash
-        man <command> # allows you to view a manual for any command
-        apropos <string> # search for a command with a description that has a specified word
-        man -k <string> # similar to the command above
-        whatis <command> # a brief description of the command
+        man [COMMAND] # allows you to view a manual for any command
+        apropos [STRING] # search for a command with a description that has a specified word
+        man -k [STRING] # similar to the command above
+        whatis [COMMAND] # a brief description of the command
         ```
-    -   Super user rights
+    -   [Super user rights](https://en.wikipedia.org/wiki/Sudo)
         > Analogue to running as administrator in Windows
         ```bash
-        sudo <command> # executes a command with superuser privileges
+        sudo [COMMAND] # executes a command with superuser privileges
         ```
     -   Text editor
         > Study any in order to read and edit files freely through the terminal.
         > The easiest – [nano](https://en.wikipedia.org/wiki/GNU_nano).
+        > Something in the middle - [micro](https://micro-editor.github.io/)
         > The most advanced – [Vim](<https://en.wikipedia.org/wiki/Vim_(text_editor)>).
 
 <details>
