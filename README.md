@@ -157,7 +157,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     <p align="center"><img src="./files/network-internet/topologies.png" alt="Network topologies"/></p>
 
     -   [Network topologies](https://en.wikipedia.org/wiki/Network_topology)
-        > There are several topologies (ways of organizing a network): [Point to point](<https://en.wikipedia.org/wiki/Point-to-point_(telecommunications)>), [Daisy chain](<https://en.wikipedia.org/wiki/Daisy_chain_(electrical_engineering)>), [Bus](https://en.wikipedia.org/wiki/Bus_network), [Ring](https://en.wikipedia.org/wiki/Ring_network), [Star](https://en.wikipedia.org/wiki/Star_network) and [Mesh](). The Internet itself cannot be referred to any one topology, because it is an incredibly complex system mixed with different topologies.
+        > There are several topologies (ways of organizing a network): [Point to point](<https://en.wikipedia.org/wiki/Point-to-point_(telecommunications)>), [Daisy chain](<https://en.wikipedia.org/wiki/Daisy_chain_(electrical_engineering)>), [Bus](https://en.wikipedia.org/wiki/Bus_network), [Ring](https://en.wikipedia.org/wiki/Ring_network), [Star](https://en.wikipedia.org/wiki/Star_network) and [Mesh](https://en.wikipedia.org/wiki/Mesh_networking). The Internet itself cannot be referred to any one topology, because it is an incredibly complex system mixed with different topologies.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -717,7 +717,7 @@ Operating systems based on [Linux kernel](https://en.wikipedia.org/wiki/Linux_ke
 
 There are a huge number of Linux distributions (preinstalled software bundles) to suit all tastes. One of the most popular is [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu). This is where you can start your dive into server development.
 
-[Install Ubuntu](https://ubuntu.com/download/desktop) on a separate PC or laptop. If this is not possible, you can use a special program [Virtual Box](https://www.virtualbox.org/wiki/Downloads) where you can [run other OS]() on top of the main OS. You can also run [Docker](https://www.docker.com/products/docker-desktop) [Ubuntu image container](https://hub.docker.com/_/ubuntu) (Docker is a [separate topic](#docker) that is exists in this repository).
+[Install Ubuntu](https://ubuntu.com/download/desktop) on a separate PC or laptop. If this is not possible, you can use a special program [Virtual Box](https://www.virtualbox.org/wiki/Downloads) where you can [run other OS](https://www.virtualbox.org/manual/ch01.html#create-vm-wizard) on top of the main OS. You can also run [Docker](https://www.docker.com/products/docker-desktop) [Ubuntu image container](https://hub.docker.com/_/ubuntu) (Docker is a [separate topic](#docker) that is exists in this repository).
 
 -   ### Working with the terminal
 
@@ -922,7 +922,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Working with SSH
 
-    [SSH]() allows remote access to another computer's terminal. In the case of a personal computer, this may be needed to solve an urgent problem, and in the case of a server, it is generally the primary method of connection.
+    [SSH](https://en.wikipedia.org/wiki/Secure_Shell) allows remote access to another computer's terminal. In the case of a personal computer, this may be needed to solve an urgent problem, and in the case of a server, it is generally the primary method of connection.
 
     -   Basic commands
         ```bash
@@ -1035,7 +1035,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### System logs
 
-    [Log files]() are special text files that contain all information about the operation of a computer, program, or user. They are especially useful when bugs and errors occur in the operation of a program or server. It is recommended to periodically review log files, even if nothing suspicious happens.
+    [Log files](https://en.wikipedia.org/wiki/Logging_(computing)) are special text files that contain all information about the operation of a computer, program, or user. They are especially useful when bugs and errors occur in the operation of a program or server. It is recommended to periodically review log files, even if nothing suspicious happens.
 
     -   Main log files
         ```bash
@@ -1073,9 +1073,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   Driver problems
         > All free Linux drivers are built right into its kernel. Therefore, everything should work "out of the box" after installing the system (problems may occur with brand new hardware which has just been released on the market). Drivers whose source code is closed are considered proprietary and are not included in the kernel but are installed manually (like Nvidia graphics drivers).
     -   Problems with kernel
-        > [Kernel panic]() can occur due to an error when mounting the root file system.
+        > [Kernel panic](https://en.wikipedia.org/wiki/Kernel_panic) can occur due to an error when mounting the root file system.
         > This is best helped by the skill of reading the logs to find problems (`dmesg` command).
-    -   [Segmentation fault]()
+    -   [Segmentation fault](https://en.wikipedia.org/wiki/Segmentation_fault)
         > Occurs when a process accesses invalid memory locations.
     -   Disk and file system problems
         > Can occur due to lack of space.
@@ -1107,7 +1107,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
     -   [Decimal](https://en.wikipedia.org/wiki/Decimal)
         > A system that is easy to understand for most people.
-    -   [Hexadecimal]()
+    -   [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
         > The letters A, B, C, D, E, F are additionally used for recording. It is widely used in low-level programming and computer documentation because the minimum addressable memory unit is an 8-bit byte, the values of which are conveniently written in two hexadecimal digits.
 
     <p align="center"><img src="./files/common/hex.png" alt="Hex"/></p>
@@ -2024,7 +2024,7 @@ When developing server applications, different API formats can be used, dependin
     [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) is simply a function call to the server with a set of specific arguments, which returns the response usually encoded in a certain format, such as JSON or XML. There are several protocols that implement RPC.
 
     -   XML-based protocols
-        > The are two main protocols: [XML-RPC]() and [SOAP (Simple Object Access Protocol)](https://en.wikipedia.org/wiki/SOAP) <br>
+        > The are two main protocols: [XML-RPC](https://en.wikipedia.org/wiki/XML-RPC) and [SOAP (Simple Object Access Protocol)](https://en.wikipedia.org/wiki/SOAP) <br>
         > They are considered deprecated and not recommended for new projects because they are heavyweight and complex compared to newer alternatives such as REST, GraphQL and newer RPC protocols.
     -   [JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC)
         > A protocol with a very simple [specification](https://www.jsonrpc.org/specification). All requests and responses are serialized in JSON format.
@@ -2759,23 +2759,23 @@ Testing is the process of assessing that all parts of the program behave as expe
 
     <p align="center"><img src="./files/optimization/load-balancer_eng.png" alt="CDN"/></p>
 
-    When the entire application code is maximally optimized and the server capacity is reaching its limits, and the load keeps growing, you have to resort to the [clustering]() and [balancing]() mechanisms. The idea is to combine groups of servers into clusters, where the load is distributed between them using special methods and algorithms, called balancing.
+    When the entire application code is maximally optimized and the server capacity is reaching its limits, and the load keeps growing, you have to resort to the [clustering](https://en.wikipedia.org/wiki/Computer_cluster) and [balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing)) mechanisms. The idea is to combine groups of servers into clusters, where the load is distributed between them using special methods and algorithms, called balancing.
 
     -   Balancing at the network level
-        > -   **DNS Balancing**. For one domain name is allocated several IP-addresses and the server to which the request will be redirected is determined by an algorithm [Round Robin]().
-        > -   **Building a [NLB cluster]()**. Used to manage two or more servers as one virtual cluster.
-        > -   **Balancing by territory**. An example is the [Anycast mailing method]().
+        > -   **DNS Balancing**. For one domain name is allocated several IP-addresses and the server to which the request will be redirected is determined by an algorithm [Round Robin](https://en.wikipedia.org/wiki/Round-robin_DNS).
+        > -   **Building a [NLB cluster](https://learn.microsoft.com/en-us/windows-server/networking/technologies/network-load-balancing)**. Used to manage two or more servers as one virtual cluster.
+        > -   **Balancing by territory**. An example is the [Anycast mailing method](https://en.wikipedia.org/wiki/Anycast).
     -   Balancing on the transport level
-        > Communication with the client is locked to the balancer, which acts as a proxy. It communicates with servers on its own behalf, passing information about the client in additional data and headers. Example – [HAProxy]().
+        > Communication with the client is locked to the balancer, which acts as a proxy. It communicates with servers on its own behalf, passing information about the client in additional data and headers. Example – [HAProxy](https://en.wikipedia.org/wiki/HAProxy).
     -   Balancing at the application level
-        > The balancer analyzes client requests and redirects them to different servers depending on the nature of the requested content. Examples are [Upstream module in Nginx]() (which is responsible for balancing) and [pgpool]() from the PostgreSQL database (for example, it can be used to distribute read requests to one server and write requests to another).
+        > The balancer analyzes client requests and redirects them to different servers depending on the nature of the requested content. Examples are [Upstream module in Nginx](https://nginx.org/en/docs/http/ngx_http_upstream_module.html) (which is responsible for balancing) and [pgpool](https://www.pgpool.net/mediawiki/index.php/Main_Page) from the PostgreSQL database (for example, it can be used to distribute read requests to one server and write requests to another).
     -   Balancing algorithms
-        > -   [**Round Robin**](). Each request is sent in turn to each server (first to the first, then to the second and so on in a circle).
-        > -   [**Weighted Round Robin**](). Improved algorithm Round Robin, which also takes into account the performance of the server.
-        > -   [**Least Connections**](). Each subsequent request is sent to the server with the smallest number of supported connections.
+        > -   [**Round Robin**](https://en.wikipedia.org/wiki/Round-robin_scheduling). Each request is sent in turn to each server (first to the first, then to the second and so on in a circle).
+        > -   [**Weighted Round Robin**](https://en.wikipedia.org/wiki/Weighted_round_robin). Improved algorithm Round Robin, which also takes into account the performance of the server.
+        > -   **Least Connections**. Each subsequent request is sent to the server with the smallest number of supported connections.
         > -   **Destination Hash Scheduling**. The server that processes the request is selected from a static table based on the recipient's IP address.
         > -   **Source Hash Scheduling**. The server that will process the request is selected from the table by the sender's IP address.
-        > -   [**Sticky Sessions**](). Requests are distributed based on the user's IP address. Sticky Sessions assumes that requests from the same client will be routed to the same server rather than bouncing around in a pool.
+        > -   [**Sticky Sessions**](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/sticky-sessions.html). Requests are distributed based on the user's IP address. Sticky Sessions assumes that requests from the same client will be routed to the same server rather than bouncing around in a pool.
 
 <details>
     <summary>🔗 <b>References</b></summary>
