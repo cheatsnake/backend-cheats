@@ -741,6 +741,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         rm [FILE] # deleting a file or directory
         find [STRING] # file system search
         du [FILE] # output file or directory size
+        grep [PATTERN] [FILE] # print lines that match patterns
         ```
     -   Commands for help information
         ```bash
@@ -757,7 +758,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   Text editor
         > Study any in order to read and edit files freely through the terminal.
         > The easiest – [nano](https://en.wikipedia.org/wiki/GNU_nano).
-        > Something in the middle - [micro](https://micro-editor.github.io/)
+        > Something in the middle - [micro](https://micro-editor.github.io/).
         > The most advanced – [Vim](<https://en.wikipedia.org/wiki/Vim_(text_editor)>).
 
 <details>
