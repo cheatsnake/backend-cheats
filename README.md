@@ -47,14 +47,13 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     * [Working with shell](#working-with-shell)
     * [Package manager](#package-manager)
     * [Bash scripts](#bash-scripts)
-    * [Users and groups](#users-and-groups)
-    * [Permissions](#permissions)
+    * [Users, groups and permissions](#users-groups-and-permissions)
     * [Working with processes](#working-with-processes)
     * [Working with SSH](#working-with-ssh)
     * [Network utils](#network-utils)
-    * [Task Scheduler](#task-scheduler)
+    * [Task scheduler](#task-scheduler)
     * [System logs](#system-logs)
-    * [Linux problems](#linux-problems)
+    * [Main issues with Linux](#main-issues-with-linux)
 -   [General knowledge](#general-knowledge)
     * [Numeral systems](#numeral-systems)
     * [Logical connective](#logical-connective)
@@ -721,10 +720,10 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Working with shell
 
-    [Shell](https://en.wikipedia.org/wiki/Shell_(computing)) is a computer program which is used to operate and control a computer by entering special text commands. Generally, servers do not have [graphical interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), so you will definitely need to learn how to work with shells. The are many [Unix shells](https://en.wikipedia.org/wiki/Unix_shell), but most Linux distributions come with a [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) by default.
+    [Shell](https://en.wikipedia.org/wiki/Shell_(computing)) (or console, terminal) is a computer program which is used to operate and control a computer by entering special text commands. Generally, servers do not have [graphical interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), so you will definitely need to learn how to work with shells. The are many [Unix shells](https://en.wikipedia.org/wiki/Unix_shell), but most Linux distributions come with a [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) by default.
 
     -   Basic commands for navigating the file system
-        ```bash
+        ```sh
         ls # list directory contents
         cd [PATH] # go to specified directory
         cd .. # move to a higher level (to the parent directory)
@@ -744,7 +743,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         grep [PATTERN] [FILE] # print lines that match patterns
         ```
     -   Commands for help information
-        ```bash
+        ```sh
         man [COMMAND] # allows you to view a manual for any command
         apropos [STRING] # search for a command with a description that has a specified word
         man -k [STRING] # similar to the command above
@@ -752,7 +751,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         ```
     -   [Super user rights](https://en.wikipedia.org/wiki/Sudo)
         > Analogue to running as administrator in Windows
-        ```bash
+        ```sh
         sudo [COMMAND] # executes a command with superuser privileges
         ```
     -   Text editor
@@ -778,23 +777,34 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Package manager
 
-    The Package Manager is a utility that allows you to install/update software packages from the terminal.
+    The package manager is a utility that allows you to install/update software packages from the terminal.
 
     Linux distributions can be divided into several groups, depending on which package manager they use: [apt](<https://en.wikipedia.org/wiki/APT_(software)>) (in [Debian](https://en.wikipedia.org/wiki/Debian) based distributions), [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager) (the [Red Hat](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) package management system) and [Pacman](https://en.wikipedia.org/wiki/Arch_Linux#Pacman) (the package manager in [Arch-like distributions](https://en.wikipedia.org/wiki/Arch_Linux))
 
     Ubuntu is based on Debian, so it uses apt (advanced packaging tool) package manager.
 
-    -   Basic Commands
-        ```bash
-        apt install <package> # install the package
-        apt remove <package> # remove the package, but keep the configuration
-        apt purge <package> # remove the package along with the configuration
+    -   Basic commands
+        ```sh
+        apt install [package] # install the package
+        apt remove [package] # remove the package, but keep the configuration
+        apt purge [package] # remove the package along with the configuration
         apt update # update information about new versions of packages
         apt upgrade # update the packages installed in the system
         apt list --installed # list of packages installed on the system
         apt list --upgradable # list of packages that need to be updated
-        apt search <package> # searching for packages by name on the network
-        apt show <package> # package information
+        apt search [package] # searching for packages by name on the network
+        apt show [package] # package information
+        ```
+    -   Repository management
+        > Package managers typically work with software repositories. These repositories contain a collection of software packages that are maintained and provided by the distribution's community or official sources.
+        ```sh
+        add-apt-repository [repository_url] # add a new repository
+        add-apt-repository --remove [repository_url] # remove a repo
+            # don\'t forget to update after this operations - apt update
+        ```
+        ```sh
+        /etc/apt/sources.list # a file contains a list of configured repo links
+        /etc/apt/sources.list.d # a directory contains files for thrid party repos
         ```
 
 <details>
@@ -803,13 +813,14 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 1. 📺 [**Linux Crash Course - The apt Command** – YouTube](https://youtu.be/1kicKTbK768)
 2. 📺 [**Linux Package Management | Debian, Fedora, and Arch Linux** – YouTube](https://youtu.be/lkii2cGuKao)
 3. 📄 [**sudo apt-get update vs upgrade – What is the Difference?** – freeCodeCamp](https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference)
+4. 📄 [**Repositories in Ubuntu**](https://help.ubuntu.com/community/Repositories/Ubuntu)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
 -   ### Bash scripts
 
-    You can use scripts to automate the sequential input of any number of commands. In [Bash](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>) you can create different conditions (branching), loops, timers, etc. to perform all kinds of actions related to console input.
+    You can use scripts to automate the sequential input of any number of commands. In [Bash](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>) you can create different conditions (branching), loops, timers, etc. to perform all kinds of actions related to shell input.
 
     -   [Basics of Bash Scripts](https://github.com/cheatsnake/bash-scripts-by-example)
         > The most basic and frequently used features such as: variables, I/O, loops, conditions, etc.
@@ -819,64 +830,54 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   [ShellCheck](https://github.com/koalaman/shellcheck) script analysis tool
         > It will point out possible mistakes and teach you best practices for writing really good scripts.
     -   Additional resources
-        > Repositories such as [awesome bash](https://github.com/awesome-lists/awesome-bash) and [awesome shell](https://github.com/alebcay/awesome-shell) have entire collections of useful resources and tools to help you develop even more skills with Bash and the terminal in general.
+        > Repositories such as [awesome bash](https://github.com/awesome-lists/awesome-bash) and [awesome shell](https://github.com/alebcay/awesome-shell) have entire collections of useful resources and tools to help you develop even more skills with Bash and shell in general.
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**Shell Scripting for Beginners** – freeCodeCamp](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
 2. 📺 [**Bash Scripting Full Course 3 Hours** – YouTube](https://youtu.be/e7BufAVwDiM)
+3. 📄 [**HackerRank challenges for Bash with solutions**](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
--   ### Users and groups
+-   ### Users, groups and permissions
 
     Linux-based operating systems are multi-user. This means that several people can run many different applications at the same time on the same computer. For the Linux system to be able to "recognize" a user, he must be logged in and therefore each user must have a unique name and a secret password.
 
     -   Working with users
-        ```bash
-        useradd <name> [flags] # create a new user
-        passwd <name> # set a password for the user
-        usermod <name> [flags] # edit a user
-        usermod -L <name> # block a user
-        usermod -U <name> # unblock a user
-        userdel <name> [flags] # delete a user
+        ```sh
+        useradd [name] [flags] # create a new user
+        passwd [name] # set a password for the user
+        usermod [name] [flags] # edit a user
+        usermod -L [name] # block a user
+        usermod -U [name] # unblock a user
+        userdel [name] [flags] # delete a user
+        su [name] # switch to other user
         ```
     -   Working with groups
-        ```bash
-        groupadd <group> [flags] # create a group
-        groupmod <group> [flags] # edit group
-        groupdel <group> [flags] # delete group
-        usermod -a -G <groups> <user> # add a user to groups
-        gpasswd --delete <user> <groups> # remove a user from groups
+        ```sh
+        groupadd [group] [flags] # create a group
+        groupmod [group] [flags] # edit group
+        groupdel [group] [flags] # delete group
+        usermod -a -G [groups] [user] # add a user to groups
+        gpasswd --delete [user] [groups] # remove a user from groups
         ```
     -   System files
-        ```bash
+        ```sh
         /etc/passwd # a file containing basic information about users
         /etc/shadow # a file containing encrypted passwords
         /etc/group # a file containing basic information about groups
         /etc/gshadow # a file containing encrypted group passwords
         ```
 
-<details>
-    <summary>🔗 <b>References</b></summary>
-
-1. 📄 [**Managing Users, Groups and Permissions in Linux**](https://omarrrz-lounge.hashnode.dev/managing-users-groups-and-permissions-in-linux)
-2. 📄 [**Linux User Groups Explained** – freeCodeCamp](https://www.freecodecamp.org/news/linux-user-groups-explained-how-to-add-a-new-group-a-new-group-member-and-change-groups/)
-3. 📺 [**Linux Users and Groups** – YouTube](https://youtu.be/b-9j2jiCOEA)
- </details>
-
-<div align="right"><a href="#top">Contents ⬆️</a></div>
-
--   ### Permissions
+    In Linux, it is possible to share privileges between users, limit access to unwanted files or features, control available actions for services, and much more. In Linux, there are only three kinds of rights - read, write and execute - and three categories of users to which they can be applied - file owner, file group and everyone else.
 
     <p align="center"><img src="./files/linux/chmod_eng.png" alt="chmod"/></p>
 
-    In Linux, it is possible to share privileges between users, limit access to unwanted files or features, control available actions for services, and much more. In Linux, there are only three kinds of rights - read, write and execute - and three categories of users to which they can be applied - file owner, file group and everyone else.
-
     -   Basic commands for working with rights
-        ```bash
+        ```sh
         chown <user> <file> # changes the owner and/or group for the specified files
         chmod <rights> <file> # changes access rights to files and directories
         chgrp <group> <file> # allows users to change groups
@@ -885,12 +886,16 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     -   [ACL (Access control list)](https://en.wikipedia.org/wiki/Access-control_list)
         > An advanced subsystem for managing access rights.
 
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**An Introduction to Linux Permissions** – Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-permissions)
-2. 📄 [**File Permissions in Linux – How to Use the chmod Command** – freeCodeCamp](https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)
-3. 📺 [**Understanding File & Directory Permissions** – YouTube](https://youtu.be/4e669hSjaX8)
+1. 📄 [**Managing Users, Groups and Permissions in Linux**](https://omarrrz-lounge.hashnode.dev/managing-users-groups-and-permissions-in-linux)
+2. 📄 [**Linux User Groups Explained** – freeCodeCamp](https://www.freecodecamp.org/news/linux-user-groups-explained-how-to-add-a-new-group-a-new-group-member-and-change-groups/)
+3. 📺 [**Linux Users and Groups** – YouTube](https://youtu.be/b-9j2jiCOEA)
+4. 📄 [**An Introduction to Linux Permissions** – Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-permissions)
+5. 📄 [**File Permissions in Linux – How to Use the chmod Command** – freeCodeCamp](https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)
+6. 📺 [**Understanding File & Directory Permissions** – YouTube](https://youtu.be/4e669hSjaX8)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -900,17 +905,18 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     Linux processes can be described as containers in which all information about the state of a running program is stored. If a program hangs and you need to restore it, then you need the skills to manage the processes.
 
     -   Basic Commands
-        ```bash
+        ```sh
         ps # display a snapshot of the processes of all users
         top # real-time task manager
-        <command> & # running the process in the background, (without occupying the console)
+        [command] & # running the process in the background, (without occupying the shell)
         jobs # list of processes running in the background
-        fg <PID> # return the process back to the active mode by its number
-        bg <PID> # start a stopped process in the background
-        kill <PID> # terminate the process by PID
-        killall <programm> # terminate all processes related to one program
+        fg [PID] # return the process back to the active mode by its number
+         # You can press [Ctrl+Z] to return the process to the background
+        bg [PID] # start a stopped process in the background
+        kill [PID] # terminate the process by PID
+        killall [program] # terminate all processes related to the program
         ```
-
+        
 <details>
     <summary>🔗 <b>References</b></summary>
 
@@ -927,13 +933,22 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
     [SSH](https://en.wikipedia.org/wiki/Secure_Shell) allows remote access to another computer's terminal. In the case of a personal computer, this may be needed to solve an urgent problem, and in the case of a server, it is generally the primary method of connection.
 
     -   Basic commands
-        ```bash
+        ```sh
         apt install openssh-server # installing SSH (out of the box almost everywhere)
         service ssh start # start SSH
         service ssh stop # stop SSH
-        ssh -p <port> user@remote_host # connecting to a remote PC via SSH
+        ssh -p [port] [user]@[remote_host] # connecting to a remote machine via SSH
+        ```    
+    -   [Passwordless login](https://www.redhat.com/sysadmin/passwordless-ssh)
+        ```sh
         ssh-keygen -t rsa # RSA key generation for passwordless login
-        ssh-copy-id -i ~/.ssh/id_rsa user@remote_host # copying a key to a remote machine
+        ssh-copy-id -i ~/.ssh/id_rsa [user]@[remote_host] # copying a key to a remote machine
+        ```
+    -   Config files
+        ```sh
+        /etc/ssh/sshd_config # ssh server global config
+        ~/.ssh/config # ssh server local config
+        ~/.ssh/authorized_keys # file with saved public keys
         ```
 
 <details>
@@ -942,7 +957,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 1. 📄 [**What the hell is SSH?**](https://codingpastor.hashnode.dev/what-the-hell-is-ssh)
 2. 📺 [**Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial** – YouTube](https://youtu.be/v45p_kJV9i4)
 3. 📺 [**SSH Crash Course | With Some DevOps** – YouTube](https://youtu.be/hQWRp-FdTpc)
-4. 📄 [**Awesome SSH** – GitHub](https://github.com/moul/awesome-ssh)
+4. 📄 [**SSH config file for OpenSSH client**](https://www.ssh.com/academy/ssh/config)
+5. 📄 [**Awesome SSH** – GitHub](https://github.com/moul/awesome-ssh)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1001,7 +1017,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
--   ### Task Scheduler
+-   ### Task scheduler
 
     <p align="center"><img src="./files/linux/cron_eng.png" alt="cron"/></p>
 
@@ -1013,13 +1029,12 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         crontab -l # output the contents of the current schedule file
         crontab -r # deleting the current schedule file
         ```
-    -   Config files
-
-        ```bash
+    -   Files and directories
+        ```sh
         /etc/crontab # base config
-        /etc/cron.d/ # crontab files used to manage the entire system
+        /etc/cron.d/ # a dir with crontab files used to manage the entire system
 
-        # config files for automatically run programs:
+         # dirs where you can store scripts that runs:
         /etc/cron.daily/ # every day
         /etc/cron.weekly/ # every week
         /etc/cron.monthly/ # every month
@@ -1068,19 +1083,27 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
--   ### Linux problems
+-   ### Main issues with Linux
 
-    -   Problems with commands in the terminal
-        > Occur due to erroneous actions of the user. Often associated with typos, lack of rights, incorrectly specified options, etc.
-    -   Driver problems
+    -   Software installation and package management issues
+        > - [Unmet dependencies](https://fedingo.com/how-to-resolve-unmet-dependencies-in-ubuntu/) - occurs when package fails to install or update.
+        > - [Dependency errors and conflicts](https://ubunlog.com/en/how-to-fix-dependency-errors-in-ubuntu-and-derivatives/)
+    -   [Problems with drivers](https://askubuntu.com/a/496654)
         > All free Linux drivers are built right into its kernel. Therefore, everything should work "out of the box" after installing the system (problems may occur with brand new hardware which has just been released on the market). Drivers whose source code is closed are considered proprietary and are not included in the kernel but are installed manually (like Nvidia graphics drivers).
+    -   File system issues
+        > - Check disk space availability using the `df` command and ensure that critical partitions are not full.
+        > - Use the `fsck` command to check and repair [file system inconsistencies](https://www3.rocketsoftware.com/rocketd3/support/documentation/d3nt/91/refman/index.htm#definitions/file_inconsistency.htm).
+        > - In case of data loss or accidental deletion, utilize data recovery tools like [`extundelete`](https://extundelete.sourceforge.net/) or [`testdisk`](https://github.com/cgsecurity/testdisk).
+    -   Performance and resource management
+        > - Check system resource usage, including CPU, memory, and disk space, using `free`, `df`, or `du` commands.
+        > - Identify resource-intensive processes using tools like `top`, `htop`, or `systemd-cgtop`.
+        > - Disable unnecessary [startup services](https://askubuntu.com/questions/48321/how-do-i-start-applications-automatically-on-login) or [background processes](https://askubuntu.com/questions/636129/how-can-i-see-background-process-in-ubuntu-and-kill-unnecessary-processes) to improve performance.
+    -   Network connectivity issues
+        > - Use the ping command to check network connectivity to a specific host or IP address.
+        > - Check the [network settings](https://ubuntu.com/server/docs/network-configuration), such as IP configuration, [DNS settings](https://unix.stackexchange.com/questions/494324/how-to-setup-dns-manually-on-linux), and [firewall rules](https://www.redhat.com/sysadmin/firewalld-linux-firewall).
     -   Problems with kernel
-        > [Kernel panic](https://en.wikipedia.org/wiki/Kernel_panic) can occur due to an error when mounting the root file system.
+        > [Kernel panic](https://en.wikipedia.org/wiki/Kernel_panic) - can occur due to an error when mounting the root file system.
         > This is best helped by the skill of reading the logs to find problems (`dmesg` command).
-    -   [Segmentation fault](https://en.wikipedia.org/wiki/Segmentation_fault)
-        > Occurs when a process accesses invalid memory locations.
-    -   Disk and file system problems
-        > Can occur due to lack of space.
 
 <details>
     <summary>🔗 <b>References</b></summary>
