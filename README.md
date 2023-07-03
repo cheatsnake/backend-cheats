@@ -795,6 +795,8 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         apt search [package] # searching for packages by name on the network
         apt show [package] # package information
         ```
+    -   [aptitude](https://en.wikipedia.org/wiki/Aptitude_(software))
+        > Interactive console utility for easy viewing of packages to install, update and uninstall them.
     -   Repository management
         > Package managers typically work with software repositories. These repositories contain a collection of software packages that are maintained and provided by the distribution's community or official sources.
         ```sh
@@ -806,6 +808,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
         /etc/apt/sources.list # a file contains a list of configured repo links
         /etc/apt/sources.list.d # a directory contains files for thrid party repos
         ```
+    -   [dpkg](https://en.wikipedia.org/wiki/Dpkg)
+        > Low-level tool to install, build, remove and manage Debian packages.
+
 
 <details>
     <summary>🔗 <b>References</b></summary>
