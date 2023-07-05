@@ -2203,7 +2203,8 @@ When developing server applications, different API formats can be used, dependin
 4. 📄 [**The Ultimate Docker Cheat Sheet**](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 5. 📺 [**Docker Compose Tutorial** – YouTube](https://youtu.be/HG6yIjZapSA)
 6. 📺 [**Docker networking – everything you need to know** – YouTube](https://youtu.be/bKFMS5C4CG0)
-7. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) 
+7. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker)
+8. 📄 [**What Is a Dockerfile And How To Build It – Best Practices** – Spacelift](https://spacelift.io/blog/dockerfile)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
