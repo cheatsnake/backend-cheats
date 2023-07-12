@@ -299,11 +299,12 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 1. 📄 [**How browsers work** – MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 2. 📄 [**How browsers work: Behind the scenes of modern web browsers** – web.dev](https://web.dev/howbrowserswork/)
-3. 📺 [**What is a web browser?** – YouTube](https://youtu.be/QzohDuGk4mM)
-4. 📺 [**Anatomy of the browser 101 (Chrome University 2019)** – YouTube](https://youtu.be/PzzNuCk-e0Y)
-5. 📺 [**Chrome DevTools - Crash Course** – YouTube](https://youtu.be/gTVpBbFWry8)
-6. 📺 [**Demystifying the Browser Networking Tab in DevTools** – YouTube](https://youtu.be/LBgfSwX4GDI)
-7. 📺 [**21+ Browser Dev Tools & Tips You Need To Know** – YouTube](https://youtu.be/TcTSqhpm80Y)
+3. 📄 [**Inside look at modern web browser** – Google](https://developer.chrome.com/blog/inside-browser-part1/)
+4. 📺 [**What is a web browser?** – YouTube](https://youtu.be/QzohDuGk4mM)
+5. 📺 [**Anatomy of the browser 101 (Chrome University 2019)** – YouTube](https://youtu.be/PzzNuCk-e0Y)
+6. 📺 [**Chrome DevTools - Crash Course** – YouTube](https://youtu.be/gTVpBbFWry8)
+7. 📺 [**Demystifying the Browser Networking Tab in DevTools** – YouTube](https://youtu.be/LBgfSwX4GDI)
+8. 📺 [**21+ Browser Dev Tools & Tips You Need To Know** – YouTube](https://youtu.be/TcTSqhpm80Y)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
