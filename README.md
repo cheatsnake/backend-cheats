@@ -1370,9 +1370,9 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
             > Modern image format developed by Google. It supports both lossy and lossless compression, providing good image quality with smaller file sizes compared to JPEG and PNG. WebP images are optimized for web use and can include transparency and animation.
 
     -   Video formats
-        -   [MP4 (MPEG-4 Part 14)](https://ru.wikipedia.org/wiki/MPEG-4_Part_14)
+        -   [MP4 (MPEG-4 Part 14)](https://en.wikipedia.org/wiki/MP4_file_format)
             > Widely used video format that supports high-quality video compression, making it suitable for streaming and storing videos. MP4 files can contain both video and audio.
-        -   [AVI (Audio Video Interleave)](https://ru.wikipedia.org/wiki/Audio_Video_Interleave)
+        -   [AVI (Audio Video Interleave)](https://en.wikipedia.org/wiki/Audio_Video_Interleave)
             > Is a multimedia container format developed by Microsoft. It can store audio and video data in a single file, allowing for synchronized playback. However, they tend to have larger file sizes compared to more modern formats.
         -   [MOV (QuickTime Movie)](https://www.adobe.com/creativecloud/video/hub/guides/what-is-an-mov-video.html)
             > Is a video format developed by Apple for use with their QuickTime media player. It is widely used with Mac and iOS devices. MOV files can contain both video and audio, and they offer good compression and quality, making them suitable for editing and professional use.
