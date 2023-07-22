@@ -2224,8 +2224,9 @@ When developing server applications, [different API formats](https://youtu.be/4v
 
 1. 📺 [**What is Postman? How to use Postman? Tool For Beginners** – YouTube](https://youtu.be/E0f9DUEN_jI)
 2. 📺 [**Postman Beginner's Course - API Testing** – YouTube](https://youtu.be/VywxIQ2ZXw4)
-3. 📺 [**Insomnia API Client Tutorial** – YouTube](https://youtu.be/x2AlTaFJJxs)
-4. 📺 [**Insomnia Tutorial: API Design, Testing and Collaboration** – YouTube](https://youtu.be/fzLPHpOP3Wc)
+3. 📺 [**Postman API Test Automation for Beginners** – YouTube](https://youtu.be/zp5Jh2FIpF0?si=A1UMThcDUhxLj8ye)
+4. 📺 [**Insomnia API Client Tutorial** – YouTube](https://youtu.be/x2AlTaFJJxs)
+5. 📺 [**Insomnia Tutorial: API Design, Testing and Collaboration** – YouTube](https://youtu.be/fzLPHpOP3Wc)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
