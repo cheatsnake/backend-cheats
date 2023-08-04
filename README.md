@@ -1559,6 +1559,8 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         > The ability to implement the same method differently in descendant classes.
     -   [Composition](https://en.wikipedia.org/wiki/Composition_over_inheritance) over inheritance
         > Often the principle of `inheritance` can complicate and confuse your program if you do not think carefully about how to build the future hierarchy. That is why there is an alternative (more flexible) approach called composition. In particular, Go language lacks classes and many OOP principles, but widely [uses composition](https://golangbyexample.com/oop-inheritance-golang-complete).
+    -   [Dependency injection (DI)](https://en.wikipedia.org/wiki/Dependency_injection)
+        > Dependency injection is a popular OOP pattern that allows objects to receive their dependencies (other objects) from the outside rather than creating them internally. It promotes loose coupling between classes, making code more modular, maintainable, and easier to test.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1571,6 +1573,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 6. 📄 [**OOP in Go by examples**](https://golangbyexample.com/golang-comprehensive-tutorial/#OOPS_in_Golang)
 7. 📺 [**Object Oriented Programming is not what I thought - Talk by Anjana Vakil** – YouTube](https://youtu.be/TbP2B1ijWr8)
 8. 📺 [**The Flaws of Inheritance (tradeoffs between Inheritance and Composition)** – YouTube](https://youtu.be/hxGOiiR9ZKg)
+9. 📺 [**Dependency Injection, The Best Pattern** – YouTube](https://youtu.be/J1f5b4vcxCQ?si=9kgJNwZgMFd7r7fX)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
