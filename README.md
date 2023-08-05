@@ -2144,9 +2144,11 @@ When developing server applications, [different API formats](https://youtu.be/4v
 1. 📺 [**Git It? How to use Git and Github** – YouTube](https://youtu.be/HkdAHXoRtos)
 2. 📺 [**Git and GitHub for Beginners - Crash Course** – YouTube](https://youtu.be/RGOj5yH7evk)
 3. 📺 [**13 Advanced (but useful) Git Techniques and Shortcuts** – YouTube](https://youtu.be/RGOj5yH7evk)
-4. 📄 [**Git Cheat Sheet – 50 Git Commands You Should Know** – freeCodeCamp](https://www.freecodecamp.org/news/git-cheat-sheet/)
-5. 📄 [**Git Commit Patterns** – dev.to](https://dev.to/hornet_daemon/git-commit-patterns-5dm7)
-6. 📄 [**Collection of .gitignore templates** – GitHub](https://github.com/github/gitignore)
+4. 📄 [**Understanding Git through images** – dev.to](https://dev.to/nopenoshishi/understanding-git-through-images-4an1)
+5. 📄 [**Learn git concepts, not commands** – GitHub](https://github.com/UnseenWizzard/git_training)
+6. 📄 [**Git Cheat Sheet – 50 Git Commands You Should Know** – freeCodeCamp](https://www.freecodecamp.org/news/git-cheat-sheet/)
+7. 📄 [**Git Commit Patterns** – dev.to](https://dev.to/hornet_daemon/git-commit-patterns-5dm7)
+8. 📄 [**Collection of .gitignore templates** – GitHub](https://github.com/github/gitignore)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
