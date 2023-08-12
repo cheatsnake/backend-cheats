@@ -2104,39 +2104,20 @@ When developing server applications, [different API formats](https://youtu.be/4v
 
     [Git](https://en.wikipedia.org/wiki/Git) a special system for managing the history of changes to the source code. Any changes that are made to Git can be saved, allowing you to rollback (revert) to a previously saved copy of the project. Git is currently the standard for development.
 
-    -   Basic commands
-        ```bash
-        git init # initialize Git in the current folder
-        git add [file] # add a file to Git
-        git add . # add all the files in the folder to Git
-        git reset [file] # cancel the addition of the specified file
-        git reset # cancel the addition of all files
-        git commit -m "your message" # create a commit (save)
-        git status # shows the status of added files
-        git push # send current commits to a remote repository
-        git pull # load changes from a remote repository
-        git clone [link] # clone the specified repository to your PC
-        ```
-    -   Working with branches
-        > Branching allows you to deviate from the main branch of development and continue to work independently.
-        ```bash
-        git branch # show a list of current threads
-        git branch [name] # create a new branch from the current commit
-        git checkout [name] # create a new branch from the current commit
-        git merge [name] # merge the specified branch into the current branch
-        git branch -d [name] # delete the specified branch
-        ```
-    -   Cancel commits
-        ```bash
-        git revert HEAD --no-edit # create a new commit that overrides the changes of the previous one
-        git revert [hash] --no-edit # the same action, but with the specified commit
-        ```
-    -   Log history
-        ```bash
-        git log [branch] # show the commits of the specified branch
-        git log -3 # show the last 3 commits of the current branch
-        git log [file] # show the commit history of the specified file
-        ```
+    -   [Basic commands](https://github.com/cheatsnake/quick-git#basic-commands)
+    -   [Viewing commits & logs](https://github.com/cheatsnake/quick-git#information-about-commits)
+        > Commit is a record in the repository history that represents information about changes to files.
+    -   [Working with branches](https://github.com/cheatsnake/quick-git#working-with-branches)
+        > Branch is a sequence of commits.
+    -   [Remote repositories](https://github.com/cheatsnake/quick-git#remote-repositories)
+        > A repository is a place where the source code and change history (commits) of your project is stored.
+    -   [Commit deletions and rollbacks](https://github.com/cheatsnake/quick-git#commit-deletions-and-rollbacks)
+    -   [Merge conflict](https://stackoverflow.com/a/163659/21100330)
+        > A situation where two branches have different changes in the same location and Git cannot automatically merge them.
+    -   [.gitignore](https://git-scm.com/docs/gitignore)
+        > A special file to exclude specific files or patterns (e.g., build artifacts) from tracking.
+    -   [Git style guide](https://github.com/agis/git-style-guide#table-of-contents)
+        > Learn best practices popular in the community.
 
 <details>
     <summary>🔗 <b>References</b></summary>
