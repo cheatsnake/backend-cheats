@@ -3066,6 +3066,9 @@ Testing is the process of assessing that all parts of the program behave as expe
 -   [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 -   [Mindmaps for cyber security](https://github.com/Ignitetechnologies/Mindmap)
 -   [Awesome CTO – resources for Chief Technology Officers and VP R&D](https://github.com/kuchin/awesome-cto)
+-   [Domain-Driven Design, software architecture, design patterns, best practices](https://github.com/Sairyss/domain-driven-hexagon)
+-   [Best practices, tools and guidelines for backend development](https://github.com/Sairyss/backend-best-practices)
+-   [Resources related to distributed systems, system design, microservices, scalability and performance](https://github.com/Sairyss/system-design-patterns)
 
 <div align="center">Made with &#9829;</div>
 <div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-2023</div
