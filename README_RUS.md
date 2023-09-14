@@ -1337,19 +1337,20 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📺 [**Алгоритмы и структуры данных. Подготовительный курс (плейлист)** – YouTube](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
-1. 📺 [**Алгоритмы и структуры данных на JavaScript** – YouTube](https://youtu.be/NErrGZ64OdE)
-1. 📺 [**Как работают сортировки** – YouTube](https://youtu.be/PF7AqefS4MU)
-1. 📄 [**Сортировки выбором** – habr.com](https://habr.com/ru/post/422085/)
-1. 📺 [**Сортировка выбором** – YouTube](https://youtu.be/KZxP5JqtKKA)
-1. 📄 [**Рекурсия. Занимательные задачки** – habr.com](https://habr.com/ru/post/275813/)
-1. 📄 [**Пузырьковая сортировка и все-все-все** – habr.com](https://habr.com/ru/post/204600/)
-1. 📄 [**Алгоритм Дейкстры** – habr.com](https://habr.com/ru/post/111361/)
-1. 📄 [**Жадные алгоритмы** – habr.com](https://habr.com/ru/post/120343/)
-1. 📄 [**Визуализация алгоритмов сортировки**](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
-1. 📄 [**Сайт с алгоритмами и структурами данных**](https://ru.algorithmica.org)
-1. 📄 [**Крупнейшая библиотека алгоритмов на разных языках**](https://the-algorithms.com/ru)
-1. 📄 [**Большая коллекция алгоритмов** – GitHub](https://github.com/trekhleb/javascript-algorithms)
-1. 📘 [**Алгоритмы. Руководство по разработке** – Скиена Стивен С., 2011](https://static-ru.insales.ru/files/1/445/10019261/original/935462548.pdf?1566571639)
+2. 📺 [**Алгоритмы и структуры данных на JavaScript** – YouTube](https://youtu.be/NErrGZ64OdE)
+3. 📄 [**Алгоритмы и структуры данных (лекции и примеры кода)** – GitHub](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md)
+4. 📺 [**Как работают сортировки** – YouTube](https://youtu.be/PF7AqefS4MU)
+5. 📄 [**Сортировки выбором** – habr.com](https://habr.com/ru/post/422085/)
+6. 📺 [**Сортировка выбором** – YouTube](https://youtu.be/KZxP5JqtKKA)
+7. 📄 [**Рекурсия. Занимательные задачки** – habr.com](https://habr.com/ru/post/275813/)
+8. 📄 [**Пузырьковая сортировка и все-все-все** – habr.com](https://habr.com/ru/post/204600/)
+9. 📄 [**Алгоритм Дейкстры** – habr.com](https://habr.com/ru/post/111361/)
+10. 📄 [**Жадные алгоритмы** – habr.com](https://habr.com/ru/post/120343/)
+11. 📄 [**Визуализация алгоритмов сортировки**](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+12. 📄 [**Сайт с алгоритмами и структурами данных**](https://ru.algorithmica.org)
+13. 📄 [**Крупнейшая библиотека алгоритмов на разных языках**](https://the-algorithms.com/ru)
+14. 📄 [**Большая коллекция алгоритмов** – GitHub](https://github.com/trekhleb/javascript-algorithms)
+15. 📘 [**Алгоритмы. Руководство по разработке** – Скиена Стивен С., 2011](https://static-ru.insales.ru/files/1/445/10019261/original/935462548.pdf?1566571639)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1537,6 +1538,7 @@
 6. 📄 [**Что такое интерпретатор**](https://guides.hexlet.io/ru/interpreter/)
 7. 📄 [**Методы программирования** – GitHub](https://github.com/kolei/OAP/blob/master/articles/t2l2.md)
 8. 📄 [**Парадигмы программирования**](https://doka.guide/js/programming-paradigms/)
+9. 📄 [**Парадигмы программирования (лекции и примеры кода на Node.js)** – GitHub](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1619,10 +1621,11 @@
 
 1. 📺 [**ООП на простых примерах** – YouTube](https://youtu.be/-6DWwR_R4Xk)
 2. 📄 [**Объектно-ориентированное программирование на примере**](https://doka.guide/js/oop/)
-3. 📺 [**Первые шаги в ООП: класс, объект, self в Python** – YouTube](https://youtu.be/odY5dlZifFE)
-4. 📺 [**Просто о ООП на примерах для TypeScript/JavaScript** – YouTube](https://youtu.be/VjGdjqyXbhg)
-5. 📺 [**ООП на примерах для Kotlin** – YouTube](https://youtu.be/3e8ZEO9ADrc)
-6. 📄 [**Краткое введение во внедрение зависимостей: что это и когда это необходимо использовать** – medium.com](https://xufocoder.medium.com/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)
+3. 📄 [**Лекции и примеры кода по ООП**](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md)
+4. 📺 [**Первые шаги в ООП: класс, объект, self в Python** – YouTube](https://youtu.be/odY5dlZifFE)
+5. 📺 [**Просто о ООП на примерах для TypeScript/JavaScript** – YouTube](https://youtu.be/VjGdjqyXbhg)
+6. 📺 [**ООП на примерах для Kotlin** – YouTube](https://youtu.be/3e8ZEO9ADrc)
+7. 📄 [**Краткое введение во внедрение зависимостей: что это и когда это необходимо использовать** – medium.com](https://xufocoder.medium.com/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1683,13 +1686,14 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Асинхронность в программировании** – habr.com](https://habr.com/ru/companies/jugru/articles/446562/)
-2. 📺 [**Python - Асинхронное программирование** – YouTube](https://www.youtube.com/live/rMh5O4eZrug?feature=share)
-3. 📺 [**Асинхронность в Python (playlist)** – YouTube](https://youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
-4. 📄 [**Коллбэк в JavaScript… Что за зверь?** – habr.com](https://habr.com/ru/companies/ruvds/articles/330880/)
-5. 📄 [**Промисы в JavaScript на примере бургер-вечеринки** – habr.com](https://habr.com/ru/companies/nix/articles/323066/)
-6. 📄 [**У нас проблемы с промисами в JavaScript** – habr.com](https://habr.com/ru/companies/vk/articles/269465/)
-7. 📺 [**Асинхронное программирование с примерами на JavaScript (playlist)** – YouTube](https://youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
-8. 📺 [**Android - Потоки и асинхронность** – YouTube](https://www.youtube.com/live/M5Jl643cP34?feature=share)
+2. 📄 [**Асинхронное программирование (лекции и примеры кода на Node.js)** – GitHub](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)
+3. 📺 [**Python - Асинхронное программирование** – YouTube](https://www.youtube.com/live/rMh5O4eZrug?feature=share)
+4. 📺 [**Асинхронность в Python (playlist)** – YouTube](https://youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
+5. 📄 [**Коллбэк в JavaScript… Что за зверь?** – habr.com](https://habr.com/ru/companies/ruvds/articles/330880/)
+6. 📄 [**Промисы в JavaScript на примере бургер-вечеринки** – habr.com](https://habr.com/ru/companies/nix/articles/323066/)
+7. 📄 [**У нас проблемы с промисами в JavaScript** – habr.com](https://habr.com/ru/companies/vk/articles/269465/)
+8. 📺 [**Асинхронное программирование с примерами на JavaScript (playlist)** – YouTube](https://youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+9. 📺 [**Android - Потоки и асинхронность** – YouTube](https://www.youtube.com/live/M5Jl643cP34?feature=share)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -1728,7 +1732,8 @@
 4. 📄 [**Многопоточность, общие данные и мьютексы** – habr.com](https://habr.com/ru/post/72929/)
 5. 📺 [**Многопроцессность, многопоточность, асинхронность в Python и не только** – YouTube](https://youtu.be/JIp14T9bvvc)
 6. 📺 [**Worker threads. Многопоточность в Node.js** – YouTube](https://youtu.be/96naNd2xbpA)
-7. 📺 [**Всё про конкурентность в Go** – YouTube](https://youtu.be/mvUiw9ilqn8)
+7. 📄 [**Параллельное программирование (лекции и примеры кода на Node.js)** – GitHub](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md)
+8. 📺 [**Всё про конкурентность в Go** – YouTube](https://youtu.be/mvUiw9ilqn8)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2001,6 +2006,7 @@
 5. 📺 [**Проектирование баз данных за 40 минут. Практика** – YouTube](https://youtu.be/8cP6x9pTIy0)
 6. 📄 [**Руководство по проектированию реляционных баз данных** – habr.com](https://habr.com/ru/post/193136/?ysclid=l5ifprukf2149330466)
 7. 📄 [**Основы современных баз данных**](http://citforum.ru/database/osbd/contents.shtml)
+8. 📄 [**Проектирование баз данных (лекции и примеры кода на Node.js)** – GitHub](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Databases.md)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -2551,8 +2557,9 @@
 2. 📺 [**Unit tests - модульное тестирование** – YouTube](https://youtu.be/6whsUwWYYVk)
 3. 📺 [**Python – юнит-тестирование. Использование unittest и coverage** – YouTube](https://youtu.be/YD7aYJh3k-w)
 4. 📺 [**Jest. Unit Тестирование в JavaScript** – YouTube](https://youtu.be/IEDe8jl5efU)
-5. 📺 [**Тестирование в Go: от плохого к хорошему** – YouTube](https://youtu.be/iJK99AQqKZY)
-6. 📄 [**Когда использовать mocks в юнит-тестировании** – habr.com](https://habr.com/ru/post/577424/)
+5. 📄 [**Качество, тестирование и надежность ПО (лекции и примеры кода на Node.js)** – GitHub](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Quality.md)
+6. 📺 [**Тестирование в Go: от плохого к хорошему** – YouTube](https://youtu.be/iJK99AQqKZY)
+7. 📄 [**Когда использовать mocks в юнит-тестировании** – habr.com](https://habr.com/ru/post/577424/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
@@ -3062,11 +3069,12 @@
     <summary>🔗 <b>Ссылки на материалы</b></summary>
 
 1. 📄 [**Паттерны ООП в метафорах** – habr.com](https://habr.com/ru/post/136766/)
-2. 📄 [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
-3. 📺 [**Паттерны проектирования на языке Python (playlist)** – YouTube](https://youtube.com/playlist?list=PLKP3l9fd3KUHYXVsSy37WXSkvunqenNhS)
-4. 📺 [**JavaScript Паттерны. Шаблоны проектирования. 17 Примеров** – YouTube](https://youtu.be/YJVj4XNASDk)
-5. 📺 [**Паттерны проектирования на языке Go (playlist)** – YouTube](https://youtube.com/playlist?list=PLxj7Nz8YYkVW5KHnsb9qWUDP2eD1TXl1N)
-6. 📄 [**Паттерны проектирования** – metanit.com](https://metanit.com/sharp/patterns/)
+2. 📄 [**Шаблоны проектирования (лекции и примеры кода на Node.js)** – GitHub](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md)
+3. 📄 [**Шпаргалка по шаблонам проектирования** – habr.com](https://habr.com/ru/post/210288/)
+4. 📺 [**Паттерны проектирования на языке Python (playlist)** – YouTube](https://youtube.com/playlist?list=PLKP3l9fd3KUHYXVsSy37WXSkvunqenNhS)
+5. 📺 [**JavaScript Паттерны. Шаблоны проектирования. 17 Примеров** – YouTube](https://youtu.be/YJVj4XNASDk)
+6. 📺 [**Паттерны проектирования на языке Go (playlist)** – YouTube](https://youtube.com/playlist?list=PLxj7Nz8YYkVW5KHnsb9qWUDP2eD1TXl1N)
+7. 📄 [**Паттерны проектирования** – metanit.com](https://metanit.com/sharp/patterns/)
 </details>
 
 <div align="right"><a href="#top">Содержание ⬆️</a></div>
