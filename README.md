@@ -2339,6 +2339,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 4. 📺 [**DDoS Attack Explained** – YouTube](https://youtu.be/ilhGh9CEIwM)
 5. 📺 [**Securing Web Applications – MIT lecture** – YouTube](https://youtu.be/WlmKwIe9z1Q)
 6. 📺 [**Scan for Vulnerabilities on Any Website Using Nikto** – YouTube](https://youtu.be/K78YOmbuT48)
+7. 📺 [**OWASP API Security Top 10 Course** – YouTube](https://youtu.be/YYe0FdfdgDU)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
