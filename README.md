@@ -2256,9 +2256,9 @@ When developing server applications, [different API formats](https://youtu.be/4v
 
     A message is an ordinary HTTP request/response with data of a certain format.
 
-    -   [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ)
-    -   [Apache Kafka](https://en.wikipedia.org/wiki/Apache_Kafka)
-    -   [NATS](https://nats.io/)
+    -   [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ) - specializes in message queuing and supports various messaging patterns, including publish/subscribe and point-to-point communication.
+    -   [Apache Kafka](https://en.wikipedia.org/wiki/Apache_Kafka) - excels in handling large-scale, real-time data streams and offers high throughput, fault tolerance, and horizontal scalability.
+    -   [NATS](https://nats.io/) - known for its simplicity, speed, and lightweight design, making it ideal for building fast and efficient distributed systems.
 
 <details>
     <summary>🔗 <b>References</b></summary>
