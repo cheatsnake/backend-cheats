@@ -2199,7 +2199,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 
 -   ### Postman/Insomnia
 
-    When creating a server application, it is necessary to test its performance. This can be done in different ways. One of the easiest is to use the console utility [curl](https://en.wikipedia.org/wiki/CURL). But this is good for very simple applications. Much more efficient is to use special software for testing, which have a user-friendly interface and all the necessary functionality to create collections of queries.
+    When creating a server application, it is necessary to test it's workability. This can be done in different ways. One of the easiest is to use the console utility [curl](https://en.wikipedia.org/wiki/CURL). But this is good for very simple applications. Much more efficient is to use special software for testing, which have a user-friendly interface and all the necessary functionality to create collections of queries.
 
     -   [Postman](https://www.postman.com/)
         > A very popular and feature-rich program. It definitely has everything you might need and more: from the trivial creation of collections to raising mock-servers. The basic functionality of the application is free of charge.
