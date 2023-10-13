@@ -6,7 +6,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 -   **Summary** - A very brief summary with a list of key terms and concepts. The terms are hyperlinked to the appropriate section on Wikipedia or a similar reference resource.
 -   **References to sources** - resources where you may find complete information on a particular issue (they are hidden under a spoiler, which opens when clicked). If possible, the most authoritative sources are indicated, or those that provide information in as simple and comprehensible language as possible.
 
-> 🌐 Available translations: [`English`](./README.md) [`Русский`](./README_RUS.md)
+> 🌐 Available translations: [`English`](https://github.com/cheatsnake/backend-cheats/blob/master/README.md) [`Русский`](https://github.com/cheatsnake/backend-cheats/blob/master/README_RUS.md)
 
 > 🛠 The repository is under active development, so it is constantly updated and supplemented (see [roadmap](https://github.com/users/cheatsnake/projects/1/views/1)).
 
