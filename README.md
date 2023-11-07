@@ -909,7 +909,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Working with processes
 
-    Linux processes can be described as containers in which all information about the state of a running program is stored. If a program hangs and you need to restore it, then you need the skills to manage the processes.
+    Linux processes can be described as containers in which all information about the state of a running program is stored. Sometimes programs can hang and in order to force them to close or restart, you need to be able to manage processes.
 
     -   Basic Commands
         ```sh
@@ -937,7 +937,7 @@ There are a huge number of Linux distributions (preinstalled software bundles) t
 
 -   ### Working with SSH
 
-    [SSH](https://en.wikipedia.org/wiki/Secure_Shell) allows remote access to another computer's terminal. In the case of a personal computer, this may be needed to solve an urgent problem, and in the case of a server, it is generally the primary method of connection.
+    [SSH](https://en.wikipedia.org/wiki/Secure_Shell) allows remote access to another computer's terminal. In the case of a personal computer, this may be needed to solve an urgent problem, and in the case of working with the server, remote access via SSH is an integral and regularly used practice.
 
     -   Basic commands
         ```sh
