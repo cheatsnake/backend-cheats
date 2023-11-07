@@ -2167,7 +2167,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
         docker container prune # Delete all containers
         docker rmi [image_id] # Delete image
         ```
-    -   Instructions for Dockerfile
+    -   Instructions for [Dockerfile](https://docs.docker.com/engine/reference/builder/)
         > Dockerfile is a file with a set of instructions and arguments for creating images.
         ```bash
         FROM [image_name] # Setting a base image
@@ -2182,7 +2182,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
         EXPOSE port/protocol # Indicates the need to open a port
         VOLUME ["path"] # Creates a mount point for working with persistent storage
         ```
-    -   Docker-compose
+    -   [Docker-compose](https://docs.docker.com/compose/)
         > A tool for defining and running multi-container Docker applications. It allows you to define the services that make up your application in a single file, and then start and stop all of the services with a single command. In a sense, it is a Dockerfile on maximal.
 
 <details>
@@ -3078,4 +3078,4 @@ Testing is the process of assessing that all parts of the program behave as expe
 -   [System Design 101: Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101)
 
 <div align="center">Made with &#9829;</div>
-<div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-2023</div
+<div align="center"><a href="https://github.com/cheatsnake/backend-cheats/blob/master/LICENSE">LICENSE</a> 2022-Present</div
