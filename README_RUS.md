@@ -8,8 +8,6 @@
 
 > 🌐 Available translations: [`English`](https://github.com/cheatsnake/backend-cheats/blob/master/README.md) [`Русский`](https://github.com/cheatsnake/backend-cheats/blob/master/README_RUS.md)
 
-> 🛠 Репозиторий находится в стадии активной разработки, поэтому постоянно обновляется и дополняется (см. [roadmap](https://github.com/users/cheatsnake/projects/1/views/1)).
-
 > 🤝 Если у Вас есть идеи как сделать проект лучше, не стесняйтесь присылать [issues](https://github.com/cheatsnake/backend-cheats/issues) и [pull requests](https://github.com/cheatsnake/backend-cheats/pulls).
 
 > 🌙 Для лучшего восприятия включите [темную тему](https://github.com/settings/appearance).

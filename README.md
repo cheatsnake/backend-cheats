@@ -8,8 +8,6 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 > 🌐 Available translations: [`English`](https://github.com/cheatsnake/backend-cheats/blob/master/README.md) [`Русский`](https://github.com/cheatsnake/backend-cheats/blob/master/README_RUS.md)
 
-> 🛠 The repository is under active development, so it is constantly updated and supplemented (see [roadmap](https://github.com/users/cheatsnake/projects/1/views/1)).
-
 > 🤝 If you want to help the project, feel free to send your [issues](https://github.com/cheatsnake/backend-cheats/issues) or [pull requests](https://github.com/cheatsnake/backend-cheats/pulls).
 
 > 🌙 For better experiense enable [dark theme](https://github.com/settings/appearance). 
