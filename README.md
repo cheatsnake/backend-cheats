@@ -2295,7 +2295,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 
     -   [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
         > The highest quality [LLM](https://en.wikipedia.org/wiki/Large_language_model) at the moment. Works like a normal chat bot and has no problem understanding human speech in several languages. 
-    -   [Bard](https://en.wikipedia.org/wiki/Bard_(chatbot))
+    -   [Gemini](https://en.wikipedia.org/wiki/Gemini_(chatbot))
         > Developed by Goolge as an alternative and direct competitor to ChatGPT.
     -   [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
         > AI-powered code completion tool developed by GitHub in collaboration with developers of ChatGPT. It integrates with popular code editors and provides real-time suggestions and completions for code as you write. 
