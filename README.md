@@ -10,7 +10,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 > 🤝 If you want to help the project, feel free to send your [issues](https://github.com/cheatsnake/backend-cheats/issues) or [pull requests](https://github.com/cheatsnake/backend-cheats/pulls).
 
-> 🌙 For better experiense enable [dark theme](https://github.com/settings/appearance). 
+> 🌙 For better experience enable [dark theme](https://github.com/settings/appearance).
 
 <p><a name="top"></a></p>
 
@@ -45,7 +45,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     * [Working with shell](#working-with-shell)
     * [Package manager](#package-manager)
     * [Bash scripts](#bash-scripts)
-    * [Users, groups and permissions](#users-groups-and-permissions)
+    * [Users, groups, and permissions](#users-groups-and-permissions)
     * [Working with processes](#working-with-processes)
     * [Working with SSH](#working-with-ssh)
     * [Network utils](#network-utils)
@@ -161,7 +161,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 1. 📄 [**How does the Internet work?** – MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 2. 📺 [**How does the internet work? (Full Course)** – YouTube](https://youtu.be/zN8YNNHcaZc)
-3. 📺 [**What is a Server? Servers vs Desktops Explained** – YouTube](https://youtu.be/UjCDWCeHCzY)
+3. 📺 [**What is a Server? Servers vs. Desktops Explained** – YouTube](https://youtu.be/UjCDWCeHCzY)
 4. 📺 [**Network Topology** – YouTube](https://youtu.be/lnFeG4DOMcE)
 5. 📺 [**Network Topologies (Star, Bus, Ring, Mesh, Ad hoc, Infrastructure, & Wireless Mesh Topology)** – YouTube](https://youtu.be/zbqrNg4C98U)
  </details>
@@ -213,7 +213,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 2. 📺 [**Public IP vs. Private IP and Port Forwarding (Explained by Example)** – YouTube](https://youtu.be/92b-jjBURkw)
 3. 📺 [**Network Ports Explained** – YouTube](https://youtu.be/g2fT-g9PX9o)
 4. 📺 [**What is IP address and types of IP address - IPv4 and IPv6** – YouTube](https://youtu.be/8npT9AALbrI)
-5. 📺 [**IP Address - IPv4 vs IPv6 Tutorial** – YouTube](https://youtu.be/ThdO9beHhpA)
+5. 📺 [**IP Address - IPv4 vs. IPv6 Tutorial** – YouTube](https://youtu.be/ThdO9beHhpA)
 6. 📄 [**IP Address Subnet Cheat Sheet** – freeCodeCamp](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
  </details>
 
@@ -223,7 +223,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     <p align="center"><img src="./files/network-internet/dns.png" alt="DNS"/></p>
 
-    [DNS (Domain Name System)](https://en.wikipedia.org/wiki/DNS) is a decentralized Internet address naming system that allows you to create human-readable alphabetic names (domain names) corresponding to the numeric [IP addresses](#ip-address) used by computers.
+    [DNS (Domain Name System)](https://en.wikipedia.org/wiki/DNS) is a decentralized Internet address naming system that allows you to create human-readable alphabetical names (domain names) corresponding to the numeric [IP addresses](#ip-address) used by computers.
 
     -   Structure of DNS
         > DNS consists of many independent nodes, each of which stores only those data that fall within its area of responsibility.
@@ -254,8 +254,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     The tasks of the Frontend are:
 
     -   Implementation of the user interface (appearance of the application)
-        > - A special markup language [HTML](https://en.wikipedia.org/wiki/HTML) is used to create web pages. 
-        > - [CSS](https://en.wikipedia.org/wiki/CSS) style language is used to style fonts, layout of content, etc. 
+        > - A special markup language [HTML](https://en.wikipedia.org/wiki/HTML) is used to create web pages.
+        > - [CSS](https://en.wikipedia.org/wiki/CSS) style language is used to style fonts, layout of content, etc.
         > - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) programming language is used to add dynamics and interactivity. <br>
         > As a rule, these tools are rarely used in their pure form, as so-called [frameworks](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/) and [preprocessors](https://www.freecodecamp.org/news/css-preprocessors/) exist for more convenient and faster development. <br>
     -   Creating functionality for generating requests to the server
@@ -338,7 +338,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 3. 📺 [**What Is a Proxy and How Does It Work?** – YouTube](https://youtu.be/ayo2EUPTEkE)
 4. 📺 [**What is a Proxy Server?** – YouTube](https://youtu.be/5cPIukqXe5w)
 5. 📺 [**Proxy vs. Reverse Proxy (Explained by Example)** – YouTube](https://youtu.be/ozhe__GdWC8)
-6. 📺 [**VPN vs Proxy Explained Pros and Cons** – YouTube](https://youtu.be/npnqyRT77Zc)
+6. 📺 [**VPN vs. Proxy Explained Pros and Cons** – YouTube](https://youtu.be/npnqyRT77Zc)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -395,7 +395,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
         > The layer responsible for data transfer. There are two important protocols: <br>
         >
         > -   [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) is a protocol that ensures reliable data transmission. TCP guarantees data delivery and preserves the order of the messages. This has an impact on the transmission speed. This protocol is used where data loss is unacceptable, such as when sending mail or loading web pages. <br>
-        > -   [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) is a simple protocol with fast data transfer. It does not use mechanisms to guarantee the delivery and ordering of data. It is used e.g. in online games where partial packet loss is not crucial, but the speed of data transfer is much more important. Also, requests to DNS servers are made through UDP protocol.
+        > -   [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) is a simple protocol with fast data transfer. It does not use mechanisms to guarantee the delivery and ordering of data. It is used e.g., in online games where partial packet loss is not crucial, but the speed of data transfer is much more important. Also, requests to DNS servers are made through UDP protocol.
     -   [Session layer](https://en.wikipedia.org/wiki/Session_layer)
         > Responsible for opening and closing communications (sessions) between two devices. Ensures that the session stays open long enough to transfer all necessary data, and then closes quickly to avoid wasting resources.
     -   [Presentation layer](https://en.wikipedia.org/wiki/Presentation_layer)
@@ -408,7 +408,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 1. 📄 [**Layers of OSI Model** – geeksForGeeks](https://www.geeksforgeeks.org/layers-of-osi-model/)
 2. 📺 [**The OSI Model - Explained by Example** – YouTube](https://youtu.be/7IS7gigunyI)
-3. 📺 [**TCP vs UDP Crash Course** – YouTube](https://youtu.be/qqRYkcta6IE)
+3. 📺 [**TCP vs. UDP Crash Course** – YouTube](https://youtu.be/qqRYkcta6IE)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -443,10 +443,10 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     -   [CSP (Content Security Policy)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
         > A special header that allows you to recognize and eliminate certain types of web application vulnerabilities.
     -   [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-        > - **HTTP 1.0**: Uses separate connections for each request/response, lacks caching support, and has plain text headers.
-        > - **HTTP 1.1**: Introduces persistent connections, pipelining, the Host header, and chunked transfer encoding.
-        > - **HTTP 2**: Supports multiplexing, header compression, server push, and support a binary data.
-        > - **HTTP 3**: Built on [QUIC](https://developer.mozilla.org/en-US/docs/Glossary/QUIC), offers improved multiplexing, reliability, and better performance over unreliable networks.
+        > - **HTTP/1.0**: Uses separate connections for each request/response, lacks caching support, and has plain text headers.
+        > - **HTTP/1.1**: Introduces persistent connections, pipelining, the Host header, and chunked transfer encoding.
+        > - **HTTP/2**: Supports multiplexing, header compression, server push, and support a binary data.
+        > - **HTTP/3**: Built on [QUIC](https://developer.mozilla.org/en-US/docs/Glossary/QUIC), offers improved multiplexing, reliability, and better performance over unreliable networks.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -455,10 +455,10 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 2. 📄 [**Hypertext Transfer Protocol (HTTP)** – MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 3. 📺 [**Hyper Text Transfer Protocol Crash Course** – YouTube](https://youtu.be/0OrmKCB0UrQ)
 4. 📺 [**Full HTTP Networking Course (5 hours)** – YouTube](https://youtu.be/2JYT5f2isg4)
-5. 📄 [**HTTP vs HTTPS – What's the Difference?** – freeCodeCamp](https://www.freecodecamp.org/news/http-vs-https/)
+5. 📄 [**HTTP vs. HTTPS – What's the Difference?** – freeCodeCamp](https://www.freecodecamp.org/news/http-vs-https/)
 6. 📺 [**HTTP Cookies Crash Course** – YouTube](https://youtu.be/sovAIX4doOE)
 7. 📺 [**Cross Origin Resource Sharing (Explained by Example)** – YouTube](https://youtu.be/Ka8vG5miErk)
-8. 📺 [**When to use HTTP GET vs POST?** – YouTube](https://youtu.be/K8HJ6DN23zI)
+8. 📺 [**When to use HTTP GET vs. POST?** – YouTube](https://youtu.be/K8HJ6DN23zI)
 9. 📺 [**How HTTP/2 Works, Performance, Pros & Cons and More** – YouTube](https://youtu.be/fVKPrDrEwTI)
 10. 📺 [**HTTP/2 Critical Limitation that led to HTTP/3 & QUIC** – YouTube](https://youtu.be/GriONb4EfPY)
 11. 📺 [**304 Not Modified HTTP Status (Explained with Code Example and Pros & Cons)** – YouTube](https://youtu.be/0QHmHR55_Lo)
@@ -499,7 +499,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     <p align="center"><img src="./files/network-internet/problems_eng.gif" alt="Problems"/></p>
 
-    The quality of networks, including the Internet, is far from ideal. This is due to the complex structure of networks and their dependence on a huge number of factors. For example, the stability of the connection between the client device and its router, the quality of service of the provider, the power and performance of the server, the physical distance between the client and the server, etc.
+    The quality of networks, including the Internet, is far from ideal. This is due to the complex structure of networks and their dependence on a huge number of factors. For example, the stability of the connection between the client device and its router, the quality of service of the provider, the power, and performance of the server, the physical distance between the client and the server, etc.
 
     -   [Latency](https://developer.mozilla.org/en-US/docs/Web/Performance/Understanding_latency)
         > The time it takes for a data packet to travel from sender to receiver. It depends more on the physical distance.
@@ -589,8 +589,8 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 3. 📺 [**What does what in your computer? Computer parts Explained** – YouTube](https://youtu.be/ExxFxD4OSZ0)
 4. 📺 [**Motherboards Explained** – YouTube](https://youtu.be/b2pd3Y6aBag)
 5. 📺 [**The Fetch-Execute Cycle: What's Your Computer Actually Doing?** – YouTube](https://youtu.be/Z5JC9Ve1sfI)
-6. 📺 [**How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9** – YouTube](https://youtu.be/vqs_0W-MSB0)
-7. 📺 [**Arm vs x86 - Key Differences Explained** – YouTube](https://youtu.be/AADZo73yrq4)
+6. 📺 [**How a CPU Works in 100 Seconds // Apple Silicon M1 vs. Intel i9** – YouTube](https://youtu.be/vqs_0W-MSB0)
+7. 📺 [**Arm vs. x86 - Key Differences Explained** – YouTube](https://youtu.be/AADZo73yrq4)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -599,23 +599,23 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
     <p align="center"><img src="./files/os/os-layer_eng.png" alt="OS"/></p>
 
-    [Operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is a comprehensive software system designed to manage a computer's resources. With operating systems, people do not have to deal directly with the processor, RAM or other parts of the PC.
+    [Operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is a comprehensive software system designed to manage a computer's resources. With operating systems, people do not have to deal directly with the processor, RAM, or other parts of the PC.
 
     OS can be thought of as an abstraction layer that manages the hardware of a computer, thereby providing a simple and convenient environment for user software to run.
 
     -   Main features
-        > -   RAM management (space allocation for individual programms)
-        > -   Loading programms into RAM and their execution
-        > -   Execution of requests from user's programms (inputting and outputting data, starting and stopping other programms, freeing up memory or allocating additional memory, etc.)
+        > -   RAM management (space allocation for individual programs)
+        > -   Loading programs into RAM and their execution
+        > -   Execution of requests from user's programs (inputting and outputting data, starting and stopping other programs, freeing up memory or allocating additional memory, etc.)
         > -   Interaction with input and output devices (mouse, keyboard, monitor, etc.)
         > -   Interaction with storage media (HDDs and SSDs)
         > -   Providing a user's interface (console shell or graphical interface)
         > -   Logging of software errors (saving logs)
     -   Additional functions (may not be available in all OSs)
-        > -   Organise [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) (simultaneous execution of several programms)
+        > -   Organize [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) (simultaneous execution of several programs)
         > -   Delimiting access to resources for each process
         > -   [Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) (data exchange, synchronisation)
-        > -   Organise the protection of the operating system itself against other programms and the actions of the user
+        > -   Organize the protection of the operating system itself against other programs and the actions of the user
         > -   Provide multi-user mode and differentiate rights between different OS users (admins, guests, etc.)
     -   [OS kernel](<https://en.wikipedia.org/wiki/Kernel_(operating_system)>)
         > The central part of the operating system which is used most intensively. The kernel is constantly in memory, while other parts of the OS are loaded into and unloaded from memory as needed.
@@ -628,7 +628,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**What is an OS? Operating System Definition for Beginners** – freeCodeCamp](https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/)
-2. 📄 [**Windows vs MacOS vs Linux – Operating System Handbook** – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
+2. 📄 [**Windows vs. macOS vs. Linux – Operating System Handbook** – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 3. 📺 [**Operating Systems: Crash Course Computer Science** – YouTube](https://youtu.be/26QPDBe-NB8)
 4. 📺 [**Operating System Basics** – YouTube](https://youtu.be/9GDX-IyZ_C8)
 5. 📺 [**Operating System in deep details (playlist)** – YouTube](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
@@ -678,7 +678,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**Concurrency, parallelism, and the many threads of Santa Claus** – freeCodeCamp](https://www.freecodecamp.org/news/concurrency-parallelism-and-the-many-threads-of-santa-claus/)
-2. 📺 [**Concurrency vs Parallelism** – YouTube](https://youtu.be/Y1pgpn2gOSg)
+2. 📺 [**Concurrency vs. Parallelism** – YouTube](https://youtu.be/Y1pgpn2gOSg)
 3. 📺 [**Concurrency is not Parallelism by Rob Pike** – YouTube](https://youtu.be/oV9rvDllKEg)
  </details>
 
@@ -806,7 +806,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
         ```
         ```sh
         /etc/apt/sources.list # a file contains a list of configured repo links
-        /etc/apt/sources.list.d # a directory contains files for thrid party repos
+        /etc/apt/sources.list.d # a directory contains files for third party repos
         ```
     -   [dpkg](https://en.wikipedia.org/wiki/Dpkg)
         > Low-level tool to install, build, remove and manage Debian packages.
@@ -814,10 +814,10 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 
 <details>
     <summary>🔗 <b>References</b></summary>
-    
+
 1. 📺 [**Linux Crash Course - The apt Command** – YouTube](https://youtu.be/1kicKTbK768)
 2. 📺 [**Linux Package Management | Debian, Fedora, and Arch Linux** – YouTube](https://youtu.be/lkii2cGuKao)
-3. 📄 [**sudo apt-get update vs upgrade – What is the Difference?** – freeCodeCamp](https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference)
+3. 📄 [**sudo apt-get update vs. upgrade – What is the Difference?** – freeCodeCamp](https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference)
 4. 📄 [**Repositories in Ubuntu**](https://help.ubuntu.com/community/Repositories/Ubuntu)
  </details>
 
@@ -847,9 +847,9 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
--   ### Users, groups and permissions
+-   ### Users, groups, and permissions
 
-    Linux-based operating systems are multi-user. This means that several people can run many different applications at the same time on the same computer. For the Linux system to be able to "recognize" a user, he must be logged in and therefore each user must have a unique name and a secret password.
+    Linux-based operating systems are multi-user. This means that several people can run many different applications at the same time on the same computer. For the Linux system to be able to "recognize" a user, he must be logged in, and therefore each user must have a unique name and a secret password.
 
     -   Working with users
         ```sh
@@ -877,7 +877,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
         /etc/gshadow # a file containing encrypted group passwords
         ```
 
-    In Linux, it is possible to share privileges between users, limit access to unwanted files or features, control available actions for services, and much more. In Linux, there are only three kinds of rights - read, write and execute - and three categories of users to which they can be applied - file owner, file group and everyone else.
+    On Linux, it is possible to share privileges between users, limit access to unwanted files or features, control available actions for services, and much more. On Linux, there are only three kinds of rights - read, write and execute - and three categories of users to which they can be applied - file owner, file group and everyone else.
 
     <p align="center"><img src="./files/linux/chmod_eng.png" alt="chmod"/></p>
 
@@ -895,11 +895,11 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Managing Users, Groups and Permissions in Linux**](https://omarrrz-lounge.hashnode.dev/managing-users-groups-and-permissions-in-linux)
+1. 📄 [**Managing Users, Groups, and Permissions on Linux**](https://omarrrz-lounge.hashnode.dev/managing-users-groups-and-permissions-in-linux)
 2. 📄 [**Linux User Groups Explained** – freeCodeCamp](https://www.freecodecamp.org/news/linux-user-groups-explained-how-to-add-a-new-group-a-new-group-member-and-change-groups/)
 3. 📺 [**Linux Users and Groups** – YouTube](https://youtu.be/b-9j2jiCOEA)
 4. 📄 [**An Introduction to Linux Permissions** – Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-permissions)
-5. 📄 [**File Permissions in Linux – How to Use the chmod Command** – freeCodeCamp](https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)
+5. 📄 [**File Permissions on Linux – How to Use the chmod Command** – freeCodeCamp](https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)
 6. 📺 [**Understanding File & Directory Permissions** – YouTube](https://youtu.be/4e669hSjaX8)
  </details>
 
@@ -921,13 +921,13 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
         kill [PID] # terminate the process by PID
         killall [program] # terminate all processes related to the program
         ```
-        
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**How to Show Process Tree in Linux**](https://linuxhandbook.com/show-process-tree/)
+1. 📄 [**How to Show Process Tree on Linux**](https://linuxhandbook.com/show-process-tree/)
 2. 📄 [**How to Manage Linux Processes** – freeCodeCamp](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)
-3. 📄 [**How To Use ps, kill, and nice to Manage Processes in Linux** – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
+3. 📄 [**How To Use ps, kill, and nice to Manage Processes on Linux** – Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
 4. 📺 [**Linux processes, init, fork/exec, ps, kill, fg, bg, jobs** – YouTube](https://youtu.be/TJzltwv7jJs)
  </details>
 
@@ -943,7 +943,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
         service ssh start # start SSH
         service ssh stop # stop SSH
         ssh -p [port] [user]@[remote_host] # connecting to a remote machine via SSH
-        ```    
+        ```
     -   [Passwordless login](https://www.redhat.com/sysadmin/passwordless-ssh)
         ```sh
         ssh-keygen -t rsa # RSA key generation for passwordless login
@@ -1001,7 +1001,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     -   [`netcat`](https://en.wikipedia.org/wiki/Netcat)
         > Utility for reading from and writing to network connections using TCP or UDP. It includes port scanning, transferring files, and port listening: as with any server, it can be used as a [backdoor](<https://en.wikipedia.org/wiki/Backdoor_(computing)>).
     -   [`iptables`](https://en.wikipedia.org/wiki/Iptables)
-        > User-space utility program that allows configure the IP packet filter rules of the Linux kernel firewall, implemented as different Netfilter modules. The filters are organized in different tables, which contain chains of rules for how to treat network traffic packets.
+        > User-space utility program that allows to configure the IP packet filter rules of the Linux kernel firewall, implemented as different Netfilter modules. The filters are organized in different tables, which contain chains of rules for how to treat network traffic packets.
     -   [`curl`](https://en.wikipedia.org/wiki/CURL)
         > Command-line tool for transferring data using various network protocols.
 
@@ -1009,14 +1009,14 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**21 Basic Linux Networking Commands You Should Know**](https://itsfoss.com/basic-linux-networking-commands/)
-2. 📄 [**Using tcpdump Command in Linux to Analyze Network**](https://linuxhandbook.com/tcpdump-command/)
+2. 📄 [**Using tcpdump Command on Linux to Analyze Network**](https://linuxhandbook.com/tcpdump-command/)
 3. 📺 [**tcpdump - Traffic Capture & Analysis** – YouTube](https://youtu.be/1lDfCRM6dWk)
 4. 📺 [**tcpdumping Node.js server** – YouTube](https://youtu.be/g_tmQ5G-T2w)
 5. 📄 [**Beginner’s guide to Netcat for hackers**](https://medium.com/@HackTheBridge/beginners-guide-to-netcat-for-hackers-55abe449991d)
 6. 📄 [**Iptables Tutorial**](https://linuxhint.com/iptables-tutorial/)
 7. 📄 [**An intro to cURL: The basics of the transfer tool**](https://blog.logrocket.com/an-intro-to-curl-the-basics-of-the-transfer-tool/)
 8. 📺 [**Basic cURL Tutorial** – YouTube](https://youtu.be/7XUibDYw4mc)
-9. 📺 [**Using curl better - tutorial by curl creator Daniel Stenberg** – YouTube](https://youtu.be/I6id1Y0YuNk)
+9. 📺 [**Using cURL better - tutorial by cURL creator Daniel Stenberg** – YouTube](https://youtu.be/I6id1Y0YuNk)
 10. 📄 [**Awesome console services** – GitHub](https://github.com/chubin/awesome-console-services)
 </details>
 
@@ -1050,7 +1050,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 
 1. 📄 [**How to schedule and manage tasks using crontab** – dev.to](https://dev.to/shaikh/how-to-schedule-and-manage-tasks-using-crontab-20dj)
 2. 📺 [**Cron Jobs For Beginners | Linux Task Scheduling** – YouTube](https://youtu.be/v952m13p-b4)
-3. 📄 [**How to Check Crontab logs in Linux**](https://linuxhandbook.com/check-crontab-logs/)
+3. 📄 [**How to Check Crontab logs on Linux**](https://linuxhandbook.com/check-crontab-logs/)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1074,15 +1074,15 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     -   Log rotation with [logrotate](https://github.com/logrotate/logrotate)
         > Allows you to configure automatic deletion (cleaning) of log files so as not to clog memory.
     -   [Demon journald](https://manpages.ubuntu.com/manpages/bionic/man1/journalctl.1.html)
-        > Collects data from all available sources and stores it in binary format for convenient and dynamic control
+        > Collects data from all available sources and stores it in binary format for convenient and dynamic control.
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Linux Crash Course - Understanding Logging** – YouTube](https://youtu.be/6uP_f_z3CbM)
 2. 📺 [**Linux Monitoring and Logging** – YouTube](https://youtu.be/kZ5LhS6fThM)
-3. 📄 [**3 ways to watch logs in real time in Linux**](https://linuxhandbook.com/watch-logs-real-time/)
-4. 📄 [**Analyzing logs in Linux with journalctl command**](https://linuxhandbook.com/journalctl-command/)
+3. 📄 [**3 ways to watch logs in real time on Linux**](https://linuxhandbook.com/watch-logs-real-time/)
+4. 📄 [**Analyzing logs on Linux with journalctl command**](https://linuxhandbook.com/journalctl-command/)
 5. 📄 [**Linux File Structure Explained**](https://shubhsharma19.hashnode.dev/linux-file-structure-explained)
  </details>
 
@@ -1098,7 +1098,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     -   File system issues
         > - Check disk space availability using the `df` command and ensure that critical partitions are not full.
         > - Use the `fsck` command to check and repair [file system inconsistencies](https://www3.rocketsoftware.com/rocketd3/support/documentation/d3nt/91/refman/index.htm#definitions/file_inconsistency.htm).
-        > - In case of data loss or accidental deletion, utilize data recovery tools like [`extundelete`](https://extundelete.sourceforge.net/) or [`testdisk`](https://github.com/cgsecurity/testdisk).
+        > - In case of data loss or accidental deletion, use data recovery tools like [`extundelete`](https://extundelete.sourceforge.net/) or [`testdisk`](https://github.com/cgsecurity/testdisk).
     -   Performance and resource management
         > - Check system resource usage, including CPU, memory, and disk space, using `free`, `df`, or `du` commands.
         > - Identify resource-intensive processes using tools like `top`, `htop`, or `systemd-cgtop`.
@@ -1131,7 +1131,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     <p align="center"><img src="./files/common/binary.png" alt="Binary"/></p>
 
     -   [Octal](https://en.wikipedia.org/wiki/Octal)
-        > It is used e.g. in Linux systems to grant access rights.
+        > It is used e.g., on Linux systems to grant access rights.
 
     <p align="center"><img src="./files/common/octal.png" alt="Octal"/></p>
 
@@ -1160,7 +1160,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 
     <table>
     <tr><td width=33% valign=top>
-    
+
     AND
     | a | b | a AND b |
     |---|---|:-------:|
@@ -1168,7 +1168,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     | 0 | 1 | 0       |
     | 1 | 0 | 0       |
     | 1 | 1 | 1       |
-    
+
     </td><td width=33% valign=top>
 
     OR
@@ -1282,13 +1282,13 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     -   [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
         > At each step of the algorithm, the minimum element is searched for and then swapped with the current iteration element.
     -   [Recursion](https://en.wikipedia.org/wiki/Recursion)
-        > When a function can call itself and so on to infinity. On the one hand, recursion-based solutions look very elegant, but on the other hand, this approach quickly leads to stack overflow and is recommended to be avoided.
+        > When a function can call itself and so on to infinity. On the one hand, recursion-based solutions look very elegant, but on the other hand, this approach quickly leads to Stack Overflow and is recommended to be avoided.
     -   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
         > At each iteration neighboring elements are sequentially compared, and if the order of the pair is wrong, the elements are swapped.
     -   [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
         > Improved bubble sorting method.
     -   [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
-        > Allows to find all shortest paths from a given vertex of the graph.
+        > Allows finding all shortest paths from a given vertex of the graph.
     -   [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
         > Finds the shortest paths between all vertices of a graph and their length.
     -   [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
@@ -1322,7 +1322,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     -   [Time complexity](https://en.wikipedia.org/wiki/Time_complexity)
         > When you know in advance on which machine the algorithm will be executed, you can measure the execution time of the algorithm. Again, on very good hardware the execution time of the algorithm can be quite acceptable, but the same algorithm on a weaker hardware can run for hundreds of milliseconds or even a few seconds. Such delays will be very sensitive if your application handles user requests over the network.
     -   [Space complexity](https://en.wikipedia.org/wiki/Space_complexity)
-        > In addition to time, you need to consider how much memory is spent on the work of an algorithm. It is important when you working with limited memory resources.
+        > In addition to time, you need to consider how much memory is spent on the work of an algorithm. It is important when you're working with limited memory resources.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1377,7 +1377,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
             > Is a video format developed by Apple for use with their QuickTime media player. It is widely used with Mac and iOS devices. MOV files can contain both video and audio, and they offer good compression and quality, making them suitable for editing and professional use.
         -   [WEBM](https://en.wikipedia.org/wiki/WebM)
             > Best for videos embedded on your personal or business website. It is lightweight, load quickly and stream easily.
-        
+
     -   Audio formats
         -   [MP3 (MPEG-1 Audio Layer 3)](https://en.wikipedia.org/wiki/MP3)
             > The most popular audio format known for its high compression and small file sizes. It achieves this by removing some of the audio data that may be less perceptible to the human ear. Suitable for music storage, streaming, and sharing.
@@ -1393,7 +1393,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 2. 📺 [**Serialization formats: JSON and Protobuf** – YouTube](https://youtu.be/uGYZn6xk-hA)
 3. 📺 [**Protocol Buffers Crash Course** – YouTube](https://youtu.be/46O73On0gyI)
 4. 📺 [**Explaining Image File Formats** – YouTube](https://youtu.be/WblPwVq9KnU)
-5. 📺 [**What's the difference between a JPEG, PNG, GIF, etc...?** – YouTube](https://youtu.be/ww12lImOJ38)
+5. 📺 [**What's the difference between a JPEG, PNG, GIF, etc…?** – YouTube](https://youtu.be/ww12lImOJ38)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -1407,13 +1407,13 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     -   [Unicode](https://en.wikipedia.org/wiki/Unicode)
         > This is an international character table that, in addition to the English alphabet, contains the alphabets of almost all countries. It can hold more than a million different characters (the table is currently incomplete).
     -   [UTF-8 (Unicode Transformation Format)](https://en.wikipedia.org/wiki/UTF-8)
-        > UTF-8 is a variable-length encoding that can be used to represent any unicode character.
+        > UTF-8 is a variable-length encoding that can be used to represent any Unicode character.
     -   [UTF-16](https://en.wikipedia.org/wiki/UTF-16)
         > Its main difference from UTF-8 is that its structural unit is not one but two bytes. That is, in UTF-16 any Unicode character can be encoded by either two or four bytes.
 
 <details>
     <summary>🔗 <b>References</b></summary>
-    
+
 1. 📺 [**Unicode, in friendly terms: ASCII, UTF-8 and more** – YouTube](https://youtu.be/ut74oHojxqo)
 2. 📄 [**Understanding the ASCII Table**](https://linuxhandbook.com/ascii-table/)
 3. 📺 [**Unicode Encoding! UTF-32, UCS-2, UTF-16, & UTF-8!** – YouTube](https://youtu.be/uTJoJtNYcaQ)
@@ -1432,13 +1432,13 @@ At this stage you have to choose one programming language to study. There is ple
 -   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
     > No less popular and practically the only language for full-fledged Web-development. Thanks to the platform [Node.js](https://en.wikipedia.org/wiki/Node.js) last few years is gaining popularity in the field of backend development as well.
 -   [Go](<https://en.wikipedia.org/wiki/Go_(programming_language)>)
-    > A language created internally by Google. It was created specifically for high-load server development. Minimalistic syntax, high performance and rich standard library.
+    > A language created internally by Google. It was created specifically for high-load server development. Minimalist syntax, high performance and rich standard library.
 -   [Kotlin](<https://en.wikipedia.org/wiki/Kotlin_(programming_language)>)
-    > A kind of modern version of [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>). Simpler and more concise syntax, better type-safety, built-in tools for multithreading. One of the best choices for Android development.
+    > A kind of modern version of [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>). Simpler and more concise syntax, better type-safety, built-in tools for multi-threading. One of the best choices for Android development.
 
 Find a good book or online tutorial in English at [this repository](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md). There is a large collection for different languages and frameworks.
 
-Look for a special [awesome repository](https://github.com/sindresorhus/awesome#programming-languages) - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs and other various resources).
+Look for a special [awesome repository](https://github.com/sindresorhus/awesome#programming-languages) - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs, and other various resources).
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
@@ -1499,7 +1499,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         > Special containers in which data are stored according to certain rules. Main data structures are arrays, maps, trees, graphs.
     -   Standard library
         > This refers to the language's built-in features for manipulating data structures, working with the file system, network, cryptography, etc.
-    -   Error handling 
+    -   Error handling
         > Used to handle unexpected events that can occur during program execution.
     -   [Regular expressions](https://github.com/cheatsnake/regex-by-example)
         > A powerful tool for working with strings. Be sure to familiarize yourself with it in your language, at least on a basic level.
@@ -1528,7 +1528,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 11. 📄 [**JavaScript cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
 12. 📄 [**JavaScript cheatsheet** – quickref.me](https://quickref.me/javascript)
 13. 📄 [**Go Tour – learn most important features of the language**](https://go.dev/tour/list)
-14. 📺 [**Learn Go Programming - Golang Tutorial for Beginners** – YouTube](https://youtu.be/YS4e4q9oBaU)
+14. 📺 [**Learn Go Programming - Go Tutorial for Beginners** – YouTube](https://youtu.be/YS4e4q9oBaU)
 15. 📄 [**Go cheatsheet** – Learn X in Y minutes](https://learnxinyminutes.com/docs/go/)
 16. 📄 [**Go cheatsheet** – quickref.me](https://quickref.me/golang)
 17. 📄 [**Learn Go by Examples**](https://golangbyexample.com/)
@@ -1544,7 +1544,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Object-oriented programming
 
-    [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) is one of the most successful and convenient approaches for modeling real-world things. This approach combines several very important principles which allow to write modular, extensible and loosely coupled code.
+    [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) is one of the most successful and convenient approaches for modeling real-world things. This approach combines several very important principles which allow writing modular, extensible, and loosely coupled code.
 
     -   Understanding [Classes](<https://en.wikipedia.org/wiki/Class_(computer_programming)>)
         > A class can be understood as a custom data type (a kind of template) in which you describe the structure of future objects that will implement the class. Classes can contain `properties` (these are specific fields in which data of a particular data type can be stored) and `methods` (these are functions that have access to properties and the ability to manipulate, modify them).
@@ -1584,7 +1584,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     -   Running a local TCP, UDP and HTTP servers
         > These protocols are the most important, you need to understand the intricacies of working with each of them.
     -   Handing out static files
-        > You need to know how to hosting HTML pages, pictures, PDF documents, music/video files, etc.
+        > You need to know how to host HTML pages, pictures, PDF documents, music/video files, etc.
     -   Routing
         > Creation of endpoints (URLs) which will call the appropriate handler on the server when accessed.
     -   Processing requests
@@ -1640,7 +1640,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📺 [**Synchronous vs Asynchronous Applications (Explained by Example)** – YouTube](https://youtu.be/N5Ky-mz6n-8)
+1. 📺 [**Synchronous vs. Asynchronous Applications (Explained by Example)** – YouTube](https://youtu.be/N5Ky-mz6n-8)
 2. 📄 [**Async IO in Python: A Complete Walkthrough**](https://realpython.com/async-io-python/)
 3. 📄 [**Asynchronous Programming in JavaScript – Guide for Beginners** – freeCodeCamp](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/)
 4. 📄 [**A roadmap for asynchronous programming in JavaScript**](https://exploringjs.com/impatient-js/ch_async-js.html#roadmap-async-functions)
@@ -1679,8 +1679,8 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**Multithreading Code - Computerphile** – YouTube](https://youtu.be/7ENFeb-J75k)
-2. 📺 [**Threading vs multiprocessing in Python** – YouTube](https://youtu.be/AZnGRKFUU0c)
-3. 📺 [**When is NodeJS Single-Threaded and when is it Multi-Threaded?** – YouTube](https://youtu.be/gMtchRodC2I)
+2. 📺 [**Threading vs. multiprocessing in Python** – YouTube](https://youtu.be/AZnGRKFUU0c)
+3. 📺 [**When is Node.js Single-Threaded and when is it Multi-Threaded?** – YouTube](https://youtu.be/gMtchRodC2I)
 4. 📺 [**How to use Multithreading with "worker threads" in Node.js?** – YouTube](https://youtu.be/MuwJJrfIfsU)
 5. 📺 [**Concurrency in Go** – YouTube](https://youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 6. 📺 [**Kotlin coroutines** – YouTube](https://youtube.com/playlist?list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
@@ -1693,7 +1693,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
     -   [Garbage collector](<https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)>)
         > A process that has made high-level languages very popular - it allows the programmer not to worry about memory allocation and freeing. Be sure to familiarize yourself with the subtleties of its operation in your own language.
-    -   [Debuger](https://en.wikipedia.org/wiki/Debugging)
+    -   [Debugger](https://en.wikipedia.org/wiki/Debugging)
         > Handy tool for analyzing program code and identifying errors.
     -   [Compilers](https://en.wikipedia.org/wiki/Compiler), [interpreters](https://en.wikipedia.org/wiki/Interpreter_(computing)) and [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine)
         > Depending on what your language uses, you can explore in detail the process of converting your code to machine code (a set of zeros and ones). As a rule, compilation/interpretation/virtualization processes consist of several steps. By understanding them you can optimize your programs for faster builds and efficient execution.
@@ -1714,7 +1714,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
 -   ### Code quality
 
-    During these long years that programming has existed, a huge amount of code, programs and entire systems have been written. And as a consequence, there have been all sorts of problems in the development of all this. First of all they were related to scaling, support, and the entry threshold for new developers. Clever people, of course, did not sit still and started to solve these problems, thus creating so-called patterns/principles/approaches for writing high-quality code.
+    During these long years that programming has existed, a huge amount of code, programs, and entire systems have been written. And as a consequence, there have been all sorts of problems in the development of all this. First of all they were related to scaling, support, and the entry threshold for new developers. Clever people, of course, did not sit still and started to solve these problems, thus creating so-called patterns/principles/approaches for writing high-quality code.
 
     By learning programming best practices, you will not only make things better for yourself, but also for others, because other developers will be working with your code.
 
@@ -1733,7 +1733,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     -   [Effective Go - official coding conventions](https://go.dev/doc/effective_go)
     -   [Go style guide by Uber](https://github.com/uber-go/guide)
     -   [Kotlin official coding conventions](https://kotlinlang.org/docs/coding-conventions.html)
-    -   [and other...](https://github.com/kciter/awesome-style-guide)
+    -   [and other…](https://github.com/kciter/awesome-style-guide)
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1780,7 +1780,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**Comparing database types: how database types evolved to meet different needs**](https://www.prisma.io/dataguide/intro/comparing-database-types)
-2. 📄 [**SQL vs NoSQL Database – A Complete Comparison**](https://backendless.com/sql-vs-nosql-database-a-complete-comparison/)
+2. 📄 [**SQL vs. NoSQL Database – A Complete Comparison**](https://backendless.com/sql-vs-nosql-database-a-complete-comparison/)
 3. 📺 [**7 Database Paradigms** – YouTube](https://youtu.be/W2Z7fbCLSTw)
  </details>
 
@@ -1815,7 +1815,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**SQL Crash Course - Beginner to Intermediate** – YouTube](https://youtu.be/nWeW3sCmD2k)
-2. 📺 [**SQL Tutorial for Beginners (and Technical Interview Questions Solved)** – YouTube](https://youtu.be/-fW2X7fh7Yg) 
+2. 📺 [**SQL Tutorial for Beginners (and Technical Interview Questions Solved)** – YouTube](https://youtu.be/-fW2X7fh7Yg)
 3. 📺 [**SQL Tutorial - Full Database Course for Beginners** – YouTube](https://youtu.be/HXV3zeQKqGY)
 4. 📺 [**MySQL - The Basics. Learn SQL in 23 Easy Steps** – YouTube](https://youtu.be/Cz3WcZLRaWc)
 5. 📄 [**MySQL command-line client commands**](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
@@ -1886,7 +1886,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
         SETEX key 1000 "value" # consolidation of commands SET and EXPIRE
         ```
     -   Transactions
-        > `MULTI` — start recording commands for the transaction. <br> `EXEC` — execute the recorded commands. <br> `DISCARD` — delete all recorded commands. <br> `WATCH` — command that provides execution only if other clients have not changed the value of the variable. Otherwise EXEC will not execute the written commands.
+        > `MULTI` — start recording commands for the transaction. <br> `EXEC` — execute the recorded commands. <br> `DISCARD` — delete all recorded commands. <br> `WATCH` — command that provides execution only if other clients have not changed the value of the variable. Otherwise, EXEC will not execute the written commands.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -1937,9 +1937,9 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     - Define the attributes to each entity
         > Each entity has a set of specific attributes. For example, attributes of a book might include its title, author, ISBN, and publication date. Each attribute has a specific data type, be it a string, an integer, a boolaen, and so on.
     - Add constraints
-        > Attribute values may have certain limitations. For example, strings can only be unique or have a limit on the maximum number of characters. 
+        > Attribute values may have certain limitations. For example, strings can only be unique or have a limit on the maximum number of characters.
     - Define relationships
-        > Entities can be linked to one another by one type of relationship: [one to one](https://vertabelo.com/blog/one-to-one-relationship-in-database/), [one to many](https://vertabelo.com/blog/one-to-many-relationship/) or [many to many](https://vertabelo.com/blog/many-to-many-relationship/). For example, a book might have one or more authors, and an author might write one or more books. You can represent these relationships by creating a foreign key in one table that references the primary key in another table. 
+        > Entities can be linked to one another by one type of relationship: [one to one](https://vertabelo.com/blog/one-to-one-relationship-in-database/), [one to many](https://vertabelo.com/blog/one-to-many-relationship/) or [many to many](https://vertabelo.com/blog/many-to-many-relationship/). For example, a book might have one or more authors, and an author might write one or more books. You can represent these relationships by creating a foreign key in one table that references the primary key in another table.
     - [Normalization](https://en.wikipedia.org/wiki/Database_normalization)
         > It is the process of separating data into separate related tables. Normalization eliminates [data redundancy](https://en.wikipedia.org/wiki/Data_redundancy) and thus avoids data integrity violations when data changes.
     - Optimize for performance
@@ -1969,28 +1969,28 @@ When developing server applications, [different API formats](https://youtu.be/4v
     Basic rules for writing a good REST API:
 
     -   Using HTTP methods
-        > As a rule, a single URL route is used to work on a particular data model (e.g. for users - `/api/user`). To perform different operations (get/create/edit/delete), this route must implement handlers for the corresponding HTTP methods (GET/POST/PUT/DELETE).
+        > As a rule, a single URL route is used to work on a particular data model (e.g., for users - `/api/user`). To perform different operations (get/create/edit/delete), this route must implement handlers for the corresponding HTTP methods (GET/POST/PUT/DELETE).
     -   Use of plural names
-        > For example, a URL to retrieve one user by id looks like this: `/user/42`, and to retrieve all users like this: `/users`.
+        > For example, a URL to retrieve one user by ID looks like this: `/user/42`, and to retrieve all users like this: `/users`.
     -   Sending the appropriate HTTP response codes
         > The most commonly used: [200](https://developer.mozilla.org/en/docs/Web/HTTP/Status/200), [201](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201), [204](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/204), [304](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/304), [400](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400), [401](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401), [403](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403), [404](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404), [405](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405), [410](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/410), [415](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/415), [422](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422), [429](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429).
     -   [Versioning](https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki/REST-API-Versioning)
-        > Over time you may want or need to fundamentally change the way your REST API service works. To avoid breaking applications using the current version, you can leave it where it is and implement the new version over a different URL route, e.g. `/api/v2`.
-    
+        > Over time you may want or need to fundamentally change the way your REST API service works. To avoid breaking applications using the current version, you can leave it where it is and implement the new version over a different URL route, e.g., `/api/v2`.
+
     [API Design](https://twirl.github.io/The-API-Book/index.html)
     > API development and design is a very important and responsible moment, as your API functionality will be used by other developers and systems to integrate with your service. Mistakes made during design can negatively affect not only the growth opportunities of your service, but also many others that depend on yours.
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**What Is Restful API?** – AWS](https://aws.amazon.com/what-is/restful-api/?nc1=h_ls)
+1. 📄 [**What Is RESTful API?** – AWS](https://aws.amazon.com/what-is/restful-api/?nc1=h_ls)
 2. 📺 [**What is REST API?** – YouTube](https://youtu.be/lsMQRaeKNDk)
 3. 📺 [**APIs for Beginners 2023 - How to use an API (Full Course)** – YouTube](https://youtu.be/WXsD0ZgxjRw)
 4. 📺 [**Build Web APIs with Python – Django REST Framework Course** – YouTube](https://youtu.be/tujhGdn1EMI)
 5. 📺 [**Build an API from Scratch with Node.js Express** – YouTube](https://youtu.be/-MTSQjw5DrM)
 6. 📺 [**Build REST API on Vanilla Node.js** – YouTube](https://youtu.be/_1xa8Bsho6A)
-7. 📺 [**Build a Rest API with GoLang** – YouTube](https://youtu.be/d_L64KT3SFM)
-8. 📺 [**Spring Kotlin - Building a Rest API Tutorial** – YouTube](https://youtube.com/playlist?list=PLNnNHr-wCfobAxSkuxMqFGdpA8E5cLR6w)
+7. 📺 [**Build a REST API with Go** – YouTube](https://youtu.be/d_L64KT3SFM)
+8. 📺 [**Spring Kotlin - Building a REST API Tutorial** – YouTube](https://youtube.com/playlist?list=PLNnNHr-wCfobAxSkuxMqFGdpA8E5cLR6w)
 9. 📄 [**REST API design full guide** – GitHub](https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki)
 10. 📄 [**Awesome REST** – GitHub](https://github.com/marmelab/awesome-rest)
  </details>
@@ -2060,16 +2060,16 @@ When developing server applications, [different API formats](https://youtu.be/4v
     [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) is simply a function call to the server with a set of specific arguments, which returns the response usually encoded in a certain format, such as JSON or XML. There are several protocols that implement RPC.
 
     -   XML-based protocols
-        > The are two main protocols: [XML-RPC](https://en.wikipedia.org/wiki/XML-RPC) and [SOAP (Simple Object Access Protocol)](https://en.wikipedia.org/wiki/SOAP) <br>
+        > There are two main protocols: [XML-RPC](https://en.wikipedia.org/wiki/XML-RPC) and [SOAP (Simple Object Access Protocol)](https://en.wikipedia.org/wiki/SOAP) <br>
         > They are considered deprecated and not recommended for new projects because they are heavyweight and complex compared to newer alternatives such as REST, GraphQL and newer RPC protocols.
     -   [JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC)
         > A protocol with a very simple [specification](https://www.jsonrpc.org/specification). All requests and responses are serialized in JSON format.
-        > - A request to the server includes: `method` - the name of the method to be invoked; `params` - object or array of values to be passed as parameters to the defined method; `id` - identificator used to match the response with the request.
+        > - A request to the server includes: `method` - the name of the method to be invoked; `params` - object or array of values to be passed as parameters to the defined method; `id` - identifier used to match the response with the request.
         > - A response includes: `result` - data returned by the invoked method; `error` - object with error or null for success; `id` - the same as in the request.
     -   [gRPC](https://en.wikipedia.org/wiki/GRPC)
         > RPC framework developed by Google. It works by defining a service using [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers), a language-agnostic binary serialization format, that generates to client and server code for various programming languages.
         > - Understand [protobuf fundamentals](https://protobuf.dev/programming-guides/proto3/).
-        > - See turorials for your language: [Python](https://grpc.io/docs/languages/python/quickstart/), [Node.js](https://grpc.io/docs/languages/node/basics/), [Go](https://grpc.io/docs/languages/go/quickstart/), [Kotlin](https://grpc.io/docs/languages/kotlin/quickstart/), etc.
+        > - See tutorials for your language: [Python](https://grpc.io/docs/languages/python/quickstart/), [Node.js](https://grpc.io/docs/languages/node/basics/), [Go](https://grpc.io/docs/languages/go/quickstart/), [Kotlin](https://grpc.io/docs/languages/kotlin/quickstart/), etc.
         > - Learn [style guides](https://protobuf.dev/programming-guides/style/).
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -2079,8 +2079,8 @@ When developing server applications, [different API formats](https://youtu.be/4v
 3. 📺 [**gRPC Crash Course - Modes, Examples, Pros & Cons and more** – YouTube](https://youtu.be/Yw4rkaTc0f8)
 4. 📺 [**This is why gRPC was invented** – YouTube](https://youtu.be/u4LWEXDP7_M)
 5. 📺 [**gRPC with Python - microservice complete tutorial** – YouTube](https://youtu.be/E0CaocyNYKg)
-6. 📺 [**Implementing a gRPC client and server in Typescript with Node.js** – YouTube](https://youtu.be/H0c4Wjl4kRQ)
-7. 📺 [**Build a gRPC server with Go - Step by step tutorial** – YouTube](https://youtu.be/gbrPMv_GuQY)
+6. 📺 [**Implementing a gRPC client and server in TypeScript with Node.js** – YouTube](https://youtu.be/H0c4Wjl4kRQ)
+7. 📺 [**Build a gRPC server with Go - Step-by-step tutorial** – YouTube](https://youtu.be/gbrPMv_GuQY)
 8. 📄 [**Awesome gRPC** – GitHub](https://github.com/grpc-ecosystem/awesome-grpc)
  </details>
 
@@ -2124,11 +2124,11 @@ When developing server applications, [different API formats](https://youtu.be/4v
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📺 [**Git It? How to use Git and Github** – YouTube](https://youtu.be/HkdAHXoRtos)
+1. 📺 [**Git It? How to use Git and GitHub** – YouTube](https://youtu.be/HkdAHXoRtos)
 2. 📺 [**Git and GitHub for Beginners - Crash Course** – YouTube](https://youtu.be/RGOj5yH7evk)
 3. 📺 [**13 Advanced (but useful) Git Techniques and Shortcuts** – YouTube](https://youtu.be/RGOj5yH7evk)
 4. 📄 [**Understanding Git through images** – dev.to](https://dev.to/nopenoshishi/understanding-git-through-images-4an1)
-5. 📄 [**Learn git concepts, not commands** – GitHub](https://github.com/UnseenWizzard/git_training)
+5. 📄 [**Learn Git concepts, not commands** – GitHub](https://github.com/UnseenWizzard/git_training)
 6. 📄 [**Git Cheat Sheet – 50 Git Commands You Should Know** – freeCodeCamp](https://www.freecodecamp.org/news/git-cheat-sheet/)
 7. 📄 [**Git Commit Patterns** – dev.to](https://dev.to/hornet_daemon/git-commit-patterns-5dm7)
 8. 📄 [**Collection of .gitignore templates** – GitHub](https://github.com/github/gitignore)
@@ -2170,7 +2170,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
         ```bash
         FROM [image_name] # Setting a base image
         WORKDIR [path] # Setting the root directory inside the container
-        COPY [path_relative_Dockefile] [path_in_container] # Copying files
+        COPY [path_relative_Dockerfile] [path_in_container] # Copying files
         ADD [path] [path] # Similar to the command above
         RUN [command] # A command that runs only when the image is initialized
         CMD ["command"] # The command that runs every time you start the container
@@ -2200,7 +2200,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 
 -   ### Postman/Insomnia
 
-    When creating a server application, it is necessary to test it's workability. This can be done in different ways. One of the easiest is to use the console utility [curl](https://en.wikipedia.org/wiki/CURL). But this is good for very simple applications. Much more efficient is to use special software for testing, which have a user-friendly interface and all the necessary functionality to create collections of queries.
+    When creating a server application, it is necessary to test its workability. This can be done in different ways. One of the easiest is to use the console utility [cURL](https://en.wikipedia.org/wiki/CURL). But this is good for very simple applications. Much more efficient is to use special software for testing, which have a user-friendly interface and all the necessary functionality to create collections of queries.
 
     -   [Postman](https://www.postman.com/)
         > A very popular and feature-rich program. It definitely has everything you might need and more: from the trivial creation of collections to raising mock-servers. The basic functionality of the application is free of charge.
@@ -2214,7 +2214,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 2. 📺 [**Postman Beginner's Course - API Testing** – YouTube](https://youtu.be/VywxIQ2ZXw4)
 3. 📺 [**Postman API Test Automation for Beginners** – YouTube](https://youtu.be/zp5Jh2FIpF0?si=A1UMThcDUhxLj8ye)
 4. 📺 [**Insomnia API Client Tutorial** – YouTube](https://youtu.be/x2AlTaFJJxs)
-5. 📺 [**Insomnia Tutorial: API Design, Testing and Collaboration** – YouTube](https://youtu.be/fzLPHpOP3Wc)
+5. 📺 [**Insomnia Tutorial: API Design, Testing, and Collaboration** – YouTube](https://youtu.be/fzLPHpOP3Wc)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2226,7 +2226,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
     A [web server](https://en.wikipedia.org/wiki/Web_server) is a program designed to handle incoming HTTP requests. In addition, it can keep error logs (logs), perform authentication and authorization, store rules for file processing, etc.
 
     -   What is it for?
-        > Not all languages can have a built-in web server (e.g. PHP). Therefore, to run web applications written in such languages, a third-party one is needed. <br>
+        > Not all languages can have a built-in web server (e.g., PHP). Therefore, to run web applications written in such languages, a third-party one is needed. <br>
         > A single server (virtual or dedicated) can run several applications, but only one external IP address. A configured web server solves this problem and can redirect incoming requests to the right applications.
     -   Popular web servers
         > [Nginx](https://en.wikipedia.org/wiki/Nginx) – the most popular at the moment. <br>
@@ -2277,7 +2277,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
     [Ngrok](https://ngrok.com/) is a tool for creating public [tunnels](https://en.wikipedia.org/wiki/Tunneling_protocol) on the Internet that allows local network applications (web servers, websites, bots, etc.) to be accessible from outside.
 
     - How does it work?
-        > Ngrok creates a temporary public URL that can be used to access your local server from the Internet. Once Ngrok is started, you have access to the console, where you can monitor requests, handling and responses to those requests, and configure additional features such as authentication and encryption.
+        > Ngrok creates a temporary public URL that can be used to access your local server from the Internet. Once Ngrok is started, you have access to the console, where you can monitor requests, handling, and responses to those requests, and configure additional features such as authentication and encryption.
     - What to use it for?
         > For example, to test web sites and APIs, to demonstrate running applications on a local server, to access local network applications over the Internet without having to set up a router, firewall, proxy server, etc.
 
@@ -2294,11 +2294,11 @@ When developing server applications, [different API formats](https://youtu.be/4v
     Artificial intelligence systems have made an incredible leap recently. Every day there are more and more tools that can write code for you, generate documentation, do code reviews, help you learn new technologies, and so on. Many people are still skeptical about the capabilities and quality of content that AI creates. But at least by now, a lot of time and resources can be saved to increase the productivity of any developer.
 
     -   [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
-        > The highest quality [LLM](https://en.wikipedia.org/wiki/Large_language_model) at the moment. Works like a normal chat bot and has no problem understanding human speech in several languages. 
+        > The highest quality [LLM](https://en.wikipedia.org/wiki/Large_language_model) at the moment. Works like a normal chatbot and has no problem understanding human speech in several languages.
     -   [Bard](https://en.wikipedia.org/wiki/Bard_(chatbot))
-        > Developed by Goolge as an alternative and direct competitor to ChatGPT.
+        > Developed by Google as an alternative and direct competitor to ChatGPT.
     -   [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
-        > AI-powered code completion tool developed by GitHub in collaboration with developers of ChatGPT. It integrates with popular code editors and provides real-time suggestions and completions for code as you write. 
+        > AI-powered code completion tool developed by GitHub in collaboration with developers of ChatGPT. It integrates with popular code editors and provides real-time suggestions and completions for code as you write.
     -   [Tabnine](https://www.tabnine.com/)
         > An alternative to GitHub Copilot that provides context-sensitive code suggestions based on patterns it learns from millions of publicly available code repositories.
 
@@ -2347,21 +2347,21 @@ When developing server applications, [different API formats](https://youtu.be/4v
 
 -   ### Environment variables
 
-    Often your applications may use various tokens (e.g. to access a third-party paid API), logins and passwords (to connect to a database), various secret keys for signatures and so on. All this data should not be known and available to outsiders, so you can't leave them in the program code in any case. To solve this problem, there are environment variables.
+    Often your applications may use various tokens (e.g., to access a third-party paid API), logins and passwords (to connect to a database), various secret keys for signatures and so on. All this data should not be known and available to outsiders, so you can't leave them in the program code in any case. To solve this problem, there are environment variables.
 
     -   The `.env` file
         > A special file in which you can store all environment variables.
     -   Parsing the `.env` file
         > Variables are passed to the program using command line arguments. To do the same with the `.env` file, you need to use a special library for your language.
     -   Storage and transfer `.env` files
-        > Learn how to upload `.env` files to the hosting services and remember that such files cannot be commited to remote repositories, so do not forget to add them to exceptions via the `.gitignore` file.
+        > Learn how to upload `.env` files to the hosting services and remember that such files cannot be committed to remote repositories, so do not forget to add them to exceptions via the `.gitignore` file.
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
 1. 📺 [**How to use environment variables in a Python script** – YouTube](https://youtu.be/ed2NGpsws8Y)
 2. 📺 [**Configure Node.js Environment Variables for Local Development & Production** – YouTube](https://youtu.be/gfyQzeBlLTI)
-3. 📺 [**GoLang Environment Variables** – YouTube](https://youtu.be/mnCgl-iwPak)
+3. 📺 [**Golang Environment Variables** – YouTube](https://youtu.be/mnCgl-iwPak)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2419,7 +2419,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
         > Authorization protocol, which allows you to register in various applications using popular services (Google, Facebook, GitHub, etc.)
     -   [OpenID](https://en.wikipedia.org/wiki/OpenID)
         > An open standard that allows you to create a single account for authenticating to multiple unrelated services.
-    -   [JWT (Json Web Token)](https://en.wikipedia.org/wiki/JSON_Web_Token)
+    -   [JWT (JSON Web Token)](https://en.wikipedia.org/wiki/JSON_Web_Token)
         > An authentication standard based on access tokens. Tokens are created by the server, signed with a secret key and transmitted to the client, who then uses the token to verify his identity.
 
 <details>
@@ -2469,7 +2469,7 @@ Testing is the process of assessing that all parts of the program behave as expe
     -   What do I need to start writing unit tests?
         > As a rule, the means of the standard language library are enough to write quality tests. But for more convenient and faster writing of tests, it is better to use third-party tools. For example:
         >
-        > -   For Python it uses [pytest](https://docs.pytest.org), although the standard [unittest](https://docs.python.org/3/library/unittest.html) is enough to start with.
+        > -   For , it uses [pytest](https://docs.pytest.org), although the standard [unittest](https://docs.python.org/3/library/unittest.html) is enough to start with.
         > -   For JavaScript/TypeScript, the best choices are [Jest](https://jestjs.io/).
         > -   For Go – [testify](https://github.com/stretchr/testify).
         > -   [And so on...](https://github.com/atinfo/awesome-test-automation#awesome-test-automation)
@@ -2482,7 +2482,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 3. 📺 [**Testing JavaScript with Cypress – Full Course** – YouTube](https://youtu.be/u8vMu7viCm8?si=wYAoeR87-dPOIRA4)
 4. 📺 [**How To Write Unit Tests For Existing Python Code** – YouTube](https://youtu.be/ULxMQ57engo)
 5. 📺 [**Learn How to Test your JavaScript Application** – YouTube](https://youtu.be/ajiAl5UNzBU)
-6. 📺 [**GoLang Unit Testing and Mock Testing Tutorial** – YouTube](https://youtu.be/XQzTUa9LPU8)
+6. 📺 [**Golang Unit Testing and Mock Testing Tutorial** – YouTube](https://youtu.be/XQzTUa9LPU8)
 
  </details>
 
@@ -2502,7 +2502,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📺 [**Unit testing vs integration testing** – YouTube](https://youtu.be/pf6Zhm-PDfQ)
+1. 📺 [**Unit testing vs. integration testing** – YouTube](https://youtu.be/pf6Zhm-PDfQ)
 2. 📺 [**PyTest REST API Integration Testing with Python** – YouTube](https://youtu.be/7dgQRVqF1N0)
 3. 📄 [**Integration Testing – Software testing fundamentals**](https://softwaretestingfundamentals.com/integration-testing/)
  </details>
@@ -2516,7 +2516,7 @@ Testing is the process of assessing that all parts of the program behave as expe
     End-to-end tests imply checking the operation of the entire system as a whole. In this type of testing, the environment is implemented as close to real-life conditions as possible. We can draw the analogy that a robot sits at the computer and presses the buttons in the specified order, as a real user would do.
 
     -   When to use?
-        > E2E is the most complex type of test. They take a long time to write and to execute, because they involve the whole application. So if your application is small (e.g. you are the only one developing it), writing Unit and some integration tests will probably be enough.
+        > E2E is the most complex type of test. They take a long time to write and to execute, because they involve the whole application. So if your application is small (e.g., you are the only one developing it), writing Unit and some integration tests will probably be enough.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -2558,7 +2558,7 @@ Testing is the process of assessing that all parts of the program behave as expe
     [Regression testing](https://en.wikipedia.org/wiki/Regression_testing) is a type of testing aimed at detecting errors in already tested portions of the source code.
 
     -   Why use it?
-        > Statistically, the reappearance of the same bugs in code is quite frequent. And, most interestingly, the patches/fixes issued for them also stop working in time. Therefore it is considered good practice to create a test for it when fixing a bug and run it regularly for next modifications.
+        > Statistically, the reappearance of the same bugs in code is quite frequent. And, most interestingly, the patches/fixes issued for them also stop working in time. Therefore, it is considered good practice to create a test for it when fixing a bug and run it regularly for next modifications.
 
 <details>
     <summary>🔗 <b>References</b></summary>
@@ -2592,7 +2592,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📺 [**Big Vs Small Public Cloud Providers** – YouTube](https://youtu.be/LJomGBuBDaU)
+1. 📺 [**Big vs. Small Public Cloud Providers** – YouTube](https://youtu.be/LJomGBuBDaU)
 2. 📺 [**Top 50+ AWS Services Explained in 10 Minutes** – YouTube](https://youtu.be/JIbIYCM48to)
 3. 📺 [**AWS Certified Cloud Practitioner Certification Course** – YouTube](https://youtu.be/SOTamWNgDKc)
 4. 📄 [**Awesome AWS (list of libraries, open source repos, guides, blogs) – GitHub**](https://github.com/donnemartin/awesome-aws)
@@ -2617,7 +2617,7 @@ Testing is the process of assessing that all parts of the program behave as expe
         > - Use separate containers for different services (ex. application server, database, cache, metrics etc.).
         > - Use Docker volumes to store persistent data such as database files, logs, and configuration files.
     -   [Docker swarm](https://docs.docker.com/engine/swarm/)
-        > It is a native orchestration tool for Docker to manage, scale and automate tasks such as container updates, recovery, traffic balancing, [service discovery](https://devopscube.com/service-discovery-explained/) and so on. 
+        > It is a native orchestration tool for Docker to manage, scale and automate tasks such as container updates, recovery, traffic balancing, [service discovery](https://devopscube.com/service-discovery-explained/) and so on.
     -   [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
         > Is a very popular orchestration platform that can work with a variety of container runtimes including Docker. Kubernetes offers a more comprehensive set of features (than Docker swarm), including advanced scheduling, storage orchestration, and self-healing capabilities.
 
@@ -2630,7 +2630,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 4. 📺 [**Best practices around creating a production web app with Docker and Docker Compose** – YouTube](https://youtu.be/vYpPGCaKs3I)
 5. 📺 [**Docker Swarm Tutorial** – YouTube](https://youtu.be/Tm0Q5zr3FL4)
 6. 📄 [**Awesome Swarm** – GitHub](https://github.com/BretFisher/awesome-swarm)
-7. 📄 [**Kubernetes VS Docker Swarm – What is the Difference?**](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
+7. 📄 [**Kubernetes vs. Docker Swarm – What is the Difference?**](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
 8. 📄 [**Kubernetes Roadmap**](https://roadmap.sh/kubernetes)
 9. 📄 [**Kubernetes Learning Roadmap** – GitHub](https://github.com/techiescamp/kubernetes-learning-path)
 10. 📺 [**Docker Containers and Kubernetes Fundamentals – Full Hands-On Course** – YouTube](https://youtu.be/kTp5xUtcalw)
@@ -2644,10 +2644,10 @@ Testing is the process of assessing that all parts of the program behave as expe
 
     To streamline the process of building, testing, deploying code changes, integrate with other tools in the development ecosystem, such as code repositories, issue trackers, monitoring systems to provide a more comprehensive development workflow you can use some automation tools and services.
 
-    -   [Github Actions](https://docs.github.com/en/actions)
-        > CI/CD tool built into the Github platform, which enables developers to automate workflows for their repositories. A great choice if you already use GitHub. There are a large number of pre-built actions. One of the most useful feature is ability to trigger workflows based on various events, such as pull requests or other repository activity.
+    -   [GitHub Actions](https://docs.github.com/en/actions)
+        > CI/CD tool built into the GitHub platform, which enables developers to automate workflows for their repositories. A great choice if you already use GitHub. There are a large number of pre-built actions. One of the most useful feature is ability to trigger workflows based on various events, such as pull requests or other repository activity.
     -   [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software))
-        > Highly configurable and extensible open source tool with a large ecosystem of plugins available to customize its functionality. Jenkins can be used in various environments, including on-premise, cloud-based and hybrid setups. 
+        > Highly configurable and extensible open source tool with a large ecosystem of plugins available to customize its functionality. Jenkins can be used in various environments, including on-premise, cloud-based and hybrid setups.
     -   [Circle CI](https://en.wikipedia.org/wiki/CircleCI)
         > It is a cloud-based CI/CD platform designed to be fast and easy to set up, with a focus on developer productivity. Circle CI integrates with various cloud-based services, such as AWS, Google Cloud and Microsoft Azure. You can also host it locally on your network.
     -   [Travis CI](https://en.wikipedia.org/wiki/Travis_CI)
@@ -2773,7 +2773,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 3. 📺 [**HTTP Caching with E-Tags - (Explained by Example)** – YouTube](https://youtu.be/TgZnpp5wJWU)
 4. 📺 [**What Is A CDN? How Does It Work?** – YouTube](https://youtu.be/RI9np1LWzqw)
 5. 📺 [**Everything you need to know about HTTP Caching** – YouTube](https://youtu.be/HiBDZgTNpXY)
-6. 📺 [**Memcached Architecture - Crash Course with Docker, Telnet, NodeJS** – YouTube](https://youtu.be/NCePGsRZFus)
+6. 📺 [**Memcached Architecture - Crash Course with Docker, Telnet, Node.js** – YouTube](https://youtu.be/NCePGsRZFus)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -2822,14 +2822,14 @@ Testing is the process of assessing that all parts of the program behave as expe
     -   [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown)
         > A collection of various resources for working with Markdown.
     -   [Awesome README](https://github.com/matiassingers/awesome-readme)
-        > A collection of beautifull README.md files (this is the main file of any repository on GitHub that uses Markdown).
+        > A collection of beautiful README.md files (this is the main file of any repository on GitHub that uses Markdown).
     -   Markdown for your notes
         > Markdown is not only used for writing documentation. This incredible tool is great for learning - creating digital notes. Personally, I use [Obsidian editor](https://obsidian.md/) for outlining new material.
 
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📺 [**How To Write a USEFUL README On Github** – YouTube](https://youtu.be/E6NO0rgFub4)
+1. 📺 [**How To Write a USEFUL README On GitHub** – YouTube](https://youtu.be/E6NO0rgFub4)
 2. 📺 [**Obsidian As A Second Brain: The ULTIMATE Tutorial** – YouTube](https://youtu.be/WqKluXIra70)
  </details>
 
@@ -2840,7 +2840,7 @@ Testing is the process of assessing that all parts of the program behave as expe
     For every modern programming language there are [special tools](https://en.wikipedia.org/wiki/Documentation_generator) which allow you to write documentation directly in the program code. So you can read the description of methods, functions, structures and so on right inside your IDE. As a rule, this kind of documentation is done in the form of ordinary comments, taking into account some syntactic peculiarities.
 
     -   Why do you need it?
-        > To make your work and the work of other developers easier. In the long run this will save more time than _traveling through the code_ to figure out how everything works, what parameters to pass to functions or to find out what methods this or that class has. Over time you will inevitably forget your own code, so already written documentation will be useful to you personally.
+        > To make your work and the work of other developers easier. In the long run this will save more time than _traveling through the code_ to figure out how everything works, what parameters to pass to functions or to find out what methods this or that class has. Over time, you will inevitably forget your own code, so already written documentation will be useful to you personally.
     -   What does it take to get started?
         > For each language, it's different. Many have their own well-established approaches:
         >
@@ -2881,8 +2881,8 @@ Testing is the process of assessing that all parts of the program behave as expe
 
 1. 📺 [**REST API and OpenAPI: It’s Not an Either/Or Question** – YouTube](https://youtu.be/pRS9LRBgjYg)
 2. 📺 [**Swagger API documentation with Django REST Framework** – YouTube](https://youtu.be/fbIFdWj8PsY)
-3. 📺 [**NodeJS Swagger API Documentation Tutorial Using Swagger JSDoc** – YouTube](https://youtu.be/S8kmHtQeflo)
-4. 📺 [**Golang Microservices: REST APIs - OpenAPI / Swagger** – YouTube](https://youtu.be/HwtOAc0M08o)
+3. 📺 [**Node.js Swagger API Documentation Tutorial Using Swagger JSDoc** – YouTube](https://youtu.be/S8kmHtQeflo)
+4. 📺 [**Go Microservices: REST APIs - OpenAPI / Swagger** – YouTube](https://youtu.be/HwtOAc0M08o)
  </details>
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
@@ -3029,7 +3029,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 1. 📺 [**What are Microservices?** – YouTube](https://youtu.be/CdBtNQZH8a4)
 2. 📺 [**Microservices Explained and their Pros & Cons** – YouTube](https://youtu.be/T-m7ZFxeg1A)
 3. 📺 [**Microservice Architecture and System Design with Python & Kubernetes – Full Course** – YouTube](https://youtu.be/hmkF77F9TLw)
-4. 📺 [**NodeJS Microservices Full Course - Event-Driven Architecture with RabbitMQ** – YouTube](https://youtu.be/Zc2mQSQXoS4)
+4. 📺 [**Node.js Microservices Full Course - Event-Driven Architecture with RabbitMQ** – YouTube](https://youtu.be/Zc2mQSQXoS4)
 5. 📺 [**Building Microservices in Go (playlist)** – YouTube](https://youtube.com/playlist?list=PL7yAAGMOat_Fn8sAXIk0WyBfK_sT1pohu)
 6. 📄 [**Awesome Microservices: collection of principles and technologies** – GitHub](https://github.com/mfornos/awesome-microservices)
 7. 📄 [**Patterns for Microservices**](https://microservices.io/patterns/index.html)
@@ -3051,7 +3051,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📺 [**System Design: What is Horizontal vs Vertical Scaling?** – YouTube](https://youtu.be/p1YQU5sEz4g)
+1. 📺 [**System Design: What is Horizontal vs. Vertical Scaling?** – YouTube](https://youtu.be/p1YQU5sEz4g)
 2. 📄 [**Vertical vs. Horizontal Scaling: Which one to choose**](https://middleware.io/blog/vertical-vs-horizontal-scaling/)
  </details>
 
@@ -3071,8 +3071,8 @@ Testing is the process of assessing that all parts of the program behave as expe
 -   [Mindmaps for cyber security](https://github.com/Ignitetechnologies/Mindmap)
 -   [Awesome CTO – resources for Chief Technology Officers and VP R&D](https://github.com/kuchin/awesome-cto)
 -   [Domain-Driven Design, software architecture, design patterns, best practices](https://github.com/Sairyss/domain-driven-hexagon)
--   [Best practices, tools and guidelines for backend development](https://github.com/Sairyss/backend-best-practices)
--   [Resources related to distributed systems, system design, microservices, scalability and performance](https://github.com/Sairyss/system-design-patterns)
+-   [Best practices, tools, and guidelines for backend development](https://github.com/Sairyss/backend-best-practices)
+-   [Resources related to distributed systems, system design, microservices, scalability, and performance](https://github.com/Sairyss/system-design-patterns)
 -   [System Design 101: Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101)
 
 <p></p>
