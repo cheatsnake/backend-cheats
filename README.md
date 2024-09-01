@@ -10,7 +10,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 
 > 🤝 If you want to help the project, feel free to send your [issues](https://github.com/cheatsnake/backend-cheats/issues) or [pull requests](https://github.com/cheatsnake/backend-cheats/pulls).
 
-> 🌙 For better experiense enable [dark theme](https://github.com/settings/appearance). 
+> 🌙 For better experience enable [dark theme](https://github.com/settings/appearance). 
 
 <p><a name="top"></a></p>
 
@@ -333,7 +333,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**What is VPN? How It Works, Types of VPN** – kaspersky.com](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn)
+1. 📄 [**What is VPN? How It Works, Types of VPN** – Kaspersky.com](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn)
 2. 📺 [**VPN (Virtual Private Network) Explained** – YouTube](https://youtu.be/R-JUOpCgTZc)
 3. 📺 [**What Is a Proxy and How Does It Work?** – YouTube](https://youtu.be/ayo2EUPTEkE)
 4. 📺 [**What is a Proxy Server?** – YouTube](https://youtu.be/5cPIukqXe5w)
@@ -363,7 +363,7 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**What is Web Hosting?** – namecheap.com](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
+1. 📄 [**What is Web Hosting?** – Namecheap.com](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
 2. 📺 [**What is Web Hosting and How Does It Work?** – YouTube](https://youtu.be/H8oAvyqQwew)
 3. 📺 [**Different Hosting Types Explained** – YouTube](https://youtu.be/CtNWVmt9U1M)
 4. 📄 [**Awesome Hosting** – GitHub](https://github.com/dalisoft/awesome-hosting)
@@ -604,18 +604,18 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     OS can be thought of as an abstraction layer that manages the hardware of a computer, thereby providing a simple and convenient environment for user software to run.
 
     -   Main features
-        > -   RAM management (space allocation for individual programms)
-        > -   Loading programms into RAM and their execution
-        > -   Execution of requests from user's programms (inputting and outputting data, starting and stopping other programms, freeing up memory or allocating additional memory, etc.)
+        > -   RAM management (space allocation for individual programs)
+        > -   Loading programs into RAM and their execution
+        > -   Execution of requests from user's programs (inputting and outputting data, starting and stopping other programs, freeing up memory or allocating additional memory, etc.)
         > -   Interaction with input and output devices (mouse, keyboard, monitor, etc.)
         > -   Interaction with storage media (HDDs and SSDs)
         > -   Providing a user's interface (console shell or graphical interface)
         > -   Logging of software errors (saving logs)
     -   Additional functions (may not be available in all OSs)
-        > -   Organise [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) (simultaneous execution of several programms)
+        > -   Organise [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) (simultaneous execution of several programs)
         > -   Delimiting access to resources for each process
         > -   [Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) (data exchange, synchronisation)
-        > -   Organise the protection of the operating system itself against other programms and the actions of the user
+        > -   Organise the protection of the operating system itself against other programs and the actions of the user
         > -   Provide multi-user mode and differentiate rights between different OS users (admins, guests, etc.)
     -   [OS kernel](<https://en.wikipedia.org/wiki/Kernel_(operating_system)>)
         > The central part of the operating system which is used most intensively. The kernel is constantly in memory, while other parts of the OS are loaded into and unloaded from memory as needed.
@@ -806,7 +806,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
         ```
         ```sh
         /etc/apt/sources.list # a file contains a list of configured repo links
-        /etc/apt/sources.list.d # a directory contains files for thrid party repos
+        /etc/apt/sources.list.d # a directory contains files for third party repos
         ```
     -   [dpkg](https://en.wikipedia.org/wiki/Dpkg)
         > Low-level tool to install, build, remove and manage Debian packages.
@@ -988,7 +988,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
         whois <host> # show info about domain registration
         ifplugstatus # detect the link status of a local Linux ethernet device
         iftop # show bandwidth usage
-        ethtool <device name> # show detalis about your ethernet device
+        ethtool <device name> # show details about your ethernet device
         nmap # tool to explore and audit network security
         bmon # bandwidth monitor and rate estimator
         firewalld # add, configure and remove rules on firewall
@@ -2064,7 +2064,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
         > They are considered deprecated and not recommended for new projects because they are heavyweight and complex compared to newer alternatives such as REST, GraphQL and newer RPC protocols.
     -   [JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC)
         > A protocol with a very simple [specification](https://www.jsonrpc.org/specification). All requests and responses are serialized in JSON format.
-        > - A request to the server includes: `method` - the name of the method to be invoked; `params` - object or array of values to be passed as parameters to the defined method; `id` - identificator used to match the response with the request.
+        > - A request to the server includes: `method` - the name of the method to be invoked; `params` - object or array of values to be passed as parameters to the defined method; `id` - identifier used to match the response with the request.
         > - A response includes: `result` - data returned by the invoked method; `error` - object with error or null for success; `id` - the same as in the request.
     -   [gRPC](https://en.wikipedia.org/wiki/GRPC)
         > RPC framework developed by Google. It works by defining a service using [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers), a language-agnostic binary serialization format, that generates to client and server code for various programming languages.
@@ -2170,7 +2170,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
         ```bash
         FROM [image_name] # Setting a base image
         WORKDIR [path] # Setting the root directory inside the container
-        COPY [path_relative_Dockefile] [path_in_container] # Copying files
+        COPY [path_relative_Dockerfile] [path_in_container] # Copying files
         ADD [path] [path] # Similar to the command above
         RUN [command] # A command that runs only when the image is initialized
         CMD ["command"] # The command that runs every time you start the container
@@ -2354,7 +2354,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
     -   Parsing the `.env` file
         > Variables are passed to the program using command line arguments. To do the same with the `.env` file, you need to use a special library for your language.
     -   Storage and transfer `.env` files
-        > Learn how to upload `.env` files to the hosting services and remember that such files cannot be commited to remote repositories, so do not forget to add them to exceptions via the `.gitignore` file.
+        > Learn how to upload `.env` files to the hosting services and remember that such files cannot be committed to remote repositories, so do not forget to add them to exceptions via the `.gitignore` file.
 
 <details>
     <summary>🔗 <b>References</b></summary>
