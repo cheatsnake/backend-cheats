@@ -69,13 +69,13 @@
 	## % - подстановочный знак, который указывает на любое кол-во символов
 	## _ - подстановочный знак, который указывает на один символ
 
-	## Записи, где firsName равен 'John', 'Mike' или 'Kane'
+	## Записи, где firstname равен 'John', 'Mike' или 'Kane'
 	SELECT * FROM users WHERE firstName IN ('John', 'Mike', 'Kane');
-	## Записи, где firsName начинается c буквы 'A'
+	## Записи, где firstname начинается c буквы 'A'
 	SELECT * FROM users WHERE firstName LIKE 'A%';
 	## Записи, где первая буква в firstName равна 'A', 'B' или 'C'
 	SELECT * FROM users WHERE firstName LIKE '[ABC]%';
-	## Записи, где вторая буква в firsName не равна 'o'
+	## Записи, где вторая буква в firstname не равна 'o'
 	SELECT * FROM users WHERE firstName NOT LIKE '_o%';
 	```
 - Сортировка и фильтрация данных таблиц
