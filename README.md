@@ -206,6 +206,25 @@ This repository is a visual cheatsheet on the main topics in Backend-development
     -   [IPv6](https://en.wikipedia.org/wiki/IPv6)
         > Over time, the allocation of address space began to happen at a much faster rate, forcing the creation of a new version of the IP protocol to store more addresses. IPv6 is capable of issuing 2^128 (is huge number) unique addresses.
 
+    Common Ranges and Prefixes
+
+    - IPv4
+      * 127.0.0.1-127.255.255.255 - Loopback (commonly only 127.0.0.1 is used)
+      * 10.0.0.0–10.255.255.255 - Private range 16.7M IPs
+      * 192.168.0.0-192.168.255.255 - Private range 65536 IPs
+      * 172.16.0.0–172.31.255.255 - Private range 1M Ips
+      * 169.254.0.0–169.254.255.255 - Auto-Configuration IPs
+      * 224.0.0.0-239.255.255.255 - Multicast IPs
+
+    - IPv6 prefixes and suffixes
+      * FCxx:: - Unique Local Addresses (ULA)
+      * FE80:: - Link-Local Addresses
+      * 2xxx:: - Public IPs
+      * 2001:db8::/32 - Documentation IP addressing
+      * ::1 - Localhost
+      * FFxx:: - Multicast Addresses
+      
+
 <details>
     <summary>🔗 <b>References</b></summary>
 
