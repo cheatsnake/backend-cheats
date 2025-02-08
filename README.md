@@ -178,6 +178,9 @@ This repository is a visual cheatsheet on the main topics in Backend-development
         > [The ICANN Corporation](https://en.wikipedia.org/wiki/ICANN) is the founder of the distributed domain registration system. It gives accreditations to companies that want to sell domains. In this way a competitive domain market is formed.
     -   How to buy a domain name
         > A domain name cannot be bought forever. It is leased for a certain period of time. It is better to buy domains from [accredited registrars](https://www.icann.org/en/accredited-registrars?filter-letter=a&sort-direction=asc&sort-param=name&page=1) (you can find them in almost any country).
+    -   Understanding if a domain name is a top-level domain or not.
+        > Knowing that a given domain is a top-level suffix (like .com, a registered name (like github.com), or a subdomain (like myawesomesubdomain.github.com) is useful in many situations.
+        > Mozilla provides a [public suffix list](https://github.com/publicsuffix/list) for this reason.
 
 <details>
     <summary>🔗 <b>References</b></summary>
